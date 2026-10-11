@@ -1,156 +1,988 @@
 <!DOCTYPE html>
-<html lang="tr" class="scroll-smooth dark">
+<html lang="tr" class="dark scroll-smooth">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GÜR-TECH GSM | Şanlıurfa Eyyübiye Premium Mobil & Teknik Servis</title>
-    <!-- Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            darkMode: 'class',
-            theme: {
-                extend: {
-                    colors: {
-                        brand: {
-                            50: '#f0f9ff',
-                            100: '#e0f2fe',
-                            400: '#38bdf8',
-                            500: '#0ea5e9',
-                            600: '#0284c7',
-                            900: '#0c4a6e',
-                            gold: '#d97706',
-                            goldHover: '#b45309'
-                        },
-                        dark: {
-                            bg: '#0a0f1d',
-                            card: '#111827',
-                            cardHover: '#1f2937',
-                            border: '#1f2937',
-                            accent: '#1e293b'
-                        }
-                    },
-                    fontFamily: {
-                        sans: ['Inter', 'system-ui', 'sans-serif'],
-                    }
-                }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GÜR-TECH GSM | Premium Mobil Teknoloji & Teknik Servis</title>
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Tailwind Configuration for Custom Theme Colors -->
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              black: '#0a0d14',
+              card: '#121824',
+              accent: '#00f0ff',
+              accentHover: '#00d8e6',
+              amber: '#ffb703',
+              glass: 'rgba(18, 24, 36, 0.75)',
+              border: '#1e293b'
             }
+          },
+          fontFamily: {
+            sans: ['Inter', 'sans-serif']
+          },
+          animation: {
+            'glow-pulse': 'glow 3s infinite alternate',
+            'float': 'float 4s ease-in-out infinite',
+          },
+          keyframes: {
+            glow: {
+              '0%': { boxShadow: '0 0 15px rgba(0, 240, 255, 0.2)' },
+              '100%': { boxShadow: '0 0 30px rgba(0, 240, 255, 0.6)' }
+            },
+            float: {
+              '0%, 100%': { transform: 'translateY(0)' },
+              '50%': { transform: 'translateY(-8px)' }
+            }
+          }
         }
-    </script>
-    <!-- FontAwesome Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #0a0f1d;
-            color: #f3f4f6;
-        }
-        .glass-panel {
-            background: rgba(17, 24, 39, 0.75);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            border: 1px solid rgba(255, 255, 255, 0.08);
-        }
-        .glass-card {
-            background: linear-gradient(135deg, rgba(31, 41, 55, 0.6) 0%, rgba(17, 24, 39, 0.8) 100%);
-            border: 1px solid rgba(255, 255, 255, 0.05);
-            transition: all 0.3s ease;
-        }
-        .glass-card:hover {
-            border-color: rgba(14, 165, 233, 0.4);
-            transform: translateY(-4px);
-            box-shadow: 0 12px 30px -10px rgba(14, 165, 233, 0.25);
-        }
-        .custom-scrollbar::-webkit-scrollbar {
-            width: 6px;
-        }
-        .custom-scrollbar::-webkit-scrollbar-track {
-            background: #0a0f1d;
-        }
-        .custom-scrollbar::-webkit-scrollbar-thumb {
-            background: #1f2937;
-            border-radius: 3px;
-        }
-        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-            background: #0ea5e9;
-        }
-    </style>
+      }
+    }
+  </script>
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Google Font: Inter -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #06090e;
+      color: #f1f5f9;
+      overflow-x: hidden;
+    }
+    
+    /* Custom Scrollbar */
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #0a0d14;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #1e293b;
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #00f0ff;
+    }
+
+    /* Glassmorphism Styles */
+    .glass-card {
+      background: rgba(18, 24, 36, 0.7);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+    }
+
+    .glass-nav {
+      background: rgba(10, 13, 20, 0.85);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .glow-cyan-sm {
+      box-shadow: 0 0 15px rgba(0, 240, 255, 0.25);
+    }
+
+    .glow-amber-sm {
+      box-shadow: 0 0 15px rgba(255, 183, 3, 0.25);
+    }
+
+    .gradient-text-cyan {
+      background: linear-gradient(135deg, #ffffff 0%, #00f0ff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .gradient-text-gold {
+      background: linear-gradient(135deg, #ffe17d 0%, #ffb703 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  </style>
 </head>
-<body class="custom-scrollbar min-h-screen flex flex-col justify-between selection:bg-brand-500 selection:text-white">
+<body class="selection:bg-brand-accent selection:text-brand-black">
 
-    <!-- ÜST BİLGİ BARI & GARANTİLİ CANLI HABER BANDI -->
-    <div class="bg-gradient-to-r from-gray-900 via-dark-bg to-gray-900 border-b border-gray-800/80 text-xs py-2 px-4">
-        <div class="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2 text-gray-400">
-            
-            <div class="flex items-center gap-2 shrink-0">
-                <span class="flex items-center gap-1.5 text-brand-400 font-medium whitespace-nowrap">
-                    <i class="fa-solid fa-location-dot"></i> Eyyübiye, Şanlıurfa
-                </span>
-                <span class="text-gray-600">|</span>
-            </div>
-
-            <!-- CANLI GÜNCEL MOBİL HABER ALANI -->
-            <div class="flex-1 overflow-hidden max-w-xl mx-2 bg-gray-950/80 rounded-full px-3 py-1 border border-brand-500/20">
-                <marquee behavior="scroll" direction="left" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();" class="text-emerald-400 text-[11px] font-semibold flex items-center">
-                    <span onclick="openNewsModal(1)" class="cursor-pointer hover:underline hover:text-white transition inline-flex items-center gap-1.5 mr-8">
-                        <span class="bg-brand-500/20 text-brand-400 border border-brand-500/30 text-[9px] px-1.5 py-0.5 rounded">ShiftDelete</span>
-                        <span>Samsung Akıllı Telefon Üretimini Düşürüyor</span>
-                        <i class="fa-solid fa-chevron-right text-[9px] text-gray-500"></i>
-                    </span>
-
-                    <span onclick="openNewsModal(2)" class="cursor-pointer hover:underline hover:text-white transition inline-flex items-center gap-1.5 mr-8">
-                        <span class="bg-brand-500/20 text-brand-400 border border-brand-500/30 text-[9px] px-1.5 py-0.5 rounded">DonanımHaber</span>
-                        <span>OnePlus 16 Tanıtılmaya Başladı: FPS Canavarı Geliyor!</span>
-                        <i class="fa-solid fa-chevron-right text-[9px] text-gray-500"></i>
-                    </span>
-
-                    <span onclick="openNewsModal(3)" class="cursor-pointer hover:underline hover:text-white transition inline-flex items-center gap-1.5 mr-8">
-                        <span class="bg-brand-500/20 text-brand-400 border border-brand-500/30 text-[9px] px-1.5 py-0.5 rounded">ShiftDelete</span>
-                        <span>OPPO 16:9 Ekranlı Geniş Gövdeli Yeni Telefon Geliştiriyor</span>
-                        <i class="fa-solid fa-chevron-right text-[9px] text-gray-500"></i>
-                    </span>
-
-                    <span onclick="openNewsModal(4)" class="cursor-pointer hover:underline hover:text-white transition inline-flex items-center gap-1.5 mr-8">
-                        <span class="bg-brand-500/20 text-brand-400 border border-brand-500/30 text-[9px] px-1.5 py-0.5 rounded">DonanımHaber</span>
-                        <span>Vivo V80 Resmen Tanıtıldı: 7.200 mAh Batarya ve Zeiss Kamera</span>
-                        <i class="fa-solid fa-chevron-right text-[9px] text-gray-500"></i>
-                    </span>
-
-                    <span onclick="openNewsModal(5)" class="cursor-pointer hover:underline hover:text-white transition inline-flex items-center gap-1.5 mr-8">
-                        <span class="bg-brand-500/20 text-brand-400 border border-brand-500/30 text-[9px] px-1.5 py-0.5 rounded">ShiftDelete</span>
-                        <span>RedMagic 12 Pro+: Dünyanın İlk RGB Sıvı Soğutmalı Telefonu</span>
-                        <i class="fa-solid fa-chevron-right text-[9px] text-gray-500"></i>
-                    </span>
-                </marquee>
-            </div>
-
-            <div class="flex items-center gap-4 shrink-0">
-                <a href="tel:05316374839" class="hover:text-white transition flex items-center gap-1">
-                    <i class="fa-solid fa-phone text-brand-500"></i> Müşteri Destek: <span class="text-white font-semibold">0531 637 48 39</span>
-                </a>
-                <span class="text-gray-600">|</span>
-                <span class="text-gray-400 flex items-center gap-1"><i class="fa-regular fa-clock"></i> 08:30 - 21:00</span>
-            </div>
-        </div>
+  <!-- HEADER & NAVIGATION -->
+  <header class="sticky top-0 z-40 glass-nav transition-all duration-300">
+    <!-- Top Announcement Bar -->
+    <div class="bg-gradient-to-r from-cyan-950 via-slate-900 to-amber-950/80 border-b border-slate-800 text-xs py-1.5 px-4 text-slate-300 text-center flex justify-between items-center max-w-7xl mx-auto">
+      <div class="hidden sm:flex items-center gap-2">
+        <i class="fa-solid fa-location-dot text-brand-accent"></i>
+        <span>Eyyübiye, Şanlıurfa | Orijinal Cihaz & Sıfır Garanti</span>
+      </div>
+      <div class="mx-auto sm:mx-0 font-medium text-slate-200">
+        🔥 <span class="text-brand-amber font-semibold">Tüm İkinci El Cihazlarda</span> Dükkan Garantisi & Şeffaf Takas İmkânı!
+      </div>
+      <div class="hidden md:flex items-center gap-4">
+        <a href="tel:05316374839" class="hover:text-brand-accent transition"><i class="fa-solid fa-phone text-xs mr-1"></i> Müşteri Destek: <b>0531 637 48 39</b></a>
+        <span>|</span>
+        <span class="text-slate-400"><i class="fa-regular fa-clock mr-1"></i> 08:30 - 21:00</span>
+      </div>
     </div>
 
-    <!-- MAIN NAVBAR -->
-    <header class="sticky top-0 z-50 glass-panel border-b border-gray-800">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between h-20 gap-4">
+    <!-- Main Nav -->
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-20">
+        
+        <!-- Brand Logo -->
+        <a href="#" class="flex items-center gap-3 group">
+          <div class="w-11 h-11 rounded-xl bg-gradient-to-tr from-brand-accent to-blue-600 flex items-center justify-center text-slate-950 font-black text-xl shadow-lg shadow-cyan-500/20 group-hover:scale-105 transition-transform duration-300">
+            <i class="fa-solid fa-mobile-screen-button"></i>
+          </div>
+          <div>
+            <div class="flex items-center gap-1.5">
+              <span class="text-xl sm:text-2xl font-black tracking-wider text-white">GÜR-TECH</span>
+              <span class="text-xl sm:text-2xl font-black tracking-wider text-brand-accent">GSM</span>
+            </div>
+            <p class="text-[10px] tracking-widest text-slate-400 uppercase font-semibold">Premium Mobil & Teknik Servis</p>
+          </div>
+        </a>
+
+        <!-- Desktop Nav Links -->
+        <nav class="hidden lg:flex items-center gap-7 text-sm font-medium text-slate-300">
+          <a href="#vitrin" class="hover:text-brand-accent transition-colors py-1">Vitrin</a>
+          <a href="#vitrin" class="hover:text-brand-accent transition-colors py-1">Telefonlar</a>
+          <a href="#vitrin" class="hover:text-brand-accent transition-colors py-1">Aksesuarlar</a>
+          <a href="#takas" class="hover:text-brand-amber transition-colors py-1 flex items-center gap-1">
+            <i class="fa-solid fa-right-left text-brand-amber text-xs"></i> 2.El & Takas
+          </a>
+          <a href="#teknik-servis" class="hover:text-brand-accent transition-colors py-1">Teknik Servis</a>
+          <a href="#iletisim" class="hover:text-brand-accent transition-colors py-1">İletişim</a>
+        </nav>
+
+        <!-- Header Actions -->
+        <div class="flex items-center gap-3">
+          
+          <!-- Search Bar Trigger -->
+          <div class="relative hidden sm:block w-48 lg:w-60">
+            <input type="text" id="global-search" onkeyup="filterProductsBySearch()" placeholder="Cihaz veya aksesuar ara..." 
+                   class="w-full bg-slate-900/90 text-xs text-white placeholder-slate-500 rounded-full py-2.5 pl-9 pr-4 border border-slate-700/80 focus:outline-none focus:border-brand-accent transition-all">
+            <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-3 text-slate-500 text-xs"></i>
+          </div>
+
+          <!-- Shopping Cart Trigger -->
+          <button onclick="toggleCartDrawer()" class="relative p-2.5 rounded-xl bg-slate-900 border border-slate-800 text-slate-200 hover:text-brand-accent hover:border-slate-700 transition duration-200" title="Alışveriş Sepetim">
+            <i class="fa-solid fa-cart-shopping text-lg"></i>
+            <span id="cart-badge" class="absolute -top-1.5 -right-1.5 bg-brand-accent text-slate-950 font-bold text-[11px] w-5 h-5 rounded-full flex items-center justify-center scale-0 transition-transform duration-300">0</span>
+          </button>
+
+          <!-- WhatsApp Direct Action Button -->
+          <a href="https://wa.me/905316374839?text=Merhaba%20G%C3%9CR-TECH%20GSM%2C%20bilgi%20almak%20istiyorum." target="_blank" 
+             class="hidden md:flex items-center gap-2 bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-400 border border-emerald-500/30 px-3.5 py-2 rounded-xl text-xs font-semibold transition duration-200">
+            <i class="fa-brands fa-whatsapp text-lg text-emerald-400"></i>
+            <span>WhatsApp Destek</span>
+          </a>
+
+          <!-- Mobile Menu Toggle -->
+          <button onclick="toggleMobileMenu()" class="lg:hidden p-2 rounded-lg text-slate-400 hover:text-white focus:outline-none">
+            <i class="fa-solid fa-bars text-xl" id="menu-icon"></i>
+          </button>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Mobile Dropdown Menu -->
+    <div id="mobile-menu" class="hidden lg:hidden border-t border-slate-800/80 bg-slate-950/95 px-4 pt-3 pb-6 space-y-3">
+      <div class="relative w-full mb-3">
+        <input type="text" id="mobile-search" onkeyup="filterProductsBySearchMobile()" placeholder="Cihaz veya aksesuar ara..." 
+               class="w-full bg-slate-900 text-xs text-white placeholder-slate-500 rounded-lg py-2.5 pl-9 pr-4 border border-slate-700 focus:outline-none focus:border-brand-accent">
+        <i class="fa-solid fa-magnifying-glass absolute left-3 top-3 text-slate-500 text-xs"></i>
+      </div>
+      <a href="#vitrin" onclick="toggleMobileMenu()" class="block text-slate-200 hover:text-brand-accent py-2 font-medium border-b border-slate-800/50">Vitrin & İndirimler</a>
+      <a href="#takas" onclick="toggleMobileMenu()" class="block text-brand-amber hover:underline py-2 font-medium border-b border-slate-800/50">Eski Telefonunu Sat / Takas Yap</a>
+      <a href="#teknik-servis" onclick="toggleMobileMenu()" class="block text-slate-200 hover:text-brand-accent py-2 font-medium border-b border-slate-800/50">Teknik Servis & Tamir</a>
+      <a href="#iletisim" onclick="toggleMobileMenu()" class="block text-slate-200 hover:text-brand-accent py-2 font-medium">Dükkan Konumu & İletişim</a>
+      
+      <div class="pt-2">
+        <a href="https://wa.me/905316374839?text=Merhaba%20G%C3%9CR-TECH%20GSM%2C%20bilgi%20almak%20istiyorum." target="_blank" class="w-full flex justify-center items-center gap-2 bg-emerald-600 text-white font-semibold py-2.5 rounded-xl text-xs">
+          <i class="fa-brands fa-whatsapp text-lg"></i>
+          <span>WhatsApp İletişim Hattı</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- HERO BANNER SECTION -->
+  <section class="relative overflow-hidden pt-12 pb-20 lg:pt-20 lg:pb-28">
+    <div class="absolute top-1/4 left-10 w-96 h-96 bg-cyan-500/10 rounded-full blur-3xl pointer-events-none"></div>
+    <div class="absolute bottom-10 right-10 w-96 h-96 bg-amber-500/10 rounded-full blur-3xl pointer-events-none"></div>
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        
+        <div class="lg:col-span-7 space-y-6 text-center lg:text-left">
+          <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-slate-900 border border-slate-800 text-xs font-semibold text-brand-accent">
+            <span class="w-2 h-2 rounded-full bg-brand-accent animate-ping"></span>
+            <span>Şanlıurfa Eyyübiye'nin Güvenilir Mobil Mağazası</span>
+          </div>
+
+          <h1 class="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight">
+            GÜR-TECH GSM ile <br/>
+            <span class="gradient-text-cyan">Yeni Nesil Teknoloji</span> <br/>
+            Cebinizde!
+          </h1>
+
+          <p class="text-slate-400 text-sm sm:text-base max-w-2xl mx-auto lg:mx-0 font-normal leading-relaxed">
+            Sıfır kapalı kutu akıllı telefonlar, 12 ay garantili temiz 2. el cihazlar, orijinal aksesuarlar ve aynı gün teslim VIP teknik servis hizmeti.
+          </p>
+
+          <div class="grid grid-cols-2 sm:grid-cols-3 gap-3 pt-2 max-w-lg mx-auto lg:mx-0 text-left">
+            <div class="glass-card p-3 rounded-xl flex items-center gap-3 border border-slate-800">
+              <i class="fa-solid fa-shield-halved text-brand-accent text-xl"></i>
+              <div>
+                <p class="text-xs font-bold text-white">100% Orijinal</p>
+                <p class="text-[10px] text-slate-400">Garantili Ürünler</p>
+              </div>
+            </div>
+            <div class="glass-card p-3 rounded-xl flex items-center gap-3 border border-slate-800">
+              <i class="fa-solid fa-store text-brand-amber text-xl"></i>
+              <div>
+                <p class="text-xs font-bold text-white">Fiziki Mağaza</p>
+                <p class="text-[10px] text-slate-400">Eyyübiye / Urfa</p>
+              </div>
+            </div>
+            <div class="glass-card p-3 rounded-xl flex items-center gap-3 border border-slate-800 col-span-2 sm:col-span-1">
+              <i class="fa-brands fa-whatsapp text-emerald-400 text-xl"></i>
+              <div>
+                <p class="text-xs font-bold text-white">Anında Sipariş</p>
+                <p class="text-[10px] text-slate-400">WhatsApp Kolaylığı</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4 pt-4">
+            <a href="#vitrin" class="w-full sm:w-auto px-8 py-3.5 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 text-slate-950 font-bold text-sm shadow-lg shadow-cyan-500/25 hover:shadow-cyan-500/40 hover:scale-[1.02] transition duration-200 text-center">
+              Ürünleri İncele <i class="fa-solid fa-arrow-right ml-2 text-xs"></i>
+            </a>
+            <a href="#takas" class="w-full sm:w-auto px-8 py-3.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-brand-amber font-bold text-sm border border-brand-amber/30 hover:border-brand-amber/60 transition duration-200 text-center flex items-center justify-center gap-2">
+              <i class="fa-solid fa-arrows-rotate"></i>
+              <span>Eski Cihazını Sat / Takas Et</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="lg:col-span-5 relative">
+          <div class="glass-card rounded-3xl p-6 sm:p-8 border border-slate-800 shadow-2xl relative overflow-hidden group">
+            <div class="absolute -right-10 -top-10 w-40 h-40 bg-brand-accent/20 rounded-full blur-2xl"></div>
+            
+            <div class="flex justify-between items-start mb-6">
+              <div>
+                <span class="text-xs font-bold uppercase tracking-widest text-brand-amber">Haftanın Fırsatı</span>
+                <h3 class="text-xl font-bold text-white mt-1">iPhone 15 Pro Max 256GB</h3>
+                <p class="text-xs text-slate-400">Doğal Titanyum - Sıfır Garanti</p>
+              </div>
+              <span class="bg-red-500/20 text-red-400 border border-red-500/30 text-[10px] font-bold uppercase px-2.5 py-1 rounded-full">
+                Sınırlı Stok
+              </span>
+            </div>
+
+            <div class="relative py-8 flex justify-center items-center">
+              <div class="w-48 h-80 rounded-[40px] border-4 border-slate-700 bg-gradient-to-b from-slate-900 via-slate-950 to-slate-900 p-3 shadow-2xl relative animate-float flex flex-col justify-between">
+                <div class="w-16 h-3.5 bg-slate-950 rounded-full mx-auto border border-slate-800 flex items-center justify-end px-2">
+                  <div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div>
+                </div>
                 
-                <!-- Logo -->
-                <a href="#" class="flex items-center gap-3 group shrink-0">
-                    <div class="w-12 h-12 rounded-xl bg-gradient-to-tr from-brand-600 to-brand-400 p-0.5 shadow-lg shadow-brand-500/20 group-hover:shadow-brand-500/40 transition">
-                        <div class="w-full h-full bg-dark-bg rounded-[10px] flex items-center justify-center">
-                            <i class="fa-solid fa-mobile-screen-button text-2xl text-brand-400 group-hover:scale-110 transition duration-300"></i>
-                        </div>
-                    </div>
-                    <div class="flex flex-col">
-                        <div class="flex items-center gap-1.5 whitespace-nowrap">
-                            <span class="text-xl sm:text-2xl font-black tracking-wider text-white">GÜR-TECH</span>
-                            <span class="bg-brand-500/20 text-brand-400 border border-brand-500/30 text-xs font-bold px-1.5 py-0.5
+                <div class="text-center py-4 space-y-2">
+                  <i class="fa-brands fa-apple text-5xl text-slate-200"></i>
+                  <p class="text-[11px] text-cyan-400 font-semibold tracking-wider">A17 Pro Chip</p>
+                  <p class="text-[9px] text-slate-400">48 MP Kamera Sistemi</p>
+                </div>
+
+                <div class="bg-slate-900/90 p-2.5 rounded-2xl border border-slate-800 text-center">
+                  <span class="text-xs font-bold text-emerald-400">Dükkan Teslim Olanağı</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="flex justify-between items-center pt-4 border-t border-slate-800/80">
+              <div>
+                <span class="text-xs text-slate-400 line-through">84.999 ₺</span>
+                <div class="text-2xl font-black text-brand-accent">79.999 ₺</div>
+              </div>
+              <button onclick="quickAddToCart(1)" class="px-4 py-2.5 rounded-xl bg-brand-accent text-slate-950 font-bold text-xs hover:bg-cyan-300 transition shadow-lg shadow-cyan-500/20">
+                <i class="fa-solid fa-cart-plus mr-1"></i> Sepete Ekle
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORY QUICK FILTER TABS -->
+  <section class="py-6 bg-slate-950/60 border-y border-slate-800/80 sticky top-20 z-30 backdrop-blur-md">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-start sm:justify-center gap-2 overflow-x-auto pb-2 sm:pb-0 scrollbar-none">
+        <button onclick="filterCategory('all')" class="cat-btn active px-4 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all border border-brand-accent bg-brand-accent text-slate-950" data-cat="all">
+          <i class="fa-solid fa-layer-group mr-1.5"></i> Tüm Ürünler
+        </button>
+        <button onclick="filterCategory('apple')" class="cat-btn px-4 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all border border-slate-800 bg-slate-900 text-slate-300 hover:border-slate-700" data-cat="apple">
+          <i class="fa-brands fa-apple mr-1.5"></i> iPhone / Apple
+        </button>
+        <button onclick="filterCategory('samsung')" class="cat-btn px-4 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all border border-slate-800 bg-slate-900 text-slate-300 hover:border-slate-700" data-cat="samsung">
+          <i class="fa-solid fa-mobile mr-1.5"></i> Samsung Galaxy
+        </button>
+        <button onclick="filterCategory('xiaomi')" class="cat-btn px-4 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all border border-slate-800 bg-slate-900 text-slate-300 hover:border-slate-700" data-cat="xiaomi">
+          <i class="fa-solid fa-bolt mr-1.5"></i> Xiaomi & Android
+        </button>
+        <button onclick="filterCategory('ikinciel')" class="cat-btn px-4 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all border border-slate-800 bg-slate-900 text-brand-amber hover:border-brand-amber/50" data-cat="ikinciel">
+          <i class="fa-solid fa-certificate mr-1.5"></i> Garantili 2. El
+        </button>
+        <button onclick="filterCategory('aksesuar')" class="cat-btn px-4 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all border border-slate-800 bg-slate-900 text-slate-300 hover:border-slate-700" data-cat="aksesuar">
+          <i class="fa-solid fa-plug mr-1.5"></i> Şarj & Aksesuar
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUCTS DISPLAY SECTION -->
+  <section id="vitrin" class="py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <div class="flex flex-col md:flex-row justify-between items-start md:items-end mb-10 gap-4">
+        <div>
+          <span class="text-xs font-bold text-brand-accent uppercase tracking-widest">Dükkan Vitrini</span>
+          <h2 class="text-2xl sm:text-3xl font-black text-white">Öne Çıkan Cihazlar & Aksesuarlar</h2>
+        </div>
+        <p class="text-xs text-slate-400 max-w-xs">
+          Tüm telefonlarımız imei kayıtlı, dükkanımız tarafından test edilmiş ve garantilidir.
+        </p>
+      </div>
+
+      <!-- Products Grid Container -->
+      <div id="products-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        <!-- Products populated dynamically -->
+      </div>
+
+      <div id="no-products" class="hidden text-center py-16">
+        <i class="fa-solid fa-magnifying-glass text-4xl text-slate-600 mb-3"></i>
+        <h3 class="text-lg font-bold text-slate-300">Aradığınız kriterlere uygun ürün bulunamadı.</h3>
+        <p class="text-xs text-slate-500 mt-1">Lütfen arama teriminizi değiştirin veya tüm kategorileri görün.</p>
+        <button onclick="filterCategory('all')" class="mt-4 px-4 py-2 bg-slate-800 text-xs text-white rounded-xl hover:bg-slate-700">Filtreleri Temizle</button>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- TRADE-IN SECTION -->
+  <section id="takas" class="py-16 bg-slate-950/80 border-t border-slate-800 relative">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+        
+        <div class="lg:col-span-5 space-y-4">
+          <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-brand-amber text-xs font-bold">
+            <i class="fa-solid fa-hand-holding-dollar"></i> Anında Fiyat Teklifi Al
+          </div>
+          <h2 class="text-3xl font-black text-white">Eski Telefonunu Getir, <br/><span class="gradient-text-gold">Yenisini İndirimle Al!</span></h2>
+          <p class="text-slate-400 text-xs sm:text-sm leading-relaxed">
+            Eski telefonunuzu dükkanımızda nakit paraya çevirebilir veya yeni cihaz alırken takas indirimi olarak kullanabilirsiniz.
+          </p>
+
+          <div class="space-y-3 pt-2">
+            <div class="flex items-center gap-3">
+              <div class="w-8 h-8 rounded-lg bg-slate-900 border border-slate-800 flex items-center justify-center text-brand-amber font-bold text-xs">1</div>
+              <p class="text-xs text-slate-300">Cihaz bilgilerini ve durumunu seçin.</p>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="w-8 h-8 rounded-lg bg-slate-900 border border-slate-800 flex items-center justify-center text-brand-amber font-bold text-xs">2</div>
+              <p class="text-xs text-slate-300">Detaylı teklif için WhatsApp mesajı gönderin.</p>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="w-8 h-8 rounded-lg bg-slate-900 border border-slate-800 flex items-center justify-center text-brand-amber font-bold text-xs">3</div>
+              <p class="text-xs text-slate-300">Eyyübiye dükkanımıza gelin, paranızı nakit alın!</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="lg:col-span-7">
+          <div class="glass-card p-6 sm:p-8 rounded-3xl border border-amber-500/20 glow-amber-sm">
+            <h3 class="text-lg font-bold text-white mb-4 flex items-center gap-2">
+              <i class="fa-solid fa-mobile-retro text-brand-amber"></i> Cihaz Değerleme Formu
+            </h3>
+
+            <form id="tradein-form" onsubmit="handleTradeInSubmit(event)" class="space-y-4">
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <div>
+                  <label class="block text-xs font-semibold text-slate-300 mb-1">Cihaz Markası</label>
+                  <select id="trade-brand" class="w-full bg-slate-900 text-xs text-white rounded-xl p-3 border border-slate-800 focus:outline-none focus:border-brand-amber" required>
+                    <option value="">Marka Seçiniz...</option>
+                    <option value="Apple / iPhone">Apple / iPhone</option>
+                    <option value="Samsung">Samsung</option>
+                    <option value="Xiaomi / Poco / Redmi">Xiaomi / Poco / Redmi</option>
+                    <option value="Huawei / Honor">Huawei / Honor</option>
+                    <option value="Diğer Marka">Diğer Marka</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label class="block text-xs font-semibold text-slate-300 mb-1">Cihaz Modeli</label>
+                  <input type="text" id="trade-model" placeholder="Örn: iPhone 12 / Galaxy S21" class="w-full bg-slate-900 text-xs text-white rounded-xl p-3 border border-slate-800 focus:outline-none focus:border-brand-amber" required>
+                </div>
+              </div>
+
+              <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <div>
+                  <label class="block text-xs font-semibold text-slate-300 mb-1">Dahili Hafıza (GB)</label>
+                  <select id="trade-storage" class="w-full bg-slate-900 text-xs text-white rounded-xl p-3 border border-slate-800 focus:outline-none focus:border-brand-amber" required>
+                    <option value="64 GB">64 GB</option>
+                    <option value="128 GB" selected>128 GB</option>
+                    <option value="256 GB">256 GB</option>
+                    <option value="512 GB / 1TB">512 GB veya 1 TB</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label class="block text-xs font-semibold text-slate-300 mb-1">Kozmetik Durumu</label>
+                  <select id="trade-condition" class="w-full bg-slate-900 text-xs text-white rounded-xl p-3 border border-slate-800 focus:outline-none focus:border-brand-amber" required>
+                    <option value="10/10 Sıfır Gibi">10/10 Sıfır Gibi (Çiziksiz)</option>
+                    <option value="9/10 Çok Temiz">9/10 Çok Temiz (Kılcal çizik)</option>
+                    <option value="8/10 Orta">8/10 Orta (Kullanım izleri var)</option>
+                    <option value="Hasarlı / Kırık">Kırık / Hasarlı / Değişenli</option>
+                  </select>
+                </div>
+              </div>
+
+              <button type="submit" class="w-full py-3.5 rounded-xl bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 font-bold text-xs uppercase tracking-wider hover:opacity-95 transition flex items-center justify-center gap-2 shadow-lg shadow-amber-500/20">
+                <i class="fa-brands fa-whatsapp text-lg"></i>
+                <span>Fiyat Teklifini WhatsApp'a Gönder</span>
+              </button>
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- TEKNİK SERVİS SECTION -->
+  <section id="teknik-servis" class="py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      
+      <div class="text-center max-w-2xl mx-auto mb-12">
+        <span class="text-xs font-bold text-brand-accent uppercase tracking-widest">Hızlı & Garantili Tamir</span>
+        <h2 class="text-3xl font-black text-white mt-1">GÜR-TECH VIP Teknik Servis</h2>
+        <p class="text-slate-400 text-xs sm:text-sm mt-2">
+          Ekran değişimi, batarya yenileme, şarj soketi ve anakart tamir işlemleri dükkanımızda aynı gün yapılır.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        
+        <div class="glass-card p-6 rounded-2xl border border-slate-800 hover:border-brand-accent/50 transition duration-300">
+          <div class="w-12 h-12 rounded-xl bg-cyan-500/10 text-brand-accent flex items-center justify-center text-xl mb-4">
+            <i class="fa-solid fa-mobile-screen"></i>
+          </div>
+          <h3 class="text-base font-bold text-white">Ekran & Cam Değişimi</h3>
+          <p class="text-xs text-slate-400 mt-2 leading-relaxed">Orijinal revize ve yan sanayi ekran seçenekleriyle 30 dakikada montaj.</p>
+          <a href="https://wa.me/905316374839?text=Ekran%20de%C4%9Fi%C5%9Fimi%20fiyat%C4%B1%20almak%20istiyorum." target="_blank" class="inline-flex items-center text-xs font-semibold text-brand-accent mt-4 hover:underline">
+            Fiyat Sor <i class="fa-solid fa-chevron-right ml-1 text-[10px]"></i>
+          </a>
+        </div>
+
+        <div class="glass-card p-6 rounded-2xl border border-slate-800 hover:border-brand-accent/50 transition duration-300">
+          <div class="w-12 h-12 rounded-xl bg-emerald-500/10 text-emerald-400 flex items-center justify-center text-xl mb-4">
+            <i class="fa-solid fa-battery-full"></i>
+          </div>
+          <h3 class="text-base font-bold text-white">Batarya Yenileme</h3>
+          <p class="text-xs text-slate-400 mt-2 leading-relaxed">Pil sağlığı düşmüş cihazlarınız için garantili yüksek kapasiteli bataryalar.</p>
+          <a href="https://wa.me/905316374839?text=Batarya%20de%C4%9Fi%C5%9Fimi%20fiyat%C4%B1%20almak%20istiyorum." target="_blank" class="inline-flex items-center text-xs font-semibold text-emerald-400 mt-4 hover:underline">
+            Fiyat Sor <i class="fa-solid fa-chevron-right ml-1 text-[10px]"></i>
+          </a>
+        </div>
+
+        <div class="glass-card p-6 rounded-2xl border border-slate-800 hover:border-brand-accent/50 transition duration-300">
+          <div class="w-12 h-12 rounded-xl bg-amber-500/10 text-brand-amber flex items-center justify-center text-xl mb-4">
+            <i class="fa-solid fa-microchip"></i>
+          </div>
+          <h3 class="text-base font-bold text-white">Anakart & Entegre Tamiri</h3>
+          <p class="text-xs text-slate-400 mt-2 leading-relaxed">Sıvı teması, şarj entegresi ve şebeke sorunlarına mikroskobik profesyonel müdahale.</p>
+          <a href="https://wa.me/905316374839?text=Anakart%20tamiri%20fiyat%C4%B1%20almak%20istiyorum." target="_blank" class="inline-flex items-center text-xs font-semibold text-brand-amber mt-4 hover:underline">
+            Fiyat Sor <i class="fa-solid fa-chevron-right ml-1 text-[10px]"></i>
+          </a>
+        </div>
+
+        <div class="glass-card p-6 rounded-2xl border border-slate-800 hover:border-brand-accent/50 transition duration-300">
+          <div class="w-12 h-12 rounded-xl bg-purple-500/10 text-purple-400 flex items-center justify-center text-xl mb-4">
+            <i class="fa-solid fa-shield-virus"></i>
+          </div>
+          <h3 class="text-base font-bold text-white">Yazılım & Yetkili İşlemler</h3>
+          <p class="text-xs text-slate-400 mt-2 leading-relaxed">Yazılım çökmesi, ROM yükleme ve veri kurtarma destekleri.</p>
+          <a href="https://wa.me/905316374839?text=Yaz%C4%B1l%C4%B1m%20ve%20veri%20kurtarma%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" class="inline-flex items-center text-xs font-semibold text-purple-400 mt-4 hover:underline">
+            Fiyat Sor <i class="fa-solid fa-chevron-right ml-1 text-[10px]"></i>
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FOOTER & İLETİŞİM -->
+  <footer id="iletisim" class="bg-slate-950 border-t border-slate-800 pt-16 pb-12">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 pb-12 border-b border-slate-800">
+        
+        <div class="lg:col-span-5 space-y-4">
+          <div class="flex items-center gap-2">
+            <div class="w-9 h-9 rounded-lg bg-brand-accent text-slate-950 font-black flex items-center justify-center">
+              <i class="fa-solid fa-mobile-screen-button"></i>
+            </div>
+            <span class="text-xl font-black text-white">GÜR-TECH GSM</span>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed max-w-sm">
+            Şanlıurfa / Eyyübiye bölgesinde kaliteli hizmet, orijinal yedek parça ve güvenilir 2. el cihaz satışının adresi.
+          </p>
+
+          <div class="space-y-2 pt-2 text-xs text-slate-300">
+            <div class="flex items-start gap-3">
+              <i class="fa-solid fa-location-dot text-brand-accent mt-0.5"></i>
+              <span>Eyyübiye Mahallesi, GÜR-TECH GSM Dükkanı, Eyyübiye / Şanlıurfa</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <i class="fa-solid fa-phone text-brand-accent"></i>
+              <a href="tel:05316374839" class="hover:text-brand-accent transition">0531 637 48 39</a>
+            </div>
+            <div class="flex items-center gap-3">
+              <i class="fa-solid fa-clock text-brand-accent"></i>
+              <span>Hafta İçi & Cumartesi: 08:30 - 21:00</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="lg:col-span-3 space-y-3">
+          <h4 class="text-sm font-bold text-white uppercase tracking-wider">Hızlı Bağlantılar</h4>
+          <ul class="space-y-2 text-xs text-slate-400">
+            <li><a href="#vitrin" class="hover:text-brand-accent transition">Sıfır Telefonlar</a></li>
+            <li><a href="#vitrin" class="hover:text-brand-accent transition">Garantili İkinci El Cihazlar</a></li>
+            <li><a href="#takas" class="hover:text-brand-amber transition">Eski Cihaz Değerleme</a></li>
+            <li><a href="#teknik-servis" class="hover:text-brand-accent transition">Ekran & Batarya Tamiri</a></li>
+          </ul>
+        </div>
+
+        <div class="lg:col-span-4">
+          <div class="glass-card p-5 rounded-2xl border border-slate-800">
+            <h4 class="text-xs font-bold text-white mb-2 flex items-center justify-between">
+              <span><i class="fa-solid fa-map-pin text-red-500 mr-1.5"></i> Dükkan Konumumuz</span>
+              <span class="text-[10px] text-emerald-400 font-normal">Açık</span>
+            </h4>
+            <div class="bg-slate-900 h-32 rounded-xl flex flex-col items-center justify-center border border-slate-800 relative overflow-hidden">
+              <div class="text-center p-3 z-10">
+                <i class="fa-solid fa-store text-2xl text-brand-accent mb-1"></i>
+                <p class="text-xs font-bold text-white">GÜR-TECH GSM Şanlıurfa</p>
+                <p class="text-[10px] text-slate-400">Eyyübiye Merkez</p>
+              </div>
+            </div>
+            <a href="https://maps.google.com" target="_blank" class="mt-3 w-full py-2 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs font-semibold rounded-xl flex items-center justify-center gap-1.5 transition">
+              <i class="fa-solid fa-diamond-turn-right text-brand-accent"></i>
+              <span>Google Haritalar'da Aç</span>
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="pt-8 text-center text-xs text-slate-500 flex flex-col sm:flex-row justify-between items-center gap-4">
+        <p>© 2026 GÜR-TECH GSM. Tüm Hakları Saklıdır.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- SHOPPING CART SLIDE-OVER DRAWER -->
+  <div id="cart-drawer" class="fixed inset-0 z-50 pointer-events-none transition-opacity duration-300 opacity-0">
+    <div id="cart-backdrop" onclick="toggleCartDrawer()" class="absolute inset-0 bg-slate-950/80 backdrop-blur-sm"></div>
+
+    <div id="cart-panel" class="absolute top-0 right-0 bottom-0 w-full max-w-md bg-slate-950 border-l border-slate-800 p-6 flex flex-col justify-between transform translate-x-full transition-transform duration-300 pointer-events-auto">
+      
+      <div class="flex items-center justify-between pb-4 border-b border-slate-800">
+        <div class="flex items-center gap-2">
+          <i class="fa-solid fa-bag-shopping text-brand-accent text-lg"></i>
+          <h3 class="text-base font-bold text-white">Alışveriş Sepetim</h3>
+        </div>
+        <button onclick="toggleCartDrawer()" class="p-2 text-slate-400 hover:text-white rounded-lg">
+          <i class="fa-solid fa-xmark text-lg"></i>
+        </button>
+      </div>
+
+      <div id="cart-items-container" class="flex-1 overflow-y-auto py-4 space-y-4">
+        <!-- Cart Items JS -->
+      </div>
+
+      <div class="pt-4 border-t border-slate-800 space-y-4">
+        <div class="flex justify-between items-center">
+          <span class="text-xs text-slate-400">Toplam Tutar:</span>
+          <span id="cart-total-price" class="text-xl font-black text-brand-accent">0 ₺</span>
+        </div>
+
+        <button onclick="checkoutWhatsApp()" class="w-full py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs uppercase tracking-wider transition flex items-center justify-center gap-2 shadow-lg shadow-emerald-600/20">
+          <i class="fa-brands fa-whatsapp text-lg"></i>
+          <span>WhatsApp ile Siparişi Tamamla</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    // --- PRODUCT DATABASE ---
+    const products = [
+      {
+        id: 1,
+        title: "iPhone 15 Pro Max 256GB",
+        category: "apple",
+        brand: "Apple",
+        price: 79999,
+        oldPrice: 84999,
+        badge: "Sıfır Garantili",
+        badgeColor: "bg-cyan-500/20 text-brand-accent border-cyan-500/30",
+        specs: ["256 GB Hafıza", "A17 Pro İşlemci", "2 Yıl Garanti"],
+        icon: "fa-brands fa-apple text-cyan-400"
+      },
+      {
+        id: 2,
+        title: "Samsung Galaxy S24 Ultra 512GB",
+        category: "samsung",
+        brand: "Samsung",
+        price: 68500,
+        oldPrice: 72000,
+        badge: "Amiral Gemisi",
+        badgeColor: "bg-blue-500/20 text-blue-400 border-blue-500/30",
+        specs: ["512 GB Hafıza", "Galaxy AI Özellikleri", "S-Pen Dahil"],
+        icon: "fa-solid fa-mobile-screen-button text-blue-400"
+      },
+      {
+        id: 3,
+        title: "iPhone 13 128GB (Temiz 2.El)",
+        category: "ikinciel",
+        brand: "Apple",
+        price: 32500,
+        oldPrice: 35000,
+        badge: "%100 Dükkan Garantili",
+        badgeColor: "bg-amber-500/20 text-brand-amber border-amber-500/30",
+        specs: ["Pil Sağlığı %89", "Kutu ve Fatura Var", "Değişensiz / Temiz"],
+        icon: "fa-brands fa-apple text-amber-400"
+      },
+      {
+        id: 4,
+        title: "Xiaomi 14 Ultra 512GB",
+        category: "xiaomi",
+        brand: "Xiaomi",
+        price: 54900,
+        oldPrice: 58000,
+        badge: "Leica Kamera",
+        badgeColor: "bg-orange-500/20 text-orange-400 border-orange-500/30",
+        specs: ["512 GB Hafıza", "Leica Profesyonel Lens", "90W Hızlı Şarj"],
+        icon: "fa-solid fa-bolt text-orange-400"
+      },
+      {
+        id: 5,
+        title: "AirPods Pro (2. Nesil) Type-C",
+        category: "aksesuar",
+        brand: "Apple",
+        price: 8490,
+        oldPrice: 9200,
+        badge: "Çok Satan",
+        badgeColor: "bg-emerald-500/20 text-emerald-400 border-emerald-500/30",
+        specs: ["Gürültü Engelleme", "MagSafe Şarj Kutusu", "Orijinal Garanti"],
+        icon: "fa-solid fa-headphones text-emerald-400"
+      },
+      {
+        id: 6,
+        title: "Anker 65W GaN Hızlı Şarj Adaptörü",
+        category: "aksesuar",
+        brand: "Anker",
+        price: 1450,
+        oldPrice: 1750,
+        badge: "Aksesuar",
+        badgeColor: "bg-purple-500/20 text-purple-400 border-purple-500/30",
+        specs: ["Type-C Dual Port", "Tüm Cihazlara Uyumlu", "Isınma Koruması"],
+        icon: "fa-solid fa-plug text-purple-400"
+      },
+      {
+        id: 7,
+        title: "Samsung Galaxy A55 5G 256GB",
+        category: "samsung",
+        brand: "Samsung",
+        price: 18900,
+        oldPrice: 20500,
+        badge: "Fiyat / Performans",
+        badgeColor: "bg-cyan-500/20 text-brand-accent border-cyan-500/30",
+        specs: ["256 GB Depolama", "50 MP OIS Kamera", "Sıfır Kapalı Kutu"],
+        icon: "fa-solid fa-mobile-screen text-cyan-400"
+      },
+      {
+        id: 8,
+        title: "iPhone 11 64GB (Garantili 2.El)",
+        category: "ikinciel",
+        brand: "Apple",
+        price: 16800,
+        oldPrice: 18500,
+        badge: "Fırsat Ürünü",
+        badgeColor: "bg-amber-500/20 text-brand-amber border-amber-500/30",
+        specs: ["Pil Sağlığı %85", "Siyah Renk / Temiz", "Kutulu"],
+        icon: "fa-brands fa-apple text-amber-400"
+      }
+    ];
+
+    let cart = [];
+
+    // --- RENDER PRODUCTS ---
+    function renderProducts(itemsToRender) {
+      const container = document.getElementById('products-grid');
+      const noProductsDiv = document.getElementById('no-products');
+      
+      container.innerHTML = '';
+
+      if (itemsToRender.length === 0) {
+        noProductsDiv.classList.remove('hidden');
+        return;
+      } else {
+        noProductsDiv.classList.add('hidden');
+      }
+
+      itemsToRender.forEach(product => {
+        const productCard = document.createElement('div');
+        productCard.className = 'glass-card rounded-2xl p-5 border border-slate-800 flex flex-col justify-between hover:border-slate-700 transition-all duration-300 group';
+        
+        productCard.innerHTML = `
+          <div>
+            <div class="flex justify-between items-start mb-4">
+              <span class="text-[10px] font-bold px-2.5 py-1 rounded-full border uppercase tracking-wider ${product.badgeColor}">
+                ${product.badge}
+              </span>
+              <i class="${product.icon} text-xl group-hover:scale-110 transition-transform"></i>
+            </div>
+
+            <h3 class="text-base font-bold text-white group-hover:text-brand-accent transition-colors">${product.title}</h3>
+
+            <ul class="mt-3 space-y-1">
+              ${product.specs.map(spec => `<li class="text-[11px] text-slate-400 flex items-center gap-1.5"><i class="fa-solid fa-check text-brand-accent text-[9px]"></i> ${spec}</li>`).join('')}
+            </ul>
+          </div>
+
+          <div class="pt-5 mt-4 border-t border-slate-800/80 flex items-center justify-between">
+            <div>
+              ${product.oldPrice ? `<span class="text-[10px] text-slate-500 line-through block">${product.oldPrice.toLocaleString('tr-TR')} ₺</span>` : ''}
+              <span class="text-lg font-black text-white">${product.price.toLocaleString('tr-TR')} ₺</span>
+            </div>
+
+            <button onclick="quickAddToCart(${product.id})" class="px-3 py-2 rounded-xl bg-brand-accent text-slate-950 font-bold text-xs hover:bg-cyan-300 transition shadow-md shadow-cyan-500/10 flex items-center gap-1">
+              <i class="fa-solid fa-cart-plus text-xs"></i>
+              <span>Ekle</span>
+            </button>
+          </div>
+        `;
+
+        container.appendChild(productCard);
+      });
+    }
+
+    // --- FILTER LOGIC ---
+    function filterCategory(cat) {
+      document.querySelectorAll('.cat-btn').forEach(btn => {
+        if (btn.getAttribute('data-cat') === cat) {
+          btn.className = "cat-btn active px-4 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all border border-brand-accent bg-brand-accent text-slate-950";
+        } else {
+          btn.className = "cat-btn px-4 py-2 rounded-xl text-xs font-bold whitespace-nowrap transition-all border border-slate-800 bg-slate-900 text-slate-300 hover:border-slate-700";
+        }
+      });
+
+      if (cat === 'all') {
+        renderProducts(products);
+      } else {
+        const filtered = products.filter(p => p.category === cat);
+        renderProducts(filtered);
+      }
+    }
+
+    function filterProductsBySearch() {
+      const query = document.getElementById('global-search').value.toLowerCase();
+      const filtered = products.filter(p => p.title.toLowerCase().includes(query) || p.brand.toLowerCase().includes(query));
+      renderProducts(filtered);
+    }
+
+    function filterProductsBySearchMobile() {
+      const query = document.getElementById('mobile-search').value.toLowerCase();
+      const filtered = products.filter(p => p.title.toLowerCase().includes(query) || p.brand.toLowerCase().includes(query));
+      renderProducts(filtered);
+    }
+
+    // --- CART LOGIC ---
+    function quickAddToCart(productId) {
+      const product = products.find(p => p.id === productId);
+      if (!product) return;
+
+      const existing = cart.find(item => item.id === productId);
+      if (existing) {
+        existing.quantity += 1;
+      } else {
+        cart.push({ ...product, quantity: 1 });
+      }
+
+      updateCartUI();
+      showNotification(`${product.title} sepete eklendi!`);
+    }
+
+    function removeFromCart(productId) {
+      cart = cart.filter(item => item.id !== productId);
+      updateCartUI();
+    }
+
+    function changeQuantity(productId, delta) {
+      const item = cart.find(i => i.id === productId);
+      if (!item) return;
+
+      item.quantity += delta;
+      if (item.quantity <= 0) {
+        removeFromCart(productId);
+      } else {
+        updateCartUI();
+      }
+    }
+
+    function updateCartUI() {
+      const badge = document.getElementById('cart-badge');
+      const container = document.getElementById('cart-items-container');
+      const totalPriceEl = document.getElementById('cart-total-price');
+
+      const totalItems = cart.reduce((acc, i) => acc + i.quantity, 0);
+      const totalPrice = cart.reduce((acc, i) => acc + (i.price * i.quantity), 0);
+
+      badge.textContent = totalItems;
+      if (totalItems > 0) {
+        badge.classList.remove('scale-0');
+        badge.classList.add('scale-100');
+      } else {
+        badge.classList.remove('scale-100');
+        badge.classList.add('scale-0');
+      }
+
+      totalPriceEl.textContent = `${totalPrice.toLocaleString('tr-TR')} ₺`;
+
+      if (cart.length === 0) {
+        container.innerHTML = `
+          <div class="text-center py-12 text-slate-500">
+            <i class="fa-solid fa-cart-arrow-down text-3xl mb-2"></i>
+            <p class="text-xs">Sepetiniz şu anda boş.</p>
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = cart.map(item => `
+        <div class="glass-card p-3 rounded-xl border border-slate-800 flex items-center justify-between">
+          <div class="flex-1 pr-3">
+            <h4 class="text-xs font-bold text-white line-clamp-1">${item.title}</h4>
+            <p class="text-[10px] text-brand-accent font-semibold mt-0.5">${(item.price * item.quantity).toLocaleString('tr-TR')} ₺</p>
+          </div>
+
+          <div class="flex items-center gap-2">
+            <div class="flex items-center border border-slate-800 rounded-lg bg-slate-900">
+              <button onclick="changeQuantity(${item.id}, -1)" class="px-2 py-0.5 text-slate-400 hover:text-white text-xs">-</button>
+              <span class="px-2 text-xs text-white font-bold">${item.quantity}</span>
+              <button onclick="changeQuantity(${item.id}, 1)" class="px-2 py-0.5 text-slate-400 hover:text-white text-xs">+</button>
+            </div>
+            <button onclick="removeFromCart(${item.id})" class="text-slate-500 hover:text-red-400 p-1">
+              <i class="fa-solid fa-trash-can text-xs"></i>
+            </button>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function toggleCartDrawer() {
+      const drawer = document.getElementById('cart-drawer');
+      const panel = document.getElementById('cart-panel');
+      
+      if (drawer.classList.contains('opacity-0')) {
+        drawer.classList.remove('opacity-0', 'pointer-events-none');
+        panel.classList.remove('translate-x-full');
+      } else {
+        drawer.classList.add('opacity-0', 'pointer-events-none');
+        panel.classList.add('translate-x-full');
+      }
+    }
+
+    function checkoutWhatsApp() {
+      if (cart.length === 0) {
+        alert('Sepetiniz boş. Lütfen önce ürün ekleyiniz.');
+        return;
+      }
+
+      let message = "Merhaba GÜR-TECH GSM, web siteniz üzerinden sipariş vermek istiyorum:\n\n";
+      let total = 0;
+
+      cart.forEach((item, index) => {
+        const itemTotal = item.price * item.quantity;
+        total += itemTotal;
+        message += `${index + 1}. ${item.title} x ${item.quantity} Adet = ${itemTotal.toLocaleString('tr-TR')} ₺\n`;
+      });
+
+      message += `\n*Toplam Tutar:* ${total.toLocaleString('tr-TR')} ₺`;
+      message += `\n*Lokasyon:* Eyyübiye / Şanlıurfa`;
+
+      const encodedMsg = encodeURIComponent(message);
+      window.open(`https://wa.me/905316374839?text=${encodedMsg}`, '_blank');
+    }
+
+    function handleTradeInSubmit(event) {
+      event.preventDefault();
+
+      const brand = document.getElementById('trade-brand').value;
+      const model = document.getElementById('trade-model').value;
+      const storage = document.getElementById('trade-storage').value;
+      const condition = document.getElementById('trade-condition').value;
+
+      const message = `Merhaba GÜR-TECH GSM, elimdeki cihaz için takas/fiyat teklifi almak istiyorum:\n\n` +
+                      `📱 *Marka:* ${brand}\n` +
+                      `🔍 *Model:* ${model}\n` +
+                      `💾 *Hafıza:* ${storage}\n` +
+                      `✨ *Kozmetik Durum:* ${condition}\n\n` +
+                      `Bu cihaz için fiyat teklifinizi öğrenebilir miyim?`;
+
+      const encodedMsg = encodeURIComponent(message);
+      window.open(`https://wa.me/905316374839?text=${encodedMsg}`, '_blank');
+    }
+
+    function toggleMobileMenu() {
+      const menu = document.getElementById('mobile-menu');
+      menu.classList.toggle('hidden');
+    }
+
+    function showNotification(msg) {
+      const toast = document.createElement('div');
+      toast.className = 'fixed bottom-5 right-5 z-50 bg-slate-900 border border-brand-accent text-white px-4 py-3 rounded-xl text-xs font-bold shadow-xl flex items-center gap-2 transition-transform duration-300 transform translate-y-10 opacity-0';
+      toast.innerHTML = `<i class="fa-solid fa-circle-check text-brand-accent text-sm"></i> <span>${msg}</span>`;
+      
+      document.body.appendChild(toast);
+
+      setTimeout(() => {
+        toast.classList.remove('translate-y-10', 'opacity-0');
+      }, 50);
+
+      setTimeout(() => {
+        toast.classList.add('translate-y-10', 'opacity-0');
+        setTimeout(() => toast.remove(), 300);
+      }, 2500);
+    }
+
+    window.onload = function() {
+      renderProducts(products);
+    };
+  </script>
+</body>
+</html>
