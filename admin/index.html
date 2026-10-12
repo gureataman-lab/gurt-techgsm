@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow"><meta name="referrer" content="same-origin">
+  <title>GÜR-TECH | Stok Yönetimi</title>
+  <link rel="stylesheet" href="admin.css">
+  <script src="../assets/catalog-config.js"></script>
+</head>
+<body>
+  <header><a class="logo" href="../">▯ <strong>GÜR-TECH <small>GSM</small></strong></a><span class="header-label">Stok yönetimi</span><a href="../" target="_blank" rel="noopener">Mağazayı aç ↗</a></header>
+  <main>
+    <p id="notice" class="notice" role="status" aria-live="polite">Güvenli bağlantı hazırlanıyor…</p>
+    <section id="loginView" class="login" hidden>
+      <div class="eyebrow">MAĞAZANIZIN KONTROLÜ SİZDE</div>
+      <h1>Tekrar hoş geldiniz.</h1><p class="muted">Ürünlerinizi, fiyatlarınızı ve stoklarınızı buradan yönetin.</p>
+      <form id="loginForm">
+        <label>E-posta<input id="email" type="email" autocomplete="username" required maxlength="254"></label>
+        <label>Şifre<input id="password" type="password" autocomplete="current-password" required></label>
+        <button type="submit" class="primary wide">Giriş yap →</button>
+      </form>
+      <button id="forgot" class="text-button">Şifremi unuttum</button>
+      <p class="small muted">Yalnızca yetkilendirilmiş mağaza hesapları giriş yapabilir.</p>
+    </section>
+    <section id="resetView" class="login" hidden>
+      <h1>Yeni şifrenizi belirleyin.</h1><p class="muted">En az 12 karakter kullanın.</p>
+      <form id="resetForm"><label>Yeni şifre<input id="newPassword" type="password" autocomplete="new-password" minlength="12" required></label><label>Yeni şifre tekrar<input id="confirmPassword" type="password" autocomplete="new-password" minlength="12" required></label><button class="primary wide">Şifreyi kaydet</button></form>
+    </section>
+    <section id="dashboard" hidden>
+      <div class="title-row"><div><div class="eyebrow">GÜR-TECH GSM</div><h1>Ürünler & stoklar</h1><p class="muted">Vitrininiz her zaman güncel kalsın.</p></div><div class="actions"><button id="refresh">Yenile</button><button id="newProduct" class="primary">+ Ürün ekle</button></div></div>
+      <div class="account"><span id="accountEmail"></span><button id="logout" class="text-button">Çıkış yap</button></div>
+      <div class="stats"><div><span>Toplam ürün</span><strong id="totalCount">0</strong></div><div><span>Yayındaki ürün</span><strong id="publishedCount">0</strong></div><div><span>Stoktaki adet</span><strong id="stockCount">0</strong></div><div><span>Tükenen ürün</span><strong id="emptyCount">0</strong></div></div>
+      <div class="toolbar"><input id="search" type="search" placeholder="Ürün veya marka ara…" aria-label="Ürün ara"><select id="listFilter" aria-label="Ürün durumu"><option value="all">Tüm ürünler</option><option value="published">Yayında</option><option value="draft">Taslak</option><option value="empty">Stok tükendi</option></select></div>
+      <p id="listStatus" class="muted" role="status"></p><div id="productList" class="product-list"></div>
+    </section>
+  </main>
+  <dialog id="editor"><form id="productForm"><div class="dialog-heading"><div><div class="eyebrow">KATALOG</div><h2 id="editorTitle">Yeni ürün</h2></div><button id="cancelEdit" type="button" aria-label="Kapat">✕</button></div>
+    <p id="formError" class="form-error" role="alert"></p>
+    <fieldset id="productFields">
+      <label>Ürün adı<input name="title" required maxlength="160" placeholder="Örn. iPhone 15 Pro 128GB"></label>
+      <div class="two-columns"><label>Marka<input name="brand" required maxlength="60" placeholder="Örn. Apple"></label><label>Kategori<select name="category"><option value="apple">Apple iPhone</option><option value="samsung">Samsung</option><option value="xiaomi">Xiaomi / Redmi</option><option value="ikinciel">2. El Garantili</option><option value="aksesuar">Aksesuar & Şarj</option></select></label></div>
+      <div class="two-columns"><label>Fiyat (₺)<input name="price" type="number" min="0.01" max="10000000" step="0.01" required inputmode="decimal"></label><label>Stok adedi<input name="stock" type="number" min="0" max="100000" step="1" value="1" required inputmode="numeric"></label></div>
+      <label>Durum / etiket<input name="condition" maxlength="120" placeholder="Örn. Sıfır kapalı kutu veya Pil %88 · Çiziksiz"></label>
+      <label>Ürün bilgisi<textarea name="description" rows="4" maxlength="2000" placeholder="Hafıza, renk, garanti ve cihazın diğer özellikleri…"></textarea></label>
+      <div class="photo-row"><img id="photoPreview" alt="Ürün fotoğrafı" hidden><div><label>Ürün fotoğrafı<input id="photo" type="file" accept="image/jpeg,image/png,image/webp"></label><p class="small muted">JPG, PNG veya WebP · En fazla 5 MB</p><button id="removePhoto" type="button" class="text-button">Fotoğrafı kaldır</button></div></div>
+      <label class="checkbox"><input name="published" type="checkbox"> Mağaza kataloğunda yayınla</label><p class="small muted">İşaretli değilse yalnızca yönetim panelinde görünür. Stok 0 olduğunda sepete ekleme kapanır.</p>
+    </fieldset>
+    <div class="dialog-footer"><button id="deleteProduct" type="button" class="danger" hidden>Ürünü sil</button><button id="saveProduct" class="primary" type="submit">Kaydet</button></div>
+  </form></dialog>
+  <script src="start.js"></script>
+</body>
+</html>

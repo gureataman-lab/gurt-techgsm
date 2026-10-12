@@ -708,11 +708,11 @@
             document.getElementById('newsModal').classList.add('hidden');
         }
 
-        function addToCart(title, price) {
+        function addToCart(title, price, button = null) {
             cart.push({ title, price });
             updateCartUI();
             
-            const btn = event.currentTarget;
+            const btn = button || event.currentTarget;
             const originalText = btn.innerHTML;
             btn.innerHTML = '<i class="fa-solid fa-check"></i> Eklendi!';
             btn.classList.add('bg-emerald-600');
@@ -741,7 +741,7 @@
                 html += `
                     <div class="flex items-center justify-between bg-gray-900 p-3 rounded-xl border border-gray-800">
                         <div>
-                            <p class="text-xs font-bold text-white">${item.title}</p>
+                            <p class="text-xs font-bold text-white">${String(item.title).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]))}</p>
                             <p class="text-[11px] text-brand-400 font-semibold">${item.price.toLocaleString('tr-TR')} ₺</p>
                         </div>
                         <button onclick="removeFromCart(${index})" class="text-red-400 hover:text-red-300 text-xs p-1">
@@ -852,5 +852,7 @@
 
     </script>
     <script src="assets/news-ticker.js"></script>
+    <script src="assets/catalog-config.js"></script>
+    <script src="assets/catalog-start.js"></script>
 </body>
 </html>
