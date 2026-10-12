@@ -700,65 +700,7 @@
         const SHOP_PHONE = "9005316374839";
         let cart = [];
 
-        // Güncel Mobil Teknoloji Haberleri Veri Tabanı (DonanımHaber ve ShiftDelete Kaynaklı)
-        const mobileNewsList = [
-            {
-                id: 1,
-                source: "DonanımHaber",
-                title: "Apple iPhone 16 Pro Max Kamera Özellikleri Detaylandı: Yeni Sensör Geliyor!",
-                summary: "Apple'ın yeni nesil amiral gemisi iPhone 16 Pro Max modellerinde kullanılacak yeni kamera sensör teknolojisi sızdırıldı. Yakalama hızı ve gece çekimi performansında devrim niteliğinde iyileştirmeler bekleniyor.",
-                link: "https://www.donanimhaber.com/cep-telefonlari"
-            },
-            {
-                id: 2,
-                source: "ShiftDelete",
-                title: "Samsung Galaxy S25 Serisi İçin Exynos Mu S24 Ultra Çip Mi Kullanılacak?",
-                summary: "Samsung'un merakla beklenen Galaxy S25 ailesinde izleyeceği işlemci stratejisi netleşmeye başladı. Yapay zeka çekirdeklerinin optimizasyonu ön planda tutuluyor.",
-                link: "https://shiftdelete.net/mobil/akilli-telefon"
-            },
-            {
-                id: 3,
-                source: "DonanımHaber",
-                title: "Xiaomi 15 Ultra Tanıtım Tarihi Resmi Olarak Açıklandı!",
-                summary: "Leica iş birliğiyle geliştirilen yeni devasa kamera sensörüne sahip Xiaomi 15 Ultra, batarya kapasitesi ve 120W hızlı şarj desteğiyle dikkatleri üzerine çekiyor.",
-                link: "https://www.donanimhaber.com/cep-telefonlari"
-            },
-            {
-                id: 4,
-                source: "ShiftDelete",
-                title: "iOS 18 ile iPhone Büyüyecek: İşte Telefonlara Gelecek Yeni Yapay Zeka Özellikleri",
-                summary: "Apple'ın en güncel işletim sistemi güncellemesi iOS 18 ile Siri ve kamera işleme algoritmaları tamamen yapay zeka entegrasyonu kazanıyor.",
-                link: "https://shiftdelete.net/mobil/akilli-telefon"
-            },
-            {
-                id: 5,
-                source: "DonanımHaber",
-                title: "Batarya Sağlığını Uzatacak Yeni Şarj Teknolojisi Duyuruldu",
-                summary: "Akıllı telefonlarda batarya ömrünü iki katına çıkaracak yeni silikon-karbon batarya kimyası amiral gemisi modellerde uygulanmaya başlandı.",
-                link: "https://www.donanimhaber.com/cep-telefonlari"
-            }
-        ];
-
-        // Kayan Haber Bandını Hazırla
-        function initNewsTicker() {
-            const container = document.getElementById('newsTicker');
-            let html = '';
-            
-            // Sonsuz döngü için 2 kez tekrarlıyoruz
-            for(let i = 0; i < 2; i++) {
-                mobileNewsList.forEach(news => {
-                    html += `
-                        <span onclick="openNewsModal(${news.id})" class="cursor-pointer hover:underline hover:text-white transition flex items-center gap-1.5">
-                            <span class="bg-brand-500/20 text-brand-400 border border-brand-500/30 text-[9px] px-1.5 py-0.2 rounded">${news.source}</span>
-                            <span>${news.title}</span>
-                            <i class="fa-solid fa-chevron-right text-[9px] text-gray-500"></i>
-                        </span>
-                        <span class="text-gray-700">•</span>
-                    `;
-                });
-            }
-            container.innerHTML = html;
-        }
+        const mobileNewsList = [];
 
         function openNewsModal(newsId) {
             const news = mobileNewsList.find(n => n.id === newsId);
@@ -918,10 +860,7 @@
             window.open(url, '_blank');
         }
 
-        // Sayfa yüklendiğinde haber akışını başlat
-        window.onload = function() {
-            initNewsTicker();
-        };
     </script>
+    <script src="assets/news-ticker.js"></script>
 </body>
 </html>
