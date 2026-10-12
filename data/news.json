@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-12T18:29:23.925517+00:00",
+  "updatedAt": "2026-10-12T18:58:15.624963+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-12T18:29:23.925517+00:00",
+      "checkedAt": "2026-10-12T18:58:15.624963+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-12T18:29:23.925517+00:00",
+      "checkedAt": "2026-10-12T18:58:15.624963+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Nothing’in patronu Carl Pei’den iPhone Duo’ya ağır eleştiri: Bu parayı hak etmiyor!",
+      "link": "https://shiftdelete.net/nothingin-patronu-carl-peiden-iphone-duoya-agir-elestiri-bu-parayi-hak-etmiyor",
+      "publishedAt": "2026-10-12T18:30:26+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Google Fitbit Edge Tanıtıldı: Pixel Watch’un Eksiklerini Gideriyor",
@@ -76,12 +82,6 @@
       "title": "Huawei Pura X View Büyük İlgi Görüyor: Yok Satıyor",
       "link": "https://shiftdelete.net/huawei-pura-x-view-ozellikleri-ve-satis-rakamlari",
       "publishedAt": "2026-10-12T09:00:53+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Fanlı Oyun Canavarı Honor Win 2!",
-      "link": "https://shiftdelete.net/kasasinda-fan-tasiyan-oyun-canavari-honor-win-2",
-      "publishedAt": "2026-10-12T08:30:41+00:00"
     },
     {
       "source": "DonanımHaber",
