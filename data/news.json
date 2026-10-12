@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-12T18:58:15.624963+00:00",
+  "updatedAt": "2026-10-12T19:24:53.400880+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-12T18:58:15.624963+00:00",
+      "checkedAt": "2026-10-12T19:24:53.400880+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-12T18:58:15.624963+00:00",
+      "checkedAt": "2026-10-12T19:24:53.400880+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Carl Pei, Apple'ı yerden yere vurdu: iPhone Duo para tuzağı!",
+      "link": "https://www.donanimhaber.com/carl-pei-apple-i-yerden-yere-vurdu-iphone-duo-para-tuzagi--211533",
+      "publishedAt": "2026-10-12T19:24:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Google Fitbit Edge tanıtıldı: Değiştirilebilir pil, 7 gün şarj",
+      "link": "https://shiftdelete.net/google-fitbit-edge-tanitildi-degistirilebilir-pil-7-gun-sarj",
+      "publishedAt": "2026-10-12T19:00:02+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Nothing’in patronu Carl Pei’den iPhone Duo’ya ağır eleştiri: Bu parayı hak etmiyor!",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-10-12T09:15:21+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Huawei Pura X View Büyük İlgi Görüyor: Yok Satıyor",
-      "link": "https://shiftdelete.net/huawei-pura-x-view-ozellikleri-ve-satis-rakamlari",
-      "publishedAt": "2026-10-12T09:00:53+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "ColorOS 17 açık beta programı başladı: Oppo, OnePlus ve Realme modelleri listede",
       "link": "https://www.donanimhaber.com/coloros-17-acik-beta-programi-basladi-iste-desteklenen-modeller--211466",
@@ -124,12 +130,6 @@
       "title": "Geriye Dönüş #8 LG G2",
       "link": "https://www.donanimhaber.com/geriye-donus-8-lg-g2--211445",
       "publishedAt": "2026-10-10T09:00:17+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Dünyanın ilk RGB sıvı soğutmalı oyun telefonu geliyor",
-      "link": "https://www.donanimhaber.com/dunyanin-ilk-rgb-sivi-sogutmali-telefonu-geliyor--211439",
-      "publishedAt": "2026-10-09T19:03:00+00:00"
     }
   ]
 }
