@@ -1,0 +1,508 @@
+{
+  "brands": [
+    {
+      "name": "Acer",
+      "path": "acer-phones-59.php"
+    },
+    {
+      "name": "alcatel",
+      "path": "alcatel-phones-5.php"
+    },
+    {
+      "name": "Allview",
+      "path": "allview-phones-88.php"
+    },
+    {
+      "name": "Amazon",
+      "path": "amazon-phones-76.php"
+    },
+    {
+      "name": "Amoi",
+      "path": "amoi-phones-28.php"
+    },
+    {
+      "name": "Apple",
+      "path": "apple-phones-48.php"
+    },
+    {
+      "name": "Archos",
+      "path": "archos-phones-90.php"
+    },
+    {
+      "name": "Asus",
+      "path": "asus-phones-46.php"
+    },
+    {
+      "name": "AT&T",
+      "path": "at&t-phones-57.php"
+    },
+    {
+      "name": "Benefon",
+      "path": "benefon-phones-15.php"
+    },
+    {
+      "name": "BenQ",
+      "path": "benq-phones-31.php"
+    },
+    {
+      "name": "BenQ-Siemens",
+      "path": "benq_siemens-phones-42.php"
+    },
+    {
+      "name": "Bird",
+      "path": "bird-phones-34.php"
+    },
+    {
+      "name": "BlackBerry",
+      "path": "blackberry-phones-36.php"
+    },
+    {
+      "name": "Blackview",
+      "path": "blackview-phones-116.php"
+    },
+    {
+      "name": "BLU",
+      "path": "blu-phones-67.php"
+    },
+    {
+      "name": "Bosch",
+      "path": "bosch-phones-10.php"
+    },
+    {
+      "name": "BQ",
+      "path": "bq-phones-108.php"
+    },
+    {
+      "name": "Casio",
+      "path": "casio-phones-77.php"
+    },
+    {
+      "name": "Cat",
+      "path": "cat-phones-89.php"
+    },
+    {
+      "name": "Celkon",
+      "path": "celkon-phones-75.php"
+    },
+    {
+      "name": "Chea",
+      "path": "chea-phones-24.php"
+    },
+    {
+      "name": "Coolpad",
+      "path": "coolpad-phones-105.php"
+    },
+    {
+      "name": "Cubot",
+      "path": "cubot-phones-130.php"
+    },
+    {
+      "name": "Dell",
+      "path": "dell-phones-61.php"
+    },
+    {
+      "name": "Doogee",
+      "path": "doogee-phones-129.php"
+    },
+    {
+      "name": "Emporia",
+      "path": "emporia-phones-93.php"
+    },
+    {
+      "name": "Energizer",
+      "path": "energizer-phones-106.php"
+    },
+    {
+      "name": "Ericsson",
+      "path": "ericsson-phones-2.php"
+    },
+    {
+      "name": "Eten",
+      "path": "eten-phones-40.php"
+    },
+    {
+      "name": "Fairphone",
+      "path": "fairphone-phones-127.php"
+    },
+    {
+      "name": "Fujitsu Siemens",
+      "path": "fujitsu_siemens-phones-50.php"
+    },
+    {
+      "name": "Garmin-Asus",
+      "path": "garmin_asus-phones-65.php"
+    },
+    {
+      "name": "Gigabyte",
+      "path": "gigabyte-phones-47.php"
+    },
+    {
+      "name": "Gionee",
+      "path": "gionee-phones-92.php"
+    },
+    {
+      "name": "Google",
+      "path": "google-phones-107.php"
+    },
+    {
+      "name": "Haier",
+      "path": "haier-phones-33.php"
+    },
+    {
+      "name": "HMD",
+      "path": "hmd-phones-133.php"
+    },
+    {
+      "name": "Honor",
+      "path": "honor-phones-121.php"
+    },
+    {
+      "name": "HP",
+      "path": "hp-phones-41.php"
+    },
+    {
+      "name": "HTC",
+      "path": "htc-phones-45.php"
+    },
+    {
+      "name": "Huawei",
+      "path": "huawei-phones-58.php"
+    },
+    {
+      "name": "i-mate",
+      "path": "i_mate-phones-35.php"
+    },
+    {
+      "name": "i-mobile",
+      "path": "i_mobile-phones-52.php"
+    },
+    {
+      "name": "Icemobile",
+      "path": "icemobile-phones-69.php"
+    },
+    {
+      "name": "Infinix",
+      "path": "infinix-phones-119.php"
+    },
+    {
+      "name": "Innostream",
+      "path": "innostream-phones-29.php"
+    },
+    {
+      "name": "iNQ",
+      "path": "inq-phones-60.php"
+    },
+    {
+      "name": "Intex",
+      "path": "intex-phones-102.php"
+    },
+    {
+      "name": "itel",
+      "path": "itel-phones-131.php"
+    },
+    {
+      "name": "Jolla",
+      "path": "jolla-phones-84.php"
+    },
+    {
+      "name": "Karbonn",
+      "path": "karbonn-phones-83.php"
+    },
+    {
+      "name": "Kyocera",
+      "path": "kyocera-phones-17.php"
+    },
+    {
+      "name": "Lava",
+      "path": "lava-phones-94.php"
+    },
+    {
+      "name": "LeEco",
+      "path": "leeco-phones-109.php"
+    },
+    {
+      "name": "Lenovo",
+      "path": "lenovo-phones-73.php"
+    },
+    {
+      "name": "LG",
+      "path": "lg-phones-20.php"
+    },
+    {
+      "name": "Maxon",
+      "path": "maxon-phones-14.php"
+    },
+    {
+      "name": "Maxwest",
+      "path": "maxwest-phones-87.php"
+    },
+    {
+      "name": "Meizu",
+      "path": "meizu-phones-74.php"
+    },
+    {
+      "name": "Micromax",
+      "path": "micromax-phones-66.php"
+    },
+    {
+      "name": "Microsoft",
+      "path": "microsoft-phones-64.php"
+    },
+    {
+      "name": "Mitac",
+      "path": "mitac-phones-25.php"
+    },
+    {
+      "name": "Mitsubishi",
+      "path": "mitsubishi-phones-8.php"
+    },
+    {
+      "name": "Modu",
+      "path": "modu-phones-63.php"
+    },
+    {
+      "name": "Motorola",
+      "path": "motorola-phones-4.php"
+    },
+    {
+      "name": "MWg",
+      "path": "mwg-phones-56.php"
+    },
+    {
+      "name": "NEC",
+      "path": "nec-phones-12.php"
+    },
+    {
+      "name": "Neonode",
+      "path": "neonode-phones-22.php"
+    },
+    {
+      "name": "NIU",
+      "path": "niu-phones-79.php"
+    },
+    {
+      "name": "Nokia",
+      "path": "nokia-phones-1.php"
+    },
+    {
+      "name": "Nothing",
+      "path": "nothing-phones-128.php"
+    },
+    {
+      "name": "Nvidia",
+      "path": "nvidia-phones-97.php"
+    },
+    {
+      "name": "O2",
+      "path": "o2-phones-30.php"
+    },
+    {
+      "name": "OnePlus",
+      "path": "oneplus-phones-95.php"
+    },
+    {
+      "name": "Oppo",
+      "path": "oppo-phones-82.php"
+    },
+    {
+      "name": "Orange",
+      "path": "orange-phones-71.php"
+    },
+    {
+      "name": "Oscal",
+      "path": "oscal-phones-134.php"
+    },
+    {
+      "name": "Oukitel",
+      "path": "oukitel-phones-132.php"
+    },
+    {
+      "name": "Palm",
+      "path": "palm-phones-27.php"
+    },
+    {
+      "name": "Panasonic",
+      "path": "panasonic-phones-6.php"
+    },
+    {
+      "name": "Pantech",
+      "path": "pantech-phones-32.php"
+    },
+    {
+      "name": "Parla",
+      "path": "parla-phones-81.php"
+    },
+    {
+      "name": "Philips",
+      "path": "philips-phones-11.php"
+    },
+    {
+      "name": "Plum",
+      "path": "plum-phones-72.php"
+    },
+    {
+      "name": "Posh",
+      "path": "posh-phones-101.php"
+    },
+    {
+      "name": "Prestigio",
+      "path": "prestigio-phones-86.php"
+    },
+    {
+      "name": "QMobile",
+      "path": "qmobile-phones-103.php"
+    },
+    {
+      "name": "Qtek",
+      "path": "qtek-phones-38.php"
+    },
+    {
+      "name": "Razer",
+      "path": "razer-phones-117.php"
+    },
+    {
+      "name": "Realme",
+      "path": "realme-phones-118.php"
+    },
+    {
+      "name": "RugOne",
+      "path": "rugone-phones-136.php"
+    },
+    {
+      "name": "Sagem",
+      "path": "sagem-phones-13.php"
+    },
+    {
+      "name": "Samsung",
+      "path": "samsung-phones-9.php"
+    },
+    {
+      "name": "Sendo",
+      "path": "sendo-phones-18.php"
+    },
+    {
+      "name": "Sewon",
+      "path": "sewon-phones-26.php"
+    },
+    {
+      "name": "Sharp",
+      "path": "sharp-phones-23.php"
+    },
+    {
+      "name": "Siemens",
+      "path": "siemens-phones-3.php"
+    },
+    {
+      "name": "Sonim",
+      "path": "sonim-phones-54.php"
+    },
+    {
+      "name": "Sony",
+      "path": "sony-phones-7.php"
+    },
+    {
+      "name": "Sony Ericsson",
+      "path": "sony_ericsson-phones-19.php"
+    },
+    {
+      "name": "Spice",
+      "path": "spice-phones-68.php"
+    },
+    {
+      "name": "T-Mobile",
+      "path": "t_mobile-phones-55.php"
+    },
+    {
+      "name": "TCL",
+      "path": "tcl-phones-123.php"
+    },
+    {
+      "name": "Tecno",
+      "path": "tecno-phones-120.php"
+    },
+    {
+      "name": "Tel.Me.",
+      "path": "tel_me_-phones-21.php"
+    },
+    {
+      "name": "Telit",
+      "path": "telit-phones-16.php"
+    },
+    {
+      "name": "Thuraya",
+      "path": "thuraya-phones-49.php"
+    },
+    {
+      "name": "Toshiba",
+      "path": "toshiba-phones-44.php"
+    },
+    {
+      "name": "Ulefone",
+      "path": "ulefone-phones-124.php"
+    },
+    {
+      "name": "Umidigi",
+      "path": "umidigi-phones-135.php"
+    },
+    {
+      "name": "Unnecto",
+      "path": "unnecto-phones-91.php"
+    },
+    {
+      "name": "Vertu",
+      "path": "vertu-phones-39.php"
+    },
+    {
+      "name": "verykool",
+      "path": "verykool-phones-70.php"
+    },
+    {
+      "name": "vivo",
+      "path": "vivo-phones-98.php"
+    },
+    {
+      "name": "VK Mobile",
+      "path": "vk_mobile-phones-37.php"
+    },
+    {
+      "name": "Vodafone",
+      "path": "vodafone-phones-53.php"
+    },
+    {
+      "name": "Wiko",
+      "path": "wiko-phones-96.php"
+    },
+    {
+      "name": "WND",
+      "path": "wnd-phones-51.php"
+    },
+    {
+      "name": "XCute",
+      "path": "xcute-phones-43.php"
+    },
+    {
+      "name": "Xiaomi",
+      "path": "xiaomi-phones-80.php"
+    },
+    {
+      "name": "XOLO",
+      "path": "xolo-phones-85.php"
+    },
+    {
+      "name": "Yezz",
+      "path": "yezz-phones-78.php"
+    },
+    {
+      "name": "Yota",
+      "path": "yota-phones-99.php"
+    },
+    {
+      "name": "YU",
+      "path": "yu-phones-100.php"
+    },
+    {
+      "name": "ZTE",
+      "path": "zte-phones-62.php"
+    }
+  ]
+}

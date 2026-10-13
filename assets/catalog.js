@@ -1,4 +1,5 @@
 import { db, configured, imageUrl, money } from './catalog-client.js';
+import { openProductDetail } from './product-detail.js';
 const grid = document.getElementById('productGrid');
 let loading = false, category = 'all';
 function element(tag, className, text) {
@@ -15,11 +16,11 @@ function applyFilters() {
 function render(products) {
     const fragment = document.createDocumentFragment();
     products.forEach(product => {
-        const used = product.category === 'ikinciel';
+        const used = product.device_details?.state === 'İkinci el' || product.category === 'ikinciel';
         const card = element('div', 'glass-card rounded-2xl p-4 flex flex-col justify-between product-item');
         card.dataset.category = product.category;
         card.dataset.title = `${product.brand} ${product.title} ${product.condition}`.toLocaleLowerCase('tr');
-        const top = element('div', '');
+        const top = element('button', 'pd-open');top.type='button';top.setAttribute('aria-haspopup','dialog');top.setAttribute('aria-label',product.title+' detaylarını aç');top.onclick=()=>openProductDetail(product,{imageUrl,money});
         const visual = element('div', 'relative bg-gray-900 rounded-xl p-6 text-center mb-4 border border-gray-800 group');
         if (product.condition) visual.append(element('span', 'absolute top-2 left-2 bg-blue-500/20 text-blue-400 border border-blue-500/30 text-[10px] font-bold px-2 py-0.5 rounded', product.condition));
         if (product.image_path) {
@@ -27,7 +28,9 @@ function render(products) {
         } else visual.append(element('i', 'fa-solid fa-mobile-screen-button text-6xl text-gray-400 group-hover:scale-110 transition duration-300'));
         const meta = element('div', 'flex items-center justify-between text-xs text-gray-400 mb-1');
         meta.append(element('span', '', product.brand), element('span', product.stock > 0 ? 'text-emerald-400 font-semibold' : 'text-gray-400 font-semibold', product.stock > 0 ? 'Stokta Var' : 'Tükendi'));
-        top.append(visual, meta, element('h3', 'font-bold text-white text-base mb-1', product.title), element('p', 'text-xs text-gray-400 line-clamp-2', product.description));
+        const d=product.device_details;
+        const summary=d?`${d.ram} GB RAM · ${d.storage==='1024'?'1 TB':d.storage+' GB'} · ${d.state}${d.state==='İkinci el'?' · Kasa '+d.cosmetic+'/10':''}`:product.description;
+        top.append(visual, meta, element('h3', 'font-bold text-white text-base mb-1', product.title), element('p', 'text-xs text-gray-400 line-clamp-2', summary));
         const bottom = element('div', 'mt-4 pt-3 border-t border-gray-800/80 flex items-center justify-between');
         const price = element('div', '');
         price.append(element('span', 'text-xs text-gray-500 block', 'Dükkan Fiyatı'), element('span', `text-lg font-black ${used ? 'text-amber-400' : 'text-brand-400'}`, money(product.price)));
@@ -44,7 +47,7 @@ function render(products) {
 async function refresh() {
     if (loading) return; loading = true;
     try {
-        const { data, error } = await db.from('products').select('id,title,brand,category,price,stock,condition,description,image_path').eq('published', true).order('created_at', { ascending: false }).abortSignal(AbortSignal.timeout(15000));
+        const { data, error } = await db.from('products').select('*').eq('published', true).order('created_at', { ascending: false }).abortSignal(AbortSignal.timeout(15000));
         if (error) throw error;
         render(data);
     } catch {
