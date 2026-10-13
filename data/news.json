@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T13:10:10.992606+00:00",
+  "updatedAt": "2026-10-13T13:38:01.827146+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T13:10:10.992606+00:00",
+      "checkedAt": "2026-10-13T13:38:01.827146+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T13:10:10.992606+00:00",
+      "checkedAt": "2026-10-13T13:38:01.827146+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "vivo X500 Pro Max Türkiye İçin Duyuruldu: Ön Sipariş Fırsatları ve Özellikleri",
+      "link": "https://shiftdelete.net/vivo-x500-pro-max-turkiye-icin-duyuruldu-on-siparis-firsatlari-ve-ozellikleri",
+      "publishedAt": "2026-10-13T13:19:08+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Yeni HomePod mini 2 Tanıtıldı: Apple S10 Çipi ve Siri AI ile Güçlendi",
@@ -82,12 +88,6 @@
       "title": "WhatsApp Mesaj Zamanlama Özelliğini Test Etmeye Başladı",
       "link": "https://shiftdelete.net/whatsapp-mesaj-zamanlama-ozelligini-test-etmeye-basladi",
       "publishedAt": "2026-10-13T07:15:10+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Telefon Pazarı Daralırken Apple Rekor Payı Yakaladı",
-      "link": "https://shiftdelete.net/telefon-pazari-daralirken-apple-rekor-payi-yakaladi",
-      "publishedAt": "2026-10-13T06:54:18+00:00"
     },
     {
       "source": "DonanımHaber",
