@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T07:06:46.140331+00:00",
+  "updatedAt": "2026-10-13T07:36:11.262559+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T07:06:46.140331+00:00",
+      "checkedAt": "2026-10-13T07:36:11.262559+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T07:06:46.140331+00:00",
+      "checkedAt": "2026-10-13T07:36:11.262559+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp Mesaj Zamanlama Özelliğini Test Etmeye Başladı",
+      "link": "https://shiftdelete.net/whatsapp-mesaj-zamanlama-ozelligini-test-etmeye-basladi",
+      "publishedAt": "2026-10-13T07:15:10+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Telefon Pazarı Daralırken Apple Rekor Payı Yakaladı",
@@ -76,12 +82,6 @@
       "title": "OnePlus 16 Tanıtıldı: 9000 mAh Batarya ve 200 MP Kamera",
       "link": "https://shiftdelete.net/oneplus-16-tanitildi-9000-mah-batarya-ve-200-mp-kamera",
       "publishedAt": "2026-10-12T15:37:09+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Üç Farklı İşletim Sistemli NexPhone’un Çıkış Tarihi Ertelendi",
-      "link": "https://shiftdelete.net/uc-farkli-isletim-sistemli-nexphoneun-cikis-tarihi-ertelendi",
-      "publishedAt": "2026-10-12T14:30:23+00:00"
     },
     {
       "source": "DonanımHaber",
