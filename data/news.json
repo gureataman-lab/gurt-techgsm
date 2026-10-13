@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T16:56:22.436720+00:00",
+  "updatedAt": "2026-10-13T17:26:17.570127+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T16:56:22.436720+00:00",
+      "checkedAt": "2026-10-13T17:26:17.570127+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T16:56:22.436720+00:00",
+      "checkedAt": "2026-10-13T17:26:17.570127+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "ColorOS 17 tanıtıldı: İşte özellikleri ve dağıtım takvimi",
+      "link": "https://www.donanimhaber.com/coloros-17-tanitildi-iste-ozellikleri-ve-dagitim-takvimi--211570",
+      "publishedAt": "2026-10-13T17:17:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Devir Sayısı Nedir, Kaç Olmalı?",
@@ -124,12 +130,6 @@
       "title": "Sony, akıllı telefonlar için Eclipsa Audio sertifikalı mikrofonunu tanıttı",
       "link": "https://www.donanimhaber.com/sony-ecm-ax10-usb-c-mikrofon-iste-fiyati-ve-ozellikleri--211486",
       "publishedAt": "2026-10-11T14:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone'da bu özelliği kapatın: Pili ve interneti tüketiyor!",
-      "link": "https://www.donanimhaber.com/iphone-da-bu-ozelligi-kapatin-pili-ve-interneti-somuruyor--211471",
-      "publishedAt": "2026-10-11T13:30:00+00:00"
     }
   ]
 }
