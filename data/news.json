@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T07:36:11.262559+00:00",
+  "updatedAt": "2026-10-13T08:00:04.436263+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T07:36:11.262559+00:00",
+      "checkedAt": "2026-10-13T08:00:04.436263+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T07:36:11.262559+00:00",
+      "checkedAt": "2026-10-13T08:00:04.436263+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Bellek krizi telefonları vurdu: Fiyatlar tavan, satışlar dip yaptı",
+      "link": "https://www.donanimhaber.com/bellek-krizi-telefonlari-vurdu-fiyatlar-artti-satislar-dustu--211548",
+      "publishedAt": "2026-10-13T07:59:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "WhatsApp Mesaj Zamanlama Özelliğini Test Etmeye Başladı",
@@ -124,12 +130,6 @@
       "title": "Oppo'nun yeni telefonu 16:9 ekrana ve 1 mm çerçevelere sahip olacak",
       "link": "https://www.donanimhaber.com/oppo-nun-yeni-telefonu-16-9-ekrana-sahip-olacak--211448",
       "publishedAt": "2026-10-10T14:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Geriye Dönüş #8 LG G2",
-      "link": "https://www.donanimhaber.com/geriye-donus-8-lg-g2--211445",
-      "publishedAt": "2026-10-10T09:00:17+00:00"
     }
   ]
 }
