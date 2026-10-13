@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T15:56:20.311596+00:00",
+  "updatedAt": "2026-10-13T16:28:43.371452+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T15:56:20.311596+00:00",
+      "checkedAt": "2026-10-13T16:28:43.371452+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T15:56:20.311596+00:00",
+      "checkedAt": "2026-10-13T16:28:43.371452+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "AnTuTu Eylül Ayı Sıralaması Yayınlandı: Xiaomi Zirveye Yerleşti",
+      "link": "https://shiftdelete.net/antutu-eylul-ayi-siralamasi-yayinlandi-xiaomi-zirveye-yerlesti",
+      "publishedAt": "2026-10-13T16:00:46+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "vivo X500 Pro Max Türkiye İçin Duyuruldu: Ön Sipariş Fırsatları ve Özellikleri",
@@ -82,12 +88,6 @@
       "title": "Bellek krizi telefonları vurdu: Fiyatlar tavan, satışlar dip yaptı",
       "link": "https://www.donanimhaber.com/bellek-krizi-telefonlari-vurdu-fiyatlar-artti-satislar-dustu--211548",
       "publishedAt": "2026-10-13T07:59:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp Mesaj Zamanlama Özelliğini Test Etmeye Başladı",
-      "link": "https://shiftdelete.net/whatsapp-mesaj-zamanlama-ozelligini-test-etmeye-basladi",
-      "publishedAt": "2026-10-13T07:15:10+00:00"
     },
     {
       "source": "DonanımHaber",
