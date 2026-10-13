@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T11:27:55.737123+00:00",
+  "updatedAt": "2026-10-13T11:55:18.173605+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T11:27:55.737123+00:00",
+      "checkedAt": "2026-10-13T11:55:18.173605+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T11:27:55.737123+00:00",
+      "checkedAt": "2026-10-13T11:55:18.173605+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple Hisseleri Ne Durumda? iPhone 18 Pro Nasıl Etkiledi?",
+      "link": "https://shiftdelete.net/apple-hisseleri-ne-durumda-iphone-18-pro-nasil-etkiledi",
+      "publishedAt": "2026-10-13T11:30:13+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "YouTube Yeni Uygulama Simgeleri Sunulabilir",
@@ -88,12 +94,6 @@
       "title": "Google Fitbit Edge tanıtıldı: Değiştirilebilir pil, 7 gün şarj",
       "link": "https://shiftdelete.net/google-fitbit-edge-tanitildi-degistirilebilir-pil-7-gun-sarj",
       "publishedAt": "2026-10-12T19:00:02+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Nothing’in patronu Carl Pei’den iPhone Duo’ya ağır eleştiri: Bu parayı hak etmiyor!",
-      "link": "https://shiftdelete.net/nothingin-patronu-carl-peiden-iphone-duoya-agir-elestiri-bu-parayi-hak-etmiyor",
-      "publishedAt": "2026-10-12T18:30:26+00:00"
     },
     {
       "source": "DonanımHaber",
