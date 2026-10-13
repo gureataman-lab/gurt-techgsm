@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T04:56:44.420878+00:00",
+  "updatedAt": "2026-10-13T05:27:25.181836+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T04:56:44.420878+00:00",
+      "checkedAt": "2026-10-13T05:27:25.181836+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T04:56:44.420878+00:00",
+      "checkedAt": "2026-10-13T05:27:25.181836+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Ucuz Android Telefon Kullananlar Dikkat: Zararlı Yazılım Bulundu",
+      "link": "https://shiftdelete.net/ucuz-android-telefonlar-zararli-yazilim-uyarisi",
+      "publishedAt": "2026-10-13T05:00:28+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple Bugün Welcome Home Etkinliğinde Neler Tanıtacak?",
@@ -76,12 +82,6 @@
       "title": "Android 17 Tabanlı LineageOS 24 Yayınlandı",
       "link": "https://shiftdelete.net/android-17-tabanli-lineageos-24-yayinlandi",
       "publishedAt": "2026-10-12T12:15:31+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Huawei 6.17 inçlik yeni kompakt telefon üzerinde çalışıyor",
-      "link": "https://shiftdelete.net/huawei-6-17-inclik-yeni-kompakt-telefon-uzerinde-calisiyor",
-      "publishedAt": "2026-10-12T11:49:16+00:00"
     },
     {
       "source": "DonanımHaber",
