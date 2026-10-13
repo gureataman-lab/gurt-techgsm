@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T06:34:14.433485+00:00",
+  "updatedAt": "2026-10-13T07:06:46.140331+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T06:34:14.433485+00:00",
+      "checkedAt": "2026-10-13T07:06:46.140331+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T06:34:14.433485+00:00",
+      "checkedAt": "2026-10-13T07:06:46.140331+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Telefon Pazarı Daralırken Apple Rekor Payı Yakaladı",
+      "link": "https://shiftdelete.net/telefon-pazari-daralirken-apple-rekor-payi-yakaladi",
+      "publishedAt": "2026-10-13T06:54:18+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Ucuz Android Telefon Kullananlar Dikkat: Zararlı Yazılım Bulundu",
@@ -22,6 +28,12 @@
       "title": "Apple Bugün Welcome Home Etkinliğinde Neler Tanıtacak?",
       "link": "https://shiftdelete.net/apple-yarin-welcome-home-etkinliginde-neler-tanitacak",
       "publishedAt": "2026-10-13T04:01:14+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung Galaxy Sahipleri Dikkat: Telefonlar Kullanılmaz Hale Geldi",
+      "link": "https://shiftdelete.net/samsung-one-ui-9-guncelleme-sorunu",
+      "publishedAt": "2026-10-13T04:00:15+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -70,18 +82,6 @@
       "title": "Üç Farklı İşletim Sistemli NexPhone’un Çıkış Tarihi Ertelendi",
       "link": "https://shiftdelete.net/uc-farkli-isletim-sistemli-nexphoneun-cikis-tarihi-ertelendi",
       "publishedAt": "2026-10-12T14:30:23+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "OnePlus 16 G3 Ağ Çipi ile Oyun Deneyimini Geliştiriyor",
-      "link": "https://shiftdelete.net/oneplus-16-g3-ag-cipi-ile-oyun-deneyimini-gelistiriyor",
-      "publishedAt": "2026-10-12T13:00:20+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Android 17 Tabanlı LineageOS 24 Yayınlandı",
-      "link": "https://shiftdelete.net/android-17-tabanli-lineageos-24-yayinlandi",
-      "publishedAt": "2026-10-12T12:15:31+00:00"
     },
     {
       "source": "DonanımHaber",
