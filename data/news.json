@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T09:55:21.067925+00:00",
+  "updatedAt": "2026-10-13T10:28:29.283022+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T09:55:21.067925+00:00",
+      "checkedAt": "2026-10-13T10:28:29.283022+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T09:55:21.067925+00:00",
+      "checkedAt": "2026-10-13T10:28:29.283022+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp Sesli Çıkartma Özelliğini Test Etmeye Başladı",
+      "link": "https://shiftdelete.net/whatsapp-sesli-cikartma-ozelligini-test-etmeye-basladi",
+      "publishedAt": "2026-10-13T10:00:13+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "One UI 9'a güncellerken dikkat: Telefonunuz takılı kalabilir!",
@@ -88,12 +94,6 @@
       "title": "iPhone 18 Pro Max’i Zırhladık ve Yere Attık! (Pitaka Kılıf & Düşme Testi)",
       "link": "https://shiftdelete.net/iphone-18-pro-maxi-zirhladik-ve-yere-attik-pitaka-kilif-dusme-testi",
       "publishedAt": "2026-10-12T15:43:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "OnePlus 16 Tanıtıldı: 9000 mAh Batarya ve 200 MP Kamera",
-      "link": "https://shiftdelete.net/oneplus-16-tanitildi-9000-mah-batarya-ve-200-mp-kamera",
-      "publishedAt": "2026-10-12T15:37:09+00:00"
     },
     {
       "source": "DonanımHaber",
