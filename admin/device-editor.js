@@ -1,4 +1,4 @@
-import { validateDevice, RAM, STORAGE, DAYS, PHOTO_LIMIT, galleryPaths } from '../assets/device-fields.js';
+import { validateDevice, RAM, STORAGE, DAYS, PHOTO_LIMIT, COSMETIC, COLORS, galleryPaths } from '../assets/device-fields.js';
 
 export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loadProducts}) {
  const $=id=>document.getElementById(id), form=$('productForm'), field=name=>form.elements.namedItem(name);
@@ -8,14 +8,20 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
  function fill(name,values,label=x=>x) { field(name).replaceChildren(option('','Seçin'),...values.map(x=>option(x,label(x)))); }
  fill('ram',RAM,x=>x+' GB');fill('storage',STORAGE,x=>x==='1024'?'1 TB':x+' GB');
  for(const name of ['line1','line2']) fill(name,DAYS,x=>x+' gün');
- fill('cosmetic',Array.from({length:10},(_,i)=>String(i+1)),x=>x+' / 10');
+ fill('cosmetic',COSMETIC,x=>x+' / 10');
+ fill('color',COLORS);field('color').add(option('other','Diğer / Özel renk'));
  function conditions() {
    const unregistered=field('registration').value==='Kayıtsız';
    $('lineFields').hidden=!unregistered;$('methodField').hidden=field('registration').value!=='Kayıtlı';
    field('line1').required=field('line2').required=unregistered;field('method').required=field('registration').value==='Kayıtlı';
    const used=field('state').value==='İkinci el';$('cosmeticField').hidden=!used;field('cosmetic').required=used;
+   const battery=field('battery_percent').value!=='';
+   $('batteryCyclesField').hidden=!battery;field('battery_cycles').required=battery;
+   if(!battery)field('battery_cycles').value='';
+   const custom=field('color').value==='other';$('customColorField').hidden=!custom;field('custom_color').required=custom;
  }
  field('registration').onchange=conditions;field('state').onchange=conditions;
+ field('battery_percent').oninput=conditions;field('color').onchange=conditions;
  async function source(action,path) {
    const {data,error}=await db.functions.invoke('phone-catalog',{body:{action,path}});
    if(error||data?.error) throw new Error(data?.error||'Model servisine ulaşılamadı. phone-catalog kurulumunu veya bağlantıyı kontrol edin.');
@@ -84,7 +90,9 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
    brandOptions(product?.brand||'');
    for(const name of ['title','category','price','stock'])if(product)field(name).value=product[name];
    field('published').checked=product?.published||false;
-   for(const name of ['ram','storage','origin','registration','line1','line2','method','rom','state','cosmetic'])field(name).value=d?.[name]||'';
+   for(const name of ['ram','storage','origin','registration','line1','line2','method','rom','state','cosmetic','battery_percent','battery_cycles'])field(name).value=d?.[name]??'';
+   field('color').value=d?.color?(COLORS.includes(d.color)?d.color:'other'):'';
+   field('custom_color').value=d?.color&&!COLORS.includes(d.color)?d.color:'';
    path=d?.model_path||'';specs=d?.specs||null;
    field('model').replaceChildren(option('','Önce marka seçin'));field('model').disabled=true;
    if(d?.model){field('model').add(option(path,d.model));field('model').value=path;field('model').disabled=false;}
@@ -105,7 +113,9 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
    try {
      if(!path||!specs||specs.url!=='https://www.gsmarena.com/'+path)throw new Error('Modelin teknik özellikleri alınamadı. Modeli tekrar seçin.');
      d={model:field('model').selectedOptions[0]?.textContent||'',model_path:path,specs,photos:[],defects:[]};
-     for(const name of ['ram','storage','origin','registration','line1','line2','method','rom','state','cosmetic'])d[name]=field(name).value;
+     for(const name of ['ram','storage','origin','registration','line1','line2','method','rom','state','cosmetic','battery_percent','battery_cycles'])d[name]=field(name).value;
+     d.color=field('color').value==='other'?field('custom_color').value.trim():field('color').value;
+     if(field('color').value==='other'&&!d.color)throw new Error('Özel rengi yazın.');
      d=validateDevice(d);
      value=validateProduct({title:field('title').value,brand:field('brand').value,category:field('category').value,price:Number(field('price').value),stock:Number(field('stock').value),description:editing?.description||'',condition:'',published:field('published').checked});
    }catch(error){$('formError').textContent=error.message;return;}
