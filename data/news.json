@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T08:30:22.450393+00:00",
+  "updatedAt": "2026-10-13T08:56:09.927452+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T08:30:22.450393+00:00",
+      "checkedAt": "2026-10-13T08:56:09.927452+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T08:30:22.450393+00:00",
+      "checkedAt": "2026-10-13T08:56:09.927452+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "One UI 9'a güncellerken dikkat: Telefonunuz takılı kalabilir!",
+      "link": "https://www.donanimhaber.com/one-ui-9-a-guncellerken-dikkat-telefonunuz-takili-kalabilir--211549",
+      "publishedAt": "2026-10-13T08:42:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Bellek krizi telefonları vurdu: Fiyatlar tavan, satışlar dip yaptı",
@@ -124,12 +130,6 @@
       "title": "HyperOS 4 güncellemesini alacak ilk Xiaomi ve Redmi modelleri belli oldu",
       "link": "https://www.donanimhaber.com/hyperos-4-alacak-ilk-xiaomi-ve-redmi-modelleri-belli-oldu--211454",
       "publishedAt": "2026-10-11T10:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Oppo'nun yeni telefonu 16:9 ekrana ve 1 mm çerçevelere sahip olacak",
-      "link": "https://www.donanimhaber.com/oppo-nun-yeni-telefonu-16-9-ekrana-sahip-olacak--211448",
-      "publishedAt": "2026-10-10T14:00:00+00:00"
     }
   ]
 }
