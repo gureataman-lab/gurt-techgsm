@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T03:56:44.032970+00:00",
+  "updatedAt": "2026-10-13T04:27:59.087797+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T03:56:44.032970+00:00",
+      "checkedAt": "2026-10-13T04:27:59.087797+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T03:56:44.032970+00:00",
+      "checkedAt": "2026-10-13T04:27:59.087797+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple Bugün Welcome Home Etkinliğinde Neler Tanıtacak?",
+      "link": "https://shiftdelete.net/apple-yarin-welcome-home-etkinliginde-neler-tanitacak",
+      "publishedAt": "2026-10-13T04:01:14+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Carl Pei, Apple'ı yerden yere vurdu: iPhone Duo para tuzağı!",
@@ -82,12 +88,6 @@
       "title": "Galaxy S27 Ultra işlemcisi ortaya çıktı: Exynos rafa mı kalkıyor?",
       "link": "https://www.donanimhaber.com/galaxy-s27-ultra-islemcisi-ortaya-cikti-exynos-rafa-mi-kalkiyor--211505",
       "publishedAt": "2026-10-12T10:11:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo Üretimi Çin’deki En Büyük Foxconn Tesisinde Yapılıyor",
-      "link": "https://shiftdelete.net/iphone-duo-uretimi-cindeki-en-buyuk-foxconn-tesisinde-yapiliyor",
-      "publishedAt": "2026-10-12T09:15:21+00:00"
     },
     {
       "source": "DonanımHaber",
