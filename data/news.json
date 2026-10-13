@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-13T10:28:29.283022+00:00",
+  "updatedAt": "2026-10-13T10:56:47.604873+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T10:28:29.283022+00:00",
+      "checkedAt": "2026-10-13T10:56:47.604873+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T10:28:29.283022+00:00",
+      "checkedAt": "2026-10-13T10:56:47.604873+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "185FPS oyun moduyla OnePlus 16 tanıtıldı: İşte özellikleri",
+      "link": "https://www.donanimhaber.com/oneplus-16-tanitildi-iste-ozellikleri-ve-fiyati--211558",
+      "publishedAt": "2026-10-13T10:52:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Türk Telekom Numara Değiştirme Nasıl Yapılır?",
+      "link": "https://shiftdelete.net/turk-telekom-numara-degistirme",
+      "publishedAt": "2026-10-13T10:48:01+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "WhatsApp Sesli Çıkartma Özelliğini Test Etmeye Başladı",
@@ -90,12 +102,6 @@
       "publishedAt": "2026-10-12T16:26:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "iPhone 18 Pro Max’i Zırhladık ve Yere Attık! (Pitaka Kılıf & Düşme Testi)",
-      "link": "https://shiftdelete.net/iphone-18-pro-maxi-zirhladik-ve-yere-attik-pitaka-kilif-dusme-testi",
-      "publishedAt": "2026-10-12T15:43:38+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Galaxy S27 Ultra işlemcisi ortaya çıktı: Exynos rafa mı kalkıyor?",
       "link": "https://www.donanimhaber.com/galaxy-s27-ultra-islemcisi-ortaya-cikti-exynos-rafa-mi-kalkiyor--211505",
@@ -124,12 +130,6 @@
       "title": "iPhone'da bu özelliği kapatın: Pili ve interneti tüketiyor!",
       "link": "https://www.donanimhaber.com/iphone-da-bu-ozelligi-kapatin-pili-ve-interneti-somuruyor--211471",
       "publishedAt": "2026-10-11T13:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "HyperOS 4 güncellemesini alacak ilk Xiaomi ve Redmi modelleri belli oldu",
-      "link": "https://www.donanimhaber.com/hyperos-4-alacak-ilk-xiaomi-ve-redmi-modelleri-belli-oldu--211454",
-      "publishedAt": "2026-10-11T10:00:00+00:00"
     }
   ]
 }
