@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T10:56:47.604873+00:00",
+  "updatedAt": "2026-10-13T11:27:55.737123+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T10:56:47.604873+00:00",
+      "checkedAt": "2026-10-13T11:27:55.737123+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T10:56:47.604873+00:00",
+      "checkedAt": "2026-10-13T11:27:55.737123+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "YouTube Yeni Uygulama Simgeleri Sunulabilir",
+      "link": "https://shiftdelete.net/youtube-yeni-uygulama-simgeleri-sunulabilir",
+      "publishedAt": "2026-10-13T11:00:11+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "185FPS oyun moduyla OnePlus 16 tanıtıldı: İşte özellikleri",
@@ -88,12 +94,6 @@
       "title": "Nothing’in patronu Carl Pei’den iPhone Duo’ya ağır eleştiri: Bu parayı hak etmiyor!",
       "link": "https://shiftdelete.net/nothingin-patronu-carl-peiden-iphone-duoya-agir-elestiri-bu-parayi-hak-etmiyor",
       "publishedAt": "2026-10-12T18:30:26+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Google Fitbit Edge Tanıtıldı: Pixel Watch’un Eksiklerini Gideriyor",
-      "link": "https://shiftdelete.net/google-fitbit-edge-tanitildi-pixel-watchun-eksiklerini-gideriyor",
-      "publishedAt": "2026-10-12T16:32:45+00:00"
     },
     {
       "source": "DonanımHaber",
