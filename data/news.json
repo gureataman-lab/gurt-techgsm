@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-13T16:28:43.371452+00:00",
+  "updatedAt": "2026-10-13T16:56:22.436720+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-13T16:28:43.371452+00:00",
+      "checkedAt": "2026-10-13T16:56:22.436720+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-13T16:28:43.371452+00:00",
+      "checkedAt": "2026-10-13T16:56:22.436720+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Devir Sayısı Nedir, Kaç Olmalı?",
+      "link": "https://shiftdelete.net/iphone-devir-sayisi",
+      "publishedAt": "2026-10-13T16:30:11+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "AnTuTu Eylül Ayı Sıralaması Yayınlandı: Xiaomi Zirveye Yerleşti",
@@ -70,12 +76,6 @@
       "title": "Türk Telekom Numara Değiştirme Nasıl Yapılır?",
       "link": "https://shiftdelete.net/turk-telekom-numara-degistirme",
       "publishedAt": "2026-10-13T10:48:01+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp Sesli Çıkartma Özelliğini Test Etmeye Başladı",
-      "link": "https://shiftdelete.net/whatsapp-sesli-cikartma-ozelligini-test-etmeye-basladi",
-      "publishedAt": "2026-10-13T10:00:13+00:00"
     },
     {
       "source": "DonanımHaber",
