@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-14T08:38:56.352274+00:00",
+  "updatedAt": "2026-10-14T09:37:36.693020+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T08:38:56.352274+00:00",
+      "checkedAt": "2026-10-14T09:37:36.693020+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T08:38:56.352274+00:00",
+      "checkedAt": "2026-10-14T09:37:36.693020+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo için İlk Güncelleme Hazır",
+      "link": "https://shiftdelete.net/iphone-duo-ios-27-1-guncellemesi",
+      "publishedAt": "2026-10-14T09:00:24+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Türkiye Telefon Üretim Kapasitesinde Yeni Rekor Kırdı",
+      "link": "https://shiftdelete.net/turkiye-telefon-uretim-kapasitesinde-yeni-rekor-kirdi",
+      "publishedAt": "2026-10-14T08:44:49+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Nothing OS 5.0 Yayınlandı: İşte Desteklenen Modeller",
@@ -82,18 +94,6 @@
       "title": "Yeni HomePod mini 2 Tanıtıldı: Apple S10 Çipi ve Siri AI ile Güçlendi",
       "link": "https://shiftdelete.net/yeni-homepod-mini-2-tanitildi-apple-s10-cipi-ve-siri-ai-ile-guclendi",
       "publishedAt": "2026-10-13T13:06:09+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Yeni Apple TV 4K Tanıtıldı: Siri AI ve Apple Intelligence Gücüyle Yenilendi",
-      "link": "https://shiftdelete.net/yeni-apple-tv-4k-tanitildi-siri-ai-ve-apple-intelligence-gucuyle-yenilendi",
-      "publishedAt": "2026-10-13T13:04:31+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple HomeView Tanıtıldı!",
-      "link": "https://shiftdelete.net/apple-homeview-tanitildi",
-      "publishedAt": "2026-10-13T13:02:53+00:00"
     },
     {
       "source": "DonanımHaber",
