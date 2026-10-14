@@ -93,6 +93,7 @@
         }
     </style>
 <link rel="stylesheet" href="assets/storefront.css">
+<link rel="stylesheet" href="assets/trade-form.css">
 </head>
 <body class="custom-scrollbar min-h-screen flex flex-col justify-between selection:bg-brand-500 selection:text-white">
 
@@ -351,43 +352,17 @@
                     <p class="text-xs text-gray-400 mt-1">Elinizdeki 2. el cihazın bilgilerini girin, saniyeler içinde dükkanımızdan nakit alım teklifi alın.</p>
                 </div>
 
-                <form onsubmit="sendTradeInQuote(event)" class="grid md:grid-cols-2 gap-4">
-                    <div>
-                        <label class="block text-xs font-medium text-gray-300 mb-1">Satılacak Telefon Modeli</label>
-                        <input type="text" id="tradeModel" required placeholder="Örn: iPhone 12 128GB" class="w-full bg-gray-900 border border-gray-700 text-white text-sm rounded-xl px-4 py-2.5 focus:border-amber-500 focus:outline-none">
-                    </div>
-
-                    <div>
-                        <label class="block text-xs font-medium text-gray-300 mb-1">Kozmetik Durumu</label>
-                        <select id="tradeCondition" class="w-full bg-gray-900 border border-gray-700 text-white text-sm rounded-xl px-4 py-2.5 focus:border-amber-500 focus:outline-none">
-                            <option value="Çok Temiz (Sıfır Gibi)">Çok Temiz (Nokta Hatasız)</option>
-                            <option value="Hafif Kılcal Çizikli">Hafif Kılcal Çizikleri Var</option>
-                            <option value="Kasa/Ekranda Darbe var">Kasa veya Ekranda Darbe Var</option>
-                            <option value="Ekranı Kırık / Tamirli">Ekran Değişmiş / Kırık</option>
-                        </select>
-                    </div>
-
-                    <div>
-                        <label class="block text-xs font-medium text-gray-300 mb-1">Kutu & Fatura Durumu</label>
-                        <select id="tradeBox" class="w-full bg-gray-900 border border-gray-700 text-white text-sm rounded-xl px-4 py-2.5 focus:border-amber-500 focus:outline-none">
-                            <option value="Kutu ve Faturası Var">Kutusu ve Faturası Var</option>
-                            <option value="Sadece Kutusu Var">Sadece Kutusu Var</option>
-                            <option value="Kutu/Fatura Yok">Kutusu ve Faturası Yok</option>
-                        </select>
-                    </div>
-
-                    <div>
-                        <label class="block text-xs font-medium text-gray-300 mb-1">Pil Sağlığı (iPhone için)</label>
-                        <input type="text" id="tradeBattery" placeholder="Örn: %85 veya Bilmiyorum" class="w-full bg-gray-900 border border-gray-700 text-white text-sm rounded-xl px-4 py-2.5 focus:border-amber-500 focus:outline-none">
-                    </div>
-
-                    <div class="md:col-span-2 pt-2">
-                        <button type="submit" class="w-full bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-white font-bold py-3.5 rounded-xl transition flex items-center justify-center gap-2 shadow-lg shadow-amber-500/20">
-                            <i class="fa-brands fa-whatsapp text-xl"></i>
-                            <span>Nakit Fiyat Teklifi Al (WhatsApp)</span>
-                        </button>
-                    </div>
-                </form>
+<form id="tradeInForm" class="grid md:grid-cols-2 gap-4">
+<label>Ürün adı (isteğe bağlı)<input name="title" maxlength="160" placeholder="Örn. iPhone 15 Pro 256 GB"></label><label>Marka<select name="brand" required><option value="">Seçin</option></select></label><label id="tradeCustom_brand" hidden>Marka adı<input name="custom_brand" maxlength="60"></label><label>Model<select name="model" required><option value="">Seçin</option></select></label><label id="tradeCustom_model" hidden>Model adı<input name="custom_model" maxlength="200" placeholder="Cihazınızın tam modelini yazın"></label>
+<p id="tradeModelHelp" class="trade-note trade-span">Listede bulunan modelleri seçebilir veya cihazınızın modelini kendiniz yazabilirsiniz.</p>
+<label>RAM<select name="ram" required><option value="">Seçin</option></select></label><label>Hafıza<select name="storage" required><option value="">Seçin</option></select></label><label>KVK / Yurtdışı<select name="origin" required><option value="">Seçin</option><option>KVK</option><option>Yurtdışı</option></select></label><label>Kayıt durumu<select name="registration" required><option value="">Seçin</option><option>Kayıtlı</option><option>Kayıtsız</option></select></label><div id="tradeLines" class="trade-two trade-span" hidden><label>1. hat kullanım süresi<select name="line1" ><option value="">Seçin</option></select></label><label>2. hat kullanım süresi<select name="line2" ><option value="">Seçin</option></select></label></div><div id="tradeMethod" hidden><label>Kayıt yöntemi<select name="method" ><option value="">Seçin</option><option>Server</option><option>Direnç</option></select></label></div><label>ROM<select name="rom" required><option value="">Seçin</option><option>Global</option><option>Çin</option><option>Convert</option></select></label><label>Cihaz durumu<select name="state" required><option value="">Seçin</option><option>Sıfır</option><option>İkinci el</option></select></label><div id="tradeCosmetic" hidden><label>Kasa durumu<select name="cosmetic" ><option value="">Seçin</option></select></label></div><label>Renk<select name="color" required><option value="">Seçin</option></select></label><label id="tradeCustom_color" hidden>Özel renk adı<input name="custom_color" maxlength="80"></label>
+<div><label>Pil yüzdesi (%)<input name="battery_percent" type="number" min="0" max="100" step="1" inputmode="numeric" placeholder="Bilmiyorsanız boş bırakın"></label><div id="tradeCycles" hidden><label>Pil devri<input name="battery_cycles" type="number" min="0" max="1500" step="1" inputmode="numeric" placeholder="0–1500"></label></div></div><label>Kutu / Fatura<select name="box" required><option value="">Seçin</option><option>Kutu ve faturası var</option><option>Sadece kutusu var</option><option>Sadece faturası var</option><option>Kutu ve faturası yok</option></select></label><label class="trade-span">Ek açıklama / kusurlar (isteğe bağlı)<textarea name="notes" rows="3" maxlength="1000" placeholder="Çizik, darbe, değişen parça veya belirtmek istediğiniz diğer bilgiler"></textarea></label>
+<p class="trade-note trade-span">Seçimleriniz WhatsApp mesajına aktarılır. Göndermek için WhatsApp'ta gönder düğmesine basın. Cihazın ve varsa kusurların fotoğraflarını sohbetten ekleyebilirsiniz.</p>
+<p id="tradeError" class="trade-span" role="alert"></p>
+<div class="trade-span pt-2"><button id="tradeSend" disabled type="submit" class="w-full bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-white font-bold py-3.5 rounded-xl transition flex items-center justify-center gap-2 shadow-lg shadow-amber-500/20"><i class="fa-brands fa-whatsapp text-xl"></i><span>Nakit Fiyat Teklifi Al (WhatsApp)</span></button></div>
+<a id="tradeFallback" class="trade-span" target="_blank" rel="noopener noreferrer" hidden>WhatsApp açılmadıysa buraya dokunun</a>
+<noscript><p>Bu form için JavaScript gerekli. WhatsApp Destek bağlantısından bize yazabilirsiniz.</p></noscript>
+</form>
             </div>
         </div>
     </section>
@@ -648,26 +623,12 @@
             window.open(url, '_blank');
         }
 
-        function sendTradeInQuote(e) {
-            e.preventDefault();
-            const model = document.getElementById('tradeModel').value;
-            const condition = document.getElementById('tradeCondition').value;
-            const box = document.getElementById('tradeBox').value;
-            const battery = document.getElementById('tradeBattery').value;
 
-            let msg = `Merhaba GÜR-TECH GSM,\nElimdeki 2.el telefonu satmak / takas etmek istiyorum. Fiyat teklifi verir misiniz?\n\n`;
-            msg += `📱 *Cihaz:* ${model}\n`;
-            msg += `✨ *Kozmetik Durumu:* ${condition}\n`;
-            msg += `📦 *Kutu & Fatura:* ${box}\n`;
-            if(battery) msg += `🔋 *Pil Sağlığı:* ${battery}\n`;
-
-            const url = `https://wa.me/${SHOP_PHONE}?text=${encodeURIComponent(msg)}`;
-            window.open(url, '_blank');
-        }
 
     </script>
     <script src="assets/news-ticker.js"></script>
     <script src="assets/catalog-config.js"></script>
     <script src="assets/catalog-start.js"></script>
+<script src="assets/trade-start.js"></script>
 </body>
 </html>
