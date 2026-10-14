@@ -50,6 +50,11 @@ export function openProductDetail(product,{imageUrl,money}){
  const returnFocus=document.activeElement;
  const dialog=el('dialog','','product-detail');active=dialog;dialog.setAttribute('aria-labelledby','pd-title');
  const heading=el('div','','pd-heading'),title=el('h2',product.title);title.id='pd-title';const close=el('button','✕');close.type='button';close.setAttribute('aria-label','Ürün detayını kapat');close.onclick=()=>dialog.close();heading.append(title,close);
+ if(product.category==='aksesuar'){
+  const rows=[['Ürün adı',product.title],['Durum',product.condition||'Belirtilmedi'],['Stok',product.stock>0?product.stock+' adet':'Tükendi'],['Fiyat',money(product.price)]];
+  dialog.append(heading);if(product.image_path)dialog.append(gallery(product,'photos',imageUrl));dialog.append(table(rows),el('p',product.description,'pd-description'));
+  dialog.addEventListener('close',()=>{dialog.remove();if(active===dialog)active=null;if(returnFocus?.isConnected)returnFocus.focus();},{once:true});document.body.append(dialog);dialog.showModal();return;
+ }
  const info=el('section'),technical=el('section'),general=gallery(product,'photos',imageUrl),defects=gallery(product,'defects',imageUrl);
  info.append(tabs(['Genel Fotoğraflar','Kusur Fotoğrafları'],[general,defects],'Fotoğraf türü'),general,defects,table([...deviceRows(product),['Fiyat',money(product.price)]]));
  if(product.description)info.append(el('p',product.description,'pd-description'));

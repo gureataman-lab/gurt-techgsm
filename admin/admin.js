@@ -1,3 +1,5 @@
+import {createAccessoryEditor} from './accessory-editor.js';
+import {createInventory} from './inventory.js';
 import { createDeviceEditor } from './device-editor.js';
 import { db, configured, categories, money, imageUrl, validateProduct } from '../assets/catalog-client.js';
 const $ = id => document.getElementById(id);
@@ -21,6 +23,7 @@ async function authorize(session) {
     if (!session) {
         products = []; $('productList').replaceChildren();
         if ($('editor').open) $('editor').close();
+        if ($('accessoryEditor').open) $('accessoryEditor').close(); inventory.clear();
         view('loginView'); return;
     }
     const { data, error } = await db.rpc('is_catalog_admin');
@@ -28,6 +31,7 @@ async function authorize(session) {
     if (error || data !== true) {
         view('loginView'); products = []; $('productList').replaceChildren();
         if ($('editor').open) $('editor').close();
+        if ($('accessoryEditor').open) $('accessoryEditor').close(); inventory.clear();
         await db.auth.signOut({ scope: 'local' });
         message(error ? 'Yetki kontrolü tamamlanamadı. Tekrar giriş yapın.' : 'Bu hesap yönetim paneli için yetkilendirilmemiş.', true);
         return;
@@ -43,7 +47,11 @@ async function loadProducts() {
     const { data, error } = await db.from('products').select('*').order('created_at', { ascending: false }).abortSignal(AbortSignal.timeout(15000));
     if (epoch !== sessionEpoch) return;
     if (error) { $('listStatus').textContent = 'Liste yenilenemedi. Yenile düğmesiyle tekrar deneyin.'; message(explain(error), true); return; }
-    products = data; renderList();
+    const {data:groups,error:groupError}=await db.from('product_groups').select('*').order('name').abortSignal(AbortSignal.timeout(15000));
+    if(epoch!==sessionEpoch)return;
+    products=data;renderList();
+    if(groupError){inventory.clear();$('inventoryCount').textContent='Stok yönetimi yüklenemedi. Yenile düğmesine basın.';message('Stok kategorileri yüklenemedi. Veritabanı güncellemesini ve bağlantıyı kontrol edin.',true);}
+    else inventory.setData(products,groups||[]);
 }
 function renderList() {
     $('totalCount').textContent = products.length;
@@ -61,7 +69,7 @@ function renderList() {
             const img = document.createElement('img'); img.src = imageUrl(product.image_path); img.alt = product.title; img.loading = 'lazy'; card.append(img);
         } else card.append(node('div', '▯', 'placeholder'));
         const meta = node('div', '', 'meta');
-        meta.append(node('span', categories[product.category]), node('span', product.published ? 'Yayında' : 'Taslak', product.published ? 'status' : 'status draft'));
+        meta.append(node('span', product.category==='aksesuar'?'Aksesuar':'Telefon'), node('span', product.published ? 'Yayında' : 'Taslak', product.published ? 'status' : 'status draft'));
         card.append(meta, node('h3', product.title), node('span', money(product.price), 'price'));
         card.append(node('div', `Stok: ${product.stock} adet · ${product.device_details?.state || product.condition || 'Durum belirtilmedi'}`, 'small muted'));
         const edit = node('button', 'Düzenle'); edit.type = 'button'; edit.addEventListener('click', () => openEditor(product));
@@ -71,7 +79,11 @@ function renderList() {
     $('listStatus').textContent = filtered.length ? `${filtered.length} ürün gösteriliyor.` : (products.length ? 'Aramanıza uygun ürün bulunamadı.' : 'Henüz ürün eklemediniz. İlk ürününüzü ekleyerek başlayın.');
 }
 const deviceEditor = createDeviceEditor({ db, imageUrl, validateProduct, lock, message, loadProducts });
-function openEditor(product = null) { deviceEditor.open(product); }
+const accessoryEditor=createAccessoryEditor({db,validateProduct,loadProducts,message});
+const inventory=createInventory({db,money,message,loadProducts});
+function openEditor(product = null) { if(product?.category==='aksesuar')accessoryEditor.open(product);else deviceEditor.open(product); }
+function management(inventoryVisible){$('inventoryPanel').hidden=!inventoryVisible;$('productManagement').hidden=inventoryVisible;$('showInventory').setAttribute('aria-pressed',String(inventoryVisible));$('showProducts').setAttribute('aria-pressed',String(!inventoryVisible));}
+$('showProducts').onclick=()=>management(false);$('showInventory').onclick=()=>management(true);
 $('refresh').onclick = loadProducts;
 $('search').oninput = renderList; $('listFilter').onchange = renderList;
 $('loginForm').onsubmit = async event => {

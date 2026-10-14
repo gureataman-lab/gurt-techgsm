@@ -27,11 +27,17 @@
       <form id="resetForm"><label>Yeni şifre<input id="newPassword" type="password" autocomplete="new-password" minlength="12" required></label><label>Yeni şifre tekrar<input id="confirmPassword" type="password" autocomplete="new-password" minlength="12" required></label><button class="primary wide">Şifreyi kaydet</button></form>
     </section>
     <section id="dashboard" hidden>
-      <div class="title-row"><div><div class="eyebrow">GÜR-TECH GSM</div><h1>Ürünler & stoklar</h1><p class="muted">Vitrininiz her zaman güncel kalsın.</p></div><div class="actions"><button id="refresh">Yenile</button><button id="newProduct" class="primary">+ Ürün ekle</button></div></div>
+      <div class="title-row"><div><div class="eyebrow">GÜR-TECH GSM</div><h1>Ürünler & stoklar</h1><p class="muted">Vitrininiz her zaman güncel kalsın.</p></div><div class="actions"><button id="refresh">Yenile</button><button id="newAccessory">+ Aksesuar ekle</button><button id="newProduct" class="primary">+ Telefon ekle</button></div></div>
       <div class="account"><span id="accountEmail"></span><button id="logout" class="text-button">Çıkış yap</button></div>
       <div class="stats"><div><span>Toplam ürün</span><strong id="totalCount">0</strong></div><div><span>Yayındaki ürün</span><strong id="publishedCount">0</strong></div><div><span>Stoktaki adet</span><strong id="stockCount">0</strong></div><div><span>Tükenen ürün</span><strong id="emptyCount">0</strong></div></div>
-      <div class="toolbar"><input id="search" type="search" placeholder="Ürün veya marka ara…" aria-label="Ürün ara"><select id="listFilter" aria-label="Ürün durumu"><option value="all">Tüm ürünler</option><option value="published">Yayında</option><option value="draft">Taslak</option><option value="empty">Stok tükendi</option></select></div>
-      <p id="listStatus" class="muted" role="status"></p><div id="productList" class="product-list"></div>
+      <div class="actions management-tabs"><button id="showProducts" aria-pressed="true">Ürünler</button><button id="showInventory" aria-pressed="false">Stok & Kategoriler</button></div>
+      <div id="productManagement"><div class="toolbar"><input id="search" type="search" placeholder="Ürün veya marka ara…" aria-label="Ürün ara"><select id="listFilter" aria-label="Ürün durumu"><option value="all">Tüm ürünler</option><option value="published">Yayında</option><option value="draft">Taslak</option><option value="empty">Stok tükendi</option></select></div>
+      <p id="listStatus" class="muted" role="status"></p><div id="productList" class="product-list"></div></div>
+<section id="inventoryPanel" hidden><h2>Stok & Kategoriler</h2><p class="muted">Ürünleri kategorilere ayırın, stokları ve haftanın fırsatlarını yönetin.</p>
+<form id="groupForm" class="group-form"><label>Kategori adı<input name="groupName" maxlength="60" required placeholder="Örn. Amiral Gemileri, Şarj Aletleri"></label><label>Ürün türü<select name="groupKind"><option value="phone">Telefon</option><option value="accessory">Aksesuar</option></select></label><button type="submit">Kategori oluştur</button></form>
+<div class="toolbar inventory-toolbar"><input id="inventorySearch" type="search" placeholder="Stokta ürün ara" aria-label="Stokta ürün ara"><select id="inventoryKind" aria-label="Stok ürün türü"><option value="">Tüm türler</option><option value="phone">Telefon</option><option value="accessory">Aksesuar</option></select><select id="inventoryGroup" aria-label="Stok kategorisi"><option value="">Tüm kategoriler</option></select></div>
+<label class="checkbox"><input id="inventoryOnlyStock" type="checkbox" checked> Yalnızca stokta olanlar</label><p class="small muted">Haftanın fırsatı için ürün yayında ve stokta olmalı. Stok biterse veya yayın kapanırsa fırsattan otomatik çıkarılır.</p><p id="inventoryCount" role="status"></p><div id="inventoryList"></div></section>
+
     </section>
   </main>
   <dialog id="editor"><form id="productForm"><div class="dialog-heading"><div><div class="eyebrow">KATALOG</div><h2 id="editorTitle">Yeni ürün</h2></div><button id="cancelEdit" type="button" aria-label="Kapat">✕</button></div>
@@ -50,7 +56,7 @@
 <label>Pil yüzdesi (%)<input name="battery_percent" type="number" min="0" max="100" step="1" inputmode="numeric" placeholder="Örn. 92"></label>
 <label id="batteryCyclesField" hidden>Pil devri<input name="battery_cycles" type="number" min="0" max="1500" step="1" inputmode="numeric" placeholder="0–1500"></label>
 
-<div class="two-columns"><label>Vitrin kategorisi<select name="category"><option value="apple">Apple iPhone</option><option value="samsung">Samsung</option><option value="xiaomi">Xiaomi / Redmi</option><option value="ikinciel">2. El Garantili</option><option value="aksesuar">Aksesuar & Şarj</option></select></label><label>Stok adedi<input name="stock" type="number" min="0" max="100000" step="1" value="1" required></label></div>
+<div class="two-columns"><select name="category" hidden><option value="apple">Apple iPhone</option><option value="samsung">Samsung</option><option value="xiaomi">Xiaomi / Redmi</option><option value="ikinciel">İkinci el</option></select><label>Stok adedi<input name="stock" type="number" min="0" max="100000" step="1" value="1" required></label></div>
 <h3>Ürün bilgisi · Teknik özellikler</h3><p class="small muted">Seçilen modelin GSMArena özellikleri. Satacağınız cihazın RAM ve hafızasını yukarıdan seçin.</p><div id="specPreview" class="spec-preview"></div>
 <h3>Genel fotoğraflar</h3><label>Cihazın fotoğraflarını ekleyin<input id="photosInput" type="file" multiple accept="image/jpeg,image/png,image/webp"></label><p class="small muted">İlk fotoğraf vitrinde görünür. En fazla 12 fotoğraf; fotoğraf başına 5 MB.</p><div id="photosPreview" class="photo-grid"></div>
 <h3>Kusur fotoğrafları</h3><label>Varsa çizik, darbe ve diğer kusurları ekleyin<input id="defectsInput" type="file" multiple accept="image/jpeg,image/png,image/webp"></label><p class="small muted">En fazla 12 fotoğraf; fotoğraf başına 5 MB.</p><div id="defectsPreview" class="photo-grid"></div>
@@ -59,6 +65,9 @@
     </fieldset>
     <div class="dialog-footer"><button id="deleteProduct" type="button" class="danger" hidden>Ürünü sil</button><button id="saveProduct" class="primary" type="submit">Kaydet</button></div>
   </form></dialog>
+  <dialog id="accessoryEditor"><form id="accessoryForm"><div class="dialog-heading"><h2 id="accessoryTitle">Yeni aksesuar</h2><button id="closeAccessory" type="button" aria-label="Aksesuar formunu kapat">✕</button></div><p id="accessoryError" role="alert" class="form-error"></p><fieldset id="accessoryFields">
+<label>Ürün adı<input name="title" required maxlength="160"></label><label>Ürün açıklaması<textarea name="description" maxlength="2000" rows="4"></textarea></label><label>Ürün durumu<select name="condition" required><option value="">Seçin</option><option>Sıfır</option><option>İkinci el</option></select></label><label>Fiyat (₺)<input name="price" type="number" min="0.01" max="10000000" step="0.01" required></label></fieldset>
+<p class="small muted">Yeni aksesuar 1 adet stokla taslak kaydedilir. Stok & Kategoriler bölümünden yayınlayabilirsiniz.</p><div class="dialog-footer"><button id="saveAccessory" class="primary" type="submit">Kaydet</button></div></form></dialog>
   <script src="start.js"></script>
 </body>
 </html>
