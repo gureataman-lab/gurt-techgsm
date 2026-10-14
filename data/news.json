@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T12:44:30.480943+00:00",
+  "updatedAt": "2026-10-14T12:55:51.306763+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T12:44:30.480943+00:00",
+      "checkedAt": "2026-10-14T12:55:51.306763+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T12:44:30.480943+00:00",
+      "checkedAt": "2026-10-14T12:55:51.306763+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Galaxy S23 serisi son büyük güncellemesini aldı!",
+      "link": "https://www.donanimhaber.com/galaxy-s23-serisi-icin-one-ui-9-guncellemesi-hazir--211612",
+      "publishedAt": "2026-10-14T12:52:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Katlanabilir iPhone, özel iOS sürümüyle çıkış yapacak",
@@ -124,12 +130,6 @@
       "title": "Bellek krizi telefonları vurdu: Fiyatlar tavan, satışlar dip yaptı",
       "link": "https://www.donanimhaber.com/bellek-krizi-telefonlari-vurdu-fiyatlar-artti-satislar-dustu--211548",
       "publishedAt": "2026-10-13T07:59:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Carl Pei, Apple'ı yerden yere vurdu: iPhone Duo para tuzağı!",
-      "link": "https://www.donanimhaber.com/carl-pei-apple-i-yerden-yere-vurdu-iphone-duo-para-tuzagi--211533",
-      "publishedAt": "2026-10-12T19:24:00+00:00"
     }
   ]
 }
