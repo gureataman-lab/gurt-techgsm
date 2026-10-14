@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T12:25:12.592817+00:00",
+  "updatedAt": "2026-10-14T12:44:30.480943+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T12:25:12.592817+00:00",
+      "checkedAt": "2026-10-14T12:44:30.480943+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T12:25:12.592817+00:00",
+      "checkedAt": "2026-10-14T12:44:30.480943+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Katlanabilir iPhone, özel iOS sürümüyle çıkış yapacak",
+      "link": "https://www.donanimhaber.com/iphone-duo-ozel-ios-surumuyle-cikis-yapacak--211624",
+      "publishedAt": "2026-10-14T12:30:59+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Telefon Pazarında Sevkiyatlar Düşerken Apple Pazar Payını Artırdı",
@@ -124,12 +130,6 @@
       "title": "Carl Pei, Apple'ı yerden yere vurdu: iPhone Duo para tuzağı!",
       "link": "https://www.donanimhaber.com/carl-pei-apple-i-yerden-yere-vurdu-iphone-duo-para-tuzagi--211533",
       "publishedAt": "2026-10-12T19:24:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "LineageOS 24 çıktı: Eski cihazlara Android 17 güncellemesi!",
-      "link": "https://www.donanimhaber.com/lineageos-24-cikti-eski-cihazlara-android-17-guncellemesi--211525",
-      "publishedAt": "2026-10-12T16:26:00+00:00"
     }
   ]
 }
