@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T10:37:46.741728+00:00",
+  "updatedAt": "2026-10-14T11:37:35.876219+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T10:37:46.741728+00:00",
+      "checkedAt": "2026-10-14T11:37:35.876219+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T10:37:46.741728+00:00",
+      "checkedAt": "2026-10-14T11:37:35.876219+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp Sohbet Arayüzüne Yeni Efekt Getiriyor",
+      "link": "https://shiftdelete.net/whatsapp-sohbet-arayuzune-yeni-efekt-getiriyor",
+      "publishedAt": "2026-10-14T11:00:51+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Kompakt Performans Canavarı: Honor WIN Pad Tasarımı Ortaya Çıktı",
@@ -88,12 +94,6 @@
       "title": "AnTuTu Eylül Ayı Sıralaması Yayınlandı: Xiaomi Zirveye Yerleşti",
       "link": "https://shiftdelete.net/antutu-eylul-ayi-siralamasi-yayinlandi-xiaomi-zirveye-yerlesti",
       "publishedAt": "2026-10-13T16:00:46+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "vivo X500 Pro Max Türkiye İçin Duyuruldu: Ön Sipariş Fırsatları ve Özellikleri",
-      "link": "https://shiftdelete.net/vivo-x500-pro-max-turkiye-icin-duyuruldu-on-siparis-firsatlari-ve-ozellikleri",
-      "publishedAt": "2026-10-13T13:19:08+00:00"
     },
     {
       "source": "DonanımHaber",
