@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T14:37:28.952174+00:00",
+  "updatedAt": "2026-10-14T15:42:03.344310+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T14:37:28.952174+00:00",
+      "checkedAt": "2026-10-14T15:42:03.344310+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T14:37:28.952174+00:00",
+      "checkedAt": "2026-10-14T15:42:03.344310+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei’nin yeni Kirin işlemcisi beklentileri aştı: 2027 hedefleri tuttu",
+      "link": "https://www.donanimhaber.com/huawei-nin-logicfolding-mimarisi-beklentileri-asti--211630",
+      "publishedAt": "2026-10-14T15:11:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Google Messages Özelliği Artık WhatsApp Üzerinde Kullanılabilecek",
@@ -124,12 +130,6 @@
       "title": "One UI 9'a güncellerken dikkat: Telefonunuz takılı kalabilir!",
       "link": "https://www.donanimhaber.com/one-ui-9-a-guncellerken-dikkat-telefonunuz-takili-kalabilir--211549",
       "publishedAt": "2026-10-13T08:42:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Bellek krizi telefonları vurdu: Fiyatlar tavan, satışlar dip yaptı",
-      "link": "https://www.donanimhaber.com/bellek-krizi-telefonlari-vurdu-fiyatlar-artti-satislar-dustu--211548",
-      "publishedAt": "2026-10-13T07:59:00+00:00"
     }
   ]
 }
