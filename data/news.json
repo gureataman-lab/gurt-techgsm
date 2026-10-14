@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-14T05:40:45.664765+00:00",
+  "updatedAt": "2026-10-14T06:44:48.307520+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T05:40:45.664765+00:00",
+      "checkedAt": "2026-10-14T06:44:48.307520+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T05:40:45.664765+00:00",
+      "checkedAt": "2026-10-14T06:44:48.307520+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "ColorOS 17 Tanıtıldı: İşte Yenilikler ve Güncelleme Alacak Cihazlar",
+      "link": "https://shiftdelete.net/coloros-17-ozellikleri-ve-guncelleme-takvimi",
+      "publishedAt": "2026-10-14T06:30:21+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy S27 Ultra ile Gizlilik Ekranı seviye atlıyor",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-ultra-ekrani-daha-gizli-olacak--211598",
+      "publishedAt": "2026-10-14T06:24:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "OnePlus 16R’nin Kamera ve Donanım Özellikleri Sızdı",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-10-13T11:30:13+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "YouTube Yeni Uygulama Simgeleri Sunulabilir",
-      "link": "https://shiftdelete.net/youtube-yeni-uygulama-simgeleri-sunulabilir",
-      "publishedAt": "2026-10-13T11:00:11+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "185FPS oyun moduyla OnePlus 16 tanıtıldı: İşte özellikleri",
       "link": "https://www.donanimhaber.com/oneplus-16-tanitildi-iste-ozellikleri-ve-fiyati--211558",
@@ -124,12 +130,6 @@
       "title": "ColorOS 17 açık beta programı başladı: Oppo, OnePlus ve Realme modelleri listede",
       "link": "https://www.donanimhaber.com/coloros-17-acik-beta-programi-basladi-iste-desteklenen-modeller--211466",
       "publishedAt": "2026-10-11T18:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi 10.000 mAh ultra ince manyetik power bank tanıtıldı",
-      "link": "https://www.donanimhaber.com/xiaomi-10-000-mah-ultra-ince-manyetik-power-bank-tanitildi--211480",
-      "publishedAt": "2026-10-11T16:00:00+00:00"
     }
   ]
 }
