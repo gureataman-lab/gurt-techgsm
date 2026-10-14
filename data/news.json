@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T15:42:03.344310+00:00",
+  "updatedAt": "2026-10-14T16:39:21.501145+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T15:42:03.344310+00:00",
+      "checkedAt": "2026-10-14T16:39:21.501145+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T15:42:03.344310+00:00",
+      "checkedAt": "2026-10-14T16:39:21.501145+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Qualcomm, Arm’a karşı davayı kazandı: Tazminat sadece 2 dolar",
+      "link": "https://www.donanimhaber.com/qualcomm-arm-a-karsi-davayi-kazandi-tazminat-sadece-2-dolar--211620",
+      "publishedAt": "2026-10-14T16:15:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Huawei’nin yeni Kirin işlemcisi beklentileri aştı: 2027 hedefleri tuttu",
@@ -124,12 +130,6 @@
       "title": "185FPS oyun moduyla OnePlus 16 tanıtıldı: İşte özellikleri",
       "link": "https://www.donanimhaber.com/oneplus-16-tanitildi-iste-ozellikleri-ve-fiyati--211558",
       "publishedAt": "2026-10-13T10:52:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "One UI 9'a güncellerken dikkat: Telefonunuz takılı kalabilir!",
-      "link": "https://www.donanimhaber.com/one-ui-9-a-guncellerken-dikkat-telefonunuz-takili-kalabilir--211549",
-      "publishedAt": "2026-10-13T08:42:00+00:00"
     }
   ]
 }
