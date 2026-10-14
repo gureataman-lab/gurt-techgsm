@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-14T07:43:49.260260+00:00",
+  "updatedAt": "2026-10-14T08:38:56.352274+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T07:43:49.260260+00:00",
+      "checkedAt": "2026-10-14T08:38:56.352274+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T07:43:49.260260+00:00",
+      "checkedAt": "2026-10-14T08:38:56.352274+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Nothing OS 5.0 Yayınlandı: İşte Desteklenen Modeller",
+      "link": "https://shiftdelete.net/nothing-os-5-0-guncelleme-listesi",
+      "publishedAt": "2026-10-14T08:30:18+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Google Play Store İçin Devrim Niteliğinde Yenilikler Duyurdu",
+      "link": "https://shiftdelete.net/google-play-store-icin-devrim-niteliginde-yenilikler-duyurdu",
+      "publishedAt": "2026-10-14T08:00:46+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Honor Win 2 serisi iddialı geliyor: 12.000 mAh pil ve dahili fan",
@@ -82,18 +94,6 @@
       "title": "Apple HomeView Tanıtıldı!",
       "link": "https://shiftdelete.net/apple-homeview-tanitildi",
       "publishedAt": "2026-10-13T13:02:53+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp Yenilenen Ayarlar Sekmesini Kullanıma Sunuyor",
-      "link": "https://shiftdelete.net/whatsapp-yenilenen-ayarlar-sekmesini-kullanima-sunuyor",
-      "publishedAt": "2026-10-13T13:00:03+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple Hisseleri Ne Durumda? iPhone 18 Pro Nasıl Etkiledi?",
-      "link": "https://shiftdelete.net/apple-hisseleri-ne-durumda-iphone-18-pro-nasil-etkiledi",
-      "publishedAt": "2026-10-13T11:30:13+00:00"
     },
     {
       "source": "DonanımHaber",
