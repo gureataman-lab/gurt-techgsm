@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T06:44:48.307520+00:00",
+  "updatedAt": "2026-10-14T07:43:49.260260+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T06:44:48.307520+00:00",
+      "checkedAt": "2026-10-14T07:43:49.260260+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T06:44:48.307520+00:00",
+      "checkedAt": "2026-10-14T07:43:49.260260+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Honor Win 2 serisi iddialı geliyor: 12.000 mAh pil ve dahili fan",
+      "link": "https://www.donanimhaber.com/honor-win-2-serisi-iddiali-geliyor-12-000-mah-pil-ve-dahili-fan--211591",
+      "publishedAt": "2026-10-14T07:27:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "ColorOS 17 Tanıtıldı: İşte Yenilikler ve Güncelleme Alacak Cihazlar",
@@ -124,12 +130,6 @@
       "title": "Galaxy S27 Ultra işlemcisi ortaya çıktı: Exynos rafa mı kalkıyor?",
       "link": "https://www.donanimhaber.com/galaxy-s27-ultra-islemcisi-ortaya-cikti-exynos-rafa-mi-kalkiyor--211505",
       "publishedAt": "2026-10-12T10:11:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "ColorOS 17 açık beta programı başladı: Oppo, OnePlus ve Realme modelleri listede",
-      "link": "https://www.donanimhaber.com/coloros-17-acik-beta-programi-basladi-iste-desteklenen-modeller--211466",
-      "publishedAt": "2026-10-11T18:00:00+00:00"
     }
   ]
 }
