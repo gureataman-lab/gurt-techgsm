@@ -5,5 +5,6 @@
     grid.textContent = 'Ürünler yükleniyor…';
     import('./catalog.js').catch(() => {
         grid.textContent = 'Ürün listesi yüklenemedi. Lütfen bağlantınızı kontrol edip sayfayı yenileyin.';
+        const stage=document.getElementById('showcaseStage');if(stage)stage.textContent=grid.textContent;
     });
 })();

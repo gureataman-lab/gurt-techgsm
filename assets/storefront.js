@@ -1,3 +1,4 @@
+import {renderShowcase} from './showcase.js';
 import {db,configured,imageUrl,money} from './catalog-client.js';
 import {element,productCard} from './product-card.js';
 import {kindOf,phoneFields,fieldValue,optionLabel,matchesPhone,isOffer,fold} from './catalog-tools.js';
@@ -27,7 +28,7 @@ function updateOptions(){
 function renderHome(){
  const query=$('searchInput')?.value||'';
  const list=products.filter(p=>(!homeGroup||p.collection_id===homeGroup)&&(!query||fold([p.title,p.brand,p.description,p.device_details?.model].join(' ')).includes(fold(query))));
- renderCards(grid,list,'Bu seçimde yayınlanan ürün bulunamadı.');
+ renderCards(grid,list,'Bu seçimde yayınlanan ürün bulunamadı.');renderShowcase(list,{imageUrl,money});
 }
 function renderAll(){
  const visibleGroups=groups.filter(g=>products.some(p=>p.collection_id===g.id));if(!visibleGroups.some(g=>g.id===homeGroup))homeGroup='';
@@ -49,7 +50,7 @@ async function refresh(){
   if(results.some(r=>r.error))throw Error();products=results[0].data;groups=results[1].data;loaded=true;$('catalogStatus').textContent='';renderAll();
  }catch{
   $('catalogStatus').textContent=loaded?'Ürünler yenilenemedi; son yüklenen liste gösteriliyor.':'Ürünler yüklenemedi. Lütfen biraz sonra tekrar deneyin.';
-  if(!loaded)for(const id of ['productGrid','phoneGrid','accessoryGroups','weeklyOffers'])message($(id),'Ürünler şu anda yüklenemiyor.');
+  if(!loaded)for(const id of ['productGrid','phoneGrid','accessoryGroups','weeklyOffers','showcaseStage'])message($(id),'Ürünler şu anda yüklenemiyor.');
  }finally{loading=false;}
 }
 if(configured&&grid&&form){
