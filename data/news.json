@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T19:22:40.018526+00:00",
+  "updatedAt": "2026-10-14T20:07:21.825910+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T19:22:40.018526+00:00",
+      "checkedAt": "2026-10-14T20:07:21.825910+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T19:22:40.018526+00:00",
+      "checkedAt": "2026-10-14T20:07:21.825910+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung’un Yapay Zeka Özelliği Now Nudge Türkçe Oldu",
+      "link": "https://shiftdelete.net/samsung-now-nudge-turkce-destegi",
+      "publishedAt": "2026-10-14T20:00:57+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "OnePlus 16 Satışa Çıktı: İlk Saatte 70 Bin Adet Satıldı",
@@ -100,12 +106,6 @@
       "title": "Honor Win 2 serisi iddialı geliyor: 12.000 mAh pil ve dahili fan",
       "link": "https://www.donanimhaber.com/honor-win-2-serisi-iddiali-geliyor-12-000-mah-pil-ve-dahili-fan--211591",
       "publishedAt": "2026-10-14T07:27:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "ColorOS 17 Tanıtıldı: İşte Yenilikler ve Güncelleme Alacak Cihazlar",
-      "link": "https://shiftdelete.net/coloros-17-ozellikleri-ve-guncelleme-takvimi",
-      "publishedAt": "2026-10-14T06:30:21+00:00"
     },
     {
       "source": "DonanımHaber",
