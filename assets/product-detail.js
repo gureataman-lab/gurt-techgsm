@@ -16,13 +16,34 @@ function tabs(labels,panels,name) {
  select(0);return bar;
 }
 function table(rows){const dl=el('dl','','pd-fields');for(const [label,value] of rows)dl.append(el('dt',label),el('dd',String(value??'Belirtilmedi')));return dl;}
+function enlargePhoto(product,kind,paths,index,imageUrl,trigger,choose){
+ const viewer=el('dialog','','pd-lightbox');viewer.setAttribute('aria-label',product.title+' · Büyük fotoğraf');
+ const toolbar=el('div','','pd-lightbox-toolbar'),caption=el('p'),zoom=el('button','Yakınlaştır +'),close=el('button','Kapat ✕');
+ const stage=el('div','','pd-lightbox-stage'),photo=el('img'),error=el('p','Fotoğraf yüklenemedi. Diğer fotoğrafa geçebilir veya pencereyi kapatabilirsiniz.','pd-photo-error');error.hidden=true;
+ const navigation=el('div','','pd-lightbox-nav'),prev=el('button','← Önceki'),count=el('span'),next=el('button','Sonraki →');
+ let magnified=false;
+ for(const b of [zoom,close,prev,next])b.type='button';
+ close.setAttribute('aria-label','Büyük fotoğrafı kapat');count.setAttribute('aria-live','polite');
+ function resetZoom(){magnified=false;stage.classList.remove('is-zoomed');stage.scrollTop=stage.scrollLeft=0;zoom.textContent='Yakınlaştır +';zoom.setAttribute('aria-pressed','false');}
+ function show(i){index=(i+paths.length)%paths.length;resetZoom();error.hidden=true;photo.hidden=false;zoom.disabled=false;photo.alt=product.title+' · '+(kind==='photos'?'Genel fotoğraf ':'Kusur fotoğrafı ')+(index+1);caption.textContent=photo.alt;count.textContent=(index+1)+' / '+paths.length;photo.src=imageUrl(paths[index]);choose(index);}
+ photo.onerror=()=>{photo.hidden=true;error.hidden=false;zoom.disabled=true;};
+ zoom.onclick=()=>{magnified=!magnified;stage.classList.toggle('is-zoomed',magnified);zoom.textContent=magnified?'Uzaklaştır −':'Yakınlaştır +';zoom.setAttribute('aria-pressed',String(magnified));};
+ prev.onclick=()=>show(index-1);next.onclick=()=>show(index+1);prev.hidden=next.hidden=paths.length<2;
+ close.onclick=()=>viewer.close();
+ viewer.addEventListener('keydown',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight'){e.preventDefault();show(index+(e.key==='ArrowRight'?1:-1));}});
+ viewer.addEventListener('close',()=>{viewer.remove();if(trigger.isConnected)trigger.focus();},{once:true});
+ toolbar.append(caption,zoom,close);stage.append(photo,error);navigation.append(prev,count,next);viewer.append(toolbar,stage,navigation);
+ trigger.closest('dialog').append(viewer);show(index);viewer.showModal();close.focus();
+}
 function gallery(product,kind,imageUrl){
  const box=el('section','','pd-gallery'),paths=galleryPaths(product,kind);
  if(!paths.length){box.append(el('p',kind==='photos'?'Genel fotoğraf eklenmemiş.':'Kusur fotoğrafı eklenmemiş.','pd-muted'));return box;}
  const img=el('img');img.className='pd-large';const thumbnails=el('div','','pd-thumbnails');
- function choose(i){img.src=imageUrl(paths[i]);img.alt=product.title+' · '+(kind==='photos'?'Genel fotoğraf ':'Kusur fotoğrafı ')+(i+1);[...thumbnails.children].forEach((b,j)=>b.setAttribute('aria-pressed',String(i===j)));}
+ const expand=el('button','','pd-expand');expand.type='button';expand.setAttribute('aria-label',kind==='photos'?'Genel fotoğrafı büyüt':'Kusur fotoğrafını büyüt');expand.setAttribute('aria-haspopup','dialog');let selected=0;
+ expand.append(img,el('span','Büyüt ⤢','pd-expand-hint'));expand.onclick=()=>enlargePhoto(product,kind,paths,selected,imageUrl,expand,choose);
+ function choose(i){selected=i;img.src=imageUrl(paths[i]);img.alt=product.title+' · '+(kind==='photos'?'Genel fotoğraf ':'Kusur fotoğrafı ')+(i+1);[...thumbnails.children].forEach((b,j)=>b.setAttribute('aria-pressed',String(i===j)));}
  paths.forEach((path,i)=>{const button=el('button'),small=el('img');button.type='button';button.setAttribute('aria-label',(i+1)+'. fotoğrafı göster');small.src=imageUrl(path);small.alt='';small.loading='lazy';button.append(small);button.onclick=()=>choose(i);thumbnails.append(button);});
- choose(0);box.append(img,thumbnails);return box;
+ choose(0);box.append(expand,thumbnails);return box;
 }
 export function openProductDetail(product,{imageUrl,money}){
  if(active){active.close();active.remove();}
