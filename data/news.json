@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T09:37:36.693020+00:00",
+  "updatedAt": "2026-10-14T10:37:46.741728+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T09:37:36.693020+00:00",
+      "checkedAt": "2026-10-14T10:37:46.741728+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T09:37:36.693020+00:00",
+      "checkedAt": "2026-10-14T10:37:46.741728+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Kompakt Performans Canavarı: Honor WIN Pad Tasarımı Ortaya Çıktı",
+      "link": "https://shiftdelete.net/honor-win-pad-ozellikleri-tasarimi",
+      "publishedAt": "2026-10-14T10:00:38+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo için İlk Güncelleme Hazır",
@@ -88,12 +94,6 @@
       "title": "vivo X500 Pro Max Türkiye İçin Duyuruldu: Ön Sipariş Fırsatları ve Özellikleri",
       "link": "https://shiftdelete.net/vivo-x500-pro-max-turkiye-icin-duyuruldu-on-siparis-firsatlari-ve-ozellikleri",
       "publishedAt": "2026-10-13T13:19:08+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Yeni HomePod mini 2 Tanıtıldı: Apple S10 Çipi ve Siri AI ile Güçlendi",
-      "link": "https://shiftdelete.net/yeni-homepod-mini-2-tanitildi-apple-s10-cipi-ve-siri-ai-ile-guclendi",
-      "publishedAt": "2026-10-13T13:06:09+00:00"
     },
     {
       "source": "DonanımHaber",
