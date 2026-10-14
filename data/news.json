@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-14T11:37:35.876219+00:00",
+  "updatedAt": "2026-10-14T12:25:12.592817+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T11:37:35.876219+00:00",
+      "checkedAt": "2026-10-14T12:25:12.592817+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T11:37:35.876219+00:00",
+      "checkedAt": "2026-10-14T12:25:12.592817+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Telefon Pazarında Sevkiyatlar Düşerken Apple Pazar Payını Artırdı",
+      "link": "https://shiftdelete.net/telefon-pazarinda-sevkiyatlar-duserken-apple-pazar-payini-artirdi",
+      "publishedAt": "2026-10-14T12:00:53+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung One UI tarih mi oluyor: Galaxy OS ortaya çıktı",
+      "link": "https://www.donanimhaber.com/samsung-one-ui-tarih-mi-oluyor-galaxy-os-ortaya-cikti--211611",
+      "publishedAt": "2026-10-14T11:43:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "WhatsApp Sohbet Arayüzüne Yeni Efekt Getiriyor",
@@ -90,12 +102,6 @@
       "publishedAt": "2026-10-13T16:30:11+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "AnTuTu Eylül Ayı Sıralaması Yayınlandı: Xiaomi Zirveye Yerleşti",
-      "link": "https://shiftdelete.net/antutu-eylul-ayi-siralamasi-yayinlandi-xiaomi-zirveye-yerlesti",
-      "publishedAt": "2026-10-13T16:00:46+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "185FPS oyun moduyla OnePlus 16 tanıtıldı: İşte özellikleri",
       "link": "https://www.donanimhaber.com/oneplus-16-tanitildi-iste-ozellikleri-ve-fiyati--211558",
@@ -124,12 +130,6 @@
       "title": "LineageOS 24 çıktı: Eski cihazlara Android 17 güncellemesi!",
       "link": "https://www.donanimhaber.com/lineageos-24-cikti-eski-cihazlara-android-17-guncellemesi--211525",
       "publishedAt": "2026-10-12T16:26:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Galaxy S27 Ultra işlemcisi ortaya çıktı: Exynos rafa mı kalkıyor?",
-      "link": "https://www.donanimhaber.com/galaxy-s27-ultra-islemcisi-ortaya-cikti-exynos-rafa-mi-kalkiyor--211505",
-      "publishedAt": "2026-10-12T10:11:00+00:00"
     }
   ]
 }
