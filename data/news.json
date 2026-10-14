@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-14T05:06:38.633172+00:00",
+  "updatedAt": "2026-10-14T05:40:45.664765+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-14T05:06:38.633172+00:00",
+      "checkedAt": "2026-10-14T05:40:45.664765+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-14T05:06:38.633172+00:00",
+      "checkedAt": "2026-10-14T05:40:45.664765+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "OnePlus 16R’nin Kamera ve Donanım Özellikleri Sızdı",
+      "link": "https://shiftdelete.net/oneplus-16r-ozellikleri-sizdi",
+      "publishedAt": "2026-10-14T05:00:20+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Nothing OS 5.0 dağıtıma çıktı: İşte güncelleme alacak telefonlar",
@@ -82,12 +88,6 @@
       "title": "185FPS oyun moduyla OnePlus 16 tanıtıldı: İşte özellikleri",
       "link": "https://www.donanimhaber.com/oneplus-16-tanitildi-iste-ozellikleri-ve-fiyati--211558",
       "publishedAt": "2026-10-13T10:52:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Türk Telekom Numara Değiştirme Nasıl Yapılır?",
-      "link": "https://shiftdelete.net/turk-telekom-numara-degistirme",
-      "publishedAt": "2026-10-13T10:48:01+00:00"
     },
     {
       "source": "DonanımHaber",
