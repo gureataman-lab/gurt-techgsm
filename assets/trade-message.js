@@ -3,7 +3,7 @@ export function buildTradeMessage(input){
  const clean=(key,max,required=false)=>{const v=String(input[key]??'').trim();if((required&&!v)||v.length>max)throw Error('Lütfen '+key+' bilgisini kontrol edin.');return v;};
  const brand=clean('brand',60,true),model=clean('model',200,true),title=clean('title',160),notes=clean('notes',1000);
  const d=validateDevice({...input,model,photos:[],defects:[]});
- const lines=['Merhaba GÜR-TECH GSM,','Cihazımı satmak / takas etmek istiyorum. Bilgileri aşağıdadır:',''];
+ const lines=['Merhaba CEP PLAZA,','Cihazımı satmak / takas etmek istiyorum. Bilgileri aşağıdadır:',''];
  if(title)lines.push('Ürün adı: '+title);
  lines.push('Marka: '+brand,'Model: '+model,'RAM: '+d.ram+' GB','Hafıza: '+(d.storage==='1024'?'1 TB':d.storage+' GB'),'KVK / Yurtdışı: '+d.origin,'Kayıt durumu: '+d.registration);
  if(d.registration==='Kayıtsız')lines.push('1. hat kullanım süresi: '+d.line1+' gün','2. hat kullanım süresi: '+d.line2+' gün');

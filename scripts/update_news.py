@@ -45,7 +45,7 @@ def parse_feed(raw, source):
 def fetch(url):
     for attempt in range(3):
         try:
-            request = Request(url, headers={"User-Agent": "GurTechNews/1.0 (+https://gureataman-lab.github.io/gurt-techgsm/)", "Accept": "application/rss+xml, application/xml, text/xml"})
+            request = Request(url, headers={"User-Agent": "CepPlazaNews/1.0 (+https://gureataman-lab.github.io/gurt-techgsm/)", "Accept": "application/rss+xml, application/xml, text/xml"})
             with urlopen(request, timeout=30) as response:
                 raw = response.read(5_000_001)
             if len(raw) > 5_000_000:

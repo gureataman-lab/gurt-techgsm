@@ -1,6 +1,6 @@
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.102.0/+esm';
 
-const config = window.GURTECH_CONFIG || {};
+const config = window.CEPPLAZA_CONFIG || {};
 export const configured = Boolean(config.supabaseUrl && config.supabasePublishableKey);
 export const db = configured ? createClient(config.supabaseUrl, config.supabasePublishableKey, {
     auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: true, storage: window.sessionStorage }

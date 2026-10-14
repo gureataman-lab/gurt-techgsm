@@ -3,7 +3,7 @@
     const container = document.getElementById('newsTicker');
     if (!container) return;
     const allowedHosts = { ShiftDelete: 'shiftdelete.net', 'DonanımHaber': 'www.donanimhaber.com' };
-    const cacheKey = 'gurtech-mobile-news-v1';
+    const cacheKey = 'cepplaza-mobile-news-v1';
     let signature = '';
     let busy = false;
 

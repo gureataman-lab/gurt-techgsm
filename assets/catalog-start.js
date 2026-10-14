@@ -1,5 +1,5 @@
 (() => {
-    const config = window.GURTECH_CONFIG;
+    const config = window.CEPPLAZA_CONFIG;
     const grid = document.getElementById('productGrid');
     if (!grid || !config?.supabaseUrl || !config?.supabasePublishableKey) return;
     grid.textContent = 'Ürünler yükleniyor…';
