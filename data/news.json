@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-15T12:09:51.503409+00:00",
+  "updatedAt": "2026-10-15T13:19:55.989547+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T12:09:51.503409+00:00",
+      "checkedAt": "2026-10-15T13:19:55.989547+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T12:09:51.503409+00:00",
+      "checkedAt": "2026-10-15T13:19:55.989547+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "RedMagic 12 Pro+ tanıtıldı: Eksiksiz oyun telefonu!",
+      "link": "https://www.donanimhaber.com/redmagic-12-pro-tanitildi-iste-ozellikleri-ve-fiyati--211667",
+      "publishedAt": "2026-10-15T12:37:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple 28 Ekim’de Yeni Ürünlerini Tanıtacak: iPad mini ve Yeni MacBook Geliyor",
+      "link": "https://shiftdelete.net/apple-28-ekimde-yeni-urunlerini-tanitacak",
+      "publishedAt": "2026-10-15T12:30:01+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "WhatsApp Web’e Kişiselleştirme Geldi",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-10-15T06:00:22+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple’ın 27 Ekim Etkinliğinde Tanıtacağı Yeni Ürünler Belli Oldu",
-      "link": "https://shiftdelete.net/apple-yeni-mac-modelleri-oled-ipad-mini-27-ekim",
-      "publishedAt": "2026-10-15T05:00:09+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Qualcomm, Arm’a karşı davayı kazandı: Tazminat sadece 2 dolar",
       "link": "https://www.donanimhaber.com/qualcomm-arm-a-karsi-davayi-kazandi-tazminat-sadece-2-dolar--211620",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy S27 Ultra ile Gizlilik Ekranı seviye atlıyor",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-ultra-ekrani-daha-gizli-olacak--211598",
       "publishedAt": "2026-10-14T06:24:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Nothing OS 5.0 dağıtıma çıktı: İşte güncelleme alacak telefonlar",
-      "link": "https://www.donanimhaber.com/nothing-os-5-0-dagitima-cikti-iste-guncelleme-alacak-telefonlar--211586",
-      "publishedAt": "2026-10-13T19:02:00+00:00"
     }
   ]
 }
