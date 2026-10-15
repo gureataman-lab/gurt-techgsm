@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-15T11:36:35.067459+00:00",
+  "updatedAt": "2026-10-15T12:09:51.503409+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T11:36:35.067459+00:00",
+      "checkedAt": "2026-10-15T12:09:51.503409+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T11:36:35.067459+00:00",
+      "checkedAt": "2026-10-15T12:09:51.503409+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp Web’e Kişiselleştirme Geldi",
+      "link": "https://shiftdelete.net/whatsapp-webe-kisisellestirme-geldi",
+      "publishedAt": "2026-10-15T12:00:31+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo’yu Sakın Bozmayın! Tamir Ücreti Cebinizi Yakacak!",
@@ -76,12 +82,6 @@
       "title": "Apple’ın 27 Ekim Etkinliğinde Tanıtacağı Yeni Ürünler Belli Oldu",
       "link": "https://shiftdelete.net/apple-yeni-mac-modelleri-oled-ipad-mini-27-ekim",
       "publishedAt": "2026-10-15T05:00:09+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung’un Yapay Zeka Özelliği Now Nudge Türkçe Oldu",
-      "link": "https://shiftdelete.net/samsung-now-nudge-turkce-destegi",
-      "publishedAt": "2026-10-14T20:00:57+00:00"
     },
     {
       "source": "DonanımHaber",
