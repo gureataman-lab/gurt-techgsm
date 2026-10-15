@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-15T05:07:52.309825+00:00",
+  "updatedAt": "2026-10-15T06:05:15.499284+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T05:07:52.309825+00:00",
+      "checkedAt": "2026-10-15T06:05:15.499284+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T05:07:52.309825+00:00",
+      "checkedAt": "2026-10-15T06:05:15.499284+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple 12 İnç MacBook ve iPad 6 için Destek Sona Erdi",
+      "link": "https://shiftdelete.net/apple-eskiyen-urunler-listesi-guncellendi",
+      "publishedAt": "2026-10-15T06:00:22+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple’ın 27 Ekim Etkinliğinde Tanıtacağı Yeni Ürünler Belli Oldu",
@@ -94,12 +100,6 @@
       "title": "Türkiye Telefon Üretim Kapasitesinde Yeni Rekor Kırdı",
       "link": "https://shiftdelete.net/turkiye-telefon-uretim-kapasitesinde-yeni-rekor-kirdi",
       "publishedAt": "2026-10-14T08:44:49+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Nothing OS 5.0 Yayınlandı: İşte Desteklenen Modeller",
-      "link": "https://shiftdelete.net/nothing-os-5-0-guncelleme-listesi",
-      "publishedAt": "2026-10-14T08:30:18+00:00"
     },
     {
       "source": "DonanımHaber",
