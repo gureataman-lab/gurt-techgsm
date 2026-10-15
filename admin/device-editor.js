@@ -1,10 +1,13 @@
 import { validateDevice, RAM, STORAGE, DAYS, PHOTO_LIMIT, COSMETIC, COLORS, galleryPaths } from '../assets/device-fields.js';
 import {addSelectSearch} from './select-search.js?v=1';
+import {createModelCache} from './model-cache.js?v=1';
 
 export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loadProducts}) {
  const $=id=>document.getElementById(id), form=$('productForm'), field=name=>form.elements.namedItem(name);
  let editing=null, brands=[], modelPages=[], next=null, specs=null, path='', serial=0, pending=false, saving=false;
  let photos=[], defects=[];
+ let storage;try{storage=window.localStorage;}catch{}
+ const modelCache=createModelCache(storage);
  const option=(value,label=value)=>new Option(label,value);
  function fill(name,values,label=x=>x) { field(name).replaceChildren(option('','Seçin'),...values.map(x=>option(x,label(x)))); }
  fill('ram',RAM,x=>x+' GB');fill('storage',STORAGE,x=>x==='1024'?'1 TB':x+' GB');
@@ -47,22 +50,26 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
    field('model').value=selected;field('model').disabled=false;$('moreModels').hidden=!next;
    modelSearch.refresh();
  }
- async function getModels(more=false) {
+ async function getModels(more=false,refresh=false) {
    const token=++serial;
    const brand=brands.find(b=>b.name===field('brand').value);
    if(!more){modelSearch.reset();modelPages=[];next=null;path='';specs=null;field('model').replaceChildren(option('','Modeller yükleniyor…'));showSpecs();}
    if(!brand){pending=false;field('model').replaceChildren(option('','Önce marka seçin'));field('model').disabled=true;modelSearch.refresh();$('moreModels').hidden=true;$('sourceStatus').textContent='';return;}
+   const cached=!more?modelCache.read(brand.path):null;
+   if(cached){modelPages=cached.models;next=cached.next;renderModels();
+     if(!refresh){pending=false;$('moreModels').disabled=false;$('sourceStatus').textContent=`${modelPages.length} model hafızadan getirildi. Yeni modeller için “Modelleri getir / yenile”ye basabilirsiniz.`;return;}}
    if(more&&!next)return;
    pending=true;$('moreModels').disabled=true;field('model').disabled=true;$('sourceStatus').textContent='Modeller GSMArena’dan alınıyor…';
    modelSearch.refresh();
    try {
      const data=await source('models',more?next:brand.path);if(token!==serial)return;
-     const map=new Map([...modelPages,...data.models].map(m=>[m.path,m]));modelPages=[...map.values()];next=data.next;
-     renderModels();$('sourceStatus').textContent=`${modelPages.length} model yüklendi.${next?' Diğer modeller için “Daha fazla model”e basın.':''}${data.stale?' Kaynak yanıt vermedi; son alınan liste gösteriliyor.':''}`;
-   } catch(error) { if(token===serial){$('sourceStatus').textContent=error.message;if(more)renderModels();else field('model').replaceChildren(option('','Modeller alınamadı'));} }
+     const map=new Map([...data.models,...modelPages].map(m=>[m.path,m]));modelPages=[...map.values()];next=cached?cached.next:(data.next||null);
+     const stored=modelCache.write(brand.path,modelPages,next);
+     renderModels();$('sourceStatus').textContent=`${modelPages.length} model yüklendi.${stored?' Liste hafızaya kaydedildi.':' Kalıcı hafızaya kaydedilemedi; liste bu oturumda korunuyor.'}${next?' Diğer modeller için “Daha fazla model”e basın.':''}${data.stale?' Kaynak yanıt vermedi; son alınan liste gösteriliyor.':''}`;
+   } catch(error) { if(token===serial){$('sourceStatus').textContent=error.message;if(modelPages.length)renderModels();else field('model').replaceChildren(option('','Modeller alınamadı'));} }
    finally {if(token===serial){pending=false;$('moreModels').disabled=false;}}
  }
- field('brand').onchange=()=>getModels();$('moreModels').onclick=()=>getModels(true);$('retryModels').onclick=()=>getModels();
+ field('brand').onchange=()=>getModels();$('moreModels').onclick=()=>getModels(true);$('retryModels').onclick=()=>getModels(false,true);
  function showSpecs() {
    const box=$('specPreview');box.replaceChildren();
    if(!specs){box.textContent='Model seçildiğinde teknik özellikler otomatik getirilecek.';return;}
@@ -101,6 +108,9 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
    path=d?.model_path||'';specs=d?.specs||null;
    field('model').replaceChildren(option('','Önce marka seçin'));field('model').disabled=true;
    if(d?.model){field('model').add(option(path,d.model));field('model').value=path;field('model').disabled=false;}
+   const cachedBrand=brands.find(b=>b.name===field('brand').value);
+   const cachedModels=cachedBrand?modelCache.read(cachedBrand.path):null;
+   if(cachedModels){modelPages=cachedModels.models;next=cachedModels.next;renderModels();}
    modelSearch.refresh();colorSearch.refresh();
    photos=galleryPaths(product||{},'photos').map(p=>({path:p,url:imageUrl(p)}));defects=galleryPaths(product||{},'defects').map(p=>({path:p,url:imageUrl(p)}));
    renderPhotos('photos');renderPhotos('defects');showSpecs();conditions();
