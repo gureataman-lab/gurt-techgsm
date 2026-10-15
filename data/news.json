@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-15T10:38:04.907853+00:00",
+  "updatedAt": "2026-10-15T10:57:39.075793+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T10:38:04.907853+00:00",
+      "checkedAt": "2026-10-15T10:57:39.075793+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T10:38:04.907853+00:00",
+      "checkedAt": "2026-10-15T10:57:39.075793+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Red Magic 12 Pro+ Güçlü Donanımıyla Tanıtıldı",
+      "link": "https://shiftdelete.net/red-magic-12-pro-guclu-donanimiyla-tanitildi",
+      "publishedAt": "2026-10-15T10:53:15+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Telefon ve Teknolojik Ürünlerde Taksit Kuralı Değişiyor",
+      "link": "https://shiftdelete.net/teknolojik-urunlerde-taksit-kurallari-degisiyor",
+      "publishedAt": "2026-10-15T10:45:31+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone 18 Üretimi Kasım Sonunda Başlıyor",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-10-14T15:11:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Google Messages Özelliği Artık WhatsApp Üzerinde Kullanılabilecek",
-      "link": "https://shiftdelete.net/google-messages-ozelligi-artik-whatsapp-uzerinde-kullanilabilecek",
-      "publishedAt": "2026-10-14T14:00:28+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Galaxy S23 serisi son büyük güncellemesini aldı!",
       "link": "https://www.donanimhaber.com/galaxy-s23-serisi-icin-one-ui-9-guncellemesi-hazir--211612",
@@ -94,12 +100,6 @@
       "title": "Katlanabilir iPhone, özel iOS sürümüyle çıkış yapacak",
       "link": "https://www.donanimhaber.com/iphone-duo-ozel-ios-surumuyle-cikis-yapacak--211624",
       "publishedAt": "2026-10-14T12:30:59+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Telefon Pazarında Sevkiyatlar Düşerken Apple Pazar Payını Artırdı",
-      "link": "https://shiftdelete.net/telefon-pazarinda-sevkiyatlar-duserken-apple-pazar-payini-artirdi",
-      "publishedAt": "2026-10-14T12:00:53+00:00"
     },
     {
       "source": "DonanımHaber",
