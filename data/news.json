@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-15T11:08:01.383438+00:00",
+  "updatedAt": "2026-10-15T11:36:35.067459+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T11:08:01.383438+00:00",
+      "checkedAt": "2026-10-15T11:36:35.067459+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T11:08:01.383438+00:00",
+      "checkedAt": "2026-10-15T11:36:35.067459+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo’yu Sakın Bozmayın! Tamir Ücreti Cebinizi Yakacak!",
+      "link": "https://shiftdelete.net/iphone-duoyu-sakin-bozmayin-tamir-ucreti-cebinizi-yakacak",
+      "publishedAt": "2026-10-15T11:30:47+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy A38 ve Galaxy A58’in kamera özellikleri sızdırıldı",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-a38-ve-galaxy-a58-in-kamera-ozellikleri-sizdirildi--211664",
+      "publishedAt": "2026-10-15T11:20:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Red Magic 12 Pro+ Güçlü Donanımıyla Tanıtıldı",
@@ -72,12 +84,6 @@
       "publishedAt": "2026-10-14T20:00:57+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "OnePlus 16 Satışa Çıktı: İlk Saatte 70 Bin Adet Satıldı",
-      "link": "https://shiftdelete.net/oneplus-16-ilk-saatinde-70-binden-fazla-satti",
-      "publishedAt": "2026-10-14T17:00:48+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Qualcomm, Arm’a karşı davayı kazandı: Tazminat sadece 2 dolar",
       "link": "https://www.donanimhaber.com/qualcomm-arm-a-karsi-davayi-kazandi-tazminat-sadece-2-dolar--211620",
@@ -124,12 +130,6 @@
       "title": "Nothing OS 5.0 dağıtıma çıktı: İşte güncelleme alacak telefonlar",
       "link": "https://www.donanimhaber.com/nothing-os-5-0-dagitima-cikti-iste-guncelleme-alacak-telefonlar--211586",
       "publishedAt": "2026-10-13T19:02:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "ColorOS 17 tanıtıldı: İşte özellikleri ve dağıtım takvimi",
-      "link": "https://www.donanimhaber.com/coloros-17-tanitildi-iste-ozellikleri-ve-dagitim-takvimi--211570",
-      "publishedAt": "2026-10-13T17:17:00+00:00"
     }
   ]
 }
