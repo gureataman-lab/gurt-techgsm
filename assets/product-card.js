@@ -6,7 +6,7 @@ export function productCard(p,{imageUrl,money}){
  const card=element('article','glass-card rounded-2xl p-4 flex flex-col justify-between');
  const top=element('button','pd-open');top.type='button';top.setAttribute('aria-haspopup','dialog');top.setAttribute('aria-label',p.title+' detaylarını aç');top.onclick=()=>openProductDetail(p,{imageUrl,money});
  const visual=element('div','relative bg-gray-900 rounded-xl p-6 text-center mb-4 border border-gray-800');
- if(p.image_path){const img=element('img','w-full h-32 object-contain mx-auto');img.src=imageUrl(p.image_path);img.alt=p.title;img.loading='lazy';visual.append(img);}
+ if(p.image_path){visual.style.padding='0';visual.style.height='176px';visual.style.overflow='hidden';const img=element('img','w-full h-full object-cover');img.style.width='100%';img.style.height='100%';img.style.objectFit='cover';img.style.objectPosition='center';img.style.display='block';img.src=imageUrl(p.image_path);img.alt=p.title;img.loading='lazy';visual.append(img);}
  else visual.append(element('i',accessory?'fa-solid fa-headphones text-6xl text-gray-400':'fa-solid fa-mobile-screen-button text-6xl text-gray-400'));
  const meta=element('div','flex items-center justify-between text-xs text-gray-400 mb-1');meta.append(element('span','',accessory?(p.condition||'Aksesuar'):p.brand),element('span',p.stock>0?'text-emerald-400':'text-gray-400',p.stock>0?'Stokta Var':'Tükendi'));
  const summary=!accessory&&d?`${d.ram} GB RAM · ${d.storage==='1024'?'1 TB':d.storage+' GB'} · ${d.state}${d.state==='İkinci el'?' · Kasa '+d.cosmetic+'/10':''}`:p.description;
