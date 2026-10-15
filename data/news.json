@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-15T04:34:57.557086+00:00",
+  "updatedAt": "2026-10-15T05:07:52.309825+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T04:34:57.557086+00:00",
+      "checkedAt": "2026-10-15T05:07:52.309825+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T04:34:57.557086+00:00",
+      "checkedAt": "2026-10-15T05:07:52.309825+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple’ın 27 Ekim Etkinliğinde Tanıtacağı Yeni Ürünler Belli Oldu",
+      "link": "https://shiftdelete.net/apple-yeni-mac-modelleri-oled-ipad-mini-27-ekim",
+      "publishedAt": "2026-10-15T05:00:09+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung’un Yapay Zeka Özelliği Now Nudge Türkçe Oldu",
@@ -94,12 +100,6 @@
       "title": "Nothing OS 5.0 Yayınlandı: İşte Desteklenen Modeller",
       "link": "https://shiftdelete.net/nothing-os-5-0-guncelleme-listesi",
       "publishedAt": "2026-10-14T08:30:18+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Google Play Store İçin Devrim Niteliğinde Yenilikler Duyurdu",
-      "link": "https://shiftdelete.net/google-play-store-icin-devrim-niteliginde-yenilikler-duyurdu",
-      "publishedAt": "2026-10-14T08:00:46+00:00"
     },
     {
       "source": "DonanımHaber",
