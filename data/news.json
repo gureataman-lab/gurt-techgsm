@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-15T06:05:15.499284+00:00",
+  "updatedAt": "2026-10-15T06:48:42.621056+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T06:05:15.499284+00:00",
+      "checkedAt": "2026-10-15T06:48:42.621056+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T06:05:15.499284+00:00",
+      "checkedAt": "2026-10-15T06:48:42.621056+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S23 Serisi Son Büyük Güncellemesini Aldı",
+      "link": "https://shiftdelete.net/galaxy-s23-serisi-son-buyuk-guncellemesini-aldi",
+      "publishedAt": "2026-10-15T06:30:28+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "ŞOK marketler Samsung ürünleri satıyor",
+      "link": "https://www.donanimhaber.com/14-ekim-sok-aktuel-katalogunda-neler-var--211640",
+      "publishedAt": "2026-10-15T06:11:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple 12 İnç MacBook ve iPad 6 için Destek Sona Erdi",
@@ -96,12 +108,6 @@
       "publishedAt": "2026-10-14T09:00:24+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Türkiye Telefon Üretim Kapasitesinde Yeni Rekor Kırdı",
-      "link": "https://shiftdelete.net/turkiye-telefon-uretim-kapasitesinde-yeni-rekor-kirdi",
-      "publishedAt": "2026-10-14T08:44:49+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor Win 2 serisi iddialı geliyor: 12.000 mAh pil ve dahili fan",
       "link": "https://www.donanimhaber.com/honor-win-2-serisi-iddiali-geliyor-12-000-mah-pil-ve-dahili-fan--211591",
@@ -124,12 +130,6 @@
       "title": "ColorOS 17 tanıtıldı: İşte özellikleri ve dağıtım takvimi",
       "link": "https://www.donanimhaber.com/coloros-17-tanitildi-iste-ozellikleri-ve-dagitim-takvimi--211570",
       "publishedAt": "2026-10-13T17:17:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "185FPS oyun moduyla OnePlus 16 tanıtıldı: İşte özellikleri",
-      "link": "https://www.donanimhaber.com/oneplus-16-tanitildi-iste-ozellikleri-ve-fiyati--211558",
-      "publishedAt": "2026-10-13T10:52:00+00:00"
     }
   ]
 }
