@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-15T06:48:42.621056+00:00",
+  "updatedAt": "2026-10-15T07:44:33.781479+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T06:48:42.621056+00:00",
+      "checkedAt": "2026-10-15T07:44:33.781479+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T06:48:42.621056+00:00",
+      "checkedAt": "2026-10-15T07:44:33.781479+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple ve LG Güçlerini Birleştirdi: Yeni Akıllı Ev Serisi Duyuruldu",
+      "link": "https://shiftdelete.net/apple-ve-lg-guclerini-birlestirdi-yeni-akilli-ev-serisi-duyuruldu",
+      "publishedAt": "2026-10-15T07:41:50+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Galaxy S23 Serisi Son Büyük Güncellemesini Aldı",
@@ -100,12 +106,6 @@
       "title": "Kompakt Performans Canavarı: Honor WIN Pad Tasarımı Ortaya Çıktı",
       "link": "https://shiftdelete.net/honor-win-pad-ozellikleri-tasarimi",
       "publishedAt": "2026-10-14T10:00:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo için İlk Güncelleme Hazır",
-      "link": "https://shiftdelete.net/iphone-duo-ios-27-1-guncellemesi",
-      "publishedAt": "2026-10-14T09:00:24+00:00"
     },
     {
       "source": "DonanımHaber",
