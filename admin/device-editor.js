@@ -1,4 +1,5 @@
 import { validateDevice, RAM, STORAGE, DAYS, PHOTO_LIMIT, COSMETIC, COLORS, galleryPaths } from '../assets/device-fields.js';
+import {addSelectSearch} from './select-search.js?v=1';
 
 export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loadProducts}) {
  const $=id=>document.getElementById(id), form=$('productForm'), field=name=>form.elements.namedItem(name);
@@ -10,6 +11,8 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
  for(const name of ['line1','line2']) fill(name,DAYS,x=>x+' gün');
  fill('cosmetic',COSMETIC,x=>x+' / 10');
  fill('color',COLORS);field('color').add(option('other','Diğer / Özel renk'));
+ const modelSearch=addSelectSearch(field('model'),{label:'Model ara',placeholder:'Örn. 17 Pro Max veya S24',hint:'Arama yüklenen modeller içindedir. Gerekirse “Daha fazla model”e basın.'});
+ const colorSearch=addSelectSearch(field('color'),{label:'Renk ara',placeholder:'Örn. mavi, siyah veya titanyum'});
  function conditions() {
    const unregistered=field('registration').value==='Kayıtsız';
    $('lineFields').hidden=!unregistered;$('methodField').hidden=field('registration').value!=='Kayıtlı';
@@ -42,14 +45,16 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
    field('model').replaceChildren(option('','Model seçin'),...modelPages.map(m=>option(m.path,m.name)));
    if(selected&&!modelPages.some(m=>m.path===selected)&&editing?.device_details?.model) field('model').add(option(selected,editing.device_details.model));
    field('model').value=selected;field('model').disabled=false;$('moreModels').hidden=!next;
+   modelSearch.refresh();
  }
  async function getModels(more=false) {
    const token=++serial;
    const brand=brands.find(b=>b.name===field('brand').value);
-   if(!more){modelPages=[];next=null;path='';specs=null;field('model').replaceChildren(option('','Modeller yükleniyor…'));showSpecs();}
-   if(!brand){pending=false;field('model').replaceChildren(option('','Önce marka seçin'));field('model').disabled=true;$('moreModels').hidden=true;$('sourceStatus').textContent='';return;}
+   if(!more){modelSearch.reset();modelPages=[];next=null;path='';specs=null;field('model').replaceChildren(option('','Modeller yükleniyor…'));showSpecs();}
+   if(!brand){pending=false;field('model').replaceChildren(option('','Önce marka seçin'));field('model').disabled=true;modelSearch.refresh();$('moreModels').hidden=true;$('sourceStatus').textContent='';return;}
    if(more&&!next)return;
    pending=true;$('moreModels').disabled=true;field('model').disabled=true;$('sourceStatus').textContent='Modeller GSMArena’dan alınıyor…';
+   modelSearch.refresh();
    try {
      const data=await source('models',more?next:brand.path);if(token!==serial)return;
      const map=new Map([...modelPages,...data.models].map(m=>[m.path,m]));modelPages=[...map.values()];next=data.next;
@@ -85,7 +90,7 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
  };
  function open(product=null) {
    if(saving)return;serial++;pending=false;revoke();editing=product?{...product}:null;modelPages=[];next=null;
-   form.reset();$('formError').textContent='';$('sourceStatus').textContent='';$('moreModels').hidden=true;
+   modelSearch.reset();colorSearch.reset();form.reset();$('formError').textContent='';$('sourceStatus').textContent='';$('moreModels').hidden=true;
    const d=product?.device_details;
    brandOptions(product?.brand||'');
    for(const name of ['title','category','price','stock'])if(product)field(name).value=product[name];
@@ -96,6 +101,7 @@ export function createDeviceEditor({db,imageUrl,validateProduct,lock,message,loa
    path=d?.model_path||'';specs=d?.specs||null;
    field('model').replaceChildren(option('','Önce marka seçin'));field('model').disabled=true;
    if(d?.model){field('model').add(option(path,d.model));field('model').value=path;field('model').disabled=false;}
+   modelSearch.refresh();colorSearch.refresh();
    photos=galleryPaths(product||{},'photos').map(p=>({path:p,url:imageUrl(p)}));defects=galleryPaths(product||{},'defects').map(p=>({path:p,url:imageUrl(p)}));
    renderPhotos('photos');renderPhotos('defects');showSpecs();conditions();
    $('editorTitle').textContent=product?'Ürünü düzenle':'Yeni ürün';$('deleteProduct').hidden=!product;

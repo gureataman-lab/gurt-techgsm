@@ -1,6 +1,6 @@
 import {createAccessoryEditor} from './accessory-editor.js';
 import {createInventory} from './inventory.js';
-import { createDeviceEditor } from './device-editor.js';
+import { createDeviceEditor } from './device-editor.js?v=search-1';
 import { db, configured, categories, money, imageUrl, validateProduct } from '../assets/catalog-client.js';
 const $ = id => document.getElementById(id);
 let products = [], busy = false, sessionEpoch = 0;
