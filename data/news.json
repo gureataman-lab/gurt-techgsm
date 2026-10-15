@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-15T20:40:09.973169+00:00",
+  "updatedAt": "2026-10-15T21:37:05.064002+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-15T20:40:09.973169+00:00",
+      "checkedAt": "2026-10-15T21:37:05.064002+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-15T20:40:09.973169+00:00",
+      "checkedAt": "2026-10-15T21:37:05.064002+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung katlanabilir telefon ailesini büyütüyor: İki yeni model gündemde",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-z-ailesini-buyutuyor-iki-yeni-model-gundemde--211688",
+      "publishedAt": "2026-10-15T20:40:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "RedMagic 12 Pro+ tanıtıldı: Eksiksiz oyun telefonu!",
@@ -124,12 +130,6 @@
       "title": "Honor Win 2 serisi iddialı geliyor: 12.000 mAh pil ve dahili fan",
       "link": "https://www.donanimhaber.com/honor-win-2-serisi-iddiali-geliyor-12-000-mah-pil-ve-dahili-fan--211591",
       "publishedAt": "2026-10-14T07:27:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy S27 Ultra ile Gizlilik Ekranı seviye atlıyor",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-ultra-ekrani-daha-gizli-olacak--211598",
-      "publishedAt": "2026-10-14T06:24:00+00:00"
     }
   ]
 }
