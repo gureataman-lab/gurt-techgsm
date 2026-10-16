@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-16T04:35:27.017620+00:00",
+  "updatedAt": "2026-10-16T05:09:46.609927+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-16T04:35:27.017620+00:00",
+      "checkedAt": "2026-10-16T05:09:46.609927+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-16T04:35:27.017620+00:00",
+      "checkedAt": "2026-10-16T05:09:46.609927+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "RedMagic 12 Pro+ Tanıtıldı: 185Hz Ekran ve RGB Sıvı Soğutma ile Geliyor",
+      "link": "https://shiftdelete.net/redmagic-12-pro-plus-tanitildi",
+      "publishedAt": "2026-10-16T04:30:45+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung katlanabilir telefon ailesini büyütüyor: İki yeni model gündemde",
@@ -88,12 +94,6 @@
       "title": "ŞOK marketler Samsung ürünleri satıyor",
       "link": "https://www.donanimhaber.com/14-ekim-sok-aktuel-katalogunda-neler-var--211640",
       "publishedAt": "2026-10-15T06:11:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple 12 İnç MacBook ve iPad 6 için Destek Sona Erdi",
-      "link": "https://shiftdelete.net/apple-eskiyen-urunler-listesi-guncellendi",
-      "publishedAt": "2026-10-15T06:00:22+00:00"
     },
     {
       "source": "DonanımHaber",
