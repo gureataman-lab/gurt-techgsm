@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-10-16T07:41:31.256261+00:00",
+  "updatedAt": "2026-10-16T08:38:08.871747+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-16T07:41:31.256261+00:00",
+      "checkedAt": "2026-10-16T08:38:08.871747+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-16T07:41:31.256261+00:00",
+      "checkedAt": "2026-10-16T08:38:08.871747+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Sony Sözünden Döndü: Gelecek Denilen Güncelleme İptal Edildi",
+      "link": "https://shiftdelete.net/sony-xperia-10-vi-android-17-iptal",
+      "publishedAt": "2026-10-16T08:30:53+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Sony Yeni Walkman Modelleriyle Ses Kalitesinde Çıtayı Yükseltiyor",
+      "link": "https://shiftdelete.net/sony-yeni-walkman-modelleriyle-ses-kalitesinde-citayi-yukseltiyor",
+      "publishedAt": "2026-10-16T08:15:42+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple, Katlanabilir iPhone Duo Ön Siparişleri İçin Mağazayı Kapattı",
+      "link": "https://shiftdelete.net/apple-katlanabilir-iphone-duo-on-siparisleri-icin-magazayi-kapatti",
+      "publishedAt": "2026-10-16T07:58:41+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung Katlanabilir Telefon Ailesini Genişletiyor: İki Yeni Model Yolda",
@@ -70,24 +88,6 @@
       "title": "Red Magic 12 Pro+ Güçlü Donanımıyla Tanıtıldı",
       "link": "https://shiftdelete.net/red-magic-12-pro-guclu-donanimiyla-tanitildi",
       "publishedAt": "2026-10-15T10:53:15+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Telefon ve Teknolojik Ürünlerde Taksit Kuralı Değişiyor",
-      "link": "https://shiftdelete.net/teknolojik-urunlerde-taksit-kurallari-degisiyor",
-      "publishedAt": "2026-10-15T10:45:31+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 18 Üretimi Kasım Sonunda Başlıyor",
-      "link": "https://shiftdelete.net/apple-iphone-18-duz-model-uretim-beklentisi",
-      "publishedAt": "2026-10-15T08:00:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "HUAWEI’den Türkiye’de Bir İlk: MatePad Modellerine Ücretsiz Hasar Güvencesi",
-      "link": "https://shiftdelete.net/huaweiden-turkiyede-bir-ilk-matepad-modellerine-ucretsiz-hasar-guvencesi",
-      "publishedAt": "2026-10-15T07:54:56+00:00"
     },
     {
       "source": "DonanımHaber",
