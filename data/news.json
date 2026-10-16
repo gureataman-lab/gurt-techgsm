@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-16T10:11:48.315648+00:00",
+  "updatedAt": "2026-10-16T11:06:22.472753+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-16T10:11:48.315648+00:00",
+      "checkedAt": "2026-10-16T11:06:22.472753+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-16T10:11:48.315648+00:00",
+      "checkedAt": "2026-10-16T11:06:22.472753+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Qualcomm ve Transsion 2031’e Kadar 5G Lisans Anlaşmasını Uzattı",
+      "link": "https://shiftdelete.net/qualcomm-ve-transsion-2031e-kadar-5g-lisans-anlasmasini-uzatti",
+      "publishedAt": "2026-10-16T10:30:19+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Yeni MacBook Pro’nun İşlemcisi Belli Oldu",
@@ -76,12 +82,6 @@
       "title": "Apple 28 Ekim’de Yeni Ürünlerini Tanıtacak: iPad mini ve Yeni MacBook Geliyor",
       "link": "https://shiftdelete.net/apple-28-ekimde-yeni-urunlerini-tanitacak",
       "publishedAt": "2026-10-15T12:30:01+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp Web’e Kişiselleştirme Geldi",
-      "link": "https://shiftdelete.net/whatsapp-webe-kisisellestirme-geldi",
-      "publishedAt": "2026-10-15T12:00:31+00:00"
     },
     {
       "source": "DonanımHaber",
