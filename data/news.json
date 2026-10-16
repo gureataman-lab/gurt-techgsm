@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-16T05:09:46.609927+00:00",
+  "updatedAt": "2026-10-16T06:05:42.548745+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-16T05:09:46.609927+00:00",
+      "checkedAt": "2026-10-16T06:05:42.548745+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-16T05:09:46.609927+00:00",
+      "checkedAt": "2026-10-16T06:05:42.548745+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPad Mini 8 için İlk İpucu Apple’dan Geldi",
+      "link": "https://shiftdelete.net/apple-ipad-mini-8-sizinti-ipucu",
+      "publishedAt": "2026-10-16T06:00:08+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "RedMagic 12 Pro+ Tanıtıldı: 185Hz Ekran ve RGB Sıvı Soğutma ile Geliyor",
@@ -82,12 +88,6 @@
       "title": "Apple ve LG Güçlerini Birleştirdi: Yeni Akıllı Ev Serisi Duyuruldu",
       "link": "https://shiftdelete.net/apple-ve-lg-guclerini-birlestirdi-yeni-akilli-ev-serisi-duyuruldu",
       "publishedAt": "2026-10-15T07:41:50+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy S23 Serisi Son Büyük Güncellemesini Aldı",
-      "link": "https://shiftdelete.net/galaxy-s23-serisi-son-buyuk-guncellemesini-aldi",
-      "publishedAt": "2026-10-15T06:30:28+00:00"
     },
     {
       "source": "DonanımHaber",
