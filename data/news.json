@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-16T18:41:54.830676+00:00",
+  "updatedAt": "2026-10-16T19:34:36.270976+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-16T18:41:54.830676+00:00",
+      "checkedAt": "2026-10-16T19:34:36.270976+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-16T18:41:54.830676+00:00",
+      "checkedAt": "2026-10-16T19:34:36.270976+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Apple CEO'su: İlk katlanabilir telefonlar ucuz ve kalitesizdi!",
+      "link": "https://www.donanimhaber.com/apple-ceo-su-ilk-katlanabilir-telefonlar-ucuz-ve-kalitesizdi--211742",
+      "publishedAt": "2026-10-16T19:22:05+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "WhatsApp Sekme Tasarımını Yeniliyor: Yeni Detaylar Ortaya Çıktı",
@@ -124,12 +130,6 @@
       "title": "Samsung One UI tarih mi oluyor: Galaxy OS ortaya çıktı",
       "link": "https://www.donanimhaber.com/samsung-one-ui-tarih-mi-oluyor-galaxy-os-ortaya-cikti--211611",
       "publishedAt": "2026-10-14T11:43:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor Win 2 serisi iddialı geliyor: 12.000 mAh pil ve dahili fan",
-      "link": "https://www.donanimhaber.com/honor-win-2-serisi-iddiali-geliyor-12-000-mah-pil-ve-dahili-fan--211591",
-      "publishedAt": "2026-10-14T07:27:00+00:00"
     }
   ]
 }
