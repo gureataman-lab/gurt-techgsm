@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-17T14:59:00.477140+00:00",
+  "updatedAt": "2026-10-17T15:31:30.210797+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-17T14:59:00.477140+00:00",
+      "checkedAt": "2026-10-17T15:31:30.210797+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-17T14:59:00.477140+00:00",
+      "checkedAt": "2026-10-17T15:31:30.210797+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Honor Win 2 Performans Testinde Zirveye Oynuyor",
+      "link": "https://shiftdelete.net/honor-win-2-antutu-skoru",
+      "publishedAt": "2026-10-17T15:00:55+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "OnePlus Ace 7 Pro'nun çift renkli tasarımı ortaya çıktı",
+      "link": "https://www.donanimhaber.com/oneplus-ace-7-pro-nun-cift-renkli-tasarimi-ortaya-cikti--211764",
+      "publishedAt": "2026-10-17T15:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Apple'ın 5 bin TL'lik iPhone Duo kılıfında yapıştırıcı şoku!",
@@ -102,12 +114,6 @@
       "publishedAt": "2026-10-16T09:30:59+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Snapdragon 8 Elite Extreme Gen 6’da Ciddi Performans Sorunları Tespit Edildi",
-      "link": "https://shiftdelete.net/snapdragon-8-elite-extreme-gen-6da-ciddi-performans-sorunlari-tespit-edildi",
-      "publishedAt": "2026-10-16T09:00:28+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung katlanabilir telefon ailesini büyütüyor: İki yeni model gündemde",
       "link": "https://www.donanimhaber.com/samsung-galaxy-z-ailesini-buyutuyor-iki-yeni-model-gundemde--211688",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy A38 ve Galaxy A58’in kamera özellikleri sızdırıldı",
       "link": "https://www.donanimhaber.com/samsung-galaxy-a38-ve-galaxy-a58-in-kamera-ozellikleri-sizdirildi--211664",
       "publishedAt": "2026-10-15T11:20:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "ŞOK marketler Samsung ürünleri satıyor",
-      "link": "https://www.donanimhaber.com/14-ekim-sok-aktuel-katalogunda-neler-var--211640",
-      "publishedAt": "2026-10-15T06:11:00+00:00"
     }
   ]
 }
