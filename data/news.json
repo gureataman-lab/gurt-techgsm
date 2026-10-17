@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-17T05:32:38.643497+00:00",
+  "updatedAt": "2026-10-17T06:01:07.796693+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-17T05:32:38.643497+00:00",
+      "checkedAt": "2026-10-17T06:01:07.796693+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-17T05:32:38.643497+00:00",
+      "checkedAt": "2026-10-17T06:01:07.796693+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp Android’de Tasarımını Küçük de Olsa Yeniliyor",
+      "link": "https://shiftdelete.net/whatsapp-androidde-tasarimini-kucuk-de-olsa-yeniliyor",
+      "publishedAt": "2026-10-17T06:00:45+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone 18 Pro ve Pro Max Rekor Kırdı",
+      "link": "https://shiftdelete.net/iphone-18-pro-ve-pro-max-rekor-kirdi",
+      "publishedAt": "2026-10-17T05:45:58+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Honor MagicOS 11 küresel takvimi açıklandı: Güncelleme hangi modellere ne zaman geliyor?",
@@ -70,18 +82,6 @@
       "title": "Samsung Katlanabilir Telefon Ailesini Genişletiyor: İki Yeni Model Yolda",
       "link": "https://shiftdelete.net/samsung-katlanabilir-telefon-ailesi-genisliyor",
       "publishedAt": "2026-10-16T07:00:44+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPad Mini 8 için İlk İpucu Apple’dan Geldi",
-      "link": "https://shiftdelete.net/apple-ipad-mini-8-sizinti-ipucu",
-      "publishedAt": "2026-10-16T06:00:08+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "RedMagic 12 Pro+ Tanıtıldı: 185Hz Ekran ve RGB Sıvı Soğutma ile Geliyor",
-      "link": "https://shiftdelete.net/redmagic-12-pro-plus-tanitildi",
-      "publishedAt": "2026-10-16T04:30:45+00:00"
     },
     {
       "source": "DonanımHaber",
