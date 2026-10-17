@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-17T10:34:42.868977+00:00",
+  "updatedAt": "2026-10-17T11:01:29.669253+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-17T10:34:42.868977+00:00",
+      "checkedAt": "2026-10-17T11:01:29.669253+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-17T10:34:42.868977+00:00",
+      "checkedAt": "2026-10-17T11:01:29.669253+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Honor MagicOS 11 Güncellemesini Duyurdu",
+      "link": "https://shiftdelete.net/honor-magicos-11-guncellemesini-duyurdu",
+      "publishedAt": "2026-10-17T11:00:52+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Snapdragon 8 Elite Gen 6 Isınıyor mu? İşte Resmi Açıklama",
@@ -82,12 +88,6 @@
       "title": "Sony Sözünden Döndü: Gelecek Denilen Güncelleme İptal Edildi",
       "link": "https://shiftdelete.net/sony-xperia-10-vi-android-17-iptal",
       "publishedAt": "2026-10-16T08:30:53+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Sony Yeni Walkman Modelleriyle Ses Kalitesinde Çıtayı Yükseltiyor",
-      "link": "https://shiftdelete.net/sony-yeni-walkman-modelleriyle-ses-kalitesinde-citayi-yukseltiyor",
-      "publishedAt": "2026-10-16T08:15:42+00:00"
     },
     {
       "source": "DonanımHaber",
