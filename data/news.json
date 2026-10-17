@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-17T12:37:25.532094+00:00",
+  "updatedAt": "2026-10-17T13:33:23.104065+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-17T12:37:25.532094+00:00",
+      "checkedAt": "2026-10-17T13:33:23.104065+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-17T12:37:25.532094+00:00",
+      "checkedAt": "2026-10-17T13:33:23.104065+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Apple'ın 5 bin TL'lik iPhone Duo kılıfında yapıştırıcı şoku!",
+      "link": "https://www.donanimhaber.com/apple-in-iphone-duo-kilifi-telefona-yapiskanla-tutunuyor--211761",
+      "publishedAt": "2026-10-17T13:30:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Windows 11 ile akıllı telefon entegrasyonu genişliyor: İşte yeni özellikler",
+      "link": "https://www.donanimhaber.com/windows-11-ile-akilli-telefon-entegrasyonu-genisliyor--211744",
+      "publishedAt": "2026-10-17T13:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Galaxy S27 Ultra Tasarım Detayları ve Boyutları Sızdırıldı",
@@ -118,18 +130,6 @@
       "title": "ŞOK marketler Samsung ürünleri satıyor",
       "link": "https://www.donanimhaber.com/14-ekim-sok-aktuel-katalogunda-neler-var--211640",
       "publishedAt": "2026-10-15T06:11:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Qualcomm, Arm’a karşı davayı kazandı: Tazminat sadece 2 dolar",
-      "link": "https://www.donanimhaber.com/qualcomm-arm-a-karsi-davayi-kazandi-tazminat-sadece-2-dolar--211620",
-      "publishedAt": "2026-10-14T16:15:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei’nin yeni Kirin işlemcisi beklentileri aştı: 2027 hedefleri tuttu",
-      "link": "https://www.donanimhaber.com/huawei-nin-logicfolding-mimarisi-beklentileri-asti--211630",
-      "publishedAt": "2026-10-14T15:11:00+00:00"
     }
   ]
 }
