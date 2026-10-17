@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-17T11:58:22.731763+00:00",
+  "updatedAt": "2026-10-17T12:37:25.532094+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-17T11:58:22.731763+00:00",
+      "checkedAt": "2026-10-17T12:37:25.532094+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-17T11:58:22.731763+00:00",
+      "checkedAt": "2026-10-17T12:37:25.532094+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S27 Ultra Tasarım Detayları ve Boyutları Sızdırıldı",
+      "link": "https://shiftdelete.net/galaxy-s27-ultra-tasarim-detaylari-ve-boyutlari-sizdirildi",
+      "publishedAt": "2026-10-17T12:00:53+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Honor Win 2, AnTuTu testinde 5.7 milyon puanla rekor kırdı",
+      "link": "https://www.donanimhaber.com/honor-win-2-antutu-testinde-5-7-milyon-puanla-rekor-kirdi--211743",
+      "publishedAt": "2026-10-17T12:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Honor MagicOS 11 Güncellemesini Duyurdu",
@@ -84,12 +96,6 @@
       "publishedAt": "2026-10-16T09:00:28+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Sony Sözünden Döndü: Gelecek Denilen Güncelleme İptal Edildi",
-      "link": "https://shiftdelete.net/sony-xperia-10-vi-android-17-iptal",
-      "publishedAt": "2026-10-16T08:30:53+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung katlanabilir telefon ailesini büyütüyor: İki yeni model gündemde",
       "link": "https://www.donanimhaber.com/samsung-galaxy-z-ailesini-buyutuyor-iki-yeni-model-gundemde--211688",
@@ -124,12 +130,6 @@
       "title": "Huawei’nin yeni Kirin işlemcisi beklentileri aştı: 2027 hedefleri tuttu",
       "link": "https://www.donanimhaber.com/huawei-nin-logicfolding-mimarisi-beklentileri-asti--211630",
       "publishedAt": "2026-10-14T15:11:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Galaxy S23 serisi son büyük güncellemesini aldı!",
-      "link": "https://www.donanimhaber.com/galaxy-s23-serisi-icin-one-ui-9-guncellemesi-hazir--211612",
-      "publishedAt": "2026-10-14T12:52:00+00:00"
     }
   ]
 }
