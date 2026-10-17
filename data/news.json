@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-17T07:35:28.426162+00:00",
+  "updatedAt": "2026-10-17T08:03:36.728727+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-17T07:35:28.426162+00:00",
+      "checkedAt": "2026-10-17T08:03:36.728727+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-17T07:35:28.426162+00:00",
+      "checkedAt": "2026-10-17T08:03:36.728727+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo İlk Olmamasına Rağmen En İyisi Olabilir",
+      "link": "https://shiftdelete.net/iphone-duo-ilk-olmamasina-ragmen-en-iyisi-olabilir",
+      "publishedAt": "2026-10-17T08:00:48+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "WhatsApp Android’de Tasarımını Küçük de Olsa Yeniliyor",
@@ -76,12 +82,6 @@
       "title": "Apple, Katlanabilir iPhone Duo Ön Siparişleri İçin Mağazayı Kapattı",
       "link": "https://shiftdelete.net/apple-katlanabilir-iphone-duo-on-siparisleri-icin-magazayi-kapatti",
       "publishedAt": "2026-10-16T07:58:41+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung Katlanabilir Telefon Ailesini Genişletiyor: İki Yeni Model Yolda",
-      "link": "https://shiftdelete.net/samsung-katlanabilir-telefon-ailesi-genisliyor",
-      "publishedAt": "2026-10-16T07:00:44+00:00"
     },
     {
       "source": "DonanımHaber",
