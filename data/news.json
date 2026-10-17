@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-17T09:04:41.596697+00:00",
+  "updatedAt": "2026-10-17T09:35:56.172062+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-17T09:04:41.596697+00:00",
+      "checkedAt": "2026-10-17T09:35:56.172062+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-17T09:04:41.596697+00:00",
+      "checkedAt": "2026-10-17T09:35:56.172062+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Snapdragon 8 Elite Gen 6 Isınıyor mu? İşte Resmi Açıklama",
+      "link": "https://shiftdelete.net/snapdragon-8-elite-gen-6-isiniyor-mu-iste-resmi-aciklama",
+      "publishedAt": "2026-10-17T09:30:49+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Galaxy S27 Ultra için sürpriz gelişme: Exynos 2700 geri dönebilir",
@@ -82,12 +88,6 @@
       "title": "Sony Yeni Walkman Modelleriyle Ses Kalitesinde Çıtayı Yükseltiyor",
       "link": "https://shiftdelete.net/sony-yeni-walkman-modelleriyle-ses-kalitesinde-citayi-yukseltiyor",
       "publishedAt": "2026-10-16T08:15:42+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple, Katlanabilir iPhone Duo Ön Siparişleri İçin Mağazayı Kapattı",
-      "link": "https://shiftdelete.net/apple-katlanabilir-iphone-duo-on-siparisleri-icin-magazayi-kapatti",
-      "publishedAt": "2026-10-16T07:58:41+00:00"
     },
     {
       "source": "DonanımHaber",
