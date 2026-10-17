@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-17T08:03:36.728727+00:00",
+  "updatedAt": "2026-10-17T08:36:01.660498+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-17T08:03:36.728727+00:00",
+      "checkedAt": "2026-10-17T08:36:01.660498+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-17T08:03:36.728727+00:00",
+      "checkedAt": "2026-10-17T08:36:01.660498+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Galaxy S27 Ultra için sürpriz gelişme: Exynos 2700 geri dönebilir",
+      "link": "https://www.donanimhaber.com/galaxy-s27-ultra-icin-surpriz-gelisme-exynos-2700-geri-donebilir--211748",
+      "publishedAt": "2026-10-17T08:30:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo İlk Olmamasına Rağmen En İyisi Olabilir",
@@ -124,12 +130,6 @@
       "title": "Galaxy S23 serisi son büyük güncellemesini aldı!",
       "link": "https://www.donanimhaber.com/galaxy-s23-serisi-icin-one-ui-9-guncellemesi-hazir--211612",
       "publishedAt": "2026-10-14T12:52:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Katlanabilir iPhone, özel iOS sürümüyle çıkış yapacak",
-      "link": "https://www.donanimhaber.com/iphone-duo-ozel-ios-surumuyle-cikis-yapacak--211624",
-      "publishedAt": "2026-10-14T12:30:59+00:00"
     }
   ]
 }
