@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-18T10:34:44.838448+00:00",
+  "updatedAt": "2026-10-18T11:02:11.193274+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-18T10:34:44.838448+00:00",
+      "checkedAt": "2026-10-18T11:02:11.193274+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-18T10:34:44.838448+00:00",
+      "checkedAt": "2026-10-18T11:02:11.193274+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Mağazadan iPhone Duo Satın Almak İsteyenlere Kötü Haber",
+      "link": "https://shiftdelete.net/iphone-duo-stok-durumu",
+      "publishedAt": "2026-10-18T11:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Tecno Spark 50s 5G iletişime odaklanıyor",
@@ -106,12 +112,6 @@
       "title": "WhatsApp Android’de Tasarımını Küçük de Olsa Yeniliyor",
       "link": "https://shiftdelete.net/whatsapp-androidde-tasarimini-kucuk-de-olsa-yeniliyor",
       "publishedAt": "2026-10-17T06:00:45+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 18 Pro ve Pro Max Rekor Kırdı",
-      "link": "https://shiftdelete.net/iphone-18-pro-ve-pro-max-rekor-kirdi",
-      "publishedAt": "2026-10-17T05:45:58+00:00"
     },
     {
       "source": "DonanımHaber",
