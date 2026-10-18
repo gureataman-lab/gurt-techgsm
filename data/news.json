@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-18T07:34:46.352092+00:00",
+  "updatedAt": "2026-10-18T08:03:19.514861+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-18T07:34:46.352092+00:00",
+      "checkedAt": "2026-10-18T08:03:19.514861+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-18T07:34:46.352092+00:00",
+      "checkedAt": "2026-10-18T08:03:19.514861+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Bu Tabletlere Sahipseniz Dikkat: Güncelleme Desteği Bitiyor",
+      "link": "https://shiftdelete.net/samsung-galaxy-tablet-yazilim-destegi-sona-eriyor",
+      "publishedAt": "2026-10-18T08:00:37+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo Teslimatları Seneye Kaldı: Yoğun İlgi Stok Bırakmadı",
@@ -112,12 +118,6 @@
       "title": "Apple CEO'su: İlk katlanabilir telefonlar ucuz ve kalitesizdi!",
       "link": "https://www.donanimhaber.com/apple-ceo-su-ilk-katlanabilir-telefonlar-ucuz-ve-kalitesizdi--211742",
       "publishedAt": "2026-10-16T19:22:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp Sekme Tasarımını Yeniliyor: Yeni Detaylar Ortaya Çıktı",
-      "link": "https://shiftdelete.net/whatsapp-sekme-tasarimini-yeniliyor-yeni-detaylar-ortaya-cikti",
-      "publishedAt": "2026-10-16T12:00:25+00:00"
     },
     {
       "source": "DonanımHaber",
