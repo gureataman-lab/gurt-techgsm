@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-18T12:37:52.151360+00:00",
+  "updatedAt": "2026-10-18T13:33:20.789220+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-18T12:37:52.151360+00:00",
+      "checkedAt": "2026-10-18T13:33:20.789220+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-18T12:37:52.151360+00:00",
+      "checkedAt": "2026-10-18T13:33:20.789220+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei, Starlight adıyla yeni bir akıllı telefon markası kurmaya hazırlanıyor",
+      "link": "https://www.donanimhaber.com/huawei-starlight-adiyla-yeni-bir-telefon-markasi-kuruyor--211769",
+      "publishedAt": "2026-10-18T13:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Mağazadan iPhone Duo Satın Almak İsteyenlere Kötü Haber",
@@ -124,12 +130,6 @@
       "title": "Apple CEO'su: İlk katlanabilir telefonlar ucuz ve kalitesizdi!",
       "link": "https://www.donanimhaber.com/apple-ceo-su-ilk-katlanabilir-telefonlar-ucuz-ve-kalitesizdi--211742",
       "publishedAt": "2026-10-16T19:22:05+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung katlanabilir telefon ailesini büyütüyor: İki yeni model gündemde",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-z-ailesini-buyutuyor-iki-yeni-model-gundemde--211688",
-      "publishedAt": "2026-10-15T20:40:00+00:00"
     }
   ]
 }
