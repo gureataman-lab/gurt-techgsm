@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-18T10:04:16.684002+00:00",
+  "updatedAt": "2026-10-18T10:34:44.838448+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-18T10:04:16.684002+00:00",
+      "checkedAt": "2026-10-18T10:34:44.838448+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-18T10:04:16.684002+00:00",
+      "checkedAt": "2026-10-18T10:34:44.838448+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Tecno Spark 50s 5G iletişime odaklanıyor",
+      "link": "https://www.donanimhaber.com/tecno-spark-50s-5g-tanitildi-iste-ozellikleri-ve-fiyati--211787",
+      "publishedAt": "2026-10-18T10:30:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Bu Tabletlere Sahipseniz Dikkat: Güncelleme Desteği Bitiyor",
@@ -124,12 +130,6 @@
       "title": "Samsung katlanabilir telefon ailesini büyütüyor: İki yeni model gündemde",
       "link": "https://www.donanimhaber.com/samsung-galaxy-z-ailesini-buyutuyor-iki-yeni-model-gundemde--211688",
       "publishedAt": "2026-10-15T20:40:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "RedMagic 12 Pro+ tanıtıldı: Eksiksiz oyun telefonu!",
-      "link": "https://www.donanimhaber.com/redmagic-12-pro-tanitildi-iste-ozellikleri-ve-fiyati--211667",
-      "publishedAt": "2026-10-15T15:28:21+00:00"
     }
   ]
 }
