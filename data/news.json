@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-18T13:33:20.789220+00:00",
+  "updatedAt": "2026-10-18T14:01:37.001399+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-18T13:33:20.789220+00:00",
+      "checkedAt": "2026-10-18T14:01:37.001399+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-18T13:33:20.789220+00:00",
+      "checkedAt": "2026-10-18T14:01:37.001399+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, One UI 10 ile büyük değişime hazırlanıyor",
+      "link": "https://www.donanimhaber.com/samsung-one-ui-10-ile-buyuk-degisime-hazirlaniyor--211773",
+      "publishedAt": "2026-10-18T14:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Huawei, Starlight adıyla yeni bir akıllı telefon markası kurmaya hazırlanıyor",
@@ -124,12 +130,6 @@
       "title": "Honor MagicOS 11 küresel takvimi açıklandı: Güncelleme hangi modellere ne zaman geliyor?",
       "link": "https://www.donanimhaber.com/honor-magicos-11-global-takvimi-aciklandi-iste-cihazlar-listesi--211713",
       "publishedAt": "2026-10-16T20:59:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple CEO'su: İlk katlanabilir telefonlar ucuz ve kalitesizdi!",
-      "link": "https://www.donanimhaber.com/apple-ceo-su-ilk-katlanabilir-telefonlar-ucuz-ve-kalitesizdi--211742",
-      "publishedAt": "2026-10-16T19:22:05+00:00"
     }
   ]
 }
