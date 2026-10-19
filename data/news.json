@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-19T10:13:29.233711+00:00",
+  "updatedAt": "2026-10-19T11:08:01.073522+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-19T10:13:29.233711+00:00",
+      "checkedAt": "2026-10-19T11:08:01.073522+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-19T10:13:29.233711+00:00",
+      "checkedAt": "2026-10-19T11:08:01.073522+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple’dan Akıllı Ev Kategorisinde Robotik Hamle: HomeView Max Geliyor!",
+      "link": "https://shiftdelete.net/appledan-akilli-ev-kategorisinde-robotik-hamle-homeview-max-geliyor",
+      "publishedAt": "2026-10-19T11:00:50+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Katlanabilir iPhone'un batarya kapasitesi belli oldu",
+      "link": "https://www.donanimhaber.com/katlanabilir-iphone-duo-batarya-kac-mah-belli-oldu--211799",
+      "publishedAt": "2026-10-19T10:50:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple iPhone Duo Ön Siparişlerinde Büyük Hata Yaptı",
@@ -96,12 +108,6 @@
       "publishedAt": "2026-10-18T05:00:49+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Qualcomm Snapdragon 8 Elite Extreme Gen 6’da Isınma Sorunu mu Var?",
-      "link": "https://shiftdelete.net/snapdragon-8-elite-extreme-gen-6-isinma-sorunu",
-      "publishedAt": "2026-10-17T18:00:50+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Qualcomm’dan Snapdragon 8 Elite Extreme Gen 6’nın ısınma iddialarına yanıt",
       "link": "https://www.donanimhaber.com/qualcomm-snapdragon-8-elite-extreme-gen-6-iddialarini-yalanladi--211760",
@@ -124,12 +130,6 @@
       "title": "Windows 11 ile akıllı telefon entegrasyonu genişliyor: İşte yeni özellikler",
       "link": "https://www.donanimhaber.com/windows-11-ile-akilli-telefon-entegrasyonu-genisliyor--211744",
       "publishedAt": "2026-10-17T13:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor Win 2, AnTuTu testinde 5.7 milyon puanla rekor kırdı",
-      "link": "https://www.donanimhaber.com/honor-win-2-antutu-testinde-5-7-milyon-puanla-rekor-kirdi--211743",
-      "publishedAt": "2026-10-17T12:00:00+00:00"
     }
   ]
 }
