@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-19T15:16:16.070177+00:00",
+  "updatedAt": "2026-10-19T16:09:05.859737+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-19T15:16:16.070177+00:00",
+      "checkedAt": "2026-10-19T16:09:05.859737+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-19T15:16:16.070177+00:00",
+      "checkedAt": "2026-10-19T16:09:05.859737+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy F70 5G tanıtıldı: Kamera, ekran ve dayanıklılıkta sınıfının en iyisi",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-f70-5g-tanitildi-iste-ozellikleri-ve-fiyati--211808",
+      "publishedAt": "2026-10-19T15:45:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung Galaxy S27 Ne Zaman Tanıtılacak?",
@@ -124,12 +130,6 @@
       "title": "Apple'ın 5 bin TL'lik iPhone Duo kılıfında yapıştırıcı şoku!",
       "link": "https://www.donanimhaber.com/apple-in-iphone-duo-kilifi-telefona-yapiskanla-tutunuyor--211761",
       "publishedAt": "2026-10-17T13:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Windows 11 ile akıllı telefon entegrasyonu genişliyor: İşte yeni özellikler",
-      "link": "https://www.donanimhaber.com/windows-11-ile-akilli-telefon-entegrasyonu-genisliyor--211744",
-      "publishedAt": "2026-10-17T13:00:00+00:00"
     }
   ]
 }
