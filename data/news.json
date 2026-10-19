@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-10-19T06:08:19.557768+00:00",
+  "updatedAt": "2026-10-19T07:27:54.868439+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-19T06:08:19.557768+00:00",
+      "checkedAt": "2026-10-19T07:27:54.868439+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-19T06:08:19.557768+00:00",
+      "checkedAt": "2026-10-19T07:27:54.868439+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Haftanın Dikkat Çeken Yerli Mobil Projeleri",
+      "link": "https://shiftdelete.net/haftanin-dikkat-ceken-yerli-mobil-projeleri",
+      "publishedAt": "2026-10-19T07:06:16+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "HUAWEI Pura 90s Serisinde Dev Kampanya",
+      "link": "https://shiftdelete.net/huawei-pura-90s-serisi-turkiyede-satisa-cikti",
+      "publishedAt": "2026-10-19T06:43:53+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo Batarya Kapasitesi Beklentilerin Üzerinde Çıktı",
+      "link": "https://shiftdelete.net/iphone-duo-batarya-kapasitesi-beklentilerin-uzerinde-cikti",
+      "publishedAt": "2026-10-19T06:30:13+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp Tarayıcı Özelliğini Test Ediyor",
+      "link": "https://shiftdelete.net/whatsapp-tarayici-ozelligini-test-ediyor",
+      "publishedAt": "2026-10-19T06:18:28+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung’un Yeni Arayüzü One UI 10 Nasıl Olacak? İşte Detaylar",
@@ -102,34 +126,10 @@
       "publishedAt": "2026-10-17T13:00:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Galaxy S27 Ultra Tasarım Detayları ve Boyutları Sızdırıldı",
-      "link": "https://shiftdelete.net/galaxy-s27-ultra-tasarim-detaylari-ve-boyutlari-sizdirildi",
-      "publishedAt": "2026-10-17T12:00:53+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor Win 2, AnTuTu testinde 5.7 milyon puanla rekor kırdı",
       "link": "https://www.donanimhaber.com/honor-win-2-antutu-testinde-5-7-milyon-puanla-rekor-kirdi--211743",
       "publishedAt": "2026-10-17T12:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor MagicOS 11 Güncellemesini Duyurdu",
-      "link": "https://shiftdelete.net/honor-magicos-11-guncellemesini-duyurdu",
-      "publishedAt": "2026-10-17T11:00:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Snapdragon 8 Elite Gen 6 Isınıyor mu? İşte Resmi Açıklama",
-      "link": "https://shiftdelete.net/snapdragon-8-elite-gen-6-isiniyor-mu-iste-resmi-aciklama",
-      "publishedAt": "2026-10-17T09:30:49+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo İlk Olmamasına Rağmen En İyisi Olabilir",
-      "link": "https://shiftdelete.net/iphone-duo-ilk-olmamasina-ragmen-en-iyisi-olabilir",
-      "publishedAt": "2026-10-17T08:00:48+00:00"
     }
   ]
 }
