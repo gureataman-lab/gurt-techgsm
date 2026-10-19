@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-19T11:08:01.073522+00:00",
+  "updatedAt": "2026-10-19T12:10:21.537996+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-19T11:08:01.073522+00:00",
+      "checkedAt": "2026-10-19T12:10:21.537996+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-19T11:08:01.073522+00:00",
+      "checkedAt": "2026-10-19T12:10:21.537996+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "OLED Ekranlı Yeni iPad Mini İçin Çıkış Tarihi Belli Oldu: Apple Store Hazırlıkları Başladı",
+      "link": "https://shiftdelete.net/oled-ekranli-yeni-ipad-mini-icin-cikis-tarihi-belli-oldu-apple-store-hazirliklari-basladi",
+      "publishedAt": "2026-10-19T12:00:55+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "HMD Vibe 2 Max: 108MP Kamera ve Güçlü Batarya Detayları ile Sızdı",
+      "link": "https://shiftdelete.net/hmd-vibe-2-max-108mp-kamera-ve-guclu-batarya-detaylari-ile-sizdi",
+      "publishedAt": "2026-10-19T11:15:39+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple’dan Akıllı Ev Kategorisinde Robotik Hamle: HomeView Max Geliyor!",
@@ -94,18 +106,6 @@
       "title": "Tecno Spark 50s 5G iletişime odaklanıyor",
       "link": "https://www.donanimhaber.com/tecno-spark-50s-5g-tanitildi-iste-ozellikleri-ve-fiyati--211787",
       "publishedAt": "2026-10-18T10:30:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Bu Tabletlere Sahipseniz Dikkat: Güncelleme Desteği Bitiyor",
-      "link": "https://shiftdelete.net/samsung-galaxy-tablet-yazilim-destegi-sona-eriyor",
-      "publishedAt": "2026-10-18T08:00:37+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo Teslimatları Seneye Kaldı: Yoğun İlgi Stok Bırakmadı",
-      "link": "https://shiftdelete.net/iphone-duo-teslimat-suresi-2027",
-      "publishedAt": "2026-10-18T05:00:49+00:00"
     },
     {
       "source": "DonanımHaber",
