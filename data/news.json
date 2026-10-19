@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-19T07:27:54.868439+00:00",
+  "updatedAt": "2026-10-19T08:18:33.259703+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-19T07:27:54.868439+00:00",
+      "checkedAt": "2026-10-19T08:18:33.259703+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-19T07:27:54.868439+00:00",
+      "checkedAt": "2026-10-19T08:18:33.259703+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple iPhone Duo Ön Siparişlerinde Büyük Hata Yaptı",
+      "link": "https://shiftdelete.net/apple-iphone-duo-on-siparislerinde-buyuk-hata-yapti",
+      "publishedAt": "2026-10-19T07:30:30+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Haftanın Dikkat Çeken Yerli Mobil Projeleri",
@@ -100,12 +106,6 @@
       "title": "Qualcomm’dan Snapdragon 8 Elite Extreme Gen 6’nın ısınma iddialarına yanıt",
       "link": "https://www.donanimhaber.com/qualcomm-snapdragon-8-elite-extreme-gen-6-iddialarini-yalanladi--211760",
       "publishedAt": "2026-10-17T18:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor Win 2 Performans Testinde Zirveye Oynuyor",
-      "link": "https://shiftdelete.net/honor-win-2-antutu-skoru",
-      "publishedAt": "2026-10-17T15:00:55+00:00"
     },
     {
       "source": "DonanımHaber",
