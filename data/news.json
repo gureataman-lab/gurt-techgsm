@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-19T13:22:51.947522+00:00",
+  "updatedAt": "2026-10-19T14:18:51.538559+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-19T13:22:51.947522+00:00",
+      "checkedAt": "2026-10-19T14:18:51.538559+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-19T13:22:51.947522+00:00",
+      "checkedAt": "2026-10-19T14:18:51.538559+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung Galaxy S27 Ne Zaman Tanıtılacak?",
+      "link": "https://shiftdelete.net/samsung-galaxy-s27-ne-zaman-tanitilacak",
+      "publishedAt": "2026-10-19T13:45:59+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iQOO Neo12 9000 mAh Batarya ve 185 Hz Ekranla Geliyor",
@@ -70,12 +76,6 @@
       "title": "WhatsApp Tarayıcı Özelliğini Test Ediyor",
       "link": "https://shiftdelete.net/whatsapp-tarayici-ozelligini-test-ediyor",
       "publishedAt": "2026-10-19T06:18:28+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung’un Yeni Arayüzü One UI 10 Nasıl Olacak? İşte Detaylar",
-      "link": "https://shiftdelete.net/samsung-one-ui-10-degisim",
-      "publishedAt": "2026-10-19T04:00:27+00:00"
     },
     {
       "source": "DonanımHaber",
