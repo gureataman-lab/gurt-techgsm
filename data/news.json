@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-10-19T17:08:34.834720+00:00",
+  "updatedAt": "2026-10-19T18:03:57.246671+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-19T17:08:34.834720+00:00",
+      "checkedAt": "2026-10-19T18:03:57.246671+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-19T17:08:34.834720+00:00",
+      "checkedAt": "2026-10-19T18:03:57.246671+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple Pro and Tell Etkinliğinde Dokunmatik Ekranlı MacBook Tanıtılacak",
+      "link": "https://shiftdelete.net/apple-pro-and-tell-etkinliginde-dokunmatik-ekranli-macbook-tanitilacak",
+      "publishedAt": "2026-10-19T17:41:27+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iOS 27.2 RC Yayınladı",
+      "link": "https://shiftdelete.net/ios-27-2-rc-yayinladi",
+      "publishedAt": "2026-10-19T17:39:27+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy S27 serisi beklenenden erken tanıtılabilir",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisi-beklenenden-erken-tanitilabilir--211821",
+      "publishedAt": "2026-10-19T17:22:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy F70 5G tanıtıldı: Kamera, ekran ve dayanıklılıkta sınıfının en iyisi",
@@ -72,18 +90,6 @@
       "publishedAt": "2026-10-19T06:43:53+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo Batarya Kapasitesi Beklentilerin Üzerinde Çıktı",
-      "link": "https://shiftdelete.net/iphone-duo-batarya-kapasitesi-beklentilerin-uzerinde-cikti",
-      "publishedAt": "2026-10-19T06:30:13+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp Tarayıcı Özelliğini Test Ediyor",
-      "link": "https://shiftdelete.net/whatsapp-tarayici-ozelligini-test-ediyor",
-      "publishedAt": "2026-10-19T06:18:28+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor, dahili kablolu iki yeni powerbank modelini tanıttı",
       "link": "https://www.donanimhaber.com/honor-dahili-kablolu-iki-yeni-powerbank-modelini-tanitti--211780",
@@ -124,12 +130,6 @@
       "title": "OnePlus Ace 7 Pro'nun çift renkli tasarımı ortaya çıktı",
       "link": "https://www.donanimhaber.com/oneplus-ace-7-pro-nun-cift-renkli-tasarimi-ortaya-cikti--211764",
       "publishedAt": "2026-10-17T15:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple'ın 5 bin TL'lik iPhone Duo kılıfında yapıştırıcı şoku!",
-      "link": "https://www.donanimhaber.com/apple-in-iphone-duo-kilifi-telefona-yapiskanla-tutunuyor--211761",
-      "publishedAt": "2026-10-17T13:30:00+00:00"
     }
   ]
 }
