@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-19T12:10:21.537996+00:00",
+  "updatedAt": "2026-10-19T13:22:51.947522+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-19T12:10:21.537996+00:00",
+      "checkedAt": "2026-10-19T13:22:51.947522+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-19T12:10:21.537996+00:00",
+      "checkedAt": "2026-10-19T13:22:51.947522+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iQOO Neo12 9000 mAh Batarya ve 185 Hz Ekranla Geliyor",
+      "link": "https://shiftdelete.net/iqoo-neo12-9000-mah-batarya-ve-185-hz-ekranla-geliyor",
+      "publishedAt": "2026-10-19T12:30:41+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "OLED Ekranlı Yeni iPad Mini İçin Çıkış Tarihi Belli Oldu: Apple Store Hazırlıkları Başladı",
@@ -94,12 +100,6 @@
       "title": "Huawei, Starlight adıyla yeni bir akıllı telefon markası kurmaya hazırlanıyor",
       "link": "https://www.donanimhaber.com/huawei-starlight-adiyla-yeni-bir-telefon-markasi-kuruyor--211769",
       "publishedAt": "2026-10-18T13:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Mağazadan iPhone Duo Satın Almak İsteyenlere Kötü Haber",
-      "link": "https://shiftdelete.net/iphone-duo-stok-durumu",
-      "publishedAt": "2026-10-18T11:00:00+00:00"
     },
     {
       "source": "DonanımHaber",
