@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-20T15:37:49.784692+00:00",
+  "updatedAt": "2026-10-20T16:37:22.900663+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T15:37:49.784692+00:00",
+      "checkedAt": "2026-10-20T16:37:22.900663+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T15:37:49.784692+00:00",
+      "checkedAt": "2026-10-20T16:37:22.900663+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy S27 ve S28 serilerinde 5G modem verimliliğini artıracak",
+      "link": "https://www.donanimhaber.com/galaxy-s27-ve-s28-serisi-daha-verimli-5g-modemlerle-gelebilir--211878",
+      "publishedAt": "2026-10-20T16:34:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "OPPO’dan Katlanabilir Olmayan Geniş Yapılı Yeni Telefon Modeli Geliyor",
+      "link": "https://shiftdelete.net/oppo-katlanabilir-olmayan-yeni-telefon",
+      "publishedAt": "2026-10-20T16:00:49+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Honor 600 almak için 5 neden!",
@@ -90,12 +102,6 @@
       "publishedAt": "2026-10-20T06:43:36+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple Pro and Tell Etkinliğinde Ne Tanıtacak?",
-      "link": "https://shiftdelete.net/apple-pro-and-tell-etkinliginde-ne-tanitacak",
-      "publishedAt": "2026-10-20T06:35:28+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27 serisi beklenenden erken tanıtılabilir",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisi-beklenenden-erken-tanitilabilir--211821",
@@ -124,12 +130,6 @@
       "title": "230 bin TL'lik iPhone Duo'nun stokları tükendi: Apple'dan açıklama geldi",
       "link": "https://www.donanimhaber.com/apple-dan-rekor-satis-iphone-duo-stoklari-tukendi--211772",
       "publishedAt": "2026-10-18T14:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, One UI 10 ile büyük değişime hazırlanıyor",
-      "link": "https://www.donanimhaber.com/samsung-one-ui-10-ile-buyuk-degisime-hazirlaniyor--211773",
-      "publishedAt": "2026-10-18T14:00:00+00:00"
     }
   ]
 }
