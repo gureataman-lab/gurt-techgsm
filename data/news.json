@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-10-20T07:20:35.066243+00:00",
+  "updatedAt": "2026-10-20T08:12:11.757104+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T07:20:35.066243+00:00",
+      "checkedAt": "2026-10-20T08:12:11.757104+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T07:20:35.066243+00:00",
+      "checkedAt": "2026-10-20T08:12:11.757104+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone 18 Sızdı! İşte Tasarımı ve Özellikleri",
+      "link": "https://shiftdelete.net/iphone-18-sizdi-iste-tasarimi-ve-ozellikleri",
+      "publishedAt": "2026-10-20T08:06:45+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Xiaomi 18 Pro ve Pro Max Avrupa Fiyatları Sızdırıldı",
+      "link": "https://shiftdelete.net/xiaomi-18-pro-ve-pro-max-avrupa-fiyatlari-sizdirildi",
+      "publishedAt": "2026-10-20T07:50:21+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp Android’de Aramaları Filtreleyecek",
+      "link": "https://shiftdelete.net/whatsapp-androidde-aramalari-filtreleyecek",
+      "publishedAt": "2026-10-20T07:30:12+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Xiaomi 18 Pro ve 18 Pro Max'in Avrupa fiyatları ve batarya kapasiteleri sızdı",
+      "link": "https://www.donanimhaber.com/xiaomi-18-pro-ve-18-pro-max-in-avrupa-fiyatlari-sizdirildi--211839",
+      "publishedAt": "2026-10-20T07:24:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "OnePlus Ace 7 Çift Çıkışlı Soğutma Sistemi ile Geliyor",
@@ -54,18 +78,6 @@
       "publishedAt": "2026-10-20T04:00:09+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple Pro and Tell Etkinliğinde Dokunmatik Ekranlı MacBook Tanıtılacak",
-      "link": "https://shiftdelete.net/apple-pro-and-tell-etkinliginde-dokunmatik-ekranli-macbook-tanitilacak",
-      "publishedAt": "2026-10-19T17:41:27+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iOS 27.2 RC Yayınladı",
-      "link": "https://shiftdelete.net/ios-27-2-rc-yayinladi",
-      "publishedAt": "2026-10-19T17:39:27+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27 serisi beklenenden erken tanıtılabilir",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisi-beklenenden-erken-tanitilabilir--211821",
@@ -76,12 +88,6 @@
       "title": "Samsung Galaxy F70 5G tanıtıldı: Kamera, ekran ve dayanıklılıkta sınıfının en iyisi",
       "link": "https://www.donanimhaber.com/samsung-galaxy-f70-5g-tanitildi-iste-ozellikleri-ve-fiyati--211808",
       "publishedAt": "2026-10-19T15:45:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung Galaxy S27 Ne Zaman Tanıtılacak?",
-      "link": "https://shiftdelete.net/samsung-galaxy-s27-ne-zaman-tanitilacak",
-      "publishedAt": "2026-10-19T13:45:59+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Qualcomm’dan Snapdragon 8 Elite Extreme Gen 6’nın ısınma iddialarına yanıt",
       "link": "https://www.donanimhaber.com/qualcomm-snapdragon-8-elite-extreme-gen-6-iddialarini-yalanladi--211760",
       "publishedAt": "2026-10-17T18:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "OnePlus Ace 7 Pro'nun çift renkli tasarımı ortaya çıktı",
-      "link": "https://www.donanimhaber.com/oneplus-ace-7-pro-nun-cift-renkli-tasarimi-ortaya-cikti--211764",
-      "publishedAt": "2026-10-17T15:00:00+00:00"
     }
   ]
 }
