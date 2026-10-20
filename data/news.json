@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-20T09:11:44.637954+00:00",
+  "updatedAt": "2026-10-20T10:08:12.606740+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T09:11:44.637954+00:00",
+      "checkedAt": "2026-10-20T10:08:12.606740+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T09:11:44.637954+00:00",
+      "checkedAt": "2026-10-20T10:08:12.606740+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone Duo siparişi verenlere erken teslim sürprizi",
+      "link": "https://www.donanimhaber.com/iphone-duo-on-siparisi-verenlere-erken-teslim-surprizi--211846",
+      "publishedAt": "2026-10-20T10:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone 18 Sızdı! İşte Tasarımı ve Özellikleri",
@@ -124,12 +130,6 @@
       "title": "Tecno Spark 50s 5G iletişime odaklanıyor",
       "link": "https://www.donanimhaber.com/tecno-spark-50s-5g-tanitildi-iste-ozellikleri-ve-fiyati--211787",
       "publishedAt": "2026-10-18T10:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Qualcomm’dan Snapdragon 8 Elite Extreme Gen 6’nın ısınma iddialarına yanıt",
-      "link": "https://www.donanimhaber.com/qualcomm-snapdragon-8-elite-extreme-gen-6-iddialarini-yalanladi--211760",
-      "publishedAt": "2026-10-17T18:00:00+00:00"
     }
   ]
 }
