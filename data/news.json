@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-20T16:37:22.900663+00:00",
+  "updatedAt": "2026-10-20T17:40:07.877332+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T16:37:22.900663+00:00",
+      "checkedAt": "2026-10-20T17:40:07.877332+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T16:37:22.900663+00:00",
+      "checkedAt": "2026-10-20T17:40:07.877332+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Xiaomi'den 25.000 mAh kapasiteli ve 250W gücünde yeni powerbank",
+      "link": "https://www.donanimhaber.com/xiaomi-25-000-mah-bataryali-yeni-powerbank-modelini-tanitti--211873",
+      "publishedAt": "2026-10-20T17:38:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Apple, iPhone için ABD'de üretimi genişletiyor: Yeni tedarikçiler açıklandı",
+      "link": "https://www.donanimhaber.com/apple-iphone-icin-abd-de-uretimi-genisletiyor--211874",
+      "publishedAt": "2026-10-20T17:17:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27 ve S28 serilerinde 5G modem verimliliğini artıracak",
@@ -118,18 +130,6 @@
       "title": "Katlanabilir iPhone'un batarya kapasitesi belli oldu",
       "link": "https://www.donanimhaber.com/katlanabilir-iphone-duo-batarya-kac-mah-belli-oldu--211799",
       "publishedAt": "2026-10-19T10:50:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor, dahili kablolu iki yeni powerbank modelini tanıttı",
-      "link": "https://www.donanimhaber.com/honor-dahili-kablolu-iki-yeni-powerbank-modelini-tanitti--211780",
-      "publishedAt": "2026-10-18T18:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "230 bin TL'lik iPhone Duo'nun stokları tükendi: Apple'dan açıklama geldi",
-      "link": "https://www.donanimhaber.com/apple-dan-rekor-satis-iphone-duo-stoklari-tukendi--211772",
-      "publishedAt": "2026-10-18T14:30:00+00:00"
     }
   ]
 }
