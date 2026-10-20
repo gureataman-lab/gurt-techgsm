@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-10-20T06:07:26.606570+00:00",
+  "updatedAt": "2026-10-20T07:20:35.066243+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T06:07:26.606570+00:00",
+      "checkedAt": "2026-10-20T07:20:35.066243+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T06:07:26.606570+00:00",
+      "checkedAt": "2026-10-20T07:20:35.066243+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "OnePlus Ace 7 Çift Çıkışlı Soğutma Sistemi ile Geliyor",
+      "link": "https://shiftdelete.net/oneplus-ace-7-cift-cikisli-sogutma-sistemi-ile-geliyor",
+      "publishedAt": "2026-10-20T07:00:15+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple, Yapay Zeka Destekli Samplab’ı Satın Aldı",
+      "link": "https://shiftdelete.net/apple-yapay-zeka-destekli-samplabi-satin-aldi",
+      "publishedAt": "2026-10-20T06:43:36+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple Pro and Tell Etkinliğinde Ne Tanıtacak?",
+      "link": "https://shiftdelete.net/apple-pro-and-tell-etkinliginde-ne-tanitacak",
+      "publishedAt": "2026-10-20T06:35:28+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple iPhone Duo Teslimatlarını Hızlandırıyor: Erken Teslimat Sürprizi",
+      "link": "https://shiftdelete.net/apple-iphone-duo-teslimat-tarihleri-guncellendi",
+      "publishedAt": "2026-10-20T06:30:59+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Xiaomi 18 Pro Batarya Kapasitesi ve Fiyatı Sızdırıldı: İşte Detaylar",
@@ -58,30 +82,6 @@
       "title": "Samsung Galaxy S27 Ne Zaman Tanıtılacak?",
       "link": "https://shiftdelete.net/samsung-galaxy-s27-ne-zaman-tanitilacak",
       "publishedAt": "2026-10-19T13:45:59+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iQOO Neo12 9000 mAh Batarya ve 185 Hz Ekranla Geliyor",
-      "link": "https://shiftdelete.net/iqoo-neo12-9000-mah-batarya-ve-185-hz-ekranla-geliyor",
-      "publishedAt": "2026-10-19T12:30:41+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "OLED Ekranlı Yeni iPad Mini İçin Çıkış Tarihi Belli Oldu: Apple Store Hazırlıkları Başladı",
-      "link": "https://shiftdelete.net/oled-ekranli-yeni-ipad-mini-icin-cikis-tarihi-belli-oldu-apple-store-hazirliklari-basladi",
-      "publishedAt": "2026-10-19T12:00:55+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "HMD Vibe 2 Max: 108MP Kamera ve Güçlü Batarya Detayları ile Sızdı",
-      "link": "https://shiftdelete.net/hmd-vibe-2-max-108mp-kamera-ve-guclu-batarya-detaylari-ile-sizdi",
-      "publishedAt": "2026-10-19T11:15:39+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple’dan Akıllı Ev Kategorisinde Robotik Hamle: HomeView Max Geliyor!",
-      "link": "https://shiftdelete.net/appledan-akilli-ev-kategorisinde-robotik-hamle-homeview-max-geliyor",
-      "publishedAt": "2026-10-19T11:00:50+00:00"
     },
     {
       "source": "DonanımHaber",
