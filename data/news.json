@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-20T14:39:05.294377+00:00",
+  "updatedAt": "2026-10-20T15:37:49.784692+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T14:39:05.294377+00:00",
+      "checkedAt": "2026-10-20T15:37:49.784692+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T14:39:05.294377+00:00",
+      "checkedAt": "2026-10-20T15:37:49.784692+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Honor 600 almak için 5 neden!",
+      "link": "https://www.donanimhaber.com/honor-600-almak-icin-5-neden--211650",
+      "publishedAt": "2026-10-20T15:00:26+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone Duo videosunda can sıkıcı detay: Kat izi sorunu çözülmemiş!",
@@ -124,12 +130,6 @@
       "title": "Samsung, One UI 10 ile büyük değişime hazırlanıyor",
       "link": "https://www.donanimhaber.com/samsung-one-ui-10-ile-buyuk-degisime-hazirlaniyor--211773",
       "publishedAt": "2026-10-18T14:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei, Starlight adıyla yeni bir akıllı telefon markası kurmaya hazırlanıyor",
-      "link": "https://www.donanimhaber.com/huawei-starlight-adiyla-yeni-bir-telefon-markasi-kuruyor--211769",
-      "publishedAt": "2026-10-18T13:00:00+00:00"
     }
   ]
 }
