@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-20T10:08:12.606740+00:00",
+  "updatedAt": "2026-10-20T11:08:10.096478+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T10:08:12.606740+00:00",
+      "checkedAt": "2026-10-20T11:08:10.096478+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T10:08:12.606740+00:00",
+      "checkedAt": "2026-10-20T11:08:10.096478+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Motorola Razr Flex Geekbench Testinde Ortaya Çıktı",
+      "link": "https://shiftdelete.net/motorola-razr-flex-geekbench-testinde-ortaya-cikti",
+      "publishedAt": "2026-10-20T11:00:47+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone Duo siparişi verenlere erken teslim sürprizi",
@@ -76,12 +82,6 @@
       "title": "iPhone Duo Satışlarına Limit: İki Taneden Fazla Almak Yasak",
       "link": "https://shiftdelete.net/apple-abd-iphone-duo-satin-alma-siniri",
       "publishedAt": "2026-10-20T05:00:31+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "realme C01 Özellikleri ve Fiyatı Satış Öncesi Ortaya Çıktı",
-      "link": "https://shiftdelete.net/realme-c01-ozellikleri-fiyati",
-      "publishedAt": "2026-10-20T04:00:09+00:00"
     },
     {
       "source": "DonanımHaber",
