@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-20T04:10:30.165410+00:00",
+  "updatedAt": "2026-10-20T05:07:49.491915+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T04:10:30.165410+00:00",
+      "checkedAt": "2026-10-20T05:07:49.491915+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T04:10:30.165410+00:00",
+      "checkedAt": "2026-10-20T05:07:49.491915+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo Satışlarına Limit: İki Taneden Fazla Almak Yasak",
+      "link": "https://shiftdelete.net/apple-abd-iphone-duo-satin-alma-siniri",
+      "publishedAt": "2026-10-20T05:00:31+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "realme C01 Özellikleri ve Fiyatı Satış Öncesi Ortaya Çıktı",
@@ -82,12 +88,6 @@
       "title": "Apple iPhone Duo Ön Siparişlerinde Büyük Hata Yaptı",
       "link": "https://shiftdelete.net/apple-iphone-duo-on-siparislerinde-buyuk-hata-yapti",
       "publishedAt": "2026-10-19T07:30:30+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Haftanın Dikkat Çeken Yerli Mobil Projeleri",
-      "link": "https://shiftdelete.net/haftanin-dikkat-ceken-yerli-mobil-projeleri",
-      "publishedAt": "2026-10-19T07:06:16+00:00"
     },
     {
       "source": "DonanımHaber",
