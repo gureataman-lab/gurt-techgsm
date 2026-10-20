@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-20T11:08:10.096478+00:00",
+  "updatedAt": "2026-10-20T12:06:26.517784+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T11:08:10.096478+00:00",
+      "checkedAt": "2026-10-20T12:06:26.517784+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T11:08:10.096478+00:00",
+      "checkedAt": "2026-10-20T12:06:26.517784+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Vivo X500 Pro Max Kutu Açılışı: En İyi Kamera Onda mı?",
+      "link": "https://shiftdelete.net/vivo-x500-pro-max-kutu-acilisi-en-iyi-kamera-onda-mi",
+      "publishedAt": "2026-10-20T11:53:24+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Motorola Razr Flex Geekbench Testinde Ortaya Çıktı",
@@ -76,12 +82,6 @@
       "title": "Xiaomi 18 Pro Batarya Kapasitesi ve Fiyatı Sızdırıldı: İşte Detaylar",
       "link": "https://shiftdelete.net/xiaomi-18-pro-avrupa-fiyatlari-sizdi",
       "publishedAt": "2026-10-20T06:00:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo Satışlarına Limit: İki Taneden Fazla Almak Yasak",
-      "link": "https://shiftdelete.net/apple-abd-iphone-duo-satin-alma-siniri",
-      "publishedAt": "2026-10-20T05:00:31+00:00"
     },
     {
       "source": "DonanımHaber",
