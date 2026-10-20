@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-10-20T12:51:56.652514+00:00",
+  "updatedAt": "2026-10-20T13:46:15.176482+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T12:51:56.652514+00:00",
+      "checkedAt": "2026-10-20T13:46:15.176482+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T12:51:56.652514+00:00",
+      "checkedAt": "2026-10-20T13:46:15.176482+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone Duo videosunda can sıkıcı detay: Kat izi sorunu çözülmemiş!",
+      "link": "https://www.donanimhaber.com/iphone-duo-on-inceleme-kat-izi-sorunu-cozulmemis--211863",
+      "publishedAt": "2026-10-20T13:40:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Üçlü 200 MP Kameralı OPPO Find X10 Serisi Türkiye’ye Geliyor",
+      "link": "https://shiftdelete.net/uclu-200-mp-kamerali-oppo-find-x10-serisi-turkiyeye-geliyor",
+      "publishedAt": "2026-10-20T13:03:49+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Xiaomi’den Saat Tasarımlı Yeni Akıllı Bileklik: Redmi Band 4 Tanıtıldı!",
+      "link": "https://shiftdelete.net/xiaomiden-saat-tasarimli-yeni-akilli-bileklik-redmi-band-4-tanitildi",
+      "publishedAt": "2026-10-20T13:00:05+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Vivo X500 Pro Max Kutu Açılışı: En İyi Kamera Onda mı?",
@@ -72,18 +90,6 @@
       "publishedAt": "2026-10-20T06:35:28+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple iPhone Duo Teslimatlarını Hızlandırıyor: Erken Teslimat Sürprizi",
-      "link": "https://shiftdelete.net/apple-iphone-duo-teslimat-tarihleri-guncellendi",
-      "publishedAt": "2026-10-20T06:30:59+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Xiaomi 18 Pro Batarya Kapasitesi ve Fiyatı Sızdırıldı: İşte Detaylar",
-      "link": "https://shiftdelete.net/xiaomi-18-pro-avrupa-fiyatlari-sizdi",
-      "publishedAt": "2026-10-20T06:00:52+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27 serisi beklenenden erken tanıtılabilir",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisi-beklenenden-erken-tanitilabilir--211821",
@@ -124,12 +130,6 @@
       "title": "Huawei, Starlight adıyla yeni bir akıllı telefon markası kurmaya hazırlanıyor",
       "link": "https://www.donanimhaber.com/huawei-starlight-adiyla-yeni-bir-telefon-markasi-kuruyor--211769",
       "publishedAt": "2026-10-18T13:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Tecno Spark 50s 5G iletişime odaklanıyor",
-      "link": "https://www.donanimhaber.com/tecno-spark-50s-5g-tanitildi-iste-ozellikleri-ve-fiyati--211787",
-      "publishedAt": "2026-10-18T10:30:00+00:00"
     }
   ]
 }
