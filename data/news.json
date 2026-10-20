@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-20T05:07:49.491915+00:00",
+  "updatedAt": "2026-10-20T06:07:26.606570+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T05:07:49.491915+00:00",
+      "checkedAt": "2026-10-20T06:07:26.606570+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T05:07:49.491915+00:00",
+      "checkedAt": "2026-10-20T06:07:26.606570+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Xiaomi 18 Pro Batarya Kapasitesi ve Fiyatı Sızdırıldı: İşte Detaylar",
+      "link": "https://shiftdelete.net/xiaomi-18-pro-avrupa-fiyatlari-sizdi",
+      "publishedAt": "2026-10-20T06:00:52+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo Satışlarına Limit: İki Taneden Fazla Almak Yasak",
@@ -82,12 +88,6 @@
       "title": "Katlanabilir iPhone'un batarya kapasitesi belli oldu",
       "link": "https://www.donanimhaber.com/katlanabilir-iphone-duo-batarya-kac-mah-belli-oldu--211799",
       "publishedAt": "2026-10-19T10:50:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple iPhone Duo Ön Siparişlerinde Büyük Hata Yaptı",
-      "link": "https://shiftdelete.net/apple-iphone-duo-on-siparislerinde-buyuk-hata-yapti",
-      "publishedAt": "2026-10-19T07:30:30+00:00"
     },
     {
       "source": "DonanımHaber",
