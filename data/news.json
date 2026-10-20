@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-20T19:14:08.730915+00:00",
+  "updatedAt": "2026-10-20T20:04:03.950577+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-20T19:14:08.730915+00:00",
+      "checkedAt": "2026-10-20T20:04:03.950577+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-20T19:14:08.730915+00:00",
+      "checkedAt": "2026-10-20T20:04:03.950577+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, Galaxy S26 Ultra'daki donma sorununu kabul etti",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s26-ultra-daki-donma-sorununu-kabul-etti--211867",
+      "publishedAt": "2026-10-20T20:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, Galaxy S27 ve S28 serilerinde 5G modem verimliliğini artıracak",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy F70 5G tanıtıldı: Kamera, ekran ve dayanıklılıkta sınıfının en iyisi",
       "link": "https://www.donanimhaber.com/samsung-galaxy-f70-5g-tanitildi-iste-ozellikleri-ve-fiyati--211808",
       "publishedAt": "2026-10-19T15:45:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Katlanabilir iPhone'un batarya kapasitesi belli oldu",
-      "link": "https://www.donanimhaber.com/katlanabilir-iphone-duo-batarya-kac-mah-belli-oldu--211799",
-      "publishedAt": "2026-10-19T10:50:00+00:00"
     }
   ]
 }
