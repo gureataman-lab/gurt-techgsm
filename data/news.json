@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-21T15:10:15.293019+00:00",
+  "updatedAt": "2026-10-21T16:12:02.947994+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T15:10:15.293019+00:00",
+      "checkedAt": "2026-10-21T16:12:02.947994+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T15:10:15.293019+00:00",
+      "checkedAt": "2026-10-21T16:12:02.947994+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Arm'ın Qualcomm'dan istediği lisans ücreti belli oldu: Çip başına 65 dolara kadar çıkıyor!",
+      "link": "https://www.donanimhaber.com/qualcomm-un-arm-a-odedigi-lisans-ucreti-35-kata-kadar-artabilir--211928",
+      "publishedAt": "2026-10-21T15:44:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo çıkmadan Apple’a kötü haber: Satış tahminleri aşağı çekildi",
@@ -124,12 +130,6 @@
       "title": "iPhone Duo siparişi verenlere erken teslim sürprizi",
       "link": "https://www.donanimhaber.com/iphone-duo-on-siparisi-verenlere-erken-teslim-surprizi--211846",
       "publishedAt": "2026-10-20T10:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi 18 Pro ve 18 Pro Max'in Avrupa fiyatları ve batarya kapasiteleri sızdı",
-      "link": "https://www.donanimhaber.com/xiaomi-18-pro-ve-18-pro-max-in-avrupa-fiyatlari-sizdirildi--211839",
-      "publishedAt": "2026-10-20T07:24:00+00:00"
     }
   ]
 }
