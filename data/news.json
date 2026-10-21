@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-21T09:13:35.340756+00:00",
+  "updatedAt": "2026-10-21T10:10:43.229061+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T09:13:35.340756+00:00",
+      "checkedAt": "2026-10-21T10:10:43.229061+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T09:13:35.340756+00:00",
+      "checkedAt": "2026-10-21T10:10:43.229061+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple iPhone Duo Kutu Açılış Videosu Yayınlandı",
+      "link": "https://shiftdelete.net/apple-iphone-duo-kutu-acilis-videosu-yayinlandi",
+      "publishedAt": "2026-10-21T09:24:24+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Adobe Lightroom Mobile, Yapay Zeka ile Kapalı Gözleri Açıyor",
@@ -112,12 +118,6 @@
       "title": "iPhone Duo siparişi verenlere erken teslim sürprizi",
       "link": "https://www.donanimhaber.com/iphone-duo-on-siparisi-verenlere-erken-teslim-surprizi--211846",
       "publishedAt": "2026-10-20T10:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 18 Sızdı! İşte Tasarımı ve Özellikleri",
-      "link": "https://shiftdelete.net/iphone-18-sizdi-iste-tasarimi-ve-ozellikleri",
-      "publishedAt": "2026-10-20T08:06:45+00:00"
     },
     {
       "source": "DonanımHaber",
