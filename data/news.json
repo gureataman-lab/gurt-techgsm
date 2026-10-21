@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-21T04:11:07.997776+00:00",
+  "updatedAt": "2026-10-21T05:09:07.032769+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T04:11:07.997776+00:00",
+      "checkedAt": "2026-10-21T05:09:07.032769+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T04:11:07.997776+00:00",
+      "checkedAt": "2026-10-21T05:09:07.032769+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Android 17 QPR3 Beta 2 Yayınlandı",
+      "link": "https://shiftdelete.net/android-17-qpr3-beta-2-yayinlandi",
+      "publishedAt": "2026-10-21T05:00:31+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple 6G için Deneyimli Mühendis Arıyor",
@@ -112,12 +118,6 @@
       "title": "Xiaomi 18 Pro ve 18 Pro Max'in Avrupa fiyatları ve batarya kapasiteleri sızdı",
       "link": "https://www.donanimhaber.com/xiaomi-18-pro-ve-18-pro-max-in-avrupa-fiyatlari-sizdirildi--211839",
       "publishedAt": "2026-10-20T07:24:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "OnePlus Ace 7 Çift Çıkışlı Soğutma Sistemi ile Geliyor",
-      "link": "https://shiftdelete.net/oneplus-ace-7-cift-cikisli-sogutma-sistemi-ile-geliyor",
-      "publishedAt": "2026-10-20T07:00:15+00:00"
     },
     {
       "source": "DonanımHaber",
