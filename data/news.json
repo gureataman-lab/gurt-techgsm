@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-10-21T11:09:34.729187+00:00",
+  "updatedAt": "2026-10-21T12:08:46.262387+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T11:09:34.729187+00:00",
+      "checkedAt": "2026-10-21T12:08:46.262387+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T11:09:34.729187+00:00",
+      "checkedAt": "2026-10-21T12:08:46.262387+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "HONOR Robot Phone, TIME Tarafından 2026’nın En İyi İcatları Arasına Seçildi",
+      "link": "https://shiftdelete.net/honor-robot-phone-time-tarafindan-2026nin-en-iyi-icatlari-arasina-secildi",
+      "publishedAt": "2026-10-21T11:51:37+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo açılınca iPad’e dönüşüyor: Apple uygulamalarının yeni hali belli oldu",
+      "link": "https://shiftdelete.net/iphone-duo-acilinca-ipade-donusuyor-apple-uygulamalarinin-yeni-hali-belli-oldu",
+      "publishedAt": "2026-10-21T11:45:42+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung Galaxy A18 4G Türkiye’de Satışa Çıktı: İşte Fiyatı ve Özellikleri",
+      "link": "https://shiftdelete.net/samsung-galaxy-a18-4g-turkiye-fiyati",
+      "publishedAt": "2026-10-21T11:30:18+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple iPhone Duo Kutu Açılış Videosu Yayınlandı",
@@ -94,24 +112,6 @@
       "title": "Üçlü 200 MP Kameralı OPPO Find X10 Serisi Türkiye’ye Geliyor",
       "link": "https://shiftdelete.net/uclu-200-mp-kamerali-oppo-find-x10-serisi-turkiyeye-geliyor",
       "publishedAt": "2026-10-20T13:03:49+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Xiaomi’den Saat Tasarımlı Yeni Akıllı Bileklik: Redmi Band 4 Tanıtıldı!",
-      "link": "https://shiftdelete.net/xiaomiden-saat-tasarimli-yeni-akilli-bileklik-redmi-band-4-tanitildi",
-      "publishedAt": "2026-10-20T13:00:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Vivo X500 Pro Max Kutu Açılışı: En İyi Kamera Onda mı?",
-      "link": "https://shiftdelete.net/vivo-x500-pro-max-kutu-acilisi-en-iyi-kamera-onda-mi",
-      "publishedAt": "2026-10-20T11:53:24+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Motorola Razr Flex Geekbench Testinde Ortaya Çıktı",
-      "link": "https://shiftdelete.net/motorola-razr-flex-geekbench-testinde-ortaya-cikti",
-      "publishedAt": "2026-10-20T11:00:47+00:00"
     },
     {
       "source": "DonanımHaber",
