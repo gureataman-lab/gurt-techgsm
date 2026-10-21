@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-21T07:23:44.322232+00:00",
+  "updatedAt": "2026-10-21T08:15:40.666748+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T07:23:44.322232+00:00",
+      "checkedAt": "2026-10-21T08:15:40.666748+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T07:23:44.322232+00:00",
+      "checkedAt": "2026-10-21T08:15:40.666748+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple, iPhone 18 Pro için Orijinal Yedek Parçaları Satışa Sundu",
+      "link": "https://shiftdelete.net/apple-iphone-18-pro-icin-orijinal-yedek-parcalari-satisa-sundu",
+      "publishedAt": "2026-10-21T07:30:22+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Çinli telefon üreticileri eski telefonların RAM'lerini söküp yeniden kullanıyor!",
@@ -112,12 +118,6 @@
       "title": "Xiaomi 18 Pro ve Pro Max Avrupa Fiyatları Sızdırıldı",
       "link": "https://shiftdelete.net/xiaomi-18-pro-ve-pro-max-avrupa-fiyatlari-sizdirildi",
       "publishedAt": "2026-10-20T07:50:21+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp Android’de Aramaları Filtreleyecek",
-      "link": "https://shiftdelete.net/whatsapp-androidde-aramalari-filtreleyecek",
-      "publishedAt": "2026-10-20T07:30:12+00:00"
     },
     {
       "source": "DonanımHaber",
