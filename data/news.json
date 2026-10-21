@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-21T13:21:02.444708+00:00",
+  "updatedAt": "2026-10-21T14:15:19.643241+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T13:21:02.444708+00:00",
+      "checkedAt": "2026-10-21T14:15:19.643241+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T13:21:02.444708+00:00",
+      "checkedAt": "2026-10-21T14:15:19.643241+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp, iPhone’da Safari’nin İşini Üstlenmeye Hazırlanıyor",
+      "link": "https://shiftdelete.net/whatsapp-iphoneda-safarinin-isini-ustlenmeye-hazirlaniyor",
+      "publishedAt": "2026-10-21T13:30:27+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "En ucuz geniş ekran telefon geliyor",
@@ -112,12 +118,6 @@
       "title": "iPhone Duo videosunda can sıkıcı detay: Kat izi sorunu çözülmemiş!",
       "link": "https://www.donanimhaber.com/iphone-duo-on-inceleme-kat-izi-sorunu-cozulmemis--211863",
       "publishedAt": "2026-10-20T13:40:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Üçlü 200 MP Kameralı OPPO Find X10 Serisi Türkiye’ye Geliyor",
-      "link": "https://shiftdelete.net/uclu-200-mp-kamerali-oppo-find-x10-serisi-turkiyeye-geliyor",
-      "publishedAt": "2026-10-20T13:03:49+00:00"
     },
     {
       "source": "DonanımHaber",
