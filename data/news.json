@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-21T03:11:36.005575+00:00",
+  "updatedAt": "2026-10-21T04:11:07.997776+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T03:11:36.005575+00:00",
+      "checkedAt": "2026-10-21T04:11:07.997776+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T03:11:36.005575+00:00",
+      "checkedAt": "2026-10-21T04:11:07.997776+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple 6G için Deneyimli Mühendis Arıyor",
+      "link": "https://shiftdelete.net/apple-6g-icin-deneyimli-muhendis-ariyor",
+      "publishedAt": "2026-10-21T04:00:26+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, Galaxy S26 Ultra'daki donma sorununu kabul etti",
@@ -112,12 +118,6 @@
       "title": "OnePlus Ace 7 Çift Çıkışlı Soğutma Sistemi ile Geliyor",
       "link": "https://shiftdelete.net/oneplus-ace-7-cift-cikisli-sogutma-sistemi-ile-geliyor",
       "publishedAt": "2026-10-20T07:00:15+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple, Yapay Zeka Destekli Samplab’ı Satın Aldı",
-      "link": "https://shiftdelete.net/apple-yapay-zeka-destekli-samplabi-satin-aldi",
-      "publishedAt": "2026-10-20T06:43:36+00:00"
     },
     {
       "source": "DonanımHaber",
