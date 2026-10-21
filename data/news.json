@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-21T18:49:30.185492+00:00",
+  "updatedAt": "2026-10-21T19:37:54.793455+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T18:49:30.185492+00:00",
+      "checkedAt": "2026-10-21T19:37:54.793455+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T18:49:30.185492+00:00",
+      "checkedAt": "2026-10-21T19:37:54.793455+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "230.000 TL’lik Katlanabilir iPhone Duo Alınır mı? iPhone Duo İlk Bakış!",
+      "link": "https://shiftdelete.net/230-000-tllik-katlanabilir-iphone-duo-alinir-mi-iphone-duo-ilk-bakis",
+      "publishedAt": "2026-10-21T19:03:46+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "4 gece, 32.640 katlama: iPhone Duo menteşe testi ve ilk inceleme bulguları!",
+      "link": "https://shiftdelete.net/4-gece-32-640-katlama-iphone-duo-mentese-testi-ve-ilk-inceleme-bulgulari",
+      "publishedAt": "2026-10-21T19:00:33+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Arm'ın Qualcomm'dan istediği lisans ücreti belli oldu: Çip başına 65 dolara kadar çıkıyor!",
@@ -76,18 +88,6 @@
       "title": "Çinli telefon üreticileri eski telefonların RAM'lerini söküp yeniden kullanıyor!",
       "link": "https://www.donanimhaber.com/cinli-telefon-ureticileri-eski-telefonlarin-ram-lerini-kullaniyor--211885",
       "publishedAt": "2026-10-21T06:57:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Android 17 QPR3 Beta 2 Yayınlandı",
-      "link": "https://shiftdelete.net/android-17-qpr3-beta-2-yayinlandi",
-      "publishedAt": "2026-10-21T05:00:31+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple 6G için Deneyimli Mühendis Arıyor",
-      "link": "https://shiftdelete.net/apple-6g-icin-deneyimli-muhendis-ariyor",
-      "publishedAt": "2026-10-21T04:00:26+00:00"
     },
     {
       "source": "DonanımHaber",
