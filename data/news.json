@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-21T06:07:47.907723+00:00",
+  "updatedAt": "2026-10-21T07:23:44.322232+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T06:07:47.907723+00:00",
+      "checkedAt": "2026-10-21T07:23:44.322232+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T06:07:47.907723+00:00",
+      "checkedAt": "2026-10-21T07:23:44.322232+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Çinli telefon üreticileri eski telefonların RAM'lerini söküp yeniden kullanıyor!",
+      "link": "https://www.donanimhaber.com/cinli-telefon-ureticileri-eski-telefonlarin-ram-lerini-kullaniyor--211885",
+      "publishedAt": "2026-10-21T06:57:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Android 17 QPR3 Beta 2 Yayınlandı",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy S27 serisi beklenenden erken tanıtılabilir",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisi-beklenenden-erken-tanitilabilir--211821",
       "publishedAt": "2026-10-19T17:22:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy F70 5G tanıtıldı: Kamera, ekran ve dayanıklılıkta sınıfının en iyisi",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-f70-5g-tanitildi-iste-ozellikleri-ve-fiyati--211808",
-      "publishedAt": "2026-10-19T15:45:00+00:00"
     }
   ]
 }
