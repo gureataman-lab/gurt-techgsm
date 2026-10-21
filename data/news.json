@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-21T12:08:46.262387+00:00",
+  "updatedAt": "2026-10-21T13:21:02.444708+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-21T12:08:46.262387+00:00",
+      "checkedAt": "2026-10-21T13:21:02.444708+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-21T12:08:46.262387+00:00",
+      "checkedAt": "2026-10-21T13:21:02.444708+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "En ucuz geniş ekran telefon geliyor",
+      "link": "https://www.donanimhaber.com/coolpad-cool-x-wide-tanitildi--211888",
+      "publishedAt": "2026-10-21T12:25:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "HONOR Robot Phone, TIME Tarafından 2026’nın En İyi İcatları Arasına Seçildi",
@@ -124,12 +130,6 @@
       "title": "Xiaomi 18 Pro ve 18 Pro Max'in Avrupa fiyatları ve batarya kapasiteleri sızdı",
       "link": "https://www.donanimhaber.com/xiaomi-18-pro-ve-18-pro-max-in-avrupa-fiyatlari-sizdirildi--211839",
       "publishedAt": "2026-10-20T07:24:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy S27 serisi beklenenden erken tanıtılabilir",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisi-beklenenden-erken-tanitilabilir--211821",
-      "publishedAt": "2026-10-19T17:22:00+00:00"
     }
   ]
 }
