@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-22T15:12:48.154467+00:00",
+  "updatedAt": "2026-10-22T16:10:52.477086+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-22T15:12:48.154467+00:00",
+      "checkedAt": "2026-10-22T16:10:52.477086+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-22T15:12:48.154467+00:00",
+      "checkedAt": "2026-10-22T16:10:52.477086+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple iPhone Duo’ya Özel Uygulamaları Etiketleyecek",
+      "link": "https://shiftdelete.net/apple-made-for-iphone-duo-etiketi",
+      "publishedAt": "2026-10-22T16:00:38+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "PHP’de Dev Açık! PHP2Shell açığı nedir? PHP2Shell açığından nasıl korunursunuz? (Video)",
@@ -70,12 +76,6 @@
       "title": "230.000 TL’lik Katlanabilir iPhone Duo Alınır mı? iPhone Duo İlk Bakış!",
       "link": "https://shiftdelete.net/230-000-tllik-katlanabilir-iphone-duo-alinir-mi-iphone-duo-ilk-bakis",
       "publishedAt": "2026-10-21T19:03:46+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "4 gece, 32.640 katlama: iPhone Duo menteşe testi ve ilk inceleme bulguları!",
-      "link": "https://shiftdelete.net/4-gece-32-640-katlama-iphone-duo-mentese-testi-ve-ilk-inceleme-bulgulari",
-      "publishedAt": "2026-10-21T19:00:33+00:00"
     },
     {
       "source": "DonanımHaber",
