@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-22T16:10:52.477086+00:00",
+  "updatedAt": "2026-10-22T17:09:23.410549+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-22T16:10:52.477086+00:00",
+      "checkedAt": "2026-10-22T17:09:23.410549+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-22T16:10:52.477086+00:00",
+      "checkedAt": "2026-10-22T17:09:23.410549+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo’ya Yoğun İlgi: Mağaza Önlerinde Uzun Kuyruklar Oluştu",
+      "link": "https://shiftdelete.net/iphone-duo-magaza-kuyruklari",
+      "publishedAt": "2026-10-22T17:00:52+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple iPhone Duo’ya Özel Uygulamaları Etiketleyecek",
@@ -70,12 +76,6 @@
       "title": "Honor Win 2 tanıtıldı: Çift fanlı soğutma ve 10.100 mAh batarya",
       "link": "https://www.donanimhaber.com/honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati--211933",
       "publishedAt": "2026-10-22T07:31:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "230.000 TL’lik Katlanabilir iPhone Duo Alınır mı? iPhone Duo İlk Bakış!",
-      "link": "https://shiftdelete.net/230-000-tllik-katlanabilir-iphone-duo-alinir-mi-iphone-duo-ilk-bakis",
-      "publishedAt": "2026-10-21T19:03:46+00:00"
     },
     {
       "source": "DonanımHaber",
