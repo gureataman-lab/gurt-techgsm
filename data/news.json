@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-22T12:09:59.719027+00:00",
+  "updatedAt": "2026-10-22T13:24:06.751252+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-22T12:09:59.719027+00:00",
+      "checkedAt": "2026-10-22T13:24:06.751252+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-22T12:09:59.719027+00:00",
+      "checkedAt": "2026-10-22T13:24:06.751252+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo 2 Prototiplerinde Ekran Altı Face ID Test Ediliyor",
+      "link": "https://shiftdelete.net/iphone-duo-2-prototiplerinde-ekran-alti-face-id-test-ediliyor",
+      "publishedAt": "2026-10-22T12:30:02+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Eski Telefonlara LineageOS ve GrapheneOS ile Android 17 Yüklenebiliyor",
@@ -76,12 +82,6 @@
       "title": "iPhone Duo çıkmadan Apple’a kötü haber: Satış tahminleri aşağı çekildi",
       "link": "https://shiftdelete.net/iphone-duo-cikmadan-applea-kotu-haber-satis-tahminleri-asagi-cekildi",
       "publishedAt": "2026-10-21T15:00:04+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp, iPhone’da Safari’nin İşini Üstlenmeye Hazırlanıyor",
-      "link": "https://shiftdelete.net/whatsapp-iphoneda-safarinin-isini-ustlenmeye-hazirlaniyor",
-      "publishedAt": "2026-10-21T13:30:27+00:00"
     },
     {
       "source": "DonanımHaber",
