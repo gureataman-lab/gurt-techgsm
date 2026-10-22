@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-22T07:25:11.106477+00:00",
+  "updatedAt": "2026-10-22T08:16:49.105301+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-22T07:25:11.106477+00:00",
+      "checkedAt": "2026-10-22T08:16:49.105301+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-22T07:25:11.106477+00:00",
+      "checkedAt": "2026-10-22T08:16:49.105301+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Caviar, 3 Milyon TL’lik Katlanabilir iPhone Duo Serisini Tanıttı",
+      "link": "https://shiftdelete.net/caviar-3-milyon-tllik-katlanabilir-iphone-duo-serisini-tanitti",
+      "publishedAt": "2026-10-22T07:58:50+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Honor Win 2 tanıtıldı: Çift fanlı soğutma ve 10.100 mAh batarya",
+      "link": "https://www.donanimhaber.com/honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati--211933",
+      "publishedAt": "2026-10-22T07:31:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "230.000 TL’lik Katlanabilir iPhone Duo Alınır mı? iPhone Duo İlk Bakış!",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-10-21T08:30:39+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple, iPhone 18 Pro için Orijinal Yedek Parçaları Satışa Sundu",
-      "link": "https://shiftdelete.net/apple-iphone-18-pro-icin-orijinal-yedek-parcalari-satisa-sundu",
-      "publishedAt": "2026-10-21T07:30:22+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Çinli telefon üreticileri eski telefonların RAM'lerini söküp yeniden kullanıyor!",
       "link": "https://www.donanimhaber.com/cinli-telefon-ureticileri-eski-telefonlarin-ram-lerini-kullaniyor--211885",
@@ -124,12 +130,6 @@
       "title": "iPhone Duo videosunda can sıkıcı detay: Kat izi sorunu çözülmemiş!",
       "link": "https://www.donanimhaber.com/iphone-duo-on-inceleme-kat-izi-sorunu-cozulmemis--211863",
       "publishedAt": "2026-10-20T13:40:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone Duo siparişi verenlere erken teslim sürprizi",
-      "link": "https://www.donanimhaber.com/iphone-duo-on-siparisi-verenlere-erken-teslim-surprizi--211846",
-      "publishedAt": "2026-10-20T10:00:00+00:00"
     }
   ]
 }
