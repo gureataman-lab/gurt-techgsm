@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-22T19:38:12.872419+00:00",
+  "updatedAt": "2026-10-22T20:35:20.907167+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-22T19:38:12.872419+00:00",
+      "checkedAt": "2026-10-22T20:35:20.907167+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-22T19:38:12.872419+00:00",
+      "checkedAt": "2026-10-22T20:35:20.907167+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Vivo Y600 yakında geliyor: 10.000 mAh bataryasıyla Guinness Dünya Rekoru kırdı",
+      "link": "https://www.donanimhaber.com/dev-bataryali-vivo-y600-geliyor-guinness-dunya-rekoru-kirdi--211966",
+      "publishedAt": "2026-10-22T20:31:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Çinli Üreticiler iPhone 18 Pro Özelliklerini Android’e Taşıyor",
+      "link": "https://shiftdelete.net/android-degisken-diyaframli-kamera-kavisli-ekran",
+      "publishedAt": "2026-10-22T20:00:18+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo’ya Yoğun İlgi: Mağaza Önlerinde Uzun Kuyruklar Oluştu",
@@ -66,12 +78,6 @@
       "publishedAt": "2026-10-22T09:15:04+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Caviar, 3 Milyon TL’lik Katlanabilir iPhone Duo Serisini Tanıttı",
-      "link": "https://shiftdelete.net/caviar-3-milyon-tllik-katlanabilir-iphone-duo-serisini-tanitti",
-      "publishedAt": "2026-10-22T07:58:50+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor Win 2 tanıtıldı: Çift fanlı soğutma ve 10.100 mAh batarya",
       "link": "https://www.donanimhaber.com/honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati--211933",
@@ -124,12 +130,6 @@
       "title": "Honor 600 almak için 5 neden!",
       "link": "https://www.donanimhaber.com/honor-600-almak-icin-5-neden--211650",
       "publishedAt": "2026-10-20T15:00:26+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone Duo videosunda can sıkıcı detay: Kat izi sorunu çözülmemiş!",
-      "link": "https://www.donanimhaber.com/iphone-duo-on-inceleme-kat-izi-sorunu-cozulmemis--211863",
-      "publishedAt": "2026-10-20T13:40:00+00:00"
     }
   ]
 }
