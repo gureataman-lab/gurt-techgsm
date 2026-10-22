@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-22T10:13:09.577277+00:00",
+  "updatedAt": "2026-10-22T11:10:25.925738+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-22T10:13:09.577277+00:00",
+      "checkedAt": "2026-10-22T11:10:25.925738+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-22T10:13:09.577277+00:00",
+      "checkedAt": "2026-10-22T11:10:25.925738+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "OnePlus Turbo Pro Özellikleri Sızdırıldı: OnePlus 16 ile Benzerlikler Dikkat Çekiyor",
+      "link": "https://shiftdelete.net/oneplus-turbo-pro-ozellikleri-sizdirildi",
+      "publishedAt": "2026-10-22T10:30:09+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo Ekran Altı Kamera Performansı Beklentileri Karşılamadı",
@@ -82,12 +88,6 @@
       "title": "HONOR Robot Phone, TIME Tarafından 2026’nın En İyi İcatları Arasına Seçildi",
       "link": "https://shiftdelete.net/honor-robot-phone-time-tarafindan-2026nin-en-iyi-icatlari-arasina-secildi",
       "publishedAt": "2026-10-21T11:51:37+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo açılınca iPad’e dönüşüyor: Apple uygulamalarının yeni hali belli oldu",
-      "link": "https://shiftdelete.net/iphone-duo-acilinca-ipade-donusuyor-apple-uygulamalarinin-yeni-hali-belli-oldu",
-      "publishedAt": "2026-10-21T11:45:42+00:00"
     },
     {
       "source": "DonanımHaber",
