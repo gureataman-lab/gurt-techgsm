@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-22T11:10:25.925738+00:00",
+  "updatedAt": "2026-10-22T12:09:59.719027+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-22T11:10:25.925738+00:00",
+      "checkedAt": "2026-10-22T12:09:59.719027+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-22T11:10:25.925738+00:00",
+      "checkedAt": "2026-10-22T12:09:59.719027+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Eski Telefonlara LineageOS ve GrapheneOS ile Android 17 Yüklenebiliyor",
+      "link": "https://shiftdelete.net/eski-telefonlara-lineageos-ve-grapheneos-ile-android-17-yuklenebiliyor",
+      "publishedAt": "2026-10-22T12:00:16+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "OnePlus Turbo Pro Özellikleri Sızdırıldı: OnePlus 16 ile Benzerlikler Dikkat Çekiyor",
@@ -82,12 +88,6 @@
       "title": "En ucuz geniş ekran telefon geliyor",
       "link": "https://www.donanimhaber.com/coolpad-cool-x-wide-tanitildi--211888",
       "publishedAt": "2026-10-21T12:25:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "HONOR Robot Phone, TIME Tarafından 2026’nın En İyi İcatları Arasına Seçildi",
-      "link": "https://shiftdelete.net/honor-robot-phone-time-tarafindan-2026nin-en-iyi-icatlari-arasina-secildi",
-      "publishedAt": "2026-10-21T11:51:37+00:00"
     },
     {
       "source": "DonanımHaber",
