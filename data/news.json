@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-22T14:14:04.849446+00:00",
+  "updatedAt": "2026-10-22T15:12:48.154467+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-22T14:14:04.849446+00:00",
+      "checkedAt": "2026-10-22T15:12:48.154467+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-22T14:14:04.849446+00:00",
+      "checkedAt": "2026-10-22T15:12:48.154467+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "PHP’de Dev Açık! PHP2Shell açığı nedir? PHP2Shell açığından nasıl korunursunuz? (Video)",
+      "link": "https://shiftdelete.net/phpde-dev-acik-php2shell-acigi-nedir-php2shell-acigindan-nasil-korunursunuz-video",
+      "publishedAt": "2026-10-22T14:33:55+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo 2 Prototiplerinde Ekran Altı Face ID Test Ediliyor",
@@ -76,12 +82,6 @@
       "title": "Arm'ın Qualcomm'dan istediği lisans ücreti belli oldu: Çip başına 65 dolara kadar çıkıyor!",
       "link": "https://www.donanimhaber.com/qualcomm-un-arm-a-odedigi-lisans-ucreti-35-kata-kadar-artabilir--211928",
       "publishedAt": "2026-10-21T15:44:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo çıkmadan Apple’a kötü haber: Satış tahminleri aşağı çekildi",
-      "link": "https://shiftdelete.net/iphone-duo-cikmadan-applea-kotu-haber-satis-tahminleri-asagi-cekildi",
-      "publishedAt": "2026-10-21T15:00:04+00:00"
     },
     {
       "source": "DonanımHaber",
