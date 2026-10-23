@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-23T17:35:10.218370+00:00",
+  "updatedAt": "2026-10-23T18:06:05.299403+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-23T17:35:10.218370+00:00",
+      "checkedAt": "2026-10-23T18:06:05.299403+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-23T17:35:10.218370+00:00",
+      "checkedAt": "2026-10-23T18:06:05.299403+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Katlanabilir iPhone, Apple iPhone Duo kutu açılımı",
+      "link": "https://shiftdelete.net/katlanabilir-iphone-apple-iphone-duo-kutu-acilimi",
+      "publishedAt": "2026-10-23T17:53:45+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung One UI 9.5 için geri sayım başladı: Beta yakında gelebilir",
@@ -82,12 +88,6 @@
       "title": "Google Dil Bilmemeyi Sorun Etmiyor: Türkçe Dahil 63 Farklı Dilde Gerçek Zamanlı Çeviri Sunuyor",
       "link": "https://shiftdelete.net/google-dil-bilmemeyi-sorun-etmiyor-turkce-dahil-63-farkli-dilde-gercek-zamanli-ceviri-sunuyor",
       "publishedAt": "2026-10-23T06:36:04+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo için Geri Sayım Başladı: Mağaza Stokları Ne Durumda?",
-      "link": "https://shiftdelete.net/iphone-duo-magaza-satis-detaylari",
-      "publishedAt": "2026-10-23T06:30:28+00:00"
     },
     {
       "source": "DonanımHaber",
