@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-10-23T06:07:51.568376+00:00",
+  "updatedAt": "2026-10-23T07:23:28.896449+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-23T06:07:51.568376+00:00",
+      "checkedAt": "2026-10-23T07:23:28.896449+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-23T06:07:51.568376+00:00",
+      "checkedAt": "2026-10-23T07:23:28.896449+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "A101 marketlere evde spor ürünleri geliyor",
+      "link": "https://www.donanimhaber.com/22-ekim-a101-ekstra-katalogunda-neler-var--211979",
+      "publishedAt": "2026-10-23T07:17:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp ile Instagram Reels İç İçe Giriyor",
+      "link": "https://shiftdelete.net/whatsapp-ile-instagram-reels-ic-ice-giriyor",
+      "publishedAt": "2026-10-23T07:06:46+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Google Dil Bilmemeyi Sorun Etmiyor: Türkçe Dahil 63 Farklı Dilde Gerçek Zamanlı Çeviri Sunuyor",
+      "link": "https://shiftdelete.net/google-dil-bilmemeyi-sorun-etmiyor-turkce-dahil-63-farkli-dilde-gercek-zamanli-ceviri-sunuyor",
+      "publishedAt": "2026-10-23T06:36:04+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo için Geri Sayım Başladı: Mağaza Stokları Ne Durumda?",
+      "link": "https://shiftdelete.net/iphone-duo-magaza-satis-detaylari",
+      "publishedAt": "2026-10-23T06:30:28+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung’dan Yeni Katlanabilir Telefon: Çin’e Özel Çıkıyor",
@@ -60,24 +84,6 @@
       "publishedAt": "2026-10-22T12:00:16+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "OnePlus Turbo Pro Özellikleri Sızdırıldı: OnePlus 16 ile Benzerlikler Dikkat Çekiyor",
-      "link": "https://shiftdelete.net/oneplus-turbo-pro-ozellikleri-sizdirildi",
-      "publishedAt": "2026-10-22T10:30:09+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo Ekran Altı Kamera Performansı Beklentileri Karşılamadı",
-      "link": "https://shiftdelete.net/iphone-duo-ekran-alti-kamera-performansi-beklentileri-karsilamadi",
-      "publishedAt": "2026-10-22T09:59:39+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Alışverişlerde Yeni Taksit Düzenlemesi: Elektronik, Beyaz Eşya ve Seyahatte Limitler Belli Oldu",
-      "link": "https://shiftdelete.net/alisverislerde-yeni-taksit-duzenlemesi-elektronik-beyaz-esya-ve-seyahatte-limitler-belli-oldu",
-      "publishedAt": "2026-10-22T09:31:26+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor Win 2 tanıtıldı: Çift fanlı soğutma ve 10.100 mAh batarya",
       "link": "https://www.donanimhaber.com/honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati--211933",
@@ -124,12 +130,6 @@
       "title": "Apple, iPhone için ABD'de üretimi genişletiyor: Yeni tedarikçiler açıklandı",
       "link": "https://www.donanimhaber.com/apple-iphone-icin-abd-de-uretimi-genisletiyor--211874",
       "publishedAt": "2026-10-20T17:17:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor 600 almak için 5 neden!",
-      "link": "https://www.donanimhaber.com/honor-600-almak-icin-5-neden--211650",
-      "publishedAt": "2026-10-20T15:00:26+00:00"
     }
   ]
 }
