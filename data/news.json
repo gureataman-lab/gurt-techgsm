@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-23T15:40:49.313058+00:00",
+  "updatedAt": "2026-10-23T16:40:11.643270+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-23T15:40:49.313058+00:00",
+      "checkedAt": "2026-10-23T16:40:11.643270+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-23T15:40:49.313058+00:00",
+      "checkedAt": "2026-10-23T16:40:11.643270+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung One UI 9.5 için geri sayım başladı: Beta yakında gelebilir",
+      "link": "https://www.donanimhaber.com/samsung-one-ui-9-5-icin-geri-sayim-beta-yakinda-gelebilir--212013",
+      "publishedAt": "2026-10-23T16:36:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "OnePlus Ace 7 Pro Snapdragon 8 Elite ile Geliyor",
@@ -124,12 +130,6 @@
       "title": "Samsung, Galaxy S27 ve S28 serilerinde 5G modem verimliliğini artıracak",
       "link": "https://www.donanimhaber.com/galaxy-s27-ve-s28-serisi-daha-verimli-5g-modemlerle-gelebilir--211878",
       "publishedAt": "2026-10-20T18:39:23+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi'den 25.000 mAh kapasiteli ve 250W gücünde yeni powerbank",
-      "link": "https://www.donanimhaber.com/xiaomi-25-000-mah-bataryali-yeni-powerbank-modelini-tanitti--211873",
-      "publishedAt": "2026-10-20T17:38:00+00:00"
     }
   ]
 }
