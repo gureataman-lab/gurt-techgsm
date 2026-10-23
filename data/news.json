@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-10-23T07:23:28.896449+00:00",
+  "updatedAt": "2026-10-23T08:14:42.497966+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-23T07:23:28.896449+00:00",
+      "checkedAt": "2026-10-23T08:14:42.497966+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-23T07:23:28.896449+00:00",
+      "checkedAt": "2026-10-23T08:14:42.497966+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Vivo Y600 Geliyor: 10.000 mAh Bataryasıyla Rekor Kırdı",
+      "link": "https://shiftdelete.net/vivo-y600-10000-mah-batarya-guinness-rekoru",
+      "publishedAt": "2026-10-23T08:00:54+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo ile Tam Uyumlu Uygulamalar Özel Etiketle Gelecek",
+      "link": "https://shiftdelete.net/iphone-duo-ile-tam-uyumlu-uygulamalar-ozel-etiketle-gelecek",
+      "publishedAt": "2026-10-23T07:45:44+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung W27 Çok Yakında Geliyor",
+      "link": "https://shiftdelete.net/samsung-w27-cok-yakinda-geliyor",
+      "publishedAt": "2026-10-23T07:30:47+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Delta Nintendo DS Emülatörü iPhone Duo Desteğine Kavuştu",
+      "link": "https://shiftdelete.net/delta-nintendo-ds-emulatoru-iphone-duo-destegine-kavustu",
+      "publishedAt": "2026-10-23T07:23:56+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "A101 marketlere evde spor ürünleri geliyor",
@@ -58,30 +82,6 @@
       "title": "iPhone Duo’ya Yoğun İlgi: Mağaza Önlerinde Uzun Kuyruklar Oluştu",
       "link": "https://shiftdelete.net/iphone-duo-magaza-kuyruklari",
       "publishedAt": "2026-10-22T17:00:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple iPhone Duo’ya Özel Uygulamaları Etiketleyecek",
-      "link": "https://shiftdelete.net/apple-made-for-iphone-duo-etiketi",
-      "publishedAt": "2026-10-22T16:00:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "PHP’de Dev Açık! PHP2Shell açığı nedir? PHP2Shell açığından nasıl korunursunuz? (Video)",
-      "link": "https://shiftdelete.net/phpde-dev-acik-php2shell-acigi-nedir-php2shell-acigindan-nasil-korunursunuz-video",
-      "publishedAt": "2026-10-22T14:33:55+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo 2 Prototiplerinde Ekran Altı Face ID Test Ediliyor",
-      "link": "https://shiftdelete.net/iphone-duo-2-prototiplerinde-ekran-alti-face-id-test-ediliyor",
-      "publishedAt": "2026-10-22T12:30:02+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Eski Telefonlara LineageOS ve GrapheneOS ile Android 17 Yüklenebiliyor",
-      "link": "https://shiftdelete.net/eski-telefonlara-lineageos-ve-grapheneos-ile-android-17-yuklenebiliyor",
-      "publishedAt": "2026-10-22T12:00:16+00:00"
     },
     {
       "source": "DonanımHaber",
