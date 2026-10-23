@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-23T11:08:20.194710+00:00",
+  "updatedAt": "2026-10-23T12:05:27.958996+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-23T11:08:20.194710+00:00",
+      "checkedAt": "2026-10-23T12:05:27.958996+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-23T11:08:20.194710+00:00",
+      "checkedAt": "2026-10-23T12:05:27.958996+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp Mesaj Zamanlama Özelliği Test Ediliyor",
+      "link": "https://shiftdelete.net/whatsapp-ios-beta-surumunde-mesaj-zamanlama-ozelligi-test-ediliyor",
+      "publishedAt": "2026-10-23T12:00:51+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Galaxy S24 Ultra'da One UI 9 alarmı: Pil hızla tükeniyor",
+      "link": "https://www.donanimhaber.com/galaxy-s24-ultra-da-one-ui-9-alarmi-pil-hizla-tukeniyor--211992",
+      "publishedAt": "2026-10-23T11:30:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Açık Kulak Tasarımlı TECNO FreeHear 2 Türkiye’de Satışa Çıktı",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-10-22T20:31:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Çinli Üreticiler iPhone 18 Pro Özelliklerini Android’e Taşıyor",
-      "link": "https://shiftdelete.net/android-degisken-diyaframli-kamera-kavisli-ekran",
-      "publishedAt": "2026-10-22T20:00:18+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor Win 2 tanıtıldı: Çift fanlı soğutma ve 10.100 mAh batarya",
       "link": "https://www.donanimhaber.com/honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati--211933",
@@ -124,12 +130,6 @@
       "title": "Xiaomi'den 25.000 mAh kapasiteli ve 250W gücünde yeni powerbank",
       "link": "https://www.donanimhaber.com/xiaomi-25-000-mah-bataryali-yeni-powerbank-modelini-tanitti--211873",
       "publishedAt": "2026-10-20T17:38:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple, iPhone için ABD'de üretimi genişletiyor: Yeni tedarikçiler açıklandı",
-      "link": "https://www.donanimhaber.com/apple-iphone-icin-abd-de-uretimi-genisletiyor--211874",
-      "publishedAt": "2026-10-20T17:17:00+00:00"
     }
   ]
 }
