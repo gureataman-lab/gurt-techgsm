@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-23T10:10:19.472827+00:00",
+  "updatedAt": "2026-10-23T11:08:20.194710+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-23T10:10:19.472827+00:00",
+      "checkedAt": "2026-10-23T11:08:20.194710+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-23T10:10:19.472827+00:00",
+      "checkedAt": "2026-10-23T11:08:20.194710+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Açık Kulak Tasarımlı TECNO FreeHear 2 Türkiye’de Satışa Çıktı",
+      "link": "https://shiftdelete.net/acik-kulak-tasarimli-tecno-freehear-2-turkiyede-satisa-cikti",
+      "publishedAt": "2026-10-23T11:00:36+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Vivo Y600 Geliyor: 10.000 mAh Bataryasıyla Rekor Kırdı",
@@ -76,12 +82,6 @@
       "title": "Çinli Üreticiler iPhone 18 Pro Özelliklerini Android’e Taşıyor",
       "link": "https://shiftdelete.net/android-degisken-diyaframli-kamera-kavisli-ekran",
       "publishedAt": "2026-10-22T20:00:18+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo’ya Yoğun İlgi: Mağaza Önlerinde Uzun Kuyruklar Oluştu",
-      "link": "https://shiftdelete.net/iphone-duo-magaza-kuyruklari",
-      "publishedAt": "2026-10-22T17:00:52+00:00"
     },
     {
       "source": "DonanımHaber",
