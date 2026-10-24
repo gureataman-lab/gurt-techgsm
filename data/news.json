@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-24T11:37:42.223069+00:00",
+  "updatedAt": "2026-10-24T12:40:03.636939+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-24T11:37:42.223069+00:00",
+      "checkedAt": "2026-10-24T12:40:03.636939+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-24T11:37:42.223069+00:00",
+      "checkedAt": "2026-10-24T12:40:03.636939+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Honor 700 Serisi Sızdırıldı: 200MP Kamera ve 9000mAh Batarya ile Geliyor",
+      "link": "https://shiftdelete.net/honor-700-serisi-ozellikleri",
+      "publishedAt": "2026-10-24T12:00:06+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "realme 17 Pro Teknik Özellikleri Sızdı",
@@ -82,12 +88,6 @@
       "title": "iPhone Duo ile Tam Uyumlu Uygulamalar Özel Etiketle Gelecek",
       "link": "https://shiftdelete.net/iphone-duo-ile-tam-uyumlu-uygulamalar-ozel-etiketle-gelecek",
       "publishedAt": "2026-10-23T07:45:44+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung W27 Çok Yakında Geliyor",
-      "link": "https://shiftdelete.net/samsung-w27-cok-yakinda-geliyor",
-      "publishedAt": "2026-10-23T07:30:47+00:00"
     },
     {
       "source": "DonanımHaber",
