@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-24T19:57:15.323537+00:00",
+  "updatedAt": "2026-10-24T20:32:00.221553+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-24T19:57:15.323537+00:00",
+      "checkedAt": "2026-10-24T20:32:00.221553+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-24T19:57:15.323537+00:00",
+      "checkedAt": "2026-10-24T20:32:00.221553+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iOS 27.1 Yayınlandı: Sadece Bir Cihaza Özel",
+      "link": "https://shiftdelete.net/ios-27-1-iphone-duo-guncellemesi",
+      "publishedAt": "2026-10-24T20:00:26+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple’ın Devasa Katlanabilir Tableti Yolda",
@@ -94,12 +100,6 @@
       "title": "Galaxy S24 Ultra'da One UI 9 alarmı: Pil hızla tükeniyor",
       "link": "https://www.donanimhaber.com/galaxy-s24-ultra-da-one-ui-9-alarmi-pil-hizla-tukeniyor--211992",
       "publishedAt": "2026-10-23T11:30:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Açık Kulak Tasarımlı TECNO FreeHear 2 Türkiye’de Satışa Çıktı",
-      "link": "https://shiftdelete.net/acik-kulak-tasarimli-tecno-freehear-2-turkiyede-satisa-cikti",
-      "publishedAt": "2026-10-23T11:00:36+00:00"
     },
     {
       "source": "DonanımHaber",
