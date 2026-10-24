@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-24T10:35:52.947557+00:00",
+  "updatedAt": "2026-10-24T11:05:45.081827+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-24T10:35:52.947557+00:00",
+      "checkedAt": "2026-10-24T11:05:45.081827+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-24T10:35:52.947557+00:00",
+      "checkedAt": "2026-10-24T11:05:45.081827+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "realme 17 Pro Teknik Özellikleri Sızdı",
+      "link": "https://shiftdelete.net/realme-17-pro-teknik-ozellikleri-sizdi",
+      "publishedAt": "2026-10-24T11:00:15+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Android oyunlarına DLSS rakibi: Adreno Neural Fusion geliyor",
@@ -82,12 +88,6 @@
       "title": "Samsung W27 Çok Yakında Geliyor",
       "link": "https://shiftdelete.net/samsung-w27-cok-yakinda-geliyor",
       "publishedAt": "2026-10-23T07:30:47+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Delta Nintendo DS Emülatörü iPhone Duo Desteğine Kavuştu",
-      "link": "https://shiftdelete.net/delta-nintendo-ds-emulatoru-iphone-duo-destegine-kavustu",
-      "publishedAt": "2026-10-23T07:23:56+00:00"
     },
     {
       "source": "DonanımHaber",
