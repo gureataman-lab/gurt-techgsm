@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-24T04:07:51.996952+00:00",
+  "updatedAt": "2026-10-24T05:05:56.892062+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-24T04:07:51.996952+00:00",
+      "checkedAt": "2026-10-24T05:05:56.892062+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-24T04:07:51.996952+00:00",
+      "checkedAt": "2026-10-24T05:05:56.892062+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Bu Ne Hız: iPhone Duo Piyasaya Çıktığı Gün Kırıldı",
+      "link": "https://shiftdelete.net/iphone-duo-piyasaya-ciktigi-gun-jailbreak-edildi",
+      "publishedAt": "2026-10-24T05:00:52+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Katlanabilir iPhone, Apple iPhone Duo kutu açılımı",
@@ -82,12 +88,6 @@
       "title": "WhatsApp ile Instagram Reels İç İçe Giriyor",
       "link": "https://shiftdelete.net/whatsapp-ile-instagram-reels-ic-ice-giriyor",
       "publishedAt": "2026-10-23T07:06:46+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Google Dil Bilmemeyi Sorun Etmiyor: Türkçe Dahil 63 Farklı Dilde Gerçek Zamanlı Çeviri Sunuyor",
-      "link": "https://shiftdelete.net/google-dil-bilmemeyi-sorun-etmiyor-turkce-dahil-63-farkli-dilde-gercek-zamanli-ceviri-sunuyor",
-      "publishedAt": "2026-10-23T06:36:04+00:00"
     },
     {
       "source": "DonanımHaber",
