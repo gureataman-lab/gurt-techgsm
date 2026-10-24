@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-24T07:38:21.611197+00:00",
+  "updatedAt": "2026-10-24T08:35:08.734642+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-24T07:38:21.611197+00:00",
+      "checkedAt": "2026-10-24T08:35:08.734642+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-24T07:38:21.611197+00:00",
+      "checkedAt": "2026-10-24T08:35:08.734642+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Android oyunlarına DLSS rakibi: Adreno Neural Fusion geliyor",
+      "link": "https://www.donanimhaber.com/android-oyunlarina-dlss-rakibi-adreno-neural-fusion-geliyor--212026",
+      "publishedAt": "2026-10-24T08:30:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple Protestolar Yüzünden Mağazalarını Kapattı",
+      "link": "https://shiftdelete.net/apple-paris-magazalari-protesto-kapatma",
+      "publishedAt": "2026-10-24T08:00:35+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Bu Ne Hız: iPhone Duo Piyasaya Çıktığı Gün Kırıldı",
@@ -84,12 +96,6 @@
       "publishedAt": "2026-10-23T07:17:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "WhatsApp ile Instagram Reels İç İçe Giriyor",
-      "link": "https://shiftdelete.net/whatsapp-ile-instagram-reels-ic-ice-giriyor",
-      "publishedAt": "2026-10-23T07:06:46+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Vivo Y600 yakında geliyor: 10.000 mAh bataryasıyla Guinness Dünya Rekoru kırdı",
       "link": "https://www.donanimhaber.com/dev-bataryali-vivo-y600-geliyor-guinness-dunya-rekoru-kirdi--211966",
@@ -124,12 +130,6 @@
       "title": "Samsung, Galaxy S26 Ultra'daki donma sorununu kabul etti",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s26-ultra-daki-donma-sorununu-kabul-etti--211867",
       "publishedAt": "2026-10-20T20:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, Galaxy S27 ve S28 serilerinde 5G modem verimliliğini artıracak",
-      "link": "https://www.donanimhaber.com/galaxy-s27-ve-s28-serisi-daha-verimli-5g-modemlerle-gelebilir--211878",
-      "publishedAt": "2026-10-20T18:39:23+00:00"
     }
   ]
 }
