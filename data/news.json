@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-24T14:04:02.685759+00:00",
+  "updatedAt": "2026-10-24T14:35:21.394908+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-24T14:04:02.685759+00:00",
+      "checkedAt": "2026-10-24T14:35:21.394908+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-24T14:04:02.685759+00:00",
+      "checkedAt": "2026-10-24T14:35:21.394908+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone Duo'ya özel iOS 27.1 yayınlandı: iOS 27.2 haftaya tüm modellere geliyor",
+      "link": "https://www.donanimhaber.com/ios-27-1-iphone-duo-ya-ozel-cikti-ios-27-2-tum-modellere-geliyor--212038",
+      "publishedAt": "2026-10-24T14:30:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "BTK Başkanı’ndan İnternet Hızı Açıklaması: İnternet Altyapısı Büyüyor",
@@ -124,12 +130,6 @@
       "title": "Çinli telefon üreticileri eski telefonların RAM'lerini söküp yeniden kullanıyor!",
       "link": "https://www.donanimhaber.com/cinli-telefon-ureticileri-eski-telefonlarin-ram-lerini-kullaniyor--211885",
       "publishedAt": "2026-10-21T06:57:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, Galaxy S26 Ultra'daki donma sorununu kabul etti",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s26-ultra-daki-donma-sorununu-kabul-etti--211867",
-      "publishedAt": "2026-10-20T20:00:00+00:00"
     }
   ]
 }
