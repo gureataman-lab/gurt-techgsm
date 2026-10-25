@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-25T08:35:06.770829+00:00",
+  "updatedAt": "2026-10-25T09:07:36.081911+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-25T08:35:06.770829+00:00",
+      "checkedAt": "2026-10-25T09:07:36.081911+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-25T08:35:06.770829+00:00",
+      "checkedAt": "2026-10-25T09:07:36.081911+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "OnePlus Ace 7 ve Ace 7 Pro’nun Tüm Renk Seçenekleri Ortaya Çıktı",
+      "link": "https://shiftdelete.net/oneplus-ace-7-ve-ace-7-pro-ozellikleri",
+      "publishedAt": "2026-10-25T09:00:43+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "ColorOS 17 güncellemesi beklenenden erken geldi: İşte modeller",
@@ -94,12 +100,6 @@
       "title": "Samsung One UI 9.5 için geri sayım başladı: Beta yakında gelebilir",
       "link": "https://www.donanimhaber.com/samsung-one-ui-9-5-icin-geri-sayim-beta-yakinda-gelebilir--212013",
       "publishedAt": "2026-10-23T16:36:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "OnePlus Ace 7 Pro Snapdragon 8 Elite ile Geliyor",
-      "link": "https://shiftdelete.net/oneplus-ace-7-pro-snapdragon-8-elite-ile-geliyor",
-      "publishedAt": "2026-10-23T13:00:45+00:00"
     },
     {
       "source": "DonanımHaber",
