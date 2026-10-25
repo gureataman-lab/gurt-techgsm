@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-25T18:35:01.160355+00:00",
+  "updatedAt": "2026-10-25T19:10:32.083561+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-25T18:35:01.160355+00:00",
+      "checkedAt": "2026-10-25T19:10:32.083561+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-25T18:35:01.160355+00:00",
+      "checkedAt": "2026-10-25T19:10:32.083561+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "MacBook Air ve iMac Modellerinde OLED Dönemi Ne Zaman Başlayacak?",
+      "link": "https://shiftdelete.net/apple-imac-macbook-air-oled-ekran-planlari",
+      "publishedAt": "2026-10-25T19:00:40+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple Mağazalarında Kutu Açmadan İade Kontrolü Başladı",
@@ -94,12 +100,6 @@
       "title": "Honor 700 Serisi Sızdırıldı: 200MP Kamera ve 9000mAh Batarya ile Geliyor",
       "link": "https://shiftdelete.net/honor-700-serisi-ozellikleri",
       "publishedAt": "2026-10-24T12:00:06+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "realme 17 Pro Teknik Özellikleri Sızdı",
-      "link": "https://shiftdelete.net/realme-17-pro-teknik-ozellikleri-sizdi",
-      "publishedAt": "2026-10-24T11:00:15+00:00"
     },
     {
       "source": "DonanımHaber",
