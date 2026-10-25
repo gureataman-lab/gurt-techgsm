@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-25T06:45:28.387028+00:00",
+  "updatedAt": "2026-10-25T07:40:20.846352+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-25T06:45:28.387028+00:00",
+      "checkedAt": "2026-10-25T07:40:20.846352+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-25T06:45:28.387028+00:00",
+      "checkedAt": "2026-10-25T07:40:20.846352+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "ColorOS 17 güncellemesi beklenenden erken geldi: İşte modeller",
+      "link": "https://www.donanimhaber.com/coloros-17-guncellemesi-beklenenden-erken-geldi-iste-modeller--212054",
+      "publishedAt": "2026-10-25T07:30:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo Parçalarına Ayrıldı: İşte İç Yapısı",
@@ -124,12 +130,6 @@
       "title": "Arm'ın Qualcomm'dan istediği lisans ücreti belli oldu: Çip başına 65 dolara kadar çıkıyor!",
       "link": "https://www.donanimhaber.com/qualcomm-un-arm-a-odedigi-lisans-ucreti-35-kata-kadar-artabilir--211928",
       "publishedAt": "2026-10-21T15:44:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "En ucuz geniş ekran telefon geliyor",
-      "link": "https://www.donanimhaber.com/coolpad-cool-x-wide-tanitildi--211888",
-      "publishedAt": "2026-10-21T12:25:00+00:00"
     }
   ]
 }
