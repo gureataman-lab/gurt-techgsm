@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-25T12:39:06.897404+00:00",
+  "updatedAt": "2026-10-25T13:35:12.527472+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-25T12:39:06.897404+00:00",
+      "checkedAt": "2026-10-25T13:35:12.527472+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-25T12:39:06.897404+00:00",
+      "checkedAt": "2026-10-25T13:35:12.527472+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Katlanabilir iPhone parçalarına ayrıldı: İşte çift batarya tasarımı",
+      "link": "https://www.donanimhaber.com/iphone-duo-parcalarina-ayrildi-iste-cift-batarya-tasarimi--212052",
+      "publishedAt": "2026-10-25T13:30:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Fransa’daki Protestolarda Bitchat Kullanıldı: İşte İnternetsiz Mesajlaşma Uygulaması",
@@ -124,12 +130,6 @@
       "title": "Honor Win 2 tanıtıldı: Çift fanlı soğutma ve 10.100 mAh batarya",
       "link": "https://www.donanimhaber.com/honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati--211933",
       "publishedAt": "2026-10-22T07:31:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Arm'ın Qualcomm'dan istediği lisans ücreti belli oldu: Çip başına 65 dolara kadar çıkıyor!",
-      "link": "https://www.donanimhaber.com/qualcomm-un-arm-a-odedigi-lisans-ucreti-35-kata-kadar-artabilir--211928",
-      "publishedAt": "2026-10-21T15:44:00+00:00"
     }
   ]
 }
