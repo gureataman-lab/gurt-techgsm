@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-25T10:35:45.506415+00:00",
+  "updatedAt": "2026-10-25T11:06:08.290350+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-25T10:35:45.506415+00:00",
+      "checkedAt": "2026-10-25T11:06:08.290350+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-25T10:35:45.506415+00:00",
+      "checkedAt": "2026-10-25T11:06:08.290350+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Fransa’daki Protestolarda Bitchat Kullanıldı: İşte İnternetsiz Mesajlaşma Uygulaması",
+      "link": "https://shiftdelete.net/fransa-protestolarinda-bitchat-kullanimi",
+      "publishedAt": "2026-10-25T11:00:50+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "OnePlus Ace 7 ve Ace 7 Pro’nun Tüm Renk Seçenekleri Ortaya Çıktı",
@@ -88,12 +94,6 @@
       "title": "Bu Ne Hız: iPhone Duo Piyasaya Çıktığı Gün Kırıldı",
       "link": "https://shiftdelete.net/iphone-duo-piyasaya-ciktigi-gun-jailbreak-edildi",
       "publishedAt": "2026-10-24T05:00:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Katlanabilir iPhone, Apple iPhone Duo kutu açılımı",
-      "link": "https://shiftdelete.net/katlanabilir-iphone-apple-iphone-duo-kutu-acilimi",
-      "publishedAt": "2026-10-23T17:53:45+00:00"
     },
     {
       "source": "DonanımHaber",
