@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-25T16:34:39.921882+00:00",
+  "updatedAt": "2026-10-25T17:06:58.711527+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-25T16:34:39.921882+00:00",
+      "checkedAt": "2026-10-25T17:06:58.711527+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-25T16:34:39.921882+00:00",
+      "checkedAt": "2026-10-25T17:06:58.711527+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple Mağazalarında Kutu Açmadan İade Kontrolü Başladı",
+      "link": "https://shiftdelete.net/apple-store-yeni-iphone-iade-guvenlik-sistemi",
+      "publishedAt": "2026-10-25T17:00:39+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei Pura 90 Plus, canlı görüntülerle ortaya çıktı",
+      "link": "https://www.donanimhaber.com/huawei-pura-90-plus-canli-goruntulerle-ortaya-cikti--212071",
+      "publishedAt": "2026-10-25T17:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "macOS Golden Gate ile Dokunmatik MacBook Pro Dönemi Başlıyor",
@@ -96,12 +108,6 @@
       "publishedAt": "2026-10-24T08:30:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple Protestolar Yüzünden Mağazalarını Kapattı",
-      "link": "https://shiftdelete.net/apple-paris-magazalari-protesto-kapatma",
-      "publishedAt": "2026-10-24T08:00:35+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung One UI 9.5 için geri sayım başladı: Beta yakında gelebilir",
       "link": "https://www.donanimhaber.com/samsung-one-ui-9-5-icin-geri-sayim-beta-yakinda-gelebilir--212013",
@@ -124,12 +130,6 @@
       "title": "Vivo Y600 yakında geliyor: 10.000 mAh bataryasıyla Guinness Dünya Rekoru kırdı",
       "link": "https://www.donanimhaber.com/dev-bataryali-vivo-y600-geliyor-guinness-dunya-rekoru-kirdi--211966",
       "publishedAt": "2026-10-22T20:31:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor Win 2 tanıtıldı: Çift fanlı soğutma ve 10.100 mAh batarya",
-      "link": "https://www.donanimhaber.com/honor-win-2-tanitildi-iste-ozellikleri-ve-fiyati--211933",
-      "publishedAt": "2026-10-22T07:31:00+00:00"
     }
   ]
 }
