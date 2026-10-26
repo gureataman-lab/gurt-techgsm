@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-26T09:46:50.052462+00:00",
+  "updatedAt": "2026-10-26T10:44:00.944109+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-26T09:46:50.052462+00:00",
+      "checkedAt": "2026-10-26T10:44:00.944109+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-26T09:46:50.052462+00:00",
+      "checkedAt": "2026-10-26T10:44:00.944109+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone Duo şikayetleri artıyor: Ekran neden kırılıyor?",
+      "link": "https://www.donanimhaber.com/iphone-duo-ekrani-neden-kiriliyor-veya-catliyor--212087",
+      "publishedAt": "2026-10-26T10:12:36+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iFixit iPhone Duo’yu Parçalarına Ayırdı: Ekran Neden Bozuluyor?",
@@ -124,12 +130,6 @@
       "title": "Galaxy S24 Ultra'da One UI 9 alarmı: Pil hızla tükeniyor",
       "link": "https://www.donanimhaber.com/galaxy-s24-ultra-da-one-ui-9-alarmi-pil-hizla-tukeniyor--211992",
       "publishedAt": "2026-10-23T11:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "A101 marketlere evde spor ürünleri geliyor",
-      "link": "https://www.donanimhaber.com/22-ekim-a101-ekstra-katalogunda-neler-var--211979",
-      "publishedAt": "2026-10-23T07:17:00+00:00"
     }
   ]
 }
