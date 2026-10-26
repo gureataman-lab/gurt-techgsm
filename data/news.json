@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-26T03:38:26.354818+00:00",
+  "updatedAt": "2026-10-26T04:38:39.755911+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-26T03:38:26.354818+00:00",
+      "checkedAt": "2026-10-26T04:38:39.755911+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-26T03:38:26.354818+00:00",
+      "checkedAt": "2026-10-26T04:38:39.755911+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo Dayanıklılık Testinde: Menteşe ve Ekran Testinden Geçemedi",
+      "link": "https://shiftdelete.net/iphone-duo-dayaniklilik-testi-sonuclari",
+      "publishedAt": "2026-10-26T04:00:14+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "MacBook Air ve iMac Modellerinde OLED Dönemi Ne Zaman Başlayacak?",
@@ -94,12 +100,6 @@
       "title": "BTK Başkanı’ndan İnternet Hızı Açıklaması: İnternet Altyapısı Büyüyor",
       "link": "https://shiftdelete.net/btk-baskani-kocyigit-ortalama-mobil-indirme-hizi-aciklamasi",
       "publishedAt": "2026-10-24T14:00:26+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor 700 Serisi Sızdırıldı: 200MP Kamera ve 9000mAh Batarya ile Geliyor",
-      "link": "https://shiftdelete.net/honor-700-serisi-ozellikleri",
-      "publishedAt": "2026-10-24T12:00:06+00:00"
     },
     {
       "source": "DonanımHaber",
