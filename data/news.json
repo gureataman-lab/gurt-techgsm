@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-26T06:48:29.236824+00:00",
+  "updatedAt": "2026-10-26T07:54:17.070929+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-26T06:48:29.236824+00:00",
+      "checkedAt": "2026-10-26T07:54:17.070929+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-26T06:48:29.236824+00:00",
+      "checkedAt": "2026-10-26T07:54:17.070929+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung’un yeni çipi Exynos 2700, Qualcomm'un en güçlü işlemcisini geride bıraktı",
+      "link": "https://www.donanimhaber.com/exynos-2700-qualcomm-un-en-guclu-islemcisini-geride-birakti--212076",
+      "publishedAt": "2026-10-26T07:32:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Huawei Pura 90 Plus Tasarımı ve Donanımı Ortaya Çıktı",
@@ -124,12 +130,6 @@
       "title": "A101 marketlere evde spor ürünleri geliyor",
       "link": "https://www.donanimhaber.com/22-ekim-a101-ekstra-katalogunda-neler-var--211979",
       "publishedAt": "2026-10-23T07:17:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Vivo Y600 yakında geliyor: 10.000 mAh bataryasıyla Guinness Dünya Rekoru kırdı",
-      "link": "https://www.donanimhaber.com/dev-bataryali-vivo-y600-geliyor-guinness-dunya-rekoru-kirdi--211966",
-      "publishedAt": "2026-10-22T20:31:00+00:00"
     }
   ]
 }
