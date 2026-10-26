@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-26T18:50:03.613470+00:00",
+  "updatedAt": "2026-10-26T19:44:54.057757+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-26T18:50:03.613470+00:00",
+      "checkedAt": "2026-10-26T19:44:54.057757+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-26T18:50:03.613470+00:00",
+      "checkedAt": "2026-10-26T19:44:54.057757+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Apple duyurdu: Siri AI Türkçe yıl sonuna kadar geliyor",
+      "link": "https://www.donanimhaber.com/apple-duyurdu-siri-ai-turkce-yil-sonuna-kadar-geliyor--212129",
+      "publishedAt": "2026-10-26T19:19:01+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "iOS 27.2 güncellemesi yayınlandı: İşte tüm yenilikler",
+      "link": "https://www.donanimhaber.com/iphone-lar-icin-ios-27-2-guncellemesi-cikti-iste-yenilikler--212128",
+      "publishedAt": "2026-10-26T18:55:30+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Poco X8s tanıtıldı: Kompakt tasarım ve 100W hızlı şarj",
@@ -118,18 +130,6 @@
       "title": "Katlanabilir iPhone parçalarına ayrıldı: İşte çift batarya tasarımı",
       "link": "https://www.donanimhaber.com/iphone-duo-parcalarina-ayrildi-iste-cift-batarya-tasarimi--212052",
       "publishedAt": "2026-10-25T13:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "ColorOS 17 güncellemesi beklenenden erken geldi: İşte modeller",
-      "link": "https://www.donanimhaber.com/coloros-17-guncellemesi-beklenenden-erken-geldi-iste-modeller--212054",
-      "publishedAt": "2026-10-25T07:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, katlanabilir telefonların arkasındaki mühendisliği anlattı (Röportaj)",
-      "link": "https://www.donanimhaber.com/samsung-katlanabilir-telefonun-arkasindaki-muhendisligi-anlatti--212049",
-      "publishedAt": "2026-10-24T14:37:36+00:00"
     }
   ]
 }
