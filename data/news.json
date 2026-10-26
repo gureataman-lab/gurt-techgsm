@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-26T20:38:48.484519+00:00",
+  "updatedAt": "2026-10-26T21:37:43.672350+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-26T20:38:48.484519+00:00",
+      "checkedAt": "2026-10-26T21:37:43.672350+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-26T20:38:48.484519+00:00",
+      "checkedAt": "2026-10-26T21:37:43.672350+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Vivo Y600 rekor kıran bataryasıyla geliyor",
+      "link": "https://www.donanimhaber.com/vivo-y600-tanitildi-iste-ozellikleri-ve-fiyati--212127",
+      "publishedAt": "2026-10-26T20:48:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "OnePlus Ace 7 serisi 165Hz ekranla geliyor: Oyunlarda 185Hz!",
@@ -124,12 +130,6 @@
       "title": "Apple Mağazalarında Kutu Açmadan İade Kontrolü Başladı",
       "link": "https://shiftdelete.net/apple-store-yeni-iphone-iade-guvenlik-sistemi",
       "publishedAt": "2026-10-25T17:00:39+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei Pura 90 Plus, canlı görüntülerle ortaya çıktı",
-      "link": "https://www.donanimhaber.com/huawei-pura-90-plus-canli-goruntulerle-ortaya-cikti--212071",
-      "publishedAt": "2026-10-25T17:00:00+00:00"
     }
   ]
 }
