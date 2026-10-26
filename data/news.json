@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-26T19:44:54.057757+00:00",
+  "updatedAt": "2026-10-26T20:38:48.484519+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-26T19:44:54.057757+00:00",
+      "checkedAt": "2026-10-26T20:38:48.484519+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-26T19:44:54.057757+00:00",
+      "checkedAt": "2026-10-26T20:38:48.484519+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "OnePlus Ace 7 serisi 165Hz ekranla geliyor: Oyunlarda 185Hz!",
+      "link": "https://www.donanimhaber.com/oneplus-ace-7-pro-165hz-ekranla-geliyor-oyunlarda-185hz--212098",
+      "publishedAt": "2026-10-26T20:14:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Apple duyurdu: Siri AI Türkçe yıl sonuna kadar geliyor",
@@ -124,12 +130,6 @@
       "title": "Huawei Pura 90 Plus, canlı görüntülerle ortaya çıktı",
       "link": "https://www.donanimhaber.com/huawei-pura-90-plus-canli-goruntulerle-ortaya-cikti--212071",
       "publishedAt": "2026-10-25T17:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Katlanabilir iPhone parçalarına ayrıldı: İşte çift batarya tasarımı",
-      "link": "https://www.donanimhaber.com/iphone-duo-parcalarina-ayrildi-iste-cift-batarya-tasarimi--212052",
-      "publishedAt": "2026-10-25T13:30:00+00:00"
     }
   ]
 }
