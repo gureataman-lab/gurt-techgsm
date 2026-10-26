@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-26T04:38:39.755911+00:00",
+  "updatedAt": "2026-10-26T05:39:06.530203+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-26T04:38:39.755911+00:00",
+      "checkedAt": "2026-10-26T05:39:06.530203+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-26T04:38:39.755911+00:00",
+      "checkedAt": "2026-10-26T05:39:06.530203+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Pura 90 Plus Tasarımı ve Donanımı Ortaya Çıktı",
+      "link": "https://shiftdelete.net/huawei-pura-90-plus-ozellikleri-goruntulendi",
+      "publishedAt": "2026-10-26T05:30:05+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Exynos 2700 Performans Testlerinde Snapdragon 8 Elite Extreme Gen 6’yı Geride Bıraktı",
+      "link": "https://shiftdelete.net/exynos-2700-performans-testleri-snapdragon-8-elite-karsilastirmasi",
+      "publishedAt": "2026-10-26T05:00:37+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo Dayanıklılık Testinde: Menteşe ve Ekran Testinden Geçemedi",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-10-24T20:00:26+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple’ın Devasa Katlanabilir Tableti Yolda",
-      "link": "https://shiftdelete.net/apple-katlanabilir-ipad-detaylari",
-      "publishedAt": "2026-10-24T15:00:22+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung, katlanabilir telefonların arkasındaki mühendisliği anlattı (Röportaj)",
       "link": "https://www.donanimhaber.com/samsung-katlanabilir-telefonun-arkasindaki-muhendisligi-anlatti--212049",
@@ -94,12 +100,6 @@
       "title": "iPhone Duo'ya özel iOS 27.1 yayınlandı: iOS 27.2 haftaya tüm modellere geliyor",
       "link": "https://www.donanimhaber.com/ios-27-1-iphone-duo-ya-ozel-cikti-ios-27-2-tum-modellere-geliyor--212038",
       "publishedAt": "2026-10-24T14:30:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "BTK Başkanı’ndan İnternet Hızı Açıklaması: İnternet Altyapısı Büyüyor",
-      "link": "https://shiftdelete.net/btk-baskani-kocyigit-ortalama-mobil-indirme-hizi-aciklamasi",
-      "publishedAt": "2026-10-24T14:00:26+00:00"
     },
     {
       "source": "DonanımHaber",
