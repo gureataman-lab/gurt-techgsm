@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-26T14:48:34.477233+00:00",
+  "updatedAt": "2026-10-26T16:06:32.012435+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-26T14:48:34.477233+00:00",
+      "checkedAt": "2026-10-26T16:06:32.012435+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-26T14:48:34.477233+00:00",
+      "checkedAt": "2026-10-26T16:06:32.012435+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung'dan Apple'a gönderme: Katlanabilir iPhone'u tiye aldı",
+      "link": "https://www.donanimhaber.com/samsung-dan-apple-a-gonderme-katlanabilir-iphone-u-tiye-aldi--212113",
+      "publishedAt": "2026-10-26T15:47:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple’dan Türkiye’deki Tüm iPad Modellerine Sürpriz Zam: İşte Güncel Fiyatlar",
@@ -124,12 +130,6 @@
       "title": "iPhone Duo'ya özel iOS 27.1 yayınlandı: iOS 27.2 haftaya tüm modellere geliyor",
       "link": "https://www.donanimhaber.com/ios-27-1-iphone-duo-ya-ozel-cikti-ios-27-2-tum-modellere-geliyor--212038",
       "publishedAt": "2026-10-24T14:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Android oyunlarına DLSS rakibi: Adreno Neural Fusion geliyor",
-      "link": "https://www.donanimhaber.com/android-oyunlarina-dlss-rakibi-adreno-neural-fusion-geliyor--212026",
-      "publishedAt": "2026-10-24T08:30:00+00:00"
     }
   ]
 }
