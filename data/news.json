@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-27T04:13:14.169861+00:00",
+  "updatedAt": "2026-10-27T05:11:41.738375+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-27T04:13:14.169861+00:00",
+      "checkedAt": "2026-10-27T05:11:41.738375+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-27T04:13:14.169861+00:00",
+      "checkedAt": "2026-10-27T05:11:41.738375+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Xiaomi 18 Pro ve 18 Pro Max Fiyatları ve Özellikleri Ortaya Çıktı",
+      "link": "https://shiftdelete.net/xiaomi-18-pro-ve-18-pro-max-avrupa-fiyatlari-belli-oldu",
+      "publishedAt": "2026-10-27T04:30:42+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple, iOS 27.2 Güncellemesini Yayınladı: İşte Yeni Özellikler",
@@ -124,12 +130,6 @@
       "title": "iPhone Duo Dayanıklılık Testinde: Menteşe ve Ekran Testinden Geçemedi",
       "link": "https://shiftdelete.net/iphone-duo-dayaniklilik-testi-sonuclari",
       "publishedAt": "2026-10-26T04:00:14+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "MacBook Air ve iMac Modellerinde OLED Dönemi Ne Zaman Başlayacak?",
-      "link": "https://shiftdelete.net/apple-imac-macbook-air-oled-ekran-planlari",
-      "publishedAt": "2026-10-25T19:00:40+00:00"
     }
   ]
 }
