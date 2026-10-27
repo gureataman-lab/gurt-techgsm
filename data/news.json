@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-27T08:19:47.913776+00:00",
+  "updatedAt": "2026-10-27T09:17:35.349236+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-27T08:19:47.913776+00:00",
+      "checkedAt": "2026-10-27T09:17:35.349236+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-27T08:19:47.913776+00:00",
+      "checkedAt": "2026-10-27T09:17:35.349236+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple iPhone Duo için Apple Pencil Desteği Getirdi",
+      "link": "https://shiftdelete.net/iphone-duo-apple-pencil-destegi-2",
+      "publishedAt": "2026-10-27T09:00:29+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Xiaomi 18 Pro ve 18 Pro Max Avrupa fiyatları sızdırıldı",
@@ -106,12 +112,6 @@
       "title": "Apple’dan Türkiye’deki Tüm iPad Modellerine Sürpriz Zam: İşte Güncel Fiyatlar",
       "link": "https://shiftdelete.net/appledan-turkiyedeki-tum-ipad-modellerine-surpriz-zam-iste-guncel-fiyatlar",
       "publishedAt": "2026-10-26T14:37:15+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "OLED Ekranlı iPad mini Tanıtıldı: İşte Özellikleri",
-      "link": "https://shiftdelete.net/oled-ekranli-ipad-mini-tanitildi-iste-ozellikleri",
-      "publishedAt": "2026-10-26T13:17:33+00:00"
     },
     {
       "source": "DonanımHaber",
