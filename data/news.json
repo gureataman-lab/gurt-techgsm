@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-27T20:15:13.686712+00:00",
+  "updatedAt": "2026-10-27T21:12:21.246285+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-27T20:15:13.686712+00:00",
+      "checkedAt": "2026-10-27T21:12:21.246285+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-27T20:15:13.686712+00:00",
+      "checkedAt": "2026-10-27T21:12:21.246285+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Redmi K100 günlerce oyun oynatacak",
+      "link": "https://www.donanimhaber.com/redmi-k100-tanitildi-iste-ozellikleri-ve-fiyati--212176",
+      "publishedAt": "2026-10-27T20:53:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Akıllı telefonları cep mikroskobuna dönüştüren cihaz tanıtıldı",
@@ -124,12 +130,6 @@
       "title": "Samsung'dan Apple'a gönderme: Katlanabilir iPhone'u tiye aldı",
       "link": "https://www.donanimhaber.com/samsung-dan-apple-a-gonderme-katlanabilir-iphone-u-tiye-aldi--212113",
       "publishedAt": "2026-10-26T15:47:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Galaxy OS iddialarına Samsung engeli: One UI devam edecek",
-      "link": "https://www.donanimhaber.com/galaxy-os-iddialarina-samsung-engeli-one-ui-devam-edecek--212088",
-      "publishedAt": "2026-10-26T13:04:00+00:00"
     }
   ]
 }
