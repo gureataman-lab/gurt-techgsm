@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-27T05:11:41.738375+00:00",
+  "updatedAt": "2026-10-27T06:11:08.544980+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-27T05:11:41.738375+00:00",
+      "checkedAt": "2026-10-27T06:11:08.544980+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-27T05:11:41.738375+00:00",
+      "checkedAt": "2026-10-27T06:11:08.544980+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung’dan iPhone Duo Göndermesi: “Biz 2019’dan Beri Buradayız”",
+      "link": "https://shiftdelete.net/samsungdan-iphone-duo-gondermesi-biz-2019dan-beri-buradayiz",
+      "publishedAt": "2026-10-27T05:59:58+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple iPhone Duo Ekran Sorununu Kabul Etti: Açıklama Geldi",
+      "link": "https://shiftdelete.net/apple-iphone-duo-ekran-catlama-sorunu",
+      "publishedAt": "2026-10-27T05:30:24+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Xiaomi 18 Pro ve 18 Pro Max Fiyatları ve Özellikleri Ortaya Çıktı",
@@ -118,18 +130,6 @@
       "title": "Huawei Pura 90 Plus Tasarımı ve Donanımı Ortaya Çıktı",
       "link": "https://shiftdelete.net/huawei-pura-90-plus-ozellikleri-goruntulendi",
       "publishedAt": "2026-10-26T05:30:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Exynos 2700 Performans Testlerinde Snapdragon 8 Elite Extreme Gen 6’yı Geride Bıraktı",
-      "link": "https://shiftdelete.net/exynos-2700-performans-testleri-snapdragon-8-elite-karsilastirmasi",
-      "publishedAt": "2026-10-26T05:00:37+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo Dayanıklılık Testinde: Menteşe ve Ekran Testinden Geçemedi",
-      "link": "https://shiftdelete.net/iphone-duo-dayaniklilik-testi-sonuclari",
-      "publishedAt": "2026-10-26T04:00:14+00:00"
     }
   ]
 }
