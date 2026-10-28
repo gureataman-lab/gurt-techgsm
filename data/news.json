@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-28T06:54:42.304461+00:00",
+  "updatedAt": "2026-10-28T08:00:08.140537+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-28T06:54:42.304461+00:00",
+      "checkedAt": "2026-10-28T08:00:08.140537+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-28T06:54:42.304461+00:00",
+      "checkedAt": "2026-10-28T08:00:08.140537+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Redmi İlk Açık Kulaklığı Clip Neo’yu Tanıttı",
+      "link": "https://shiftdelete.net/redmi-ilk-acik-kulakligi-clip-neoyu-tanitti",
+      "publishedAt": "2026-10-28T07:57:06+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "vivo X500 Pro Max Türkiye Pazarına Geldi",
@@ -94,12 +100,6 @@
       "title": "iPhone Hackerların Hedefinde! Bir Site ile Hacklenebilirsiniz!",
       "link": "https://shiftdelete.net/iphone-hackerlarin-hedefinde-bir-site-ile-hacklenebilirsiniz",
       "publishedAt": "2026-10-27T07:13:25+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone’da Yapay Zeka Görsellerine Görünmez Filigran Geldi",
-      "link": "https://shiftdelete.net/iphone-yapay-zeka-gorselleri-filigran",
-      "publishedAt": "2026-10-27T07:00:11+00:00"
     },
     {
       "source": "DonanımHaber",
