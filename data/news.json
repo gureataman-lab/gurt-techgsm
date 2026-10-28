@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-28T03:47:26.458004+00:00",
+  "updatedAt": "2026-10-28T04:47:24.222240+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-28T03:47:26.458004+00:00",
+      "checkedAt": "2026-10-28T04:47:24.222240+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-28T03:47:26.458004+00:00",
+      "checkedAt": "2026-10-28T04:47:24.222240+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Redmi K100 Özellikleri ve Fiyatı Belli Oldu",
+      "link": "https://shiftdelete.net/redmi-k100-teknik-ozellikleri-tanitildi",
+      "publishedAt": "2026-10-28T04:00:50+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Redmi K100 günlerce oyun oynatacak",
@@ -94,12 +100,6 @@
       "title": "Apple iPhone Duo Ekran Sorununu Kabul Etti: Açıklama Geldi",
       "link": "https://shiftdelete.net/apple-iphone-duo-ekran-catlama-sorunu",
       "publishedAt": "2026-10-27T05:30:24+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Xiaomi 18 Pro ve 18 Pro Max Fiyatları ve Özellikleri Ortaya Çıktı",
-      "link": "https://shiftdelete.net/xiaomi-18-pro-ve-18-pro-max-avrupa-fiyatlari-belli-oldu",
-      "publishedAt": "2026-10-27T04:30:42+00:00"
     },
     {
       "source": "DonanımHaber",
