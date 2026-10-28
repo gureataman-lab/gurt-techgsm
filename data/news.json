@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-28T05:45:23.851305+00:00",
+  "updatedAt": "2026-10-28T06:54:42.304461+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-28T05:45:23.851305+00:00",
+      "checkedAt": "2026-10-28T06:54:42.304461+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-28T05:45:23.851305+00:00",
+      "checkedAt": "2026-10-28T06:54:42.304461+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "vivo X500 Pro Max Türkiye Pazarına Geldi",
+      "link": "https://shiftdelete.net/vivo-x500-turkiye-pazarina-geldi",
+      "publishedAt": "2026-10-28T06:05:05+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Sony LYTIA 720 50MP Sensörünü Tanıttı",
+      "link": "https://shiftdelete.net/sony-lytia-720-50mp-sensorunu-tanitti",
+      "publishedAt": "2026-10-28T06:00:38+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung’a Güney Kore’de Dava: Galaxy S21 ve S22 Performansı Mutlu Etmedi",
@@ -88,18 +100,6 @@
       "title": "iPhone’da Yapay Zeka Görsellerine Görünmez Filigran Geldi",
       "link": "https://shiftdelete.net/iphone-yapay-zeka-gorselleri-filigran",
       "publishedAt": "2026-10-27T07:00:11+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple Store’da iPhone İadesi için Yeni Önlemler Alındı",
-      "link": "https://shiftdelete.net/apple-storeda-iphone-iadesi-icin-yeni-onlemler-alindi",
-      "publishedAt": "2026-10-27T06:18:42+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "11.000 mAh Bataryalı Canavar Geldi: HONOR X9e Pro Tanıtıldı!",
-      "link": "https://shiftdelete.net/11-000-mah-bataryali-canavar-geldi-honor-x9e-pro-tanitildi",
-      "publishedAt": "2026-10-27T06:12:11+00:00"
     },
     {
       "source": "DonanımHaber",
