@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-28T04:47:24.222240+00:00",
+  "updatedAt": "2026-10-28T05:45:23.851305+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-28T04:47:24.222240+00:00",
+      "checkedAt": "2026-10-28T05:45:23.851305+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-28T04:47:24.222240+00:00",
+      "checkedAt": "2026-10-28T05:45:23.851305+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung’a Güney Kore’de Dava: Galaxy S21 ve S22 Performansı Mutlu Etmedi",
+      "link": "https://shiftdelete.net/samsung-galaxy-s21-s22-oyun-performansi-cezasi",
+      "publishedAt": "2026-10-28T05:30:04+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Vivo X500s için İlk Sızıntılar: Ekran Detayları Ortaya Çıktı",
+      "link": "https://shiftdelete.net/vivo-x500s-ekran-ozellikleri-sizdirildi",
+      "publishedAt": "2026-10-28T05:00:19+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Redmi K100 Özellikleri ve Fiyatı Belli Oldu",
@@ -88,18 +100,6 @@
       "title": "11.000 mAh Bataryalı Canavar Geldi: HONOR X9e Pro Tanıtıldı!",
       "link": "https://shiftdelete.net/11-000-mah-bataryali-canavar-geldi-honor-x9e-pro-tanitildi",
       "publishedAt": "2026-10-27T06:12:11+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung’dan iPhone Duo Göndermesi: “Biz 2019’dan Beri Buradayız”",
-      "link": "https://shiftdelete.net/samsungdan-iphone-duo-gondermesi-biz-2019dan-beri-buradayiz",
-      "publishedAt": "2026-10-27T05:59:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple iPhone Duo Ekran Sorununu Kabul Etti: Açıklama Geldi",
-      "link": "https://shiftdelete.net/apple-iphone-duo-ekran-catlama-sorunu",
-      "publishedAt": "2026-10-27T05:30:24+00:00"
     },
     {
       "source": "DonanımHaber",
