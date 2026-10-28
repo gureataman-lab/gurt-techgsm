@@ -1,16 +1,46 @@
 {
-  "updatedAt": "2026-10-28T10:49:07.387904+00:00",
+  "updatedAt": "2026-10-28T11:46:14.422692+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-28T10:49:07.387904+00:00",
+      "checkedAt": "2026-10-28T11:46:14.422692+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-28T10:49:07.387904+00:00",
+      "checkedAt": "2026-10-28T11:46:14.422692+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Pura 90 Plus Tanıtıldı – İşte Özellikleri ve Fiyatı",
+      "link": "https://shiftdelete.net/huawei-pura-90-plus-ozellikleri-fiyati",
+      "publishedAt": "2026-10-28T11:38:54+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei'nin yeni telefonu Pura 90 Plus tanıtıldı: İşte özellikleri ve fiyatı",
+      "link": "https://www.donanimhaber.com/huawei-nin-yeni-telefonu-pura-90-plus-tanitildi-iste-ozellikleri--212199",
+      "publishedAt": "2026-10-28T11:35:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Nintendo Switch 2 Oyunu Mario Kart World iPhone’da Çalıştı",
+      "link": "https://shiftdelete.net/nintendo-switch-2-oyunu-mario-kart-world-iphoneda-calisti",
+      "publishedAt": "2026-10-28T11:03:45+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone 18e Özellikleri Ortaya Çıktı",
+      "link": "https://shiftdelete.net/iphone-18e-ozellikleri-ortaya-cikti",
+      "publishedAt": "2026-10-28T11:01:46+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Enjoy 100 Pro Modelini HarmonyOS 7 ile Tanıttı",
+      "link": "https://shiftdelete.net/huawei-enjoy-100-pro-modelini-harmonyos-7-ile-tanitti",
+      "publishedAt": "2026-10-28T10:59:37+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Apple, selfie ile yaş doğrulama özelliğini kullanıma sundu",
@@ -60,18 +90,6 @@
       "publishedAt": "2026-10-28T05:30:04+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Vivo X500s için İlk Sızıntılar: Ekran Detayları Ortaya Çıktı",
-      "link": "https://shiftdelete.net/vivo-x500s-ekran-ozellikleri-sizdirildi",
-      "publishedAt": "2026-10-28T05:00:19+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Redmi K100 Özellikleri ve Fiyatı Belli Oldu",
-      "link": "https://shiftdelete.net/redmi-k100-teknik-ozellikleri-tanitildi",
-      "publishedAt": "2026-10-28T04:00:50+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Redmi K100 günlerce oyun oynatacak",
       "link": "https://www.donanimhaber.com/redmi-k100-tanitildi-iste-ozellikleri-ve-fiyati--212176",
@@ -90,22 +108,10 @@
       "publishedAt": "2026-10-27T13:18:27+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Uygun Fiyatlı iPhone 18e Özellikleri ile Sızdı: Ekran Kaç Hz Olacak?",
-      "link": "https://shiftdelete.net/uygun-fiyatli-iphone-18e-ozellikleri-ile-sizdi-ekran-kac-hz-olacak",
-      "publishedAt": "2026-10-27T10:43:08+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "iPhone Duo'nun menteşesini üreten Fine M-Tec'den açıklama: \"Ürünümüz kusurlu değil\"",
       "link": "https://www.donanimhaber.com/fine-m-tec-den-iphone-duo-aciklamasi-urunumuz-kusurlu-degil--212144",
       "publishedAt": "2026-10-27T10:04:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo FaceTime Göz Teması Özelliği Neden Yok?",
-      "link": "https://shiftdelete.net/iphone-duo-facetime-goz-temasi-neden-yok",
-      "publishedAt": "2026-10-27T09:30:49+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "OnePlus Ace 7 serisi 165Hz ekranla geliyor: Oyunlarda 185Hz!",
       "link": "https://www.donanimhaber.com/oneplus-ace-7-pro-165hz-ekranla-geliyor-oyunlarda-185hz--212098",
       "publishedAt": "2026-10-26T20:14:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple duyurdu: Siri AI Türkçe yıl sonuna kadar geliyor",
-      "link": "https://www.donanimhaber.com/apple-duyurdu-siri-ai-turkce-yil-sonuna-kadar-geliyor--212129",
-      "publishedAt": "2026-10-26T19:19:01+00:00"
     }
   ]
 }
