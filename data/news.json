@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-10-28T09:52:25.660333+00:00",
+  "updatedAt": "2026-10-28T10:49:07.387904+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-28T09:52:25.660333+00:00",
+      "checkedAt": "2026-10-28T10:49:07.387904+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-28T09:52:25.660333+00:00",
+      "checkedAt": "2026-10-28T10:49:07.387904+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Apple, selfie ile yaş doğrulama özelliğini kullanıma sundu",
+      "link": "https://www.donanimhaber.com/apple-selfie-ile-yas-dogrulama-ozelligini-kullanima-sundu--212188",
+      "publishedAt": "2026-10-28T10:15:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Pixel Kullanıcılarının Alarm Kabusu: Alarmlar Sessizce Kapanıyor",
+      "link": "https://shiftdelete.net/pixel-telefonlarda-alarm-sorunu",
+      "publishedAt": "2026-10-28T10:00:37+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung'a Galaxy S21 ve S22 için oyun performansı cezası",
+      "link": "https://www.donanimhaber.com/samsung-a-galaxy-s21-ve-s22-icin-oyun-performansi-cezasi--212187",
+      "publishedAt": "2026-10-28T09:52:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Motorola Signature 27 ve Razr Flex Özellikleri Sızdı",
@@ -90,12 +108,6 @@
       "publishedAt": "2026-10-27T09:30:49+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple iPhone Duo için Apple Pencil Desteği Getirdi",
-      "link": "https://shiftdelete.net/iphone-duo-apple-pencil-destegi-2",
-      "publishedAt": "2026-10-27T09:00:29+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Xiaomi 18 Pro ve 18 Pro Max Avrupa fiyatları sızdırıldı",
       "link": "https://www.donanimhaber.com/xiaomi-18-pro-ve-18-pro-max-avrupa-fiyatlari-sizdirildi--212134",
@@ -118,18 +130,6 @@
       "title": "Apple duyurdu: Siri AI Türkçe yıl sonuna kadar geliyor",
       "link": "https://www.donanimhaber.com/apple-duyurdu-siri-ai-turkce-yil-sonuna-kadar-geliyor--212129",
       "publishedAt": "2026-10-26T19:19:01+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Poco X8s tanıtıldı: Kompakt tasarım ve 100W hızlı şarj",
-      "link": "https://www.donanimhaber.com/poco-x8s-tanitildi-kompakt-tasarim-ve-100w-hizli-sarj--212101",
-      "publishedAt": "2026-10-26T17:14:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung'dan Apple'a gönderme: Katlanabilir iPhone'u tiye aldı",
-      "link": "https://www.donanimhaber.com/samsung-dan-apple-a-gonderme-katlanabilir-iphone-u-tiye-aldi--212113",
-      "publishedAt": "2026-10-26T15:47:00+00:00"
     }
   ]
 }
