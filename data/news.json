@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-28T18:50:39.226507+00:00",
+  "updatedAt": "2026-10-28T19:50:08.196002+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-28T18:50:39.226507+00:00",
+      "checkedAt": "2026-10-28T19:50:08.196002+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-28T18:50:39.226507+00:00",
+      "checkedAt": "2026-10-28T19:50:08.196002+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Sony, yeni 50 MP kamera sensörünü tanıttı: Gece çekimlerinde iddialı",
+      "link": "https://www.donanimhaber.com/sony-yeni-50-mp-kamera-sensorunu-tanitti-iste-ozellikleri--212211",
+      "publishedAt": "2026-10-28T19:40:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Huawei Pura 90 Plus Tanıtıldı – İşte Özellikleri ve Fiyatı",
@@ -124,12 +130,6 @@
       "title": "Vivo Y600 rekor kıran bataryasıyla geliyor",
       "link": "https://www.donanimhaber.com/vivo-y600-tanitildi-iste-ozellikleri-ve-fiyati--212127",
       "publishedAt": "2026-10-26T20:48:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "OnePlus Ace 7 serisi 165Hz ekranla geliyor: Oyunlarda 185Hz!",
-      "link": "https://www.donanimhaber.com/oneplus-ace-7-pro-165hz-ekranla-geliyor-oyunlarda-185hz--212098",
-      "publishedAt": "2026-10-26T20:14:00+00:00"
     }
   ]
 }
