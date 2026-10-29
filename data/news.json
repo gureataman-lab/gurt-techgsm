@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T05:47:08.036714+00:00",
+  "updatedAt": "2026-10-29T06:56:25.168919+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T05:47:08.036714+00:00",
+      "checkedAt": "2026-10-29T06:56:25.168919+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T05:47:08.036714+00:00",
+      "checkedAt": "2026-10-29T06:56:25.168919+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Yeni MacBook Pro’nun Işıklı Logosu Nasıl Çalışıyor",
+      "link": "https://shiftdelete.net/yeni-macbook-pro-isikli-elma-logosu",
+      "publishedAt": "2026-10-29T06:30:17+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo 2027’de Pazar Payını %30’a Çıkaracak",
@@ -88,12 +94,6 @@
       "title": "Redmi İlk Açık Kulaklığı Clip Neo’yu Tanıttı",
       "link": "https://shiftdelete.net/redmi-ilk-acik-kulakligi-clip-neoyu-tanitti",
       "publishedAt": "2026-10-28T07:57:06+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "vivo X500 Pro Max Türkiye Pazarına Geldi",
-      "link": "https://shiftdelete.net/vivo-x500-turkiye-pazarina-geldi",
-      "publishedAt": "2026-10-28T06:05:05+00:00"
     },
     {
       "source": "DonanımHaber",
