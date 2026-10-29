@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T14:05:16.843481+00:00",
+  "updatedAt": "2026-10-29T15:00:29.587098+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T14:05:16.843481+00:00",
+      "checkedAt": "2026-10-29T15:00:29.587098+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T14:05:16.843481+00:00",
+      "checkedAt": "2026-10-29T15:00:29.587098+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Eski Telefonu Güvenlik Kamerasına Dönüştürme Rehberi (Android & iOS)",
+      "link": "https://shiftdelete.net/eski-telefonu-guvenlik-kamerasina-donusturme-rehberi-android-ios",
+      "publishedAt": "2026-10-29T15:00:01+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo Ekran Sorunu: Samsung Display Neden Sorumlu Değil?",
@@ -70,12 +76,6 @@
       "title": "Samsung Galaxy A08 Tanıtıldı: İşte Özellikleri ve Fiyatı",
       "link": "https://shiftdelete.net/samsung-galaxy-a08-tanitildi",
       "publishedAt": "2026-10-29T08:30:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Huawei Pura X View Satış Rekorları Kırıyor",
-      "link": "https://shiftdelete.net/huawei-pura-x-view-satis-rekorlari-kiriyor",
-      "publishedAt": "2026-10-29T08:00:40+00:00"
     },
     {
       "source": "DonanımHaber",
