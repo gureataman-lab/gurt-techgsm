@@ -1,16 +1,46 @@
 {
-  "updatedAt": "2026-10-29T12:57:06.599053+00:00",
+  "updatedAt": "2026-10-29T14:05:16.843481+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T12:57:06.599053+00:00",
+      "checkedAt": "2026-10-29T14:05:16.843481+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T12:57:06.599053+00:00",
+      "checkedAt": "2026-10-29T14:05:16.843481+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo Ekran Sorunu: Samsung Display Neden Sorumlu Değil?",
+      "link": "https://shiftdelete.net/iphone-duo-ekran-sorunu-samsung-display",
+      "publishedAt": "2026-10-29T13:38:47+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Honor X8e Tanıtıldı: 7.700 mAh Pil, 120Hz Ekran, 108 MP Kamera",
+      "link": "https://shiftdelete.net/honor-x8e-4g-ozellikleri-fiyati",
+      "publishedAt": "2026-10-29T13:38:40+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Starlight İlk Telefonu: 6,39 İnç Ekranlı Geniş Tasarım",
+      "link": "https://shiftdelete.net/huawei-starlight-ilk-telefon-genis-kasa",
+      "publishedAt": "2026-10-29T13:38:33+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Wind Chaser Soğutucu Stand Tanıtıldı: Fiyatı ve Özellikleri",
+      "link": "https://shiftdelete.net/huawei-wind-chaser-sogutucu-stand-fiyati",
+      "publishedAt": "2026-10-29T13:38:27+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo Ekran Sorunu: Menteşedeki Küçük Parça Suçlu Olabilir",
+      "link": "https://shiftdelete.net/iphone-duo-ic-ekran-catlama-mentese-parcasi",
+      "publishedAt": "2026-10-29T13:38:15+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Google Photos Uygulamasına Yeni Kişiselleştirme Özellikleri Eklendi",
@@ -48,46 +78,16 @@
       "publishedAt": "2026-10-29T08:00:40+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Yeni MacBook Pro’nun Işıklı Logosu Nasıl Çalışıyor",
-      "link": "https://shiftdelete.net/yeni-macbook-pro-isikli-elma-logosu",
-      "publishedAt": "2026-10-29T06:30:17+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo 2027’de Pazar Payını %30’a Çıkaracak",
-      "link": "https://shiftdelete.net/iphone-duo-2027-katlanabilir-telefon-pazari-tahminleri",
-      "publishedAt": "2026-10-29T05:30:33+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor X8e 4G Tanıtıldı: 108MP Kamera ve 7.700mAh Batarya ile Geliyor",
-      "link": "https://shiftdelete.net/honor-x8e-4g-ozellikleri-tanitildi",
-      "publishedAt": "2026-10-29T04:00:35+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Sony, yeni 50 MP kamera sensörünü tanıttı: Gece çekimlerinde iddialı",
       "link": "https://www.donanimhaber.com/sony-yeni-50-mp-kamera-sensorunu-tanitti-iste-ozellikleri--212211",
       "publishedAt": "2026-10-28T19:40:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Huawei Pura 90 Plus Tanıtıldı – İşte Özellikleri ve Fiyatı",
-      "link": "https://shiftdelete.net/huawei-pura-90-plus-ozellikleri-fiyati",
-      "publishedAt": "2026-10-28T11:38:54+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Huawei'nin yeni telefonu Pura 90 Plus tanıtıldı: İşte özellikleri ve fiyatı",
       "link": "https://www.donanimhaber.com/huawei-nin-yeni-telefonu-pura-90-plus-tanitildi-iste-ozellikleri--212199",
       "publishedAt": "2026-10-28T11:35:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Nintendo Switch 2 Oyunu Mario Kart World iPhone’da Çalıştı",
-      "link": "https://shiftdelete.net/nintendo-switch-2-oyunu-mario-kart-world-iphoneda-calisti",
-      "publishedAt": "2026-10-28T11:03:45+00:00"
     },
     {
       "source": "DonanımHaber",
