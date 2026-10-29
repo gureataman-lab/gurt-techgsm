@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T10:51:06.869634+00:00",
+  "updatedAt": "2026-10-29T11:46:07.902857+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T10:51:06.869634+00:00",
+      "checkedAt": "2026-10-29T11:46:07.902857+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T10:51:06.869634+00:00",
+      "checkedAt": "2026-10-29T11:46:07.902857+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung 2026 Üçüncü Çeyrekte Yapay Zeka ile Rekor Kırdı",
+      "link": "https://shiftdelete.net/samsung-2026-ucuncu-ceyrekte-yapay-zeka-ile-rekor-kirdi",
+      "publishedAt": "2026-10-29T11:30:56+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "WhatsApp, Android için Ödeme Özelliklerini Genişletmeye Hazırlanıyor",
@@ -76,12 +82,6 @@
       "title": "iPhone 18e Özellikleri Ortaya Çıktı",
       "link": "https://shiftdelete.net/iphone-18e-ozellikleri-ortaya-cikti",
       "publishedAt": "2026-10-28T11:01:46+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Huawei Enjoy 100 Pro Modelini HarmonyOS 7 ile Tanıttı",
-      "link": "https://shiftdelete.net/huawei-enjoy-100-pro-modelini-harmonyos-7-ile-tanitti",
-      "publishedAt": "2026-10-28T10:59:37+00:00"
     },
     {
       "source": "DonanımHaber",
