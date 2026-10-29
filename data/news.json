@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T09:53:54.239516+00:00",
+  "updatedAt": "2026-10-29T10:51:06.869634+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T09:53:54.239516+00:00",
+      "checkedAt": "2026-10-29T10:51:06.869634+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T09:53:54.239516+00:00",
+      "checkedAt": "2026-10-29T10:51:06.869634+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp, Android için Ödeme Özelliklerini Genişletmeye Hazırlanıyor",
+      "link": "https://shiftdelete.net/whatsapp-android-icin-odeme-ozelliklerini-genisletmeye-hazirlaniyor",
+      "publishedAt": "2026-10-29T10:00:54+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung Galaxy A08 Tanıtıldı: İşte Özellikleri ve Fiyatı",
@@ -82,12 +88,6 @@
       "title": "Apple, selfie ile yaş doğrulama özelliğini kullanıma sundu",
       "link": "https://www.donanimhaber.com/apple-selfie-ile-yas-dogrulama-ozelligini-kullanima-sundu--212188",
       "publishedAt": "2026-10-28T10:15:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Pixel Kullanıcılarının Alarm Kabusu: Alarmlar Sessizce Kapanıyor",
-      "link": "https://shiftdelete.net/pixel-telefonlarda-alarm-sorunu",
-      "publishedAt": "2026-10-28T10:00:37+00:00"
     },
     {
       "source": "DonanımHaber",
