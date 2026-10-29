@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-29T16:56:41.082579+00:00",
+  "updatedAt": "2026-10-29T17:52:28.231640+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T16:56:41.082579+00:00",
+      "checkedAt": "2026-10-29T17:52:28.231640+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T16:56:41.082579+00:00",
+      "checkedAt": "2026-10-29T17:52:28.231640+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei Starlight'ın ilk telefonu geniş ekranla gelebilir",
+      "link": "https://www.donanimhaber.com/huawei-starlight-in-ilk-telefonu-genis-ekranla-gelebilir--212233",
+      "publishedAt": "2026-10-29T17:40:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy Watch ve Ring, uyku apnesini daha ayrıntılı izleyecek",
+      "link": "https://www.donanimhaber.com/galaxy-watch-ve-ring-uyku-apnesini-daha-ayrintili-izleyecek--212234",
+      "publishedAt": "2026-10-29T17:20:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Eski Telefonu Güvenlik Kamerasına Dönüştürme Rehberi (Android & iOS)",
@@ -118,18 +130,6 @@
       "title": "iOS 27.2 güncellemesi yayınlandı: İşte tüm yenilikler",
       "link": "https://www.donanimhaber.com/iphone-lar-icin-ios-27-2-guncellemesi-cikti-iste-yenilikler--212128",
       "publishedAt": "2026-10-27T13:18:27+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone Duo'nun menteşesini üreten Fine M-Tec'den açıklama: \"Ürünümüz kusurlu değil\"",
-      "link": "https://www.donanimhaber.com/fine-m-tec-den-iphone-duo-aciklamasi-urunumuz-kusurlu-degil--212144",
-      "publishedAt": "2026-10-27T10:04:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi 18 Pro ve 18 Pro Max Avrupa fiyatları sızdırıldı",
-      "link": "https://www.donanimhaber.com/xiaomi-18-pro-ve-18-pro-max-avrupa-fiyatlari-sizdirildi--212134",
-      "publishedAt": "2026-10-27T08:16:00+00:00"
     }
   ]
 }
