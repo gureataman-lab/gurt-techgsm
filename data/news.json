@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T18:53:27.333982+00:00",
+  "updatedAt": "2026-10-29T19:52:41.078515+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T18:53:27.333982+00:00",
+      "checkedAt": "2026-10-29T19:52:41.078515+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T18:53:27.333982+00:00",
+      "checkedAt": "2026-10-29T19:52:41.078515+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, Çin'e özel katlanabilir W27 modelini tanıttı: İşte özellikleri ve fiyatı",
+      "link": "https://www.donanimhaber.com/samsung-cin-e-ozel-katlanabilir-w27-modelini-tanitti--212242",
+      "publishedAt": "2026-10-29T19:34:53+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Huawei Starlight'ın ilk telefonu geniş ekranla gelebilir",
@@ -124,12 +130,6 @@
       "title": "Akıllı telefonları cep mikroskobuna dönüştüren cihaz tanıtıldı",
       "link": "https://www.donanimhaber.com/akilli-telefonlari-cep-mikroskobuna-donusturen-cihaz-tanitildi--212170",
       "publishedAt": "2026-10-27T17:22:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iOS 27.2 güncellemesi yayınlandı: İşte tüm yenilikler",
-      "link": "https://www.donanimhaber.com/iphone-lar-icin-ios-27-2-guncellemesi-cikti-iste-yenilikler--212128",
-      "publishedAt": "2026-10-27T13:18:27+00:00"
     }
   ]
 }
