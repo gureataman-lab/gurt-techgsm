@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T06:56:25.168919+00:00",
+  "updatedAt": "2026-10-29T08:03:36.932789+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T06:56:25.168919+00:00",
+      "checkedAt": "2026-10-29T08:03:36.932789+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T06:56:25.168919+00:00",
+      "checkedAt": "2026-10-29T08:03:36.932789+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Pura X View Satış Rekorları Kırıyor",
+      "link": "https://shiftdelete.net/huawei-pura-x-view-satis-rekorlari-kiriyor",
+      "publishedAt": "2026-10-29T08:00:40+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Yeni MacBook Pro’nun Işıklı Logosu Nasıl Çalışıyor",
@@ -88,12 +94,6 @@
       "title": "Motorola Signature 27 ve Razr Flex Özellikleri Sızdı",
       "link": "https://shiftdelete.net/motorola-signature-27-ve-razr-flex-avrupada-listelendi",
       "publishedAt": "2026-10-28T08:00:43+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Redmi İlk Açık Kulaklığı Clip Neo’yu Tanıttı",
-      "link": "https://shiftdelete.net/redmi-ilk-acik-kulakligi-clip-neoyu-tanitti",
-      "publishedAt": "2026-10-28T07:57:06+00:00"
     },
     {
       "source": "DonanımHaber",
