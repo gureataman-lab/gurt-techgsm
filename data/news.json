@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-29T11:46:07.902857+00:00",
+  "updatedAt": "2026-10-29T12:57:06.599053+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T11:46:07.902857+00:00",
+      "checkedAt": "2026-10-29T12:57:06.599053+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T11:46:07.902857+00:00",
+      "checkedAt": "2026-10-29T12:57:06.599053+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Google Photos Uygulamasına Yeni Kişiselleştirme Özellikleri Eklendi",
+      "link": "https://shiftdelete.net/google-photos-uygulamasina-yeni-kisisellestirme-ozellikleri-eklendi",
+      "publishedAt": "2026-10-29T12:00:58+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Google Play, katlanabilir telefonlara özel uygulamaları öne çıkaracak",
+      "link": "https://www.donanimhaber.com/google-play-katlanir-telefonlara-ozel-uygulamalari-one-cikaracak--212221",
+      "publishedAt": "2026-10-29T12:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung 2026 Üçüncü Çeyrekte Yapay Zeka ile Rekor Kırdı",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-10-28T11:03:45+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "iPhone 18e Özellikleri Ortaya Çıktı",
-      "link": "https://shiftdelete.net/iphone-18e-ozellikleri-ortaya-cikti",
-      "publishedAt": "2026-10-28T11:01:46+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Apple, selfie ile yaş doğrulama özelliğini kullanıma sundu",
       "link": "https://www.donanimhaber.com/apple-selfie-ile-yas-dogrulama-ozelligini-kullanima-sundu--212188",
@@ -124,12 +130,6 @@
       "title": "Xiaomi 18 Pro ve 18 Pro Max Avrupa fiyatları sızdırıldı",
       "link": "https://www.donanimhaber.com/xiaomi-18-pro-ve-18-pro-max-avrupa-fiyatlari-sizdirildi--212134",
       "publishedAt": "2026-10-27T08:16:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Vivo Y600 rekor kıran bataryasıyla geliyor",
-      "link": "https://www.donanimhaber.com/vivo-y600-tanitildi-iste-ozellikleri-ve-fiyati--212127",
-      "publishedAt": "2026-10-26T20:48:00+00:00"
     }
   ]
 }
