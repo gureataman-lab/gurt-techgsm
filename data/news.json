@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T08:03:36.932789+00:00",
+  "updatedAt": "2026-10-29T08:56:43.410206+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T08:03:36.932789+00:00",
+      "checkedAt": "2026-10-29T08:56:43.410206+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T08:03:36.932789+00:00",
+      "checkedAt": "2026-10-29T08:56:43.410206+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung Galaxy A08 Tanıtıldı: İşte Özellikleri ve Fiyatı",
+      "link": "https://shiftdelete.net/samsung-galaxy-a08-tanitildi",
+      "publishedAt": "2026-10-29T08:30:52+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Huawei Pura X View Satış Rekorları Kırıyor",
@@ -88,12 +94,6 @@
       "title": "Samsung'a Galaxy S21 ve S22 için oyun performansı cezası",
       "link": "https://www.donanimhaber.com/samsung-a-galaxy-s21-ve-s22-icin-oyun-performansi-cezasi--212187",
       "publishedAt": "2026-10-28T09:52:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Motorola Signature 27 ve Razr Flex Özellikleri Sızdı",
-      "link": "https://shiftdelete.net/motorola-signature-27-ve-razr-flex-avrupada-listelendi",
-      "publishedAt": "2026-10-28T08:00:43+00:00"
     },
     {
       "source": "DonanımHaber",
