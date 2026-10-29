@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T04:50:10.929783+00:00",
+  "updatedAt": "2026-10-29T05:47:08.036714+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T04:50:10.929783+00:00",
+      "checkedAt": "2026-10-29T05:47:08.036714+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T04:50:10.929783+00:00",
+      "checkedAt": "2026-10-29T05:47:08.036714+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo 2027’de Pazar Payını %30’a Çıkaracak",
+      "link": "https://shiftdelete.net/iphone-duo-2027-katlanabilir-telefon-pazari-tahminleri",
+      "publishedAt": "2026-10-29T05:30:33+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Honor X8e 4G Tanıtıldı: 108MP Kamera ve 7.700mAh Batarya ile Geliyor",
@@ -88,12 +94,6 @@
       "title": "vivo X500 Pro Max Türkiye Pazarına Geldi",
       "link": "https://shiftdelete.net/vivo-x500-turkiye-pazarina-geldi",
       "publishedAt": "2026-10-28T06:05:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Sony LYTIA 720 50MP Sensörünü Tanıttı",
-      "link": "https://shiftdelete.net/sony-lytia-720-50mp-sensorunu-tanitti",
-      "publishedAt": "2026-10-28T06:00:38+00:00"
     },
     {
       "source": "DonanımHaber",
