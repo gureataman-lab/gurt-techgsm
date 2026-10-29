@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-29T21:44:42.398996+00:00",
+  "updatedAt": "2026-10-29T22:45:03.218270+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-29T21:44:42.398996+00:00",
+      "checkedAt": "2026-10-29T22:45:03.218270+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-29T21:44:42.398996+00:00",
+      "checkedAt": "2026-10-29T22:45:03.218270+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Sony’den Gece Çekimleriyle Öne Çıkan Yeni Sensör: 50 Megapiksel",
+      "link": "https://shiftdelete.net/sony-lytia-720-ozellikleri",
+      "publishedAt": "2026-10-29T22:00:13+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, Çin'e özel katlanabilir W27 modelini tanıttı: İşte özellikleri ve fiyatı",
@@ -88,12 +94,6 @@
       "title": "WhatsApp, Android için Ödeme Özelliklerini Genişletmeye Hazırlanıyor",
       "link": "https://shiftdelete.net/whatsapp-android-icin-odeme-ozelliklerini-genisletmeye-hazirlaniyor",
       "publishedAt": "2026-10-29T10:00:54+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung Galaxy A08 Tanıtıldı: İşte Özellikleri ve Fiyatı",
-      "link": "https://shiftdelete.net/samsung-galaxy-a08-tanitildi",
-      "publishedAt": "2026-10-29T08:30:52+00:00"
     },
     {
       "source": "DonanımHaber",
