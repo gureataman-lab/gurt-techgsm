@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-30T17:44:56.589186+00:00",
+  "updatedAt": "2026-10-30T18:48:35.261941+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-10-30T17:44:56.589186+00:00",
-      "ok": true
+      "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-30T17:44:56.589186+00:00",
+      "checkedAt": "2026-10-30T18:48:35.261941+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Google popüler Android sürümlerini açıkladı: İşte acı tablo!",
+      "link": "https://www.donanimhaber.com/google-populer-android-surumlerini-acikladi--212291",
+      "publishedAt": "2026-10-30T18:40:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung katlanabilir tablet iddiası: 17 inç, 8 inçe kadar küçülüyor",
@@ -124,12 +130,6 @@
       "title": "Apple, selfie ile yaş doğrulama özelliğini kullanıma sundu",
       "link": "https://www.donanimhaber.com/apple-selfie-ile-yas-dogrulama-ozelligini-kullanima-sundu--212188",
       "publishedAt": "2026-10-28T10:15:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung'a Galaxy S21 ve S22 için oyun performansı cezası",
-      "link": "https://www.donanimhaber.com/samsung-a-galaxy-s21-ve-s22-icin-oyun-performansi-cezasi--212187",
-      "publishedAt": "2026-10-28T09:52:00+00:00"
     }
   ]
 }
