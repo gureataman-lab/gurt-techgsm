@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-30T06:56:26.465990+00:00",
+  "updatedAt": "2026-10-30T08:03:21.159999+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-30T06:56:26.465990+00:00",
+      "checkedAt": "2026-10-30T08:03:21.159999+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-30T06:56:26.465990+00:00",
+      "checkedAt": "2026-10-30T08:03:21.159999+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Oppo Find X10 Ultra’da MediaTek Sürprizi",
+      "link": "https://shiftdelete.net/oppo-find-x10-ultra-islemci-degisikligi",
+      "publishedAt": "2026-10-30T07:00:19+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Android 17 QPR3 Beta 3 Yayında – Yenilikler ve Düzeltmeler",
@@ -88,12 +94,6 @@
       "title": "Samsung Galaxy Watch ve Ring, uyku apnesini daha ayrıntılı izleyecek",
       "link": "https://www.donanimhaber.com/galaxy-watch-ve-ring-uyku-apnesini-daha-ayrintili-izleyecek--212234",
       "publishedAt": "2026-10-29T17:20:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Eski Telefonu Güvenlik Kamerasına Dönüştürme Rehberi (Android & iOS)",
-      "link": "https://shiftdelete.net/eski-telefonu-guvenlik-kamerasina-donusturme-rehberi-android-ios",
-      "publishedAt": "2026-10-29T15:00:01+00:00"
     },
     {
       "source": "DonanımHaber",
