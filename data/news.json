@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-30T14:02:14.260404+00:00",
+  "updatedAt": "2026-10-30T14:58:38.610608+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-30T14:02:14.260404+00:00",
+      "checkedAt": "2026-10-30T14:58:38.610608+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-30T14:02:14.260404+00:00",
+      "checkedAt": "2026-10-30T14:58:38.610608+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung Telefon Fiyatları Düşmeyecek: Bellek Krizi Sürüyor",
+      "link": "https://shiftdelete.net/samsung-telefon-fiyatlari-dusmeyecek-bellek-krizi",
+      "publishedAt": "2026-10-30T14:56:26+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo toz kapakları tartışma yarattı: Yarım açıkken boşluk var",
@@ -70,12 +76,6 @@
       "title": "BiP’ten Zaman Kazandıran Özellik: Planlı Mesaj ile Gönderiler Kontrol Altında",
       "link": "https://shiftdelete.net/bipten-zaman-kazandiran-ozellik-planli-mesaj-ile-gonderiler-kontrol-altinda",
       "publishedAt": "2026-10-30T08:38:20+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung Galaxy S27 Şarj Hızı Sertifikada Göründü: Yine 25W",
-      "link": "https://shiftdelete.net/samsung-galaxy-s27-sarj-hizi",
-      "publishedAt": "2026-10-30T08:14:35+00:00"
     },
     {
       "source": "DonanımHaber",
