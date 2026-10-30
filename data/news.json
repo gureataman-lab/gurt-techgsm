@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-30T03:50:19.150268+00:00",
+  "updatedAt": "2026-10-30T04:50:09.458242+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-30T03:50:19.150268+00:00",
+      "checkedAt": "2026-10-30T04:50:09.458242+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-30T03:50:19.150268+00:00",
+      "checkedAt": "2026-10-30T04:50:09.458242+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung Wallet Perks Duyuruldu: Alışverişte Nakit İade Dönemi",
+      "link": "https://shiftdelete.net/samsung-wallet-perks-nakit-iade-ozelligi",
+      "publishedAt": "2026-10-30T04:42:58+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "OnePlus Ace 7 ve Ace 7 Pro Tanıtıldı: 185Hz Ekran, 9000mAh Pil",
+      "link": "https://shiftdelete.net/oneplus-ace-7-ve-ace-7-pro-tanitildi",
+      "publishedAt": "2026-10-30T04:23:13+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Sony’den Gece Çekimleriyle Öne Çıkan Yeni Sensör: 50 Megapiksel",
@@ -82,18 +94,6 @@
       "title": "Google Play, katlanabilir telefonlara özel uygulamaları öne çıkaracak",
       "link": "https://www.donanimhaber.com/google-play-katlanir-telefonlara-ozel-uygulamalari-one-cikaracak--212221",
       "publishedAt": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung 2026 Üçüncü Çeyrekte Yapay Zeka ile Rekor Kırdı",
-      "link": "https://shiftdelete.net/samsung-2026-ucuncu-ceyrekte-yapay-zeka-ile-rekor-kirdi",
-      "publishedAt": "2026-10-29T11:30:56+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp, Android için Ödeme Özelliklerini Genişletmeye Hazırlanıyor",
-      "link": "https://shiftdelete.net/whatsapp-android-icin-odeme-ozelliklerini-genisletmeye-hazirlaniyor",
-      "publishedAt": "2026-10-29T10:00:54+00:00"
     },
     {
       "source": "DonanımHaber",
