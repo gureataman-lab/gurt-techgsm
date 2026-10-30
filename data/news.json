@@ -1,21 +1,33 @@
 {
-  "updatedAt": "2026-10-30T18:48:35.261941+00:00",
+  "updatedAt": "2026-10-30T19:49:48.196140+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-30T17:44:56.589186+00:00",
-      "ok": false
+      "checkedAt": "2026-10-30T19:49:48.196140+00:00",
+      "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-30T18:48:35.261941+00:00",
+      "checkedAt": "2026-10-30T19:49:48.196140+00:00",
       "ok": true
     }
   },
   "items": [
     {
+      "source": "ShiftDelete",
+      "title": "Akıllı Telefon SoC Sevkiyatı Yüzde 21 Düştü, Apple Yükseldi",
+      "link": "https://shiftdelete.net/akilli-telefon-soc-sevkiyati-yuzde-21-dustu",
+      "publishedAt": "2026-10-30T19:42:12+00:00"
+    },
+    {
       "source": "DonanımHaber",
       "title": "Google popüler Android sürümlerini açıkladı: İşte acı tablo!",
       "link": "https://www.donanimhaber.com/google-populer-android-surumlerini-acikladi--212291",
       "publishedAt": "2026-10-30T18:40:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple Music 7.0 Android’e Geldi – Liquid Glass Tasarımı Yenilendi",
+      "link": "https://shiftdelete.net/apple-music-7-0-android-liquid-glass",
+      "publishedAt": "2026-10-30T18:39:56+00:00"
     },
     {
       "source": "ShiftDelete",
@@ -66,22 +78,10 @@
       "publishedAt": "2026-10-30T11:12:43+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Yeni iPad Neden Hala 120Hz Değil?",
-      "link": "https://shiftdelete.net/yeni-ipad-mini-120hz-ekran-aciklamasi",
-      "publishedAt": "2026-10-30T11:00:33+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "iPhone Air 2 özellikleri ortaya çıktı: İlk modeli alanlar pişman olacak!",
       "link": "https://www.donanimhaber.com/iphone-air-2-ozellikleri-ortaya-cikti-2027-de-iddiali-geliyor--212253",
       "publishedAt": "2026-10-30T09:29:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo kalite kontrol iddiası: Foxconn çalışanı konuştu",
-      "link": "https://shiftdelete.net/iphone-duo-kalite-kontrol-foxconn-iddiasi",
-      "publishedAt": "2026-10-30T08:52:47+00:00"
     },
     {
       "source": "DonanımHaber",
