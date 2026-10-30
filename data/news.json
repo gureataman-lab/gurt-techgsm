@@ -1,16 +1,58 @@
 {
-  "updatedAt": "2026-10-30T10:49:53.131249+00:00",
+  "updatedAt": "2026-10-30T11:42:44.313926+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-30T10:49:53.131249+00:00",
+      "checkedAt": "2026-10-30T11:42:44.313926+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-30T10:49:53.131249+00:00",
+      "checkedAt": "2026-10-30T11:42:44.313926+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo toz kapakları tartışma yarattı: Yarım açıkken boşluk var",
+      "link": "https://shiftdelete.net/iphone-duo-toz-kapaklari-yarim-acikken-bosluk",
+      "publishedAt": "2026-10-30T11:39:38+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy Z Fold 9 Özellikleri Sızdı: Tasarım, Kamera ve Fiyat",
+      "link": "https://shiftdelete.net/galaxy-z-fold-9-ozellikleri-cikis-tarihi-fiyat",
+      "publishedAt": "2026-10-30T11:34:38+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Oppo Find X10 Ultra Dimensity 9600 Pro Çipiyle Gelebilir",
+      "link": "https://shiftdelete.net/oppo-find-x10-ultra-dimensity-9600-pro",
+      "publishedAt": "2026-10-30T11:29:38+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPad mini 2026 Geekbench’te Tek Çekirdekte M5 iPad Pro 13’ü Geçti",
+      "link": "https://shiftdelete.net/ipad-mini-2026-geekbench-m5-ipad-pro-13",
+      "publishedAt": "2026-10-30T11:24:38+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Android 17 Güncelleme Takvimi Belli Oldu – Marka Marka Liste",
+      "link": "https://shiftdelete.net/android-17-guncelleme-takvimi-hangi-marka-ne-zaman",
+      "publishedAt": "2026-10-30T11:19:38+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Vivo S70 Özellikleri Sızdı: Snapdragon 8s Gen 4 ve Teleconverter",
+      "link": "https://shiftdelete.net/vivo-s70-snapdragon-8s-gen-4-teleconverter",
+      "publishedAt": "2026-10-30T11:12:43+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Yeni iPad Neden Hala 120Hz Değil?",
+      "link": "https://shiftdelete.net/yeni-ipad-mini-120hz-ekran-aciklamasi",
+      "publishedAt": "2026-10-30T11:00:33+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone Air 2 özellikleri ortaya çıktı: İlk modeli alanlar pişman olacak!",
@@ -36,52 +78,10 @@
       "publishedAt": "2026-10-30T08:14:35+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Oppo Find X10 Ultra’da MediaTek Sürprizi",
-      "link": "https://shiftdelete.net/oppo-find-x10-ultra-islemci-degisikligi",
-      "publishedAt": "2026-10-30T07:00:19+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Android 17 QPR3 Beta 3 Yayında – Yenilikler ve Düzeltmeler",
-      "link": "https://shiftdelete.net/android-17-qpr3-beta-3-yenilikler-neler",
-      "publishedAt": "2026-10-30T06:42:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy W27 Tanıtıldı – Samsung’un Çin’e Özel Katlanabilir Telefonu",
-      "link": "https://shiftdelete.net/galaxy-w27-cine-ozel-katlanabilir-samsung",
-      "publishedAt": "2026-10-30T06:32:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Air 2 Sızdırıldı: Daha Büyük Batarya ve Çift Kamera",
-      "link": "https://shiftdelete.net/iphone-air-2-cift-kamera-buyuk-batarya",
-      "publishedAt": "2026-10-30T06:12:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp kapak fotoğrafı özelliği Android beta’da geliyor",
-      "link": "https://shiftdelete.net/whatsapp-kapak-fotografi-android-beta",
-      "publishedAt": "2026-10-30T05:42:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp Grup Sohbetleri İçin 4 Yeni Özellik Kullanıma Sunuldu",
-      "link": "https://shiftdelete.net/whatsapp-grup-sohbetleri-dort-yeni-ozellik",
-      "publishedAt": "2026-10-30T05:32:58+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27'nin şarj hızı yine hayal kırıklığı yaratacak",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak--212244",
       "publishedAt": "2026-10-30T05:15:41+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Trump Mobile T1 Dayanıklılık Testi: İçi HTC U24 Pro Çıktı",
-      "link": "https://shiftdelete.net/trump-mobile-t1-dayaniklilik-testi-htc-u24-pro",
-      "publishedAt": "2026-10-30T05:02:58+00:00"
     },
     {
       "source": "DonanımHaber",
