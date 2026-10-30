@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-30T20:43:25.605860+00:00",
+  "updatedAt": "2026-10-30T21:41:38.223108+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-30T20:43:25.605860+00:00",
+      "checkedAt": "2026-10-30T21:41:38.223108+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-30T20:43:25.605860+00:00",
+      "checkedAt": "2026-10-30T21:41:38.223108+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
+      "link": "https://www.donanimhaber.com/android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste--212258",
+      "publishedAt": "2026-10-30T21:30:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Akıllı Telefon SoC Sevkiyatı Yüzde 21 Düştü, Apple Yükseldi",
@@ -124,12 +130,6 @@
       "title": "Huawei'nin yeni telefonu Pura 90 Plus tanıtıldı: İşte özellikleri ve fiyatı",
       "link": "https://www.donanimhaber.com/huawei-nin-yeni-telefonu-pura-90-plus-tanitildi-iste-ozellikleri--212199",
       "publishedAt": "2026-10-28T11:35:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple, selfie ile yaş doğrulama özelliğini kullanıma sundu",
-      "link": "https://www.donanimhaber.com/apple-selfie-ile-yas-dogrulama-ozelligini-kullanima-sundu--212188",
-      "publishedAt": "2026-10-28T10:15:00+00:00"
     }
   ]
 }
