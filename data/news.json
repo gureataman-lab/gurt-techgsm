@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-31T08:46:39.919651+00:00",
+  "updatedAt": "2026-10-31T09:42:37.780875+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T08:46:39.919651+00:00",
+      "checkedAt": "2026-10-31T09:42:37.780875+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T08:46:39.919651+00:00",
+      "checkedAt": "2026-10-31T09:42:37.780875+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Android 17 Güncellemesi Hangi Telefonlara Ne Zaman Gelecek? İşte Samsung, Xiaomi ve Diğer Markalar",
+      "link": "https://shiftdelete.net/android-17-guncelleme-takvimi",
+      "publishedAt": "2026-10-31T09:30:40+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Nokia 2360 Flip Tanıtıldı: HMD’den Yeni Kapaklı Tuşlu Telefon",
+      "link": "https://shiftdelete.net/nokia-2360-flip",
+      "publishedAt": "2026-10-31T09:12:41+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "HarmonyOS 7 Alacak Cihazlar Listesi Genişledi – İşte Modeller",
@@ -70,18 +82,6 @@
       "title": "Google popüler Android sürümlerini açıkladı: İşte acı tablo!",
       "link": "https://www.donanimhaber.com/google-populer-android-surumlerini-acikladi--212291",
       "publishedAt": "2026-10-30T18:40:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple Music 7.0 Android’e Geldi – Liquid Glass Tasarımı Yenilendi",
-      "link": "https://shiftdelete.net/apple-music-7-0-android-liquid-glass",
-      "publishedAt": "2026-10-30T18:39:56+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung katlanabilir tablet iddiası: 17 inç, 8 inçe kadar küçülüyor",
-      "link": "https://shiftdelete.net/samsung-katlanabilir-tablet-17-inc-8-inc",
-      "publishedAt": "2026-10-30T15:27:55+00:00"
     },
     {
       "source": "DonanımHaber",
