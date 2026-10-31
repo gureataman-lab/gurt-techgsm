@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-31T16:39:53.107420+00:00",
+  "updatedAt": "2026-10-31T17:36:43.615831+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T16:39:53.107420+00:00",
+      "checkedAt": "2026-10-31T17:36:43.615831+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T16:39:53.107420+00:00",
+      "checkedAt": "2026-10-31T17:36:43.615831+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPad mini 8 Bataryası iPad mini 7’den Küçük Çıktı – Fiyatı 699 Dolar",
+      "link": "https://shiftdelete.net/ipad-mini-8-bataryasi-ipad-mini-7den-kucuk",
+      "publishedAt": "2026-10-31T16:51:04+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone 18 Pro Satışlarında Bölgesel Farklılıklar Dikkat Çekiyor",
@@ -76,12 +82,6 @@
       "title": "Apple iPhone Duo Ekran Sorunlarını İncelemeye Aldı",
       "link": "https://shiftdelete.net/iphone-duo-ekran-catlama-sorunu-teknik-rehber",
       "publishedAt": "2026-10-31T08:00:18+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Huawei Mate X8 Kasımda Geliyor – 8,15 İnç Ekran ve 6000 mAh Pil",
-      "link": "https://shiftdelete.net/huawei-mate-x8-kasimda-geliyor-ozellikleri",
-      "publishedAt": "2026-10-31T07:58:29+00:00"
     },
     {
       "source": "DonanımHaber",
