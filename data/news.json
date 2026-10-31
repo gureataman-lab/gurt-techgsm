@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-31T17:36:43.615831+00:00",
+  "updatedAt": "2026-10-31T18:12:17.803195+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T17:36:43.615831+00:00",
+      "checkedAt": "2026-10-31T18:12:17.803195+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T17:36:43.615831+00:00",
+      "checkedAt": "2026-10-31T18:12:17.803195+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung News Kapatılıyor: Google News’e Nasıl Geçilir?",
+      "link": "https://shiftdelete.net/samsung-news-kapatiliyor-google-discover-gecis",
+      "publishedAt": "2026-10-31T18:00:49+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPad mini 8 Bataryası iPad mini 7’den Küçük Çıktı – Fiyatı 699 Dolar",
@@ -76,12 +82,6 @@
       "title": "OnePlus kompakt telefon serisine devam etmeyecek iddiası",
       "link": "https://shiftdelete.net/oneplus-kompakt-telefon-serisi-devam-etmeyecek",
       "publishedAt": "2026-10-31T08:04:16+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple iPhone Duo Ekran Sorunlarını İncelemeye Aldı",
-      "link": "https://shiftdelete.net/iphone-duo-ekran-catlama-sorunu-teknik-rehber",
-      "publishedAt": "2026-10-31T08:00:18+00:00"
     },
     {
       "source": "DonanımHaber",
