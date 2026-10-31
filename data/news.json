@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-31T10:39:46.823476+00:00",
+  "updatedAt": "2026-10-31T11:38:50.252972+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T10:39:46.823476+00:00",
+      "checkedAt": "2026-10-31T11:38:50.252972+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T10:39:46.823476+00:00",
+      "checkedAt": "2026-10-31T11:38:50.252972+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "ASUS ROG Strix SCAR 18 Kargoda Kayboldu: ASUS Değişimi Reddetmiş",
+      "link": "https://shiftdelete.net/asus-rog-strix-scar-18-kargo-kayip-degisim",
+      "publishedAt": "2026-10-31T10:49:54+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Android 17 Güncellemesi Hangi Telefonlara Ne Zaman Gelecek? İşte Samsung, Xiaomi ve Diğer Markalar",
@@ -70,12 +76,6 @@
       "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
       "link": "https://www.donanimhaber.com/android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste--212258",
       "publishedAt": "2026-10-30T21:30:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Akıllı Telefon SoC Sevkiyatı Yüzde 21 Düştü, Apple Yükseldi",
-      "link": "https://shiftdelete.net/akilli-telefon-soc-sevkiyati-yuzde-21-dustu",
-      "publishedAt": "2026-10-30T19:42:12+00:00"
     },
     {
       "source": "DonanımHaber",
