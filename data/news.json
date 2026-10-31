@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-10-31T14:39:27.704343+00:00",
+  "updatedAt": "2026-10-31T15:38:22.475246+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T14:39:27.704343+00:00",
+      "checkedAt": "2026-10-31T15:38:22.475246+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T14:39:27.704343+00:00",
+      "checkedAt": "2026-10-31T15:38:22.475246+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Redmi K100 Satışa Çıktı: 10.000mAh Batarya ile Dikkat Çekiyor",
+      "link": "https://shiftdelete.net/redmi-k100-satis-detaylari",
+      "publishedAt": "2026-10-31T15:00:54+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Motorola Signature 27, lansmana günler kala videoda ortaya çıktı",
+      "link": "https://www.donanimhaber.com/motorola-signature-27-lansmana-gunler-kala-videoda-ortaya-cikti--212313",
+      "publishedAt": "2026-10-31T15:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung'dan Apple'a gönderme: \"Biz bu işin kitabını yazdık\"",
@@ -72,12 +84,6 @@
       "publishedAt": "2026-10-31T06:00:18+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Samsung Galaxy Fit4 Tasarımı ve Özellikleri Belli Oldu",
-      "link": "https://shiftdelete.net/samsung-galaxy-fit4-ozellikleri-sizdirildi",
-      "publishedAt": "2026-10-31T04:00:18+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
       "link": "https://www.donanimhaber.com/android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste--212258",
@@ -124,12 +130,6 @@
       "title": "Google Play, katlanabilir telefonlara özel uygulamaları öne çıkaracak",
       "link": "https://www.donanimhaber.com/google-play-katlanir-telefonlara-ozel-uygulamalari-one-cikaracak--212221",
       "publishedAt": "2026-10-29T12:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Sony, yeni 50 MP kamera sensörünü tanıttı: Gece çekimlerinde iddialı",
-      "link": "https://www.donanimhaber.com/sony-yeni-50-mp-kamera-sensorunu-tanitti-iste-ozellikleri--212211",
-      "publishedAt": "2026-10-28T19:40:00+00:00"
     }
   ]
 }
