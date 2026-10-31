@@ -1,16 +1,46 @@
 {
-  "updatedAt": "2026-10-31T07:54:06.217379+00:00",
+  "updatedAt": "2026-10-31T08:46:39.919651+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T07:54:06.217379+00:00",
+      "checkedAt": "2026-10-31T08:46:39.919651+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T07:54:06.217379+00:00",
+      "checkedAt": "2026-10-31T08:46:39.919651+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "HarmonyOS 7 Alacak Cihazlar Listesi Genişledi – İşte Modeller",
+      "link": "https://shiftdelete.net/harmonyos-7-alacak-huawei-cihazlari-listesi",
+      "publishedAt": "2026-10-31T08:39:16+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Yanıltıcı 5G Reklamları Durduruldu: İki GSM Şirketine 8 Milyon TL Ceza",
+      "link": "https://shiftdelete.net/yaniltici-5g-reklamlari-iki-gsm-sirketine-ceza",
+      "publishedAt": "2026-10-31T08:19:16+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "OnePlus kompakt telefon serisine devam etmeyecek iddiası",
+      "link": "https://shiftdelete.net/oneplus-kompakt-telefon-serisi-devam-etmeyecek",
+      "publishedAt": "2026-10-31T08:04:16+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple iPhone Duo Ekran Sorunlarını İncelemeye Aldı",
+      "link": "https://shiftdelete.net/iphone-duo-ekran-catlama-sorunu-teknik-rehber",
+      "publishedAt": "2026-10-31T08:00:18+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Mate X8 Kasımda Geliyor – 8,15 İnç Ekran ve 6000 mAh Pil",
+      "link": "https://shiftdelete.net/huawei-mate-x8-kasimda-geliyor-ozellikleri",
+      "publishedAt": "2026-10-31T07:58:29+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Samsung iPhone Duo’nun Kırılan Ekranıyla Dalga Geçti",
@@ -52,36 +82,6 @@
       "title": "Samsung katlanabilir tablet iddiası: 17 inç, 8 inçe kadar küçülüyor",
       "link": "https://shiftdelete.net/samsung-katlanabilir-tablet-17-inc-8-inc",
       "publishedAt": "2026-10-30T15:27:55+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung Telefon Fiyatları Düşmeyecek: Bellek Krizi Sürüyor",
-      "link": "https://shiftdelete.net/samsung-telefon-fiyatlari-dusmeyecek-bellek-krizi",
-      "publishedAt": "2026-10-30T14:56:26+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo toz kapakları tartışma yarattı: Yarım açıkken boşluk var",
-      "link": "https://shiftdelete.net/iphone-duo-toz-kapaklari-yarim-acikken-bosluk",
-      "publishedAt": "2026-10-30T11:39:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy Z Fold 9 Özellikleri Sızdı: Tasarım, Kamera ve Fiyat",
-      "link": "https://shiftdelete.net/galaxy-z-fold-9-ozellikleri-cikis-tarihi-fiyat",
-      "publishedAt": "2026-10-30T11:34:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Oppo Find X10 Ultra Dimensity 9600 Pro Çipiyle Gelebilir",
-      "link": "https://shiftdelete.net/oppo-find-x10-ultra-dimensity-9600-pro",
-      "publishedAt": "2026-10-30T11:29:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPad mini 2026 Geekbench’te Tek Çekirdekte M5 iPad Pro 13’ü Geçti",
-      "link": "https://shiftdelete.net/ipad-mini-2026-geekbench-m5-ipad-pro-13",
-      "publishedAt": "2026-10-30T11:24:38+00:00"
     },
     {
       "source": "DonanımHaber",
