@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-31T12:49:41.222257+00:00",
+  "updatedAt": "2026-10-31T13:47:53.749342+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T12:49:41.222257+00:00",
+      "checkedAt": "2026-10-31T13:47:53.749342+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T12:49:41.222257+00:00",
+      "checkedAt": "2026-10-31T13:47:53.749342+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung'dan Apple'a gönderme: \"Biz bu işin kitabını yazdık\"",
+      "link": "https://www.donanimhaber.com/samsung-dan-apple-in-unutamayacagi-reklam-kampanyasi--212311",
+      "publishedAt": "2026-10-31T13:30:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "ASUS ROG Strix SCAR 18 Kargoda Kayboldu: ASUS Değişimi Reddetmiş",
@@ -124,12 +130,6 @@
       "title": "Sony, yeni 50 MP kamera sensörünü tanıttı: Gece çekimlerinde iddialı",
       "link": "https://www.donanimhaber.com/sony-yeni-50-mp-kamera-sensorunu-tanitti-iste-ozellikleri--212211",
       "publishedAt": "2026-10-28T19:40:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei'nin yeni telefonu Pura 90 Plus tanıtıldı: İşte özellikleri ve fiyatı",
-      "link": "https://www.donanimhaber.com/huawei-nin-yeni-telefonu-pura-90-plus-tanitildi-iste-ozellikleri--212199",
-      "publishedAt": "2026-10-28T11:35:00+00:00"
     }
   ]
 }
