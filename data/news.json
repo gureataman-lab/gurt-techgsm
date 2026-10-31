@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-31T03:46:34.155059+00:00",
+  "updatedAt": "2026-10-31T04:45:58.363760+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T03:46:34.155059+00:00",
+      "checkedAt": "2026-10-31T04:45:58.363760+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T03:46:34.155059+00:00",
+      "checkedAt": "2026-10-31T04:45:58.363760+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung Galaxy Fit4 Tasarımı ve Özellikleri Belli Oldu",
+      "link": "https://shiftdelete.net/samsung-galaxy-fit4-ozellikleri-sizdirildi",
+      "publishedAt": "2026-10-31T04:00:18+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
@@ -76,12 +82,6 @@
       "title": "Android 17 Güncelleme Takvimi Belli Oldu – Marka Marka Liste",
       "link": "https://shiftdelete.net/android-17-guncelleme-takvimi-hangi-marka-ne-zaman",
       "publishedAt": "2026-10-30T11:19:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Vivo S70 Özellikleri Sızdı: Snapdragon 8s Gen 4 ve Teleconverter",
-      "link": "https://shiftdelete.net/vivo-s70-snapdragon-8s-gen-4-teleconverter",
-      "publishedAt": "2026-10-30T11:12:43+00:00"
     },
     {
       "source": "DonanımHaber",
