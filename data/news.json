@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-10-31T21:11:31.457836+00:00",
+  "updatedAt": "2026-10-31T22:10:31.984313+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-10-31T21:11:31.457836+00:00",
+      "checkedAt": "2026-10-31T22:10:31.984313+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-10-31T21:11:31.457836+00:00",
+      "checkedAt": "2026-10-31T22:10:31.984313+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Lexus Çin’de Yerli Üretime Geçiyor: İlk Model Elektrikli SUV Olacak",
+      "link": "https://shiftdelete.net/lexus-cin-yerel-uretim-elektrikli-suv",
+      "publishedAt": "2026-10-31T20:00:25+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Ekran Altı Kamera Samsung Katlanabilirlere Geri Dönüyor",
@@ -31,15 +37,33 @@
     },
     {
       "source": "ShiftDelete",
+      "title": "Stellantis’ten Veda: 1.2 PureTech Üreten Fabrika Kapatıldı",
+      "link": "https://shiftdelete.net/stellantis-douvrin-fabrikasi-kapandi",
+      "publishedAt": "2026-10-31T17:00:32+00:00"
+    },
+    {
+      "source": "ShiftDelete",
       "title": "iPad mini 8 Bataryası iPad mini 7’den Küçük Çıktı – Fiyatı 699 Dolar",
       "link": "https://shiftdelete.net/ipad-mini-8-bataryasi-ipad-mini-7den-kucuk",
       "publishedAt": "2026-10-31T16:51:04+00:00"
     },
     {
       "source": "ShiftDelete",
+      "title": "Evden şarj maliyeti yükseliyor: Yeni tarife elektrikli araçları vurdu",
+      "link": "https://shiftdelete.net/evden-sarj-maliyeti-sktt-togg-elektrik-tarifesi",
+      "publishedAt": "2026-10-31T16:07:07+00:00"
+    },
+    {
+      "source": "ShiftDelete",
       "title": "iPhone 18 Pro Satışlarında Bölgesel Farklılıklar Dikkat Çekiyor",
       "link": "https://shiftdelete.net/iphone-18-pro-satis-rakamlari-cin-abd-japonya",
       "publishedAt": "2026-10-31T16:00:32+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Tesla Cybercab Üretimi Nasıl Yapılıyor? İşte Unboxed Yöntemi",
+      "link": "https://shiftdelete.net/tesla-cybercab-uretimi-unboxed-yontemi",
+      "publishedAt": "2026-10-31T15:06:40+00:00"
     },
     {
       "source": "ShiftDelete",
@@ -58,30 +82,6 @@
       "title": "Samsung'dan Apple'a gönderme: \"Biz bu işin kitabını yazdık\"",
       "link": "https://www.donanimhaber.com/samsung-dan-apple-in-unutamayacagi-reklam-kampanyasi--212311",
       "publishedAt": "2026-10-31T13:30:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "ASUS ROG Strix SCAR 18 Kargoda Kayboldu: ASUS Değişimi Reddetmiş",
-      "link": "https://shiftdelete.net/asus-rog-strix-scar-18-kargo-kayip-degisim",
-      "publishedAt": "2026-10-31T10:49:54+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Android 17 Güncellemesi Hangi Telefonlara Ne Zaman Gelecek? İşte Samsung, Xiaomi ve Diğer Markalar",
-      "link": "https://shiftdelete.net/android-17-guncelleme-takvimi",
-      "publishedAt": "2026-10-31T09:30:40+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Nokia 2360 Flip Tanıtıldı: HMD’den Yeni Kapaklı Tuşlu Telefon",
-      "link": "https://shiftdelete.net/nokia-2360-flip",
-      "publishedAt": "2026-10-31T09:12:41+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "HarmonyOS 7 Alacak Cihazlar Listesi Genişledi – İşte Modeller",
-      "link": "https://shiftdelete.net/harmonyos-7-alacak-huawei-cihazlari-listesi",
-      "publishedAt": "2026-10-31T08:39:16+00:00"
     },
     {
       "source": "DonanımHaber",
