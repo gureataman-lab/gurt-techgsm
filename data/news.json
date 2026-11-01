@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-01T09:46:52.524216+00:00",
+  "updatedAt": "2026-11-01T10:42:21.026198+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T09:46:52.524216+00:00",
+      "checkedAt": "2026-11-01T10:42:21.026198+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T09:46:52.524216+00:00",
+      "checkedAt": "2026-11-01T10:42:21.026198+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "ASUS akıllı telefon pazarından çekilebilir",
+      "link": "https://www.donanimhaber.com/asus-akilli-telefon-pazarindan-cekilebilir--212328",
+      "publishedAt": "2026-11-01T10:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Nokia 2360 Flip öğrenciler için geliyor",
@@ -124,12 +130,6 @@
       "title": "Samsung, Çin'e özel katlanabilir W27 modelini tanıttı: İşte özellikleri ve fiyatı",
       "link": "https://www.donanimhaber.com/samsung-cin-e-ozel-katlanabilir-w27-modelini-tanitti--212242",
       "publishedAt": "2026-10-29T19:34:53+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei Starlight'ın ilk telefonu geniş ekranla gelebilir",
-      "link": "https://www.donanimhaber.com/huawei-starlight-in-ilk-telefonu-genis-ekranla-gelebilir--212233",
-      "publishedAt": "2026-10-29T17:40:00+00:00"
     }
   ]
 }
