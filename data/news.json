@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-01T07:59:41.476226+00:00",
+  "updatedAt": "2026-11-01T08:50:40.079674+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T07:59:41.476226+00:00",
+      "checkedAt": "2026-11-01T08:50:40.079674+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T07:59:41.476226+00:00",
+      "checkedAt": "2026-11-01T08:50:40.079674+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "ÖTV Muafiyetli Araçlar 2026: Kasım Fiyat Listesi, Limit ve Alım Şartları",
+      "link": "https://shiftdelete.net/2026-guncel-otv-muafiyetli-arac-modelleri-ve-merak-edilen-tum-detaylar",
+      "publishedAt": "2026-11-01T08:30:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei'den Eski Mate Sahiplerine Takas Desteği",
+      "link": "https://shiftdelete.net/huawei-mate-90-takas-kampanyasi-mate-60",
+      "publishedAt": "2026-11-01T08:12:32+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Xiaomi, 102 Modelde Pil Değişimini Ucuzlattı",
+      "link": "https://shiftdelete.net/xiaomi-pil-degisimi-102-model-indirim",
+      "publishedAt": "2026-11-01T08:02:26+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "WhatsApp'ın Android Ayarlar Sayfası Yenileniyor",
@@ -58,24 +76,6 @@
       "title": "Ekran Altı Kamera Samsung Katlanabilirlere Geri Dönüyor",
       "link": "https://shiftdelete.net/ekran-alti-kamera-samsung-katlanabilir-geri-donuyor",
       "publishedAt": "2026-10-31T18:55:12+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "En İyi Tuşlu Telefonlar 2026: 4G Modeller, WhatsApp ve Fiyatlar",
-      "link": "https://shiftdelete.net/en-iyi-tuslu-telefonlar",
-      "publishedAt": "2026-10-31T18:19:53+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung News Kapatılıyor: Google News’e Nasıl Geçilir?",
-      "link": "https://shiftdelete.net/samsung-news-kapatiliyor-google-discover-gecis",
-      "publishedAt": "2026-10-31T18:00:49+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Stellantis’ten Veda: 1.2 PureTech Üreten Fabrika Kapatıldı",
-      "link": "https://shiftdelete.net/stellantis-douvrin-fabrikasi-kapandi",
-      "publishedAt": "2026-10-31T17:00:32+00:00"
     },
     {
       "source": "DonanımHaber",
