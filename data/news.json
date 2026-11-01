@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-01T04:52:57.136275+00:00",
+  "updatedAt": "2026-11-01T05:48:34.685063+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T04:52:57.136275+00:00",
+      "checkedAt": "2026-11-01T05:48:34.685063+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T04:52:57.136275+00:00",
+      "checkedAt": "2026-11-01T05:48:34.685063+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Leapmotor A10 Tayland'da Tanıtıldı: 450 km Menzil, 16 Dakikada Şarj",
+      "link": "https://shiftdelete.net/leapmotor-a10-tayland-tanitildi",
+      "publishedAt": "2026-11-01T05:45:02+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "HMD Pulse Pro 2nd Edition Ortaya Çıktı: Helio G99 ile Geliyor",
+      "link": "https://shiftdelete.net/hmd-pulse-pro-2nd-edition-helio-g99",
+      "publishedAt": "2026-11-01T05:15:02+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Hyundai IONIQ 6 İngiltere'de Siparişe Açıldı: 422 Mil Menzil",
@@ -58,18 +70,6 @@
       "title": "Evden şarj maliyeti yükseliyor: Yeni tarife elektrikli araçları vurdu",
       "link": "https://shiftdelete.net/evden-sarj-maliyeti-sktt-togg-elektrik-tarifesi",
       "publishedAt": "2026-10-31T16:07:07+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 18 Pro Satışlarında Bölgesel Farklılıklar Dikkat Çekiyor",
-      "link": "https://shiftdelete.net/iphone-18-pro-satis-rakamlari-cin-abd-japonya",
-      "publishedAt": "2026-10-31T16:00:32+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Tesla Cybercab Üretimi Nasıl Yapılıyor? İşte Unboxed Yöntemi",
-      "link": "https://shiftdelete.net/tesla-cybercab-uretimi-unboxed-yontemi",
-      "publishedAt": "2026-10-31T15:06:40+00:00"
     },
     {
       "source": "DonanımHaber",
