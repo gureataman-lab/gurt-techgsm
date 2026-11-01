@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-01T14:40:38.261970+00:00",
+  "updatedAt": "2026-11-01T15:38:36.066132+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T14:40:38.261970+00:00",
+      "checkedAt": "2026-11-01T15:38:36.066132+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T14:40:38.261970+00:00",
+      "checkedAt": "2026-11-01T15:38:36.066132+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Elektrikli Araç Şarj Ücretleri Kasım 2026: Evde ve İstasyonda Maliyet",
+      "link": "https://shiftdelete.net/elektrikli-otomobil-sarj-ucretleri-2025",
+      "publishedAt": "2026-11-01T15:29:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Çinli otomobil üreticilerinin yüzde 90'ı zararda",
+      "link": "https://shiftdelete.net/cinli-otomobil-ureticileri-zarar-ediyor",
+      "publishedAt": "2026-11-01T14:53:58+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Volkswagen Türkiye'de Çin modellerini üretebilir",
+      "link": "https://shiftdelete.net/volkswagen-turkiye-montaj-cin-modelleri-iddia",
+      "publishedAt": "2026-11-01T14:38:36+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Fiat Grizzly Ne Zaman Satışa Çıkacak? Özellikler ve Türkiye Beklentisi",
@@ -66,28 +84,10 @@
       "publishedAt": "2026-11-01T08:12:32+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Xiaomi, 102 modelde pil değişimini ucuzlattı",
-      "link": "https://shiftdelete.net/xiaomi-pil-degisimi-102-model-indirim",
-      "publishedAt": "2026-11-01T08:02:26+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "WhatsApp'ın Android ayarlar sayfası yenileniyor",
-      "link": "https://shiftdelete.net/whatsapp-android-ayarlar-tasarimi-yenileniyor",
-      "publishedAt": "2026-11-01T07:52:19+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy Z Fold 9 tasarımı ve kamera özellikleri sızdırıldı",
       "link": "https://www.donanimhaber.com/samsung-galaxy-z-fold-9-tasarimi-ve-kamera-ozellikleri-sizdirildi--212319",
       "publishedAt": "2026-11-01T07:30:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Rivian şarj ağı bir yılda yüzde 39 büyüdü",
-      "link": "https://shiftdelete.net/rivian-adventure-network-yuzde-39-buyudu",
-      "publishedAt": "2026-11-01T06:45:01+00:00"
     },
     {
       "source": "DonanımHaber",
