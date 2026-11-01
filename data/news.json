@@ -1,37 +1,49 @@
 {
-  "updatedAt": "2026-11-01T06:57:17.990007+00:00",
+  "updatedAt": "2026-11-01T07:59:41.476226+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T06:57:17.990007+00:00",
+      "checkedAt": "2026-11-01T07:59:41.476226+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T06:57:17.990007+00:00",
+      "checkedAt": "2026-11-01T07:59:41.476226+00:00",
       "ok": true
     }
   },
   "items": [
     {
       "source": "ShiftDelete",
-      "title": "Rivian Adventure Network Bir Yılda Yüzde 39 Büyüdü: 1.185 Şarj Noktası",
+      "title": "WhatsApp'ın Android Ayarlar Sayfası Yenileniyor",
+      "link": "https://shiftdelete.net/whatsapp-android-ayarlar-tasarimi-yenileniyor",
+      "publishedAt": "2026-11-01T07:52:19+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy Z Fold 9 tasarımı ve kamera özellikleri sızdırıldı",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-z-fold-9-tasarimi-ve-kamera-ozellikleri-sizdirildi--212319",
+      "publishedAt": "2026-11-01T07:30:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Rivian Şarj Ağı Bir Yılda Yüzde 39 Büyüdü",
       "link": "https://shiftdelete.net/rivian-adventure-network-yuzde-39-buyudu",
       "publishedAt": "2026-11-01T06:45:01+00:00"
     },
     {
       "source": "ShiftDelete",
-      "title": "Leapmotor A10 Tayland'da Tanıtıldı: 450 km Menzil, 16 Dakikada Şarj",
+      "title": "Leapmotor A10 Tanıtıldı: 450 km Menzil",
       "link": "https://shiftdelete.net/leapmotor-a10-tayland-tanitildi",
       "publishedAt": "2026-11-01T05:45:02+00:00"
     },
     {
       "source": "ShiftDelete",
-      "title": "HMD Pulse Pro 2nd Edition Ortaya Çıktı: Helio G99 ile Geliyor",
+      "title": "HMD Pulse Pro 2nd Edition Ortaya Çıktı",
       "link": "https://shiftdelete.net/hmd-pulse-pro-2nd-edition-helio-g99",
       "publishedAt": "2026-11-01T05:15:02+00:00"
     },
     {
       "source": "ShiftDelete",
-      "title": "Hyundai IONIQ 6 İngiltere'de Siparişe Açıldı: 422 Mil Menzil",
+      "title": "Hyundai IONIQ 6 İngiltere'de Siparişe Açıldı",
       "link": "https://shiftdelete.net/hyundai-ioniq-6-ingiltere-fiyati",
       "publishedAt": "2026-11-01T03:45:01+00:00"
     },
@@ -64,12 +76,6 @@
       "title": "Stellantis’ten Veda: 1.2 PureTech Üreten Fabrika Kapatıldı",
       "link": "https://shiftdelete.net/stellantis-douvrin-fabrikasi-kapandi",
       "publishedAt": "2026-10-31T17:00:32+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPad mini 8 Bataryası iPad mini 7’den Küçük Çıktı – Fiyatı 699 Dolar",
-      "link": "https://shiftdelete.net/ipad-mini-8-bataryasi-ipad-mini-7den-kucuk",
-      "publishedAt": "2026-10-31T16:51:04+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy Watch ve Ring, uyku apnesini daha ayrıntılı izleyecek",
       "link": "https://www.donanimhaber.com/galaxy-watch-ve-ring-uyku-apnesini-daha-ayrintili-izleyecek--212234",
       "publishedAt": "2026-10-29T17:20:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Google Play, katlanabilir telefonlara özel uygulamaları öne çıkaracak",
-      "link": "https://www.donanimhaber.com/google-play-katlanir-telefonlara-ozel-uygulamalari-one-cikaracak--212221",
-      "publishedAt": "2026-10-29T12:00:00+00:00"
     }
   ]
 }
