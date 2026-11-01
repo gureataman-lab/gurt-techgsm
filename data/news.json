@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-01T12:51:13.806072+00:00",
+  "updatedAt": "2026-11-01T13:49:14.518055+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T12:51:13.806072+00:00",
+      "checkedAt": "2026-11-01T13:49:14.518055+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T12:51:13.806072+00:00",
+      "checkedAt": "2026-11-01T13:49:14.518055+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Fiat Grizzly Ne Zaman Satışa Çıkacak? Özellikler ve Türkiye Beklentisi",
+      "link": "https://shiftdelete.net/grande-pandaya-kardes-geliyor-fiat-grizzly-gorucuye-cikti",
+      "publishedAt": "2026-11-01T13:20:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Redmi M100 Pro tanıtıldı: IP68 ve ince gövde",
@@ -82,12 +88,6 @@
       "title": "Rivian şarj ağı bir yılda yüzde 39 büyüdü",
       "link": "https://shiftdelete.net/rivian-adventure-network-yuzde-39-buyudu",
       "publishedAt": "2026-11-01T06:45:01+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Leapmotor A10 tanıtıldı: 450 km menzil",
-      "link": "https://shiftdelete.net/leapmotor-a10-tayland-tanitildi",
-      "publishedAt": "2026-11-01T05:45:02+00:00"
     },
     {
       "source": "DonanımHaber",
