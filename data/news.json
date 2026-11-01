@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-01T05:48:34.685063+00:00",
+  "updatedAt": "2026-11-01T06:57:17.990007+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T05:48:34.685063+00:00",
+      "checkedAt": "2026-11-01T06:57:17.990007+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T05:48:34.685063+00:00",
+      "checkedAt": "2026-11-01T06:57:17.990007+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Rivian Adventure Network Bir Yılda Yüzde 39 Büyüdü: 1.185 Şarj Noktası",
+      "link": "https://shiftdelete.net/rivian-adventure-network-yuzde-39-buyudu",
+      "publishedAt": "2026-11-01T06:45:01+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Leapmotor A10 Tayland'da Tanıtıldı: 450 km Menzil, 16 Dakikada Şarj",
@@ -64,12 +70,6 @@
       "title": "iPad mini 8 Bataryası iPad mini 7’den Küçük Çıktı – Fiyatı 699 Dolar",
       "link": "https://shiftdelete.net/ipad-mini-8-bataryasi-ipad-mini-7den-kucuk",
       "publishedAt": "2026-10-31T16:51:04+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Evden şarj maliyeti yükseliyor: Yeni tarife elektrikli araçları vurdu",
-      "link": "https://shiftdelete.net/evden-sarj-maliyeti-sktt-togg-elektrik-tarifesi",
-      "publishedAt": "2026-10-31T16:07:07+00:00"
     },
     {
       "source": "DonanımHaber",
