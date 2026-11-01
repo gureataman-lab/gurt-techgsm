@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-01T02:51:08.969565+00:00",
+  "updatedAt": "2026-11-01T03:53:02.724673+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T02:51:08.969565+00:00",
+      "checkedAt": "2026-11-01T03:53:02.724673+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T02:51:08.969565+00:00",
+      "checkedAt": "2026-11-01T03:53:02.724673+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Hyundai IONIQ 6 İngiltere'de Siparişe Açıldı: 422 Mil Menzil",
+      "link": "https://shiftdelete.net/hyundai-ioniq-6-ingiltere-fiyati",
+      "publishedAt": "2026-11-01T03:45:01+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Lexus Çin’de Yerli Üretime Geçiyor: İlk Model Elektrikli SUV Olacak",
@@ -64,12 +70,6 @@
       "title": "Tesla Cybercab Üretimi Nasıl Yapılıyor? İşte Unboxed Yöntemi",
       "link": "https://shiftdelete.net/tesla-cybercab-uretimi-unboxed-yontemi",
       "publishedAt": "2026-10-31T15:06:40+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Redmi K100 Satışa Çıktı: 10.000mAh Batarya ile Dikkat Çekiyor",
-      "link": "https://shiftdelete.net/redmi-k100-satis-detaylari",
-      "publishedAt": "2026-10-31T15:00:54+00:00"
     },
     {
       "source": "DonanımHaber",
