@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-01T10:42:21.026198+00:00",
+  "updatedAt": "2026-11-01T11:38:52.663819+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-01T10:42:21.026198+00:00",
+      "checkedAt": "2026-11-01T11:38:52.663819+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-01T10:42:21.026198+00:00",
+      "checkedAt": "2026-11-01T11:38:52.663819+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung, iPhone Duo ekran sorunuyla alay etti",
+      "link": "https://shiftdelete.net/samsung-kanada-iphone-duo-ekran-sorunu-alay",
+      "publishedAt": "2026-11-01T11:08:07+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "ASUS akıllı telefon pazarından çekilebilir",
+      "link": "https://shiftdelete.net/asus-akilli-telefon-pazarindan-cekilebilir",
+      "publishedAt": "2026-11-01T10:52:58+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "ASUS akıllı telefon pazarından çekilebilir",
@@ -76,18 +88,6 @@
       "title": "HMD Pulse Pro 2nd Edition ortaya çıktı",
       "link": "https://shiftdelete.net/hmd-pulse-pro-2nd-edition-helio-g99",
       "publishedAt": "2026-11-01T05:15:02+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Hyundai IONIQ 6 İngiltere'de siparişe açıldı",
-      "link": "https://shiftdelete.net/hyundai-ioniq-6-ingiltere-fiyati",
-      "publishedAt": "2026-11-01T03:45:01+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Lexus Çin’de yerli üretime geçiyor: İlk model elektrikli SUV olacak",
-      "link": "https://shiftdelete.net/lexus-cin-yerel-uretim-elektrikli-suv",
-      "publishedAt": "2026-10-31T20:00:25+00:00"
     },
     {
       "source": "DonanımHaber",
