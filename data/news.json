@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-02T17:58:05.243644+00:00",
+  "updatedAt": "2026-11-02T18:57:14.379863+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-02T17:58:05.243644+00:00",
+      "checkedAt": "2026-11-02T18:57:14.379863+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-02T17:58:05.243644+00:00",
+      "checkedAt": "2026-11-02T18:57:14.379863+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S27 Pro fiyat artışını gizleyebilir",
+      "link": "https://shiftdelete.net/galaxy-s27-pro-fiyat-artisi-samsung",
+      "publishedAt": "2026-11-02T18:32:22+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Bütçe dostu Vivo Y32 5G tanıtıldı: 8.000 mAh pil ve askeri seviyede dayanıklılık",
+      "link": "https://www.donanimhaber.com/butce-dostu-vivo-y32-5g-tanitildi-iste-ozellikleri--212383",
+      "publishedAt": "2026-11-02T18:27:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S27 Plus'ta şarj hızı 45 W'ta kalacak",
+      "link": "https://shiftdelete.net/galaxy-s27-plus-sarj-hizi-45-w",
+      "publishedAt": "2026-11-02T18:05:48+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Subaru Avrupa'da yalnızca elektrikli satacak",
@@ -58,18 +76,6 @@
       "title": "Motorola Signature 27'nin özellikleri belli oldu",
       "link": "https://shiftdelete.net/motorola-signature-27-ozellikleri-belli-oldu",
       "publishedAt": "2026-11-02T12:24:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Tesla'nın acil çıkış düğmesi 539 dolara patladı",
-      "link": "https://shiftdelete.net/tesla-emergency-drive-away-539-dolar-fatura",
-      "publishedAt": "2026-11-02T12:02:10+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung, iPhone Duo reklam kamyonlarıyla gülüyor",
-      "link": "https://shiftdelete.net/samsung-iphone-duo-reklami-kanada-kamyon",
-      "publishedAt": "2026-11-02T11:47:02+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
       "link": "https://www.donanimhaber.com/android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste--212258",
       "publishedAt": "2026-10-30T21:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Google popüler Android sürümlerini açıkladı: İşte acı tablo!",
-      "link": "https://www.donanimhaber.com/google-populer-android-surumlerini-acikladi--212291",
-      "publishedAt": "2026-10-30T18:40:00+00:00"
     }
   ]
 }
