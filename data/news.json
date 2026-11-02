@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-02T08:43:18.079315+00:00",
+  "updatedAt": "2026-11-02T10:06:46.226872+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-02T08:43:18.079315+00:00",
+      "checkedAt": "2026-11-02T10:06:46.226872+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-02T08:43:18.079315+00:00",
+      "checkedAt": "2026-11-02T10:06:46.226872+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Xiaomi 18 Pro serisi için küresel lansman tarihi açıklandı",
+      "link": "https://www.donanimhaber.com/xiaomi-18-pro-serisi-icin-kuresel-lansman-tarihi-aciklandi--212350",
+      "publishedAt": "2026-11-02T09:46:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Google Pixel Türkiye'ye gelecek mi?",
+      "link": "https://shiftdelete.net/mediamarkt-ceo-hulusi-acar-google-pixel-turkiye",
+      "publishedAt": "2026-11-02T09:00:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S27 Pro ve Ultra'ya gizlilik ekranı",
+      "link": "https://shiftdelete.net/galaxy-s27-privacy-display-pro-ultra",
+      "publishedAt": "2026-11-02T08:58:03+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo değişimi stok yüzünden yapılamıyor",
+      "link": "https://shiftdelete.net/iphone-duo-degisim-krizi-stok-sorunu",
+      "publishedAt": "2026-11-02T08:42:35+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Makyajlı Volkswagen Caddy Türkiye'de satışta",
@@ -60,24 +84,6 @@
       "publishedAt": "2026-11-01T15:29:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Çinli otomobil üreticilerinin yüzde 90'ı zararda",
-      "link": "https://shiftdelete.net/cinli-otomobil-ureticileri-zarar-ediyor",
-      "publishedAt": "2026-11-01T14:53:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Volkswagen Türkiye'de Çin modellerini üretebilir",
-      "link": "https://shiftdelete.net/volkswagen-turkiye-montaj-cin-modelleri-iddia",
-      "publishedAt": "2026-11-01T14:38:36+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Fiat Grizzly Ne Zaman Satışa Çıkacak? Özellikler ve Türkiye Beklentisi",
-      "link": "https://shiftdelete.net/grande-pandaya-kardes-geliyor-fiat-grizzly-gorucuye-cikti",
-      "publishedAt": "2026-11-01T13:20:00+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "ASUS akıllı telefon pazarından çekilebilir",
       "link": "https://www.donanimhaber.com/asus-akilli-telefon-pazarindan-cekilebilir--212328",
@@ -124,12 +130,6 @@
       "title": "iPhone Air 2 özellikleri ortaya çıktı: İlk modeli alanlar pişman olacak!",
       "link": "https://www.donanimhaber.com/iphone-air-2-ozellikleri-ortaya-cikti-2027-de-iddiali-geliyor--212253",
       "publishedAt": "2026-10-30T09:29:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy S27'nin şarj hızı yine hayal kırıklığı yaratacak",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak--212244",
-      "publishedAt": "2026-10-30T05:15:41+00:00"
     }
   ]
 }
