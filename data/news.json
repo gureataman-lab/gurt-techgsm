@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-02T16:39:36.202605+00:00",
+  "updatedAt": "2026-11-02T17:58:05.243644+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-02T16:39:36.202605+00:00",
+      "checkedAt": "2026-11-02T17:58:05.243644+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-02T16:39:36.202605+00:00",
+      "checkedAt": "2026-11-02T17:58:05.243644+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Subaru Avrupa'da yalnızca elektrikli satacak",
+      "link": "https://shiftdelete.net/subaru-avrupa-sadece-elektrikli-otomobil-satacak",
+      "publishedAt": "2026-11-02T17:35:52+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Instagram Takipçi Gizleme: Liste Nasıl Gizlenir?",
@@ -64,12 +70,6 @@
       "title": "Samsung, iPhone Duo reklam kamyonlarıyla gülüyor",
       "link": "https://shiftdelete.net/samsung-iphone-duo-reklami-kanada-kamyon",
       "publishedAt": "2026-11-02T11:47:02+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Araç muayene ücreti 2026: Gecikme ve randevu",
-      "link": "https://shiftdelete.net/arac-muayene-ucreti",
-      "publishedAt": "2026-11-02T11:33:29+00:00"
     },
     {
       "source": "DonanımHaber",
