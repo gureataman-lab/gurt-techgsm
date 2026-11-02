@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-02T13:07:50.241813+00:00",
+  "updatedAt": "2026-11-02T14:36:04.473015+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-02T13:07:50.241813+00:00",
+      "checkedAt": "2026-11-02T14:36:04.473015+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-02T13:07:50.241813+00:00",
+      "checkedAt": "2026-11-02T14:36:04.473015+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Trafiğe en çok kaydı yapılan otomobil markaları",
+      "link": "https://shiftdelete.net/trafige-kayitli-otomobil-sayisi-18-milyonu-asti",
+      "publishedAt": "2026-11-02T14:08:52+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "2027 Avrupa'da Yılın Otomobili Finalistleri: Tüm Adaylar ve Türkiye Durumu",
+      "link": "https://shiftdelete.net/hyundai-ioniq-3-avrupada-yilin-otomobili-finalisti",
+      "publishedAt": "2026-11-02T13:31:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "SpaceX, Boost Mobile'ı almak için görüşüyor",
+      "link": "https://shiftdelete.net/spacex-boost-mobile-echostar-satin-alim-gorusmesi",
+      "publishedAt": "2026-11-02T13:23:30+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Motorola Signature 27'nin özellikleri belli oldu",
@@ -60,28 +78,10 @@
       "publishedAt": "2026-11-02T10:19:23+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "IMEI kayıt ücreti 2026: Harç ve kayıt adımları",
-      "link": "https://shiftdelete.net/imei-kayit-ucreti",
-      "publishedAt": "2026-11-02T10:16:56+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Xiaomi 18 Pro serisi için küresel lansman tarihi açıklandı",
       "link": "https://www.donanimhaber.com/xiaomi-18-pro-serisi-icin-kuresel-lansman-tarihi-aciklandi--212350",
       "publishedAt": "2026-11-02T09:46:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Google Pixel Türkiye'ye gelecek mi?",
-      "link": "https://shiftdelete.net/mediamarkt-ceo-hulusi-acar-google-pixel-turkiye",
-      "publishedAt": "2026-11-02T09:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy S27 Pro ve Ultra'ya gizlilik ekranı",
-      "link": "https://shiftdelete.net/galaxy-s27-privacy-display-pro-ultra",
-      "publishedAt": "2026-11-02T08:58:03+00:00"
     },
     {
       "source": "DonanımHaber",
