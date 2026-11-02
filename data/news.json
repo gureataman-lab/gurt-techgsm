@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-02T07:26:49.328123+00:00",
+  "updatedAt": "2026-11-02T08:43:18.079315+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-02T07:26:49.328123+00:00",
+      "checkedAt": "2026-11-02T08:43:18.079315+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-02T07:26:49.328123+00:00",
+      "checkedAt": "2026-11-02T08:43:18.079315+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Makyajlı Volkswagen Caddy Türkiye'de satışta",
+      "link": "https://shiftdelete.net/makyajli-volkswagen-caddy-turkiye-satis-fiyat",
+      "publishedAt": "2026-11-02T08:37:05+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Apple Store'larda iPhone Duo krizi büyüyor: Cihaz değişimi yapılamıyor!",
+      "link": "https://www.donanimhaber.com/apple-store-larda-iphone-duo-krizi-buyuyor--212349",
+      "publishedAt": "2026-11-02T08:22:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Honor Magic 9, 4 Kasım'da küresel pazara çıkıyor",
+      "link": "https://shiftdelete.net/honor-magic-9-serisi-4-kasim-global-cikis",
+      "publishedAt": "2026-11-02T07:59:54+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone 18 Pro Çin'de 6 milyonu aştı",
+      "link": "https://shiftdelete.net/iphone-18-pro-cinde-6-milyon-satis",
+      "publishedAt": "2026-11-02T07:29:38+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Kimi Antonelli F1 tarihinin en genç şampiyonu",
@@ -52,24 +76,6 @@
       "title": "Fiat Grizzly Ne Zaman Satışa Çıkacak? Özellikler ve Türkiye Beklentisi",
       "link": "https://shiftdelete.net/grande-pandaya-kardes-geliyor-fiat-grizzly-gorucuye-cikti",
       "publishedAt": "2026-11-01T13:20:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Redmi M100 Pro tanıtıldı: IP68 ve ince gövde",
-      "link": "https://shiftdelete.net/redmi-m100-pro-tanitildi-ozellikleri-fiyati",
-      "publishedAt": "2026-11-01T12:35:43+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung, iPhone Duo ekran sorunuyla alay etti",
-      "link": "https://shiftdelete.net/samsung-kanada-iphone-duo-ekran-sorunu-alay",
-      "publishedAt": "2026-11-01T11:08:07+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "ASUS akıllı telefon pazarından çekilebilir",
-      "link": "https://shiftdelete.net/asus-akilli-telefon-pazarindan-cekilebilir",
-      "publishedAt": "2026-11-01T10:52:58+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy S27'nin şarj hızı yine hayal kırıklığı yaratacak",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-nin-sarj-hizi-yine-hayal-kirikligi-yaratacak--212244",
       "publishedAt": "2026-10-30T05:15:41+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, Çin'e özel katlanabilir W27 modelini tanıttı: İşte özellikleri ve fiyatı",
-      "link": "https://www.donanimhaber.com/samsung-cin-e-ozel-katlanabilir-w27-modelini-tanitti--212242",
-      "publishedAt": "2026-10-29T19:34:53+00:00"
     }
   ]
 }
