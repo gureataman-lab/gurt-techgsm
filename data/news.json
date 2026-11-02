@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-02T14:36:04.473015+00:00",
+  "updatedAt": "2026-11-02T15:34:21.582583+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-02T14:36:04.473015+00:00",
+      "checkedAt": "2026-11-02T15:34:21.582583+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-02T14:36:04.473015+00:00",
+      "checkedAt": "2026-11-02T15:34:21.582583+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Instagram Takipçi Gizleme: Liste Nasıl Gizlenir?",
+      "link": "https://shiftdelete.net/instagram-takipci-ve-takip-ettiklerini-gizleme",
+      "publishedAt": "2026-11-02T15:45:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "HGS'de ödeme şikayetleri yüzde 24 arttı",
+      "link": "https://shiftdelete.net/hgs-odeme-sikayetleri-artti",
+      "publishedAt": "2026-11-02T14:54:24+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S27 Pro'da Exynos 2700 dönemi",
+      "link": "https://shiftdelete.net/galaxy-s27-pro-exynos-2700-is-birligi",
+      "publishedAt": "2026-11-02T14:54:14+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Trafiğe en çok kaydı yapılan otomobil markaları",
@@ -58,24 +76,6 @@
       "title": "AnTuTu açıkladı: En güçlü Android telefonlar (Ekim 2026)",
       "link": "https://www.donanimhaber.com/antutu-acikladi-en-guclu-android-telefonlar-ekim-2026--212364",
       "publishedAt": "2026-11-02T11:33:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Xiaomi 18 Pro küresel lansman tarihi belli oldu",
-      "link": "https://shiftdelete.net/xiaomi-18-pro-kuresel-lansman-tarihi",
-      "publishedAt": "2026-11-02T11:32:55+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "eSIM Nedir, Hangi Operatörler Destekliyor?",
-      "link": "https://shiftdelete.net/esim-nedir",
-      "publishedAt": "2026-11-02T10:23:27+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "En Ucuz 5G Telefonlar: Kasım 2026 Listesi",
-      "link": "https://shiftdelete.net/en-ucuz-5g-telefonlar",
-      "publishedAt": "2026-11-02T10:19:23+00:00"
     },
     {
       "source": "DonanımHaber",
