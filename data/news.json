@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-02T05:38:53.945824+00:00",
+  "updatedAt": "2026-11-02T07:26:49.328123+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-02T05:38:53.945824+00:00",
+      "checkedAt": "2026-11-02T07:26:49.328123+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-02T05:38:53.945824+00:00",
+      "checkedAt": "2026-11-02T07:26:49.328123+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Kimi Antonelli F1 tarihinin en genç şampiyonu",
+      "link": "https://shiftdelete.net/kimi-antonelli-f1-en-genc-sampiyon",
+      "publishedAt": "2026-11-02T07:14:31+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Reklam Kurulu'ndan 2 GSM şirketine 5G cezası",
+      "link": "https://shiftdelete.net/reklam-kurulu-gsm-sirketlerine-5g-cezasi",
+      "publishedAt": "2026-11-02T06:44:47+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Oppo Reno 17 Pro ile çekilen ilk fotoğraf geldi",
@@ -70,18 +82,6 @@
       "title": "Nokia 2360 Flip öğrenciler için geliyor",
       "link": "https://www.donanimhaber.com/nokia-2360-flip-tanitildi-iste-ozellikleri-ve-fiyati--212324",
       "publishedAt": "2026-11-01T09:30:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy Z Fold 9'da ekran altı kamera dönebilir",
-      "link": "https://shiftdelete.net/galaxy-z-fold-9-ekran-alti-kamera-sizinti",
-      "publishedAt": "2026-11-01T09:04:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "ÖTV muafiyetli araçlar 2026: kasım fiyat listesi, limit ve alım şartları",
-      "link": "https://shiftdelete.net/2026-guncel-otv-muafiyetli-arac-modelleri-ve-merak-edilen-tum-detaylar",
-      "publishedAt": "2026-11-01T08:30:00+00:00"
     },
     {
       "source": "DonanımHaber",
