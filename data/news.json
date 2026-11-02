@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-02T11:06:54.376070+00:00",
+  "updatedAt": "2026-11-02T12:00:01.940844+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-02T11:06:54.376070+00:00",
+      "checkedAt": "2026-11-02T12:00:01.940844+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-02T11:06:54.376070+00:00",
+      "checkedAt": "2026-11-02T12:00:01.940844+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung, iPhone Duo reklam kamyonlarıyla gülüyor",
+      "link": "https://shiftdelete.net/samsung-iphone-duo-reklami-kanada-kamyon",
+      "publishedAt": "2026-11-02T11:47:02+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Araç muayene ücreti 2026: Gecikme ve randevu",
+      "link": "https://shiftdelete.net/arac-muayene-ucreti",
+      "publishedAt": "2026-11-02T11:33:29+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "AnTuTu açıkladı: En güçlü Android telefonlar (Ekim 2026)",
+      "link": "https://www.donanimhaber.com/antutu-acikladi-en-guclu-android-telefonlar-ekim-2026--212364",
+      "publishedAt": "2026-11-02T11:33:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Xiaomi 18 Pro küresel lansman tarihi belli oldu",
+      "link": "https://shiftdelete.net/xiaomi-18-pro-kuresel-lansman-tarihi",
+      "publishedAt": "2026-11-02T11:32:55+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "eSIM Nedir, Hangi Operatörler Destekliyor?",
@@ -66,24 +90,6 @@
       "publishedAt": "2026-11-02T08:22:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Honor Magic 9, 4 Kasım'da küresel pazara çıkıyor",
-      "link": "https://shiftdelete.net/honor-magic-9-serisi-4-kasim-global-cikis",
-      "publishedAt": "2026-11-02T07:59:54+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 18 Pro Çin'de 6 milyonu aştı",
-      "link": "https://shiftdelete.net/iphone-18-pro-cinde-6-milyon-satis",
-      "publishedAt": "2026-11-02T07:29:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Kimi Antonelli F1 tarihinin en genç şampiyonu",
-      "link": "https://shiftdelete.net/kimi-antonelli-f1-en-genc-sampiyon",
-      "publishedAt": "2026-11-02T07:14:31+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "ASUS akıllı telefon pazarından çekilebilir",
       "link": "https://www.donanimhaber.com/asus-akilli-telefon-pazarindan-cekilebilir--212328",
@@ -124,12 +130,6 @@
       "title": "Google popüler Android sürümlerini açıkladı: İşte acı tablo!",
       "link": "https://www.donanimhaber.com/google-populer-android-surumlerini-acikladi--212291",
       "publishedAt": "2026-10-30T18:40:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone Air 2 özellikleri ortaya çıktı: İlk modeli alanlar pişman olacak!",
-      "link": "https://www.donanimhaber.com/iphone-air-2-ozellikleri-ortaya-cikti-2027-de-iddiali-geliyor--212253",
-      "publishedAt": "2026-10-30T09:29:00+00:00"
     }
   ]
 }
