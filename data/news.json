@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-03T10:30:37.660803+00:00",
+  "updatedAt": "2026-11-03T11:28:14.419688+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T10:30:37.660803+00:00",
+      "checkedAt": "2026-11-03T11:28:14.419688+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T10:30:37.660803+00:00",
+      "checkedAt": "2026-11-03T11:28:14.419688+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Flört uygulamalarına App Store'da 18+ şartı",
+      "link": "https://shiftdelete.net/app-store-flort-uygulamalari-18-yas-siniri",
+      "publishedAt": "2026-11-03T11:10:15+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "GM'den sürücü verisi için 220 milyon dolar",
+      "link": "https://shiftdelete.net/gm-surucu-verileri-220-milyon-dolar-uzlasma",
+      "publishedAt": "2026-11-03T10:35:25+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Kodu Claude Code'a yazdırılan BeMatrx neler sunuyor?",
@@ -64,18 +76,6 @@
       "title": "2027 ehliyet harcı ve MTV zammı belli oldu",
       "link": "https://shiftdelete.net/2027-mtv-zammi-ehliyet-harclari-belli-oldu",
       "publishedAt": "2026-11-03T08:17:31+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Tesla Antalya Supercharger istasyonu açıldı",
-      "link": "https://shiftdelete.net/tesla-antalya-supercharger-istasyonu-acildi",
-      "publishedAt": "2026-11-03T08:11:09+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Ekimin en çok satan otomobili Togg T10X oldu",
-      "link": "https://shiftdelete.net/togg-t10x-ekim-ayinda-en-cok-satan-otomobil",
-      "publishedAt": "2026-11-03T08:05:28+00:00"
     },
     {
       "source": "DonanımHaber",
