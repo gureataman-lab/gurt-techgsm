@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-03T17:52:44.892256+00:00",
+  "updatedAt": "2026-11-03T18:54:13.757679+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T17:52:44.892256+00:00",
+      "checkedAt": "2026-11-03T18:54:13.757679+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T17:52:44.892256+00:00",
+      "checkedAt": "2026-11-03T18:54:13.757679+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple katlanabilir pazarın %30'unu alabilir",
+      "link": "https://shiftdelete.net/iphone-duo-pazar-payi-katlanabilir-2027",
+      "publishedAt": "2026-11-03T18:34:03+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, Galaxy S27 serisinde ekran gizliliğini geliştiriyor",
@@ -82,12 +88,6 @@
       "title": "Elektrikli araç şarj istasyonu sayısı arttı",
       "link": "https://shiftdelete.net/elektrikli-arac-sarj-istasyonu-sayisi-kasim-2026",
       "publishedAt": "2026-11-03T11:50:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy A15 güncellemesi: One UI 9.0 yayında",
-      "link": "https://shiftdelete.net/galaxy-a15-guncellemesi-one-ui-9-0-yayinda",
-      "publishedAt": "2026-11-03T11:35:00+00:00"
     },
     {
       "source": "DonanımHaber",
