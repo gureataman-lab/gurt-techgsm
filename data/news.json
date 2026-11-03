@@ -1,16 +1,76 @@
 {
-  "updatedAt": "2026-11-03T07:09:59.444955+00:00",
+  "updatedAt": "2026-11-03T08:33:46.604801+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T07:09:59.444955+00:00",
+      "checkedAt": "2026-11-03T08:33:46.604801+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T07:09:59.444955+00:00",
+      "checkedAt": "2026-11-03T08:33:46.604801+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Zeed Mobile Türkiye'de: Modeller ve fiyatlar",
+      "link": "https://shiftdelete.net/zeed-mobile-turkiye-modeller-fiyatlar",
+      "publishedAt": "2026-11-03T08:31:13+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "2027 ehliyet harcı ve MTV zammı belli oldu",
+      "link": "https://shiftdelete.net/2027-mtv-zammi-ehliyet-harclari-belli-oldu",
+      "publishedAt": "2026-11-03T08:17:31+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Tesla Antalya Supercharger istasyonu açıldı",
+      "link": "https://shiftdelete.net/tesla-antalya-supercharger-istasyonu-acildi",
+      "publishedAt": "2026-11-03T08:11:09+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Ekimin en çok satan otomobili Togg T10X oldu",
+      "link": "https://shiftdelete.net/togg-t10x-ekim-ayinda-en-cok-satan-otomobil",
+      "publishedAt": "2026-11-03T08:05:28+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Ekimde en çok satan elektrikli otomobiller",
+      "link": "https://shiftdelete.net/en-cok-satan-elektrikli-otomobiller-ekim",
+      "publishedAt": "2026-11-03T08:05:20+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Apple'dan iPhone'lara casus yazılım uyarısı: Türkiye'den isim de var!",
+      "link": "https://www.donanimhaber.com/apple-dan-iphone-lara-casus-yazilim-bildirimi-turkiye-de-var--212399",
+      "publishedAt": "2026-11-03T07:53:02+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Araç pazarı ekimde yüzde 30,84 daraldı",
+      "link": "https://shiftdelete.net/otomobil-pazari-ekim-2026-daralma-odmd",
+      "publishedAt": "2026-11-03T07:41:09+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "2027 IMEI kayıt ücreti belli oldu: 69.358 TL",
+      "link": "https://shiftdelete.net/imei-kayit-ucreti-2027",
+      "publishedAt": "2026-11-03T07:40:50+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Yeni Renault Megane Geliyor: Bilinen Her Şey",
+      "link": "https://shiftdelete.net/yeni-renault-megane-tesla-model-y-rakip",
+      "publishedAt": "2026-11-03T07:30:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Apple'dan iPhone Duo iade oranı açıklaması",
+      "link": "https://shiftdelete.net/iphone-duo-iade-orani-apple-aciklama",
+      "publishedAt": "2026-11-03T07:11:09+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Togg'un yeni ortakları: Varlık Fonu ve Turkcell",
@@ -18,64 +78,10 @@
       "publishedAt": "2026-11-03T06:41:09+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo sevkiyat gecikmesi ne zaman bitecek?",
-      "link": "https://shiftdelete.net/iphone-duo-sevkiyat-gecikmesi-ne-zaman-bitecek",
-      "publishedAt": "2026-11-03T06:29:25+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Renault Megane Yenileniyor: 1400 Km Elektrikli Menzil ve Otonom Sürüş",
-      "link": "https://shiftdelete.net/yeni-renault-megane-tesla-model-y-rakip",
-      "publishedAt": "2026-11-03T04:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "BMW'den Tesla FSD'ye rakip şehir içi asistan",
-      "link": "https://shiftdelete.net/bmw-sehir-ici-surus-asistani-2027",
-      "publishedAt": "2026-11-02T21:15:47+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy S27 Pro fiyat artışını gizleyebilir",
-      "link": "https://shiftdelete.net/galaxy-s27-pro-fiyat-artisi-samsung",
-      "publishedAt": "2026-11-02T18:32:22+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Bütçe dostu Vivo Y32 5G tanıtıldı: 8.000 mAh pil ve askeri seviyede dayanıklılık",
       "link": "https://www.donanimhaber.com/butce-dostu-vivo-y32-5g-tanitildi-iste-ozellikleri--212383",
       "publishedAt": "2026-11-02T18:27:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy S27 Plus'ta şarj hızı 45 W'ta kalacak",
-      "link": "https://shiftdelete.net/galaxy-s27-plus-sarj-hizi-45-w",
-      "publishedAt": "2026-11-02T18:05:48+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Subaru Avrupa'da yalnızca elektrikli satacak",
-      "link": "https://shiftdelete.net/subaru-avrupa-sadece-elektrikli-otomobil-satacak",
-      "publishedAt": "2026-11-02T17:35:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Instagram Takipçi Gizleme: Liste Nasıl Gizlenir?",
-      "link": "https://shiftdelete.net/instagram-takipci-ve-takip-ettiklerini-gizleme",
-      "publishedAt": "2026-11-02T15:45:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "HGS'de ödeme şikayetleri yüzde 24 arttı",
-      "link": "https://shiftdelete.net/hgs-odeme-sikayetleri-artti",
-      "publishedAt": "2026-11-02T14:54:24+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy S27 Pro'da Exynos 2700 dönemi",
-      "link": "https://shiftdelete.net/galaxy-s27-pro-exynos-2700-is-birligi",
-      "publishedAt": "2026-11-02T14:54:14+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Samsung'dan Apple'a gönderme: \"Biz bu işin kitabını yazdık\"",
       "link": "https://www.donanimhaber.com/samsung-dan-apple-in-unutamayacagi-reklam-kampanyasi--212311",
       "publishedAt": "2026-10-31T13:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, Xiaomi, OnePlus ve diğer markalarda Android 17 takvimi açıklandı",
-      "link": "https://www.donanimhaber.com/android-17-hangi-telefonlara-ne-zaman-gelecek-iste-liste--212258",
-      "publishedAt": "2026-10-30T21:30:00+00:00"
     }
   ]
 }
