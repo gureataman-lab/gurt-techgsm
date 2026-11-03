@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-03T19:55:18.557553+00:00",
+  "updatedAt": "2026-11-03T20:50:55.291105+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T19:55:18.557553+00:00",
+      "checkedAt": "2026-11-03T20:50:55.291105+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T19:55:18.557553+00:00",
+      "checkedAt": "2026-11-03T20:50:55.291105+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Honor, 15.000 mAh bataryalı telefon geliştiriyor: Tek şarjla 1 hafta pil ömrü!",
+      "link": "https://www.donanimhaber.com/honor-15-000-mah-bataryali-telefon-gelistiriyor--212438",
+      "publishedAt": "2026-11-03T20:50:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Tesla FSD'de hız payı yüzde 10'a düşürüldü",
@@ -124,12 +130,6 @@
       "title": "Xiaomi 18 Pro serisi için küresel lansman tarihi açıklandı",
       "link": "https://www.donanimhaber.com/xiaomi-18-pro-serisi-icin-kuresel-lansman-tarihi-aciklandi--212350",
       "publishedAt": "2026-11-02T09:46:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple Store'larda iPhone Duo krizi büyüyor: Cihaz değişimi yapılamıyor!",
-      "link": "https://www.donanimhaber.com/apple-store-larda-iphone-duo-krizi-buyuyor--212349",
-      "publishedAt": "2026-11-02T08:22:00+00:00"
     }
   ]
 }
