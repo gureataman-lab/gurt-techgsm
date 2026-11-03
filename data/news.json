@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-03T16:58:22.954562+00:00",
+  "updatedAt": "2026-11-03T17:52:44.892256+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T16:58:22.954562+00:00",
+      "checkedAt": "2026-11-03T17:52:44.892256+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T16:58:22.954562+00:00",
+      "checkedAt": "2026-11-03T17:52:44.892256+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, Galaxy S27 serisinde ekran gizliliğini geliştiriyor",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-ekran-gizliligini-gelistiriyor--212411",
+      "publishedAt": "2026-11-03T17:50:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Apple servis gelirleri rekor düzeye ulaştı",
@@ -124,12 +130,6 @@
       "title": "ASUS akıllı telefon pazarından çekilebilir",
       "link": "https://www.donanimhaber.com/asus-akilli-telefon-pazarindan-cekilebilir--212328",
       "publishedAt": "2026-11-01T10:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Nokia 2360 Flip öğrenciler için geliyor",
-      "link": "https://www.donanimhaber.com/nokia-2360-flip-tanitildi-iste-ozellikleri-ve-fiyati--212324",
-      "publishedAt": "2026-11-01T09:30:00+00:00"
     }
   ]
 }
