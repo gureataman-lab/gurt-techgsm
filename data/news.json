@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-03T12:28:09.769756+00:00",
+  "updatedAt": "2026-11-03T13:45:53.780843+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T12:28:09.769756+00:00",
+      "checkedAt": "2026-11-03T13:45:53.780843+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T12:28:09.769756+00:00",
+      "checkedAt": "2026-11-03T13:45:53.780843+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy A38'den beklenen haber geldi: Batarya kapasitesi artıyor",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-a38-6-000-mah-bataryayla-gelecek--212425",
+      "publishedAt": "2026-11-03T13:19:30+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy A54'e One UI 9.0 dünya genelinde geldi",
+      "link": "https://shiftdelete.net/galaxy-a54-one-ui-9-0-guncellemesi-yayinda",
+      "publishedAt": "2026-11-03T13:08:14+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy Z Fold 9 Ultra'da yeni 200 MP kamera",
+      "link": "https://shiftdelete.net/galaxy-z-fold-9-ultra-kamera-ozellikleri",
+      "publishedAt": "2026-11-03T12:38:14+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Elektrikli araç şarj istasyonu sayısı arttı",
@@ -60,22 +78,10 @@
       "publishedAt": "2026-11-03T09:35:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "15 bin mAh bataryalı telefon geliyor olabilir",
-      "link": "https://shiftdelete.net/15-bin-mah-batarya-honor-power",
-      "publishedAt": "2026-11-03T09:20:00+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "2027 IMEI kayıt ücreti belli oldu: Amiral gemisi telefonlarla aynı fiyat!",
       "link": "https://www.donanimhaber.com/2027-imei-kayit-ucreti-ne-kadar-olacak--212409",
       "publishedAt": "2026-11-03T09:18:37+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy A58'in şarj hızı belli oldu",
-      "link": "https://shiftdelete.net/galaxy-a58-3c-sertifikasi-sarj-hizi",
-      "publishedAt": "2026-11-03T09:05:00+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy Z Fold 9 tasarımı ve kamera özellikleri sızdırıldı",
       "link": "https://www.donanimhaber.com/samsung-galaxy-z-fold-9-tasarimi-ve-kamera-ozellikleri-sizdirildi--212319",
       "publishedAt": "2026-11-01T07:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Motorola Signature 27, lansmana günler kala videoda ortaya çıktı",
-      "link": "https://www.donanimhaber.com/motorola-signature-27-lansmana-gunler-kala-videoda-ortaya-cikti--212313",
-      "publishedAt": "2026-10-31T15:00:00+00:00"
     }
   ]
 }
