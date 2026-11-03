@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-03T18:54:13.757679+00:00",
+  "updatedAt": "2026-11-03T19:55:18.557553+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T18:54:13.757679+00:00",
+      "checkedAt": "2026-11-03T19:55:18.557553+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T18:54:13.757679+00:00",
+      "checkedAt": "2026-11-03T19:55:18.557553+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Tesla FSD'de hız payı yüzde 10'a düşürüldü",
+      "link": "https://shiftdelete.net/tesla-fsd-avrupa-hiz-payi-yuzde-10",
+      "publishedAt": "2026-11-03T19:13:51+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Vivo V80 FE tanıtım öncesinde ortaya çıktı: 7.000 mAh batarya ve 50 MP ZEISS kameralar",
+      "link": "https://www.donanimhaber.com/vivo-v80-fe-tanitim-oncesinde-ortaya-cikti-iste-ozellikleri--212422",
+      "publishedAt": "2026-11-03T19:10:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple katlanabilir pazarın %30'unu alabilir",
@@ -84,12 +96,6 @@
       "publishedAt": "2026-11-03T12:38:14+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Elektrikli araç şarj istasyonu sayısı arttı",
-      "link": "https://shiftdelete.net/elektrikli-arac-sarj-istasyonu-sayisi-kasim-2026",
-      "publishedAt": "2026-11-03T11:50:00+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "2027 IMEI kayıt ücreti belli oldu: Amiral gemisi telefonlarla aynı fiyat!",
       "link": "https://www.donanimhaber.com/2027-imei-kayit-ucreti-ne-kadar-olacak--212409",
@@ -124,12 +130,6 @@
       "title": "Apple Store'larda iPhone Duo krizi büyüyor: Cihaz değişimi yapılamıyor!",
       "link": "https://www.donanimhaber.com/apple-store-larda-iphone-duo-krizi-buyuyor--212349",
       "publishedAt": "2026-11-02T08:22:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "ASUS akıllı telefon pazarından çekilebilir",
-      "link": "https://www.donanimhaber.com/asus-akilli-telefon-pazarindan-cekilebilir--212328",
-      "publishedAt": "2026-11-01T10:00:00+00:00"
     }
   ]
 }
