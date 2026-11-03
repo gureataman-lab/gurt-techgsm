@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-03T05:56:44.838595+00:00",
+  "updatedAt": "2026-11-03T07:09:59.444955+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T05:56:44.838595+00:00",
+      "checkedAt": "2026-11-03T07:09:59.444955+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T05:56:44.838595+00:00",
+      "checkedAt": "2026-11-03T07:09:59.444955+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Togg'un yeni ortakları: Varlık Fonu ve Turkcell",
+      "link": "https://shiftdelete.net/togg-hisse-devri-turkiye-varlik-fonu-turkcell",
+      "publishedAt": "2026-11-03T06:41:09+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo sevkiyat gecikmesi ne zaman bitecek?",
+      "link": "https://shiftdelete.net/iphone-duo-sevkiyat-gecikmesi-ne-zaman-bitecek",
+      "publishedAt": "2026-11-03T06:29:25+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Renault Megane Yenileniyor: 1400 Km Elektrikli Menzil ve Otonom Sürüş",
@@ -64,18 +76,6 @@
       "title": "Galaxy S27 Pro'da Exynos 2700 dönemi",
       "link": "https://shiftdelete.net/galaxy-s27-pro-exynos-2700-is-birligi",
       "publishedAt": "2026-11-02T14:54:14+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Trafiğe en çok kaydı yapılan otomobil markaları",
-      "link": "https://shiftdelete.net/trafige-kayitli-otomobil-sayisi-18-milyonu-asti",
-      "publishedAt": "2026-11-02T14:08:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "2027 Avrupa'da Yılın Otomobili Finalistleri: Tüm Adaylar ve Türkiye Durumu",
-      "link": "https://shiftdelete.net/hyundai-ioniq-3-avrupada-yilin-otomobili-finalisti",
-      "publishedAt": "2026-11-02T13:31:00+00:00"
     },
     {
       "source": "DonanımHaber",
