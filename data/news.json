@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-03T14:58:10.056951+00:00",
+  "updatedAt": "2026-11-03T15:54:13.728038+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T14:58:10.056951+00:00",
+      "checkedAt": "2026-11-03T15:54:13.728038+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T14:58:10.056951+00:00",
+      "checkedAt": "2026-11-03T15:54:13.728038+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Apple servis gelirleri rekor düzeye ulaştı",
+      "link": "https://www.donanimhaber.com/apple-servis-gelirleri-rekor-duzeye-ulasti--212405",
+      "publishedAt": "2026-11-03T15:49:27+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "HyperOS 4 dağıtımı başladı: Alacak telefonlar",
+      "link": "https://shiftdelete.net/hyperos-4-dagitimi-basladi-alacak-telefonlar",
+      "publishedAt": "2026-11-03T15:02:33+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Lenovo IdeaPad Slim 3 16IRH10 inceleme: Uygun fiyatlı 16 inç dizüstü bilgisayar",
+      "link": "https://shiftdelete.net/lenovo-ideapad-slim-3-16irh10-inceleme-uygun-fiyatli-16-inc-dizustu-bilgisayar",
+      "publishedAt": "2026-11-03T14:58:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "RedMagic 12 Pro global pazarda satışa çıktı",
@@ -66,18 +84,6 @@
       "publishedAt": "2026-11-03T11:35:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Flört uygulamalarına App Store'da 18+ şartı",
-      "link": "https://shiftdelete.net/app-store-flort-uygulamalari-18-yas-siniri",
-      "publishedAt": "2026-11-03T11:10:15+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "GM'den sürücü verisi için 220 milyon dolar",
-      "link": "https://shiftdelete.net/gm-surucu-verileri-220-milyon-dolar-uzlasma",
-      "publishedAt": "2026-11-03T10:35:25+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "2027 IMEI kayıt ücreti belli oldu: Amiral gemisi telefonlarla aynı fiyat!",
       "link": "https://www.donanimhaber.com/2027-imei-kayit-ucreti-ne-kadar-olacak--212409",
@@ -124,12 +130,6 @@
       "title": "Nokia 2360 Flip öğrenciler için geliyor",
       "link": "https://www.donanimhaber.com/nokia-2360-flip-tanitildi-iste-ozellikleri-ve-fiyati--212324",
       "publishedAt": "2026-11-01T09:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy Z Fold 9 tasarımı ve kamera özellikleri sızdırıldı",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-z-fold-9-tasarimi-ve-kamera-ozellikleri-sizdirildi--212319",
-      "publishedAt": "2026-11-01T07:30:00+00:00"
     }
   ]
 }
