@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-03T09:28:46.157698+00:00",
+  "updatedAt": "2026-11-03T10:30:37.660803+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T09:28:46.157698+00:00",
+      "checkedAt": "2026-11-03T10:30:37.660803+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T09:28:46.157698+00:00",
+      "checkedAt": "2026-11-03T10:30:37.660803+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Kodu Claude Code'a yazdırılan BeMatrx neler sunuyor?",
+      "link": "https://shiftdelete.net/bematrx-claude-code-yasam-simulasyonu",
+      "publishedAt": "2026-11-03T10:18:53+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone 18'in özellikleri ve zam iddiası sızdı",
+      "link": "https://shiftdelete.net/iphone-18-ozellikleri-zam-iddiasi",
+      "publishedAt": "2026-11-03T09:51:23+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Redmi K20 Pro'ya iOS 16.5 kuruldu",
+      "link": "https://shiftdelete.net/redmi-k20-pro-ios-16-5-kuruldu",
+      "publishedAt": "2026-11-03T09:50:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Sunwoda katı hâl bataryası 200 °C'ye dayandı",
+      "link": "https://shiftdelete.net/sunwoda-kati-hal-bataryasi-200-derece-testi",
+      "publishedAt": "2026-11-03T09:35:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "15 bin mAh bataryalı telefon geliyor olabilir",
@@ -54,34 +78,10 @@
       "publishedAt": "2026-11-03T08:05:28+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Ekimde en çok satan elektrikli otomobiller",
-      "link": "https://shiftdelete.net/en-cok-satan-elektrikli-otomobiller-ekim",
-      "publishedAt": "2026-11-03T08:05:20+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Apple'dan iPhone'lara casus yazılım uyarısı: Türkiye'den isim de var!",
       "link": "https://www.donanimhaber.com/apple-dan-iphone-lara-casus-yazilim-bildirimi-turkiye-de-var--212399",
       "publishedAt": "2026-11-03T07:53:02+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Araç pazarı ekimde yüzde 30,84 daraldı",
-      "link": "https://shiftdelete.net/otomobil-pazari-ekim-2026-daralma-odmd",
-      "publishedAt": "2026-11-03T07:41:09+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "2027 IMEI kayıt ücreti belli oldu: 69.358 TL",
-      "link": "https://shiftdelete.net/imei-kayit-ucreti-2027",
-      "publishedAt": "2026-11-03T07:40:50+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Yeni Renault Megane Geliyor: Bilinen Her Şey",
-      "link": "https://shiftdelete.net/yeni-renault-megane-tesla-model-y-rakip",
-      "publishedAt": "2026-11-03T07:30:00+00:00"
     },
     {
       "source": "DonanımHaber",
