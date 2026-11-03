@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-03T13:45:53.780843+00:00",
+  "updatedAt": "2026-11-03T14:58:10.056951+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T13:45:53.780843+00:00",
+      "checkedAt": "2026-11-03T14:58:10.056951+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T13:45:53.780843+00:00",
+      "checkedAt": "2026-11-03T14:58:10.056951+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "RedMagic 12 Pro global pazarda satışa çıktı",
+      "link": "https://shiftdelete.net/redmagic-12-pro-global-fiyati-ozellikleri",
+      "publishedAt": "2026-11-03T14:44:53+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Nissan Fiyat Listesi Kasım 2026: Tüm Modeller",
+      "link": "https://shiftdelete.net/nissan-fiyat-listesi-haziran-2022",
+      "publishedAt": "2026-11-03T14:35:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "MKBHD, iPhone Duo'dan iPhone 18 Pro'ya döndü",
+      "link": "https://shiftdelete.net/mkbhd-iphone-duo-iphone-18-pro-geri-donus",
+      "publishedAt": "2026-11-03T14:15:05+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Honor 700 serisi resmen duyuruldu",
+      "link": "https://shiftdelete.net/honor-700-serisi-resmen-duyuruldu",
+      "publishedAt": "2026-11-03T13:45:05+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy A38'den beklenen haber geldi: Batarya kapasitesi artıyor",
@@ -52,30 +76,6 @@
       "title": "GM'den sürücü verisi için 220 milyon dolar",
       "link": "https://shiftdelete.net/gm-surucu-verileri-220-milyon-dolar-uzlasma",
       "publishedAt": "2026-11-03T10:35:25+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Kodu Claude Code'a yazdırılan BeMatrx neler sunuyor?",
-      "link": "https://shiftdelete.net/bematrx-claude-code-yasam-simulasyonu",
-      "publishedAt": "2026-11-03T10:18:53+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 18'in özellikleri ve zam iddiası sızdı",
-      "link": "https://shiftdelete.net/iphone-18-ozellikleri-zam-iddiasi",
-      "publishedAt": "2026-11-03T09:51:23+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Redmi K20 Pro'ya iOS 16.5 kuruldu",
-      "link": "https://shiftdelete.net/redmi-k20-pro-ios-16-5-kuruldu",
-      "publishedAt": "2026-11-03T09:50:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Sunwoda katı hâl bataryası 200 °C'ye dayandı",
-      "link": "https://shiftdelete.net/sunwoda-kati-hal-bataryasi-200-derece-testi",
-      "publishedAt": "2026-11-03T09:35:00+00:00"
     },
     {
       "source": "DonanımHaber",
