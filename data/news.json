@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-03T11:28:14.419688+00:00",
+  "updatedAt": "2026-11-03T12:28:09.769756+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T11:28:14.419688+00:00",
+      "checkedAt": "2026-11-03T12:28:09.769756+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T11:28:14.419688+00:00",
+      "checkedAt": "2026-11-03T12:28:09.769756+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Elektrikli araç şarj istasyonu sayısı arttı",
+      "link": "https://shiftdelete.net/elektrikli-arac-sarj-istasyonu-sayisi-kasim-2026",
+      "publishedAt": "2026-11-03T11:50:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy A15 güncellemesi: One UI 9.0 yayında",
+      "link": "https://shiftdelete.net/galaxy-a15-guncellemesi-one-ui-9-0-yayinda",
+      "publishedAt": "2026-11-03T11:35:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Flört uygulamalarına App Store'da 18+ şartı",
@@ -64,18 +76,6 @@
       "title": "Galaxy A58'in şarj hızı belli oldu",
       "link": "https://shiftdelete.net/galaxy-a58-3c-sertifikasi-sarj-hizi",
       "publishedAt": "2026-11-03T09:05:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Zeed Mobile Türkiye'de: Modeller ve fiyatlar",
-      "link": "https://shiftdelete.net/zeed-mobile-turkiye-modeller-fiyatlar",
-      "publishedAt": "2026-11-03T08:31:13+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "2027 ehliyet harcı ve MTV zammı belli oldu",
-      "link": "https://shiftdelete.net/2027-mtv-zammi-ehliyet-harclari-belli-oldu",
-      "publishedAt": "2026-11-03T08:17:31+00:00"
     },
     {
       "source": "DonanımHaber",
