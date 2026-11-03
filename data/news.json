@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-03T02:53:39.602608+00:00",
+  "updatedAt": "2026-11-03T03:53:59.999559+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-03T02:53:39.602608+00:00",
+      "checkedAt": "2026-11-03T03:53:59.999559+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-03T02:53:39.602608+00:00",
+      "checkedAt": "2026-11-03T03:53:59.999559+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Renault Megane Yenileniyor: 1400 Km Elektrikli Menzil ve Otonom Sürüş",
+      "link": "https://shiftdelete.net/yeni-renault-megane-tesla-model-y-rakip",
+      "publishedAt": "2026-11-03T04:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "BMW'den Tesla FSD'ye rakip şehir içi asistan",
@@ -70,12 +76,6 @@
       "title": "2027 Avrupa'da Yılın Otomobili Finalistleri: Tüm Adaylar ve Türkiye Durumu",
       "link": "https://shiftdelete.net/hyundai-ioniq-3-avrupada-yilin-otomobili-finalisti",
       "publishedAt": "2026-11-02T13:31:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "SpaceX, Boost Mobile'ı almak için görüşüyor",
-      "link": "https://shiftdelete.net/spacex-boost-mobile-echostar-satin-alim-gorusmesi",
-      "publishedAt": "2026-11-02T13:23:30+00:00"
     },
     {
       "source": "DonanımHaber",
