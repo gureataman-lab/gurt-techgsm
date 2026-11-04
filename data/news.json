@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-04T15:27:45.162194+00:00",
+  "updatedAt": "2026-11-04T16:29:47.571612+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T15:27:45.162194+00:00",
+      "checkedAt": "2026-11-04T16:29:47.571612+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T15:27:45.162194+00:00",
+      "checkedAt": "2026-11-04T16:29:47.571612+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy S27 Ultra'nın maketi ortaya çıktı: İşte tasarımı",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-ultra-nin-maketi-ortaya-cikti-iste-tasarimi--212463",
+      "publishedAt": "2026-11-04T16:26:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Kia EV7 geliyor: Orta boy elektrikli SUV",
+      "link": "https://shiftdelete.net/kia-ev7-orta-boy-elektrikli-suv",
+      "publishedAt": "2026-11-04T15:51:05+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "YouTube'da Abonelikler sekmesi yer değiştirdi",
+      "link": "https://shiftdelete.net/youtube-abonelikler-sekmesi-alt-cubuktan-kaldirildi",
+      "publishedAt": "2026-11-04T15:35:54+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Amazon Kasım indirimlerinde kaçırmamanız gereken 6 ürün!",
@@ -78,18 +96,6 @@
       "publishedAt": "2026-11-04T10:17:04+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Ferrari Luce'nin 2027 üretimi tamamen tükendi",
-      "link": "https://shiftdelete.net/ferrari-luce-2027-uretimi-tukendi",
-      "publishedAt": "2026-11-04T09:32:25+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Redmi Turbo 6 Max'in bataryası 11.000 mAh olabilir",
-      "link": "https://shiftdelete.net/redmi-turbo-6-max-11000-mah-batarya",
-      "publishedAt": "2026-11-04T09:13:09+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "iOS 27.3 beta yayınlandı: Türkçe Siri AI, yeni Apple Sağlık ve fazlası",
       "link": "https://www.donanimhaber.com/ios-27-3-beta-yayinlandi-iste-iphone-lara-gelen-tum-yenilikler--212447",
@@ -124,12 +130,6 @@
       "title": "Apple servis gelirleri rekor düzeye ulaştı",
       "link": "https://www.donanimhaber.com/apple-servis-gelirleri-rekor-duzeye-ulasti--212405",
       "publishedAt": "2026-11-03T15:49:27+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy A38'den beklenen haber geldi: Batarya kapasitesi artıyor",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-a38-6-000-mah-bataryayla-gelecek--212425",
-      "publishedAt": "2026-11-03T13:19:30+00:00"
     }
   ]
 }
