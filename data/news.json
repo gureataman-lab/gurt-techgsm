@@ -1,16 +1,46 @@
 {
-  "updatedAt": "2026-11-04T05:59:58.355207+00:00",
+  "updatedAt": "2026-11-04T07:14:45.465449+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T05:59:58.355207+00:00",
+      "checkedAt": "2026-11-04T07:14:45.465449+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T05:59:58.355207+00:00",
+      "checkedAt": "2026-11-04T07:14:45.465449+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Araç muayene ücreti 2027'de ne kadar olacak?",
+      "link": "https://shiftdelete.net/arac-muayene-ucreti",
+      "publishedAt": "2026-11-04T07:06:21+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Engelli ÖTV'siz araç limiti 3.673.706 TL olacak",
+      "link": "https://shiftdelete.net/engelli-otvsiz-arac-limiti-3673706-tl",
+      "publishedAt": "2026-11-04T06:35:52+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "111 TL'lik yedek parça ilanına 1 milyon TL ceza",
+      "link": "https://shiftdelete.net/yedek-parca-ilani-1-milyon-tl-ceza",
+      "publishedAt": "2026-11-04T06:35:45+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "ZTE satılıyor! İşte fiyatı!",
+      "link": "https://shiftdelete.net/zte-akilli-telefon-bolumu-5-6-milyar-dolar",
+      "publishedAt": "2026-11-04T06:30:39+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Android telefon ömrü nasıl uzatılır?",
+      "link": "https://shiftdelete.net/android-telefon-omru-nasil-uzatilir",
+      "publishedAt": "2026-11-04T06:04:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Galaxy A38 5G'nin pili 6000 mAh olabilir",
@@ -70,36 +100,6 @@
       "title": "HyperOS 4 dağıtımı başladı: Alacak telefonlar",
       "link": "https://shiftdelete.net/hyperos-4-dagitimi-basladi-alacak-telefonlar",
       "publishedAt": "2026-11-03T15:02:33+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Lenovo IdeaPad Slim 3 16IRH10 inceleme: Uygun fiyatlı 16 inç dizüstü bilgisayar",
-      "link": "https://shiftdelete.net/lenovo-ideapad-slim-3-16irh10-inceleme-uygun-fiyatli-16-inc-dizustu-bilgisayar",
-      "publishedAt": "2026-11-03T14:58:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "RedMagic 12 Pro global pazarda satışa çıktı",
-      "link": "https://shiftdelete.net/redmagic-12-pro-global-fiyati-ozellikleri",
-      "publishedAt": "2026-11-03T14:44:53+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Nissan Fiyat Listesi Kasım 2026: Tüm Modeller",
-      "link": "https://shiftdelete.net/nissan-fiyat-listesi-haziran-2022",
-      "publishedAt": "2026-11-03T14:35:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "MKBHD, iPhone Duo'dan iPhone 18 Pro'ya döndü",
-      "link": "https://shiftdelete.net/mkbhd-iphone-duo-iphone-18-pro-geri-donus",
-      "publishedAt": "2026-11-03T14:15:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor 700 serisi resmen duyuruldu",
-      "link": "https://shiftdelete.net/honor-700-serisi-resmen-duyuruldu",
-      "publishedAt": "2026-11-03T13:45:05+00:00"
     },
     {
       "source": "DonanımHaber",
