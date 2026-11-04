@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-04T16:29:47.571612+00:00",
+  "updatedAt": "2026-11-04T17:30:04.450244+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T16:29:47.571612+00:00",
+      "checkedAt": "2026-11-04T17:30:04.450244+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T16:29:47.571612+00:00",
+      "checkedAt": "2026-11-04T17:30:04.450244+00:00",
       "ok": true
     }
   },
@@ -16,6 +16,12 @@
       "title": "Samsung Galaxy S27 Ultra'nın maketi ortaya çıktı: İşte tasarımı",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-ultra-nin-maketi-ortaya-cikti-iste-tasarimi--212463",
       "publishedAt": "2026-11-04T16:26:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "40 bin TL altı en iyi telefonlar (Kasım 2026)",
+      "link": "https://shiftdelete.net/40-bin-tl-alti-en-iyi-telefonlar-kasim-2026",
+      "publishedAt": "2026-11-04T15:54:10+00:00"
     },
     {
       "source": "ShiftDelete",
@@ -88,12 +94,6 @@
       "title": "Enerji ithalat faturası Ekim'de rekor kırdı",
       "link": "https://shiftdelete.net/enerji-ithalat-faturasi-ekim-rekor",
       "publishedAt": "2026-11-04T11:35:09+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy S27 serisinde üç farklı işlemci iddiası",
-      "link": "https://shiftdelete.net/galaxy-s27-islemcileri-exynos-snapdragon-iddiasi",
-      "publishedAt": "2026-11-04T10:17:04+00:00"
     },
     {
       "source": "DonanımHaber",
