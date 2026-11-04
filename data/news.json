@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-04T08:36:05.775629+00:00",
+  "updatedAt": "2026-11-04T10:48:10.880119+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T08:36:05.775629+00:00",
+      "checkedAt": "2026-11-04T10:48:10.880119+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T08:36:05.775629+00:00",
+      "checkedAt": "2026-11-04T10:48:10.880119+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S27 serisinde üç farklı işlemci iddiası",
+      "link": "https://shiftdelete.net/galaxy-s27-islemcileri-exynos-snapdragon-iddiasi",
+      "publishedAt": "2026-11-04T10:17:04+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Ferrari Luce'nin 2027 üretimi tamamen tükendi",
+      "link": "https://shiftdelete.net/ferrari-luce-2027-uretimi-tukendi",
+      "publishedAt": "2026-11-04T09:32:25+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Redmi Turbo 6 Max'in bataryası 11.000 mAh olabilir",
+      "link": "https://shiftdelete.net/redmi-turbo-6-max-11000-mah-batarya",
+      "publishedAt": "2026-11-04T09:13:09+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "BYD Fiyat Listesi Kasım 2026: Seal ve Tang",
@@ -60,28 +78,10 @@
       "publishedAt": "2026-11-04T06:30:39+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Android telefon ömrü nasıl uzatılır?",
-      "link": "https://shiftdelete.net/android-telefon-omru-nasil-uzatilir",
-      "publishedAt": "2026-11-04T06:04:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy A38 5G'nin pili 6000 mAh olabilir",
-      "link": "https://shiftdelete.net/galaxy-a38-5g-6000-mah-pil-fiyat",
-      "publishedAt": "2026-11-04T04:40:00+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Akıllı telefonlarda uydu devrimi: Baz istasyonu ile uydu arasında kesintisiz geçiş gerçekleştirildi",
       "link": "https://www.donanimhaber.com/akilli-telefonlar-uyduya-kesintisiz-gecis-yapabilecek--212443",
       "publishedAt": "2026-11-04T03:33:49+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "HyperOS 4 almayacak 7 Redmi ve POCO modeli",
-      "link": "https://shiftdelete.net/hyperos-4-guncelleme-listesi-redmi-poco",
-      "publishedAt": "2026-11-04T03:20:00+00:00"
     },
     {
       "source": "DonanımHaber",
