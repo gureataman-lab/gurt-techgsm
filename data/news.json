@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-04T03:55:37.276431+00:00",
+  "updatedAt": "2026-11-04T04:59:14.701244+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T03:55:37.276431+00:00",
+      "checkedAt": "2026-11-04T04:59:14.701244+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T03:55:37.276431+00:00",
+      "checkedAt": "2026-11-04T04:59:14.701244+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy A38 5G'nin pili 6000 mAh olabilir",
+      "link": "https://shiftdelete.net/galaxy-a38-5g-6000-mah-pil-fiyat",
+      "publishedAt": "2026-11-04T04:40:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Akıllı telefonlarda uydu devrimi: Baz istasyonu ile uydu arasında kesintisiz geçiş gerçekleştirildi",
@@ -100,12 +106,6 @@
       "title": "Samsung Galaxy A38'den beklenen haber geldi: Batarya kapasitesi artıyor",
       "link": "https://www.donanimhaber.com/samsung-galaxy-a38-6-000-mah-bataryayla-gelecek--212425",
       "publishedAt": "2026-11-03T13:19:30+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy A54'e One UI 9.0 dünya genelinde geldi",
-      "link": "https://shiftdelete.net/galaxy-a54-one-ui-9-0-guncellemesi-yayinda",
-      "publishedAt": "2026-11-03T13:08:14+00:00"
     },
     {
       "source": "DonanımHaber",
