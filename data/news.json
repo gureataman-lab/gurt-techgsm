@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-04T07:14:45.465449+00:00",
+  "updatedAt": "2026-11-04T08:36:05.775629+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T07:14:45.465449+00:00",
+      "checkedAt": "2026-11-04T08:36:05.775629+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T07:14:45.465449+00:00",
+      "checkedAt": "2026-11-04T08:36:05.775629+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "BYD Fiyat Listesi Kasım 2026: Seal ve Tang",
+      "link": "https://shiftdelete.net/byd-fiyat-listesi",
+      "publishedAt": "2026-11-04T08:23:22+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "One UI 9.5 beta Galaxy S26 Ultra'da göründü",
+      "link": "https://shiftdelete.net/one-ui-9-5-beta-galaxy-s26-ultra",
+      "publishedAt": "2026-11-04T07:30:46+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "ÖTV Muafiyetli Araçlar 2026 ve Yeni 2027 Limiti",
+      "link": "https://shiftdelete.net/2026-guncel-otv-muafiyetli-arac-modelleri-ve-merak-edilen-tum-detaylar",
+      "publishedAt": "2026-11-04T07:25:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "iOS 27.3 beta yayınlandı: Türkçe Siri AI, yeni Apple Sağlık ve fazlası",
+      "link": "https://www.donanimhaber.com/ios-27-3-beta-yayinlandi-iste-iphone-lara-gelen-tum-yenilikler--212447",
+      "publishedAt": "2026-11-04T07:15:06+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Araç muayene ücreti 2027'de ne kadar olacak?",
@@ -66,22 +90,10 @@
       "publishedAt": "2026-11-03T20:50:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Tesla FSD'de hız payı yüzde 10'a düşürüldü",
-      "link": "https://shiftdelete.net/tesla-fsd-avrupa-hiz-payi-yuzde-10",
-      "publishedAt": "2026-11-03T19:13:51+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Vivo V80 FE tanıtım öncesinde ortaya çıktı: 7.000 mAh batarya ve 50 MP ZEISS kameralar",
       "link": "https://www.donanimhaber.com/vivo-v80-fe-tanitim-oncesinde-ortaya-cikti-iste-ozellikleri--212422",
       "publishedAt": "2026-11-03T19:10:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple katlanabilir pazarın %30'unu alabilir",
-      "link": "https://shiftdelete.net/iphone-duo-pazar-payi-katlanabilir-2027",
-      "publishedAt": "2026-11-03T18:34:03+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -94,12 +106,6 @@
       "title": "Apple servis gelirleri rekor düzeye ulaştı",
       "link": "https://www.donanimhaber.com/apple-servis-gelirleri-rekor-duzeye-ulasti--212405",
       "publishedAt": "2026-11-03T15:49:27+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "HyperOS 4 dağıtımı başladı: Alacak telefonlar",
-      "link": "https://shiftdelete.net/hyperos-4-dagitimi-basladi-alacak-telefonlar",
-      "publishedAt": "2026-11-03T15:02:33+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Bütçe dostu Vivo Y32 5G tanıtıldı: 8.000 mAh pil ve askeri seviyede dayanıklılık",
       "link": "https://www.donanimhaber.com/butce-dostu-vivo-y32-5g-tanitildi-iste-ozellikleri--212383",
       "publishedAt": "2026-11-02T18:27:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "AnTuTu açıkladı: En güçlü Android telefonlar (Ekim 2026)",
-      "link": "https://www.donanimhaber.com/antutu-acikladi-en-guclu-android-telefonlar-ekim-2026--212364",
-      "publishedAt": "2026-11-02T11:33:00+00:00"
     }
   ]
 }
