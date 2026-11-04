@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-04T14:23:54.544910+00:00",
+  "updatedAt": "2026-11-04T15:27:45.162194+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T14:23:54.544910+00:00",
+      "checkedAt": "2026-11-04T15:27:45.162194+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T14:23:54.544910+00:00",
+      "checkedAt": "2026-11-04T15:27:45.162194+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Amazon Kasım indirimlerinde kaçırmamanız gereken 6 ürün!",
+      "link": "https://www.donanimhaber.com/amazon-kasim-indirimlerinde-kacirmamaniz-gereken-6-urun--212479",
+      "publishedAt": "2026-11-04T15:00:05+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Fiat Egea Cross Limited Efsane Serisi satışta",
+      "link": "https://shiftdelete.net/fiat-egea-cross-limited-efsane-serisi-satista",
+      "publishedAt": "2026-11-04T14:30:13+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Mercedes-Benz araç camlarını ekrana çevirecek",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-11-04T09:13:09+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "BYD Fiyat Listesi Kasım 2026: Seal ve Tang",
-      "link": "https://shiftdelete.net/byd-fiyat-listesi",
-      "publishedAt": "2026-11-04T08:23:22+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "iOS 27.3 beta yayınlandı: Türkçe Siri AI, yeni Apple Sağlık ve fazlası",
       "link": "https://www.donanimhaber.com/ios-27-3-beta-yayinlandi-iste-iphone-lara-gelen-tum-yenilikler--212447",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy A38'den beklenen haber geldi: Batarya kapasitesi artıyor",
       "link": "https://www.donanimhaber.com/samsung-galaxy-a38-6-000-mah-bataryayla-gelecek--212425",
       "publishedAt": "2026-11-03T13:19:30+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "2027 IMEI kayıt ücreti belli oldu: Amiral gemisi telefonlarla aynı fiyat!",
-      "link": "https://www.donanimhaber.com/2027-imei-kayit-ucreti-ne-kadar-olacak--212409",
-      "publishedAt": "2026-11-03T09:18:37+00:00"
     }
   ]
 }
