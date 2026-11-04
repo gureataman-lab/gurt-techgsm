@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-04T02:52:56.118089+00:00",
+  "updatedAt": "2026-11-04T03:55:37.276431+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T02:52:56.118089+00:00",
+      "checkedAt": "2026-11-04T03:55:37.276431+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T02:52:56.118089+00:00",
+      "checkedAt": "2026-11-04T03:55:37.276431+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Akıllı telefonlarda uydu devrimi: Baz istasyonu ile uydu arasında kesintisiz geçiş gerçekleştirildi",
+      "link": "https://www.donanimhaber.com/akilli-telefonlar-uyduya-kesintisiz-gecis-yapabilecek--212443",
+      "publishedAt": "2026-11-04T03:33:49+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "HyperOS 4 almayacak 7 Redmi ve POCO modeli",
+      "link": "https://shiftdelete.net/hyperos-4-guncelleme-listesi-redmi-poco",
+      "publishedAt": "2026-11-04T03:20:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Honor, 15.000 mAh bataryalı telefon geliştiriyor: Tek şarjla 1 hafta pil ömrü!",
@@ -96,12 +108,6 @@
       "publishedAt": "2026-11-03T13:08:14+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Galaxy Z Fold 9 Ultra'da yeni 200 MP kamera",
-      "link": "https://shiftdelete.net/galaxy-z-fold-9-ultra-kamera-ozellikleri",
-      "publishedAt": "2026-11-03T12:38:14+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "2027 IMEI kayıt ücreti belli oldu: Amiral gemisi telefonlarla aynı fiyat!",
       "link": "https://www.donanimhaber.com/2027-imei-kayit-ucreti-ne-kadar-olacak--212409",
@@ -124,12 +130,6 @@
       "title": "AnTuTu açıkladı: En güçlü Android telefonlar (Ekim 2026)",
       "link": "https://www.donanimhaber.com/antutu-acikladi-en-guclu-android-telefonlar-ekim-2026--212364",
       "publishedAt": "2026-11-02T11:33:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi 18 Pro serisi için küresel lansman tarihi açıklandı",
-      "link": "https://www.donanimhaber.com/xiaomi-18-pro-serisi-icin-kuresel-lansman-tarihi-aciklandi--212350",
-      "publishedAt": "2026-11-02T09:46:00+00:00"
     }
   ]
 }
