@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-04T11:57:43.383426+00:00",
+  "updatedAt": "2026-11-04T13:05:47.225578+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T11:57:43.383426+00:00",
+      "checkedAt": "2026-11-04T13:05:47.225578+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T11:57:43.383426+00:00",
+      "checkedAt": "2026-11-04T13:05:47.225578+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "ZTE, Nubia markasını elden çıkarıyor",
+      "link": "https://www.donanimhaber.com/zte-den-kritik-hamle--212445",
+      "publishedAt": "2026-11-04T11:59:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "1997 Ferrari F50 rekor fiyata satıldı",
@@ -124,12 +130,6 @@
       "title": "2027 IMEI kayıt ücreti belli oldu: Amiral gemisi telefonlarla aynı fiyat!",
       "link": "https://www.donanimhaber.com/2027-imei-kayit-ucreti-ne-kadar-olacak--212409",
       "publishedAt": "2026-11-03T09:18:37+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple'dan iPhone'lara casus yazılım uyarısı: Türkiye'den isim de var!",
-      "link": "https://www.donanimhaber.com/apple-dan-iphone-lara-casus-yazilim-bildirimi-turkiye-de-var--212399",
-      "publishedAt": "2026-11-03T07:53:02+00:00"
     }
   ]
 }
