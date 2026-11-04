@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-04T17:30:04.450244+00:00",
+  "updatedAt": "2026-11-04T18:28:28.264547+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T17:30:04.450244+00:00",
+      "checkedAt": "2026-11-04T18:28:28.264547+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T17:30:04.450244+00:00",
+      "checkedAt": "2026-11-04T18:28:28.264547+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S27 Ultra maketi ortaya çıktı",
+      "link": "https://shiftdelete.net/galaxy-s27-ultra-maketi-tasarim",
+      "publishedAt": "2026-11-04T18:11:50+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Bluetooth HDT ile bağlantı hızı 7,5 Mbps olacak",
+      "link": "https://shiftdelete.net/bluetooth-hdt-bluetooth-hizi-2027",
+      "publishedAt": "2026-11-04T17:57:11+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27 Ultra'nın maketi ortaya çıktı: İşte tasarımı",
@@ -78,22 +90,10 @@
       "publishedAt": "2026-11-04T11:59:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "1997 Ferrari F50 rekor fiyata satıldı",
-      "link": "https://shiftdelete.net/ferrari-f50-las-vegas-rekor-satis",
-      "publishedAt": "2026-11-04T11:50:16+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "TCL, kağıt hissi sunan NXTPAPER teknolojisini telefonlara taşıyor",
       "link": "https://www.donanimhaber.com/tcl-kagit-hissi-sunan-nxtpaper-teknolojisini-telefonlara-tasiyor--212451",
       "publishedAt": "2026-11-04T11:38:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Enerji ithalat faturası Ekim'de rekor kırdı",
-      "link": "https://shiftdelete.net/enerji-ithalat-faturasi-ekim-rekor",
-      "publishedAt": "2026-11-04T11:35:09+00:00"
     },
     {
       "source": "DonanımHaber",
