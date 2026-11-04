@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-04T19:37:31.838461+00:00",
+  "updatedAt": "2026-11-04T20:54:37.713269+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-04T19:37:31.838461+00:00",
+      "checkedAt": "2026-11-04T20:54:37.713269+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-04T19:37:31.838461+00:00",
+      "checkedAt": "2026-11-04T20:54:37.713269+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Galaxy S27 Pro'da Snapdragon sürprizi: S27 Ultra'dan farklı olacak",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-uc-farkli-islemci-yer-alacak--212485",
+      "publishedAt": "2026-11-04T20:26:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Galaxy S27 Ultra maketi ortaya çıktı",
@@ -48,6 +54,12 @@
       "publishedAt": "2026-11-04T15:35:54+00:00"
     },
     {
+      "source": "ShiftDelete",
+      "title": "Oyun Laptopunda Dayanıklılık Nasıl Ölçülür? Casper Excalibur G870 Test Sonuçları",
+      "link": "https://shiftdelete.net/oyun-laptopunda-dayaniklilik-nasil-olculur-casper-excalibur-g870-test-sonuclari",
+      "publishedAt": "2026-11-04T15:30:00+00:00"
+    },
+    {
       "source": "DonanımHaber",
       "title": "Amazon Kasım indirimlerinde kaçırmamanız gereken 6 ürün!",
       "link": "https://www.donanimhaber.com/amazon-kasim-indirimlerinde-kacirmamaniz-gereken-6-urun--212479",
@@ -76,12 +88,6 @@
       "title": "Skoda Fiyat Listesi Kasım 2026: Tüm Modeller",
       "link": "https://shiftdelete.net/skoda-fiyat-listesi",
       "publishedAt": "2026-11-04T13:30:45+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 18e'de ana yenilik çip olacak",
-      "link": "https://shiftdelete.net/iphone-18e-cip-yukseltmesi-sizinti",
-      "publishedAt": "2026-11-04T13:05:04+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Samsung, Galaxy S27 serisinde ekran gizliliğini geliştiriyor",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-ekran-gizliligini-gelistiriyor--212411",
       "publishedAt": "2026-11-03T17:50:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple servis gelirleri rekor düzeye ulaştı",
-      "link": "https://www.donanimhaber.com/apple-servis-gelirleri-rekor-duzeye-ulasti--212405",
-      "publishedAt": "2026-11-03T15:49:27+00:00"
     }
   ]
 }
