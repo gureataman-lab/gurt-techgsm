@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-05T03:26:45.012263+00:00",
+  "updatedAt": "2026-11-05T04:34:14.793719+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T03:26:45.012263+00:00",
+      "checkedAt": "2026-11-05T04:34:14.793719+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T03:26:45.012263+00:00",
+      "checkedAt": "2026-11-05T04:34:14.793719+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Waymo, Uber ile yollarını Ocak 2028'de ayırıyor",
+      "link": "https://shiftdelete.net/waymo-uber-ortakligi-ocak-2028-bitiyor",
+      "publishedAt": "2026-11-05T04:19:39+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Qualcomm bilançosu: Otomotiv rekor kırdı",
+      "link": "https://shiftdelete.net/qualcomm-bilanco-q4-fy26",
+      "publishedAt": "2026-11-05T04:05:04+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Almanya'da elektrikli araç payı %37 ile rekor kırdı",
+      "link": "https://shiftdelete.net/almanya-elektrikli-arac-payi-rekor-37",
+      "publishedAt": "2026-11-05T03:39:47+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Quick Share iPhone desteği SDK ile geliyor",
@@ -70,24 +88,6 @@
       "title": "Amazon Kasım indirimlerinde kaçırmamanız gereken 6 ürün!",
       "link": "https://www.donanimhaber.com/amazon-kasim-indirimlerinde-kacirmamaniz-gereken-6-urun--212479",
       "publishedAt": "2026-11-04T15:00:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Fiat Egea Cross Limited Efsane Serisi satışta",
-      "link": "https://shiftdelete.net/fiat-egea-cross-limited-efsane-serisi-satista",
-      "publishedAt": "2026-11-04T14:30:13+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Mercedes-Benz araç camlarını ekrana çevirecek",
-      "link": "https://shiftdelete.net/mercedes-benz-arac-camlari-ekran",
-      "publishedAt": "2026-11-04T14:15:06+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 18 Pro'da depolama farkı maliyetin 3 katı",
-      "link": "https://shiftdelete.net/iphone-18-pro-depolama-maliyet-zammi",
-      "publishedAt": "2026-11-04T13:59:57+00:00"
     },
     {
       "source": "DonanımHaber",
