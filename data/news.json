@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-05T02:15:34.982030+00:00",
+  "updatedAt": "2026-11-05T03:26:45.012263+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T02:15:34.982030+00:00",
+      "checkedAt": "2026-11-05T03:26:45.012263+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T02:15:34.982030+00:00",
+      "checkedAt": "2026-11-05T03:26:45.012263+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Quick Share iPhone desteği SDK ile geliyor",
+      "link": "https://shiftdelete.net/quick-share-iphone-destegi-sdk-android",
+      "publishedAt": "2026-11-05T03:20:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Galaxy S27 Pro'da Snapdragon sürprizi: S27 Ultra'dan farklı olacak",
@@ -82,12 +88,6 @@
       "title": "iPhone 18 Pro'da depolama farkı maliyetin 3 katı",
       "link": "https://shiftdelete.net/iphone-18-pro-depolama-maliyet-zammi",
       "publishedAt": "2026-11-04T13:59:57+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Skoda Fiyat Listesi Kasım 2026: Tüm Modeller",
-      "link": "https://shiftdelete.net/skoda-fiyat-listesi",
-      "publishedAt": "2026-11-04T13:30:45+00:00"
     },
     {
       "source": "DonanımHaber",
