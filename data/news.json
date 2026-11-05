@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-05T19:31:59.435480+00:00",
+  "updatedAt": "2026-11-05T20:25:26.389470+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T19:31:59.435480+00:00",
+      "checkedAt": "2026-11-05T20:25:26.389470+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T19:31:59.435480+00:00",
+      "checkedAt": "2026-11-05T20:25:26.389470+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "OPPO 12.000 mAh bataryalı telefon hazırlıyor",
+      "link": "https://shiftdelete.net/oppo-12000-mah-bataryali-telefon-geliyor",
+      "publishedAt": "2026-11-05T20:10:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Nova 17 Pro'nun özellikleri sızdı",
+      "link": "https://shiftdelete.net/huawei-nova-17-pro-ozellikleri-sizdi",
+      "publishedAt": "2026-11-05T19:55:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Peugeot Fiyat Listesi Kasım 2026: En Ucuzu E-208",
@@ -76,18 +88,6 @@
       "title": "ZEED, Türkiye pazarına giriş yaptı: Uygun fiyat, yüksek performans",
       "link": "https://www.donanimhaber.com/zeed-turkiye-pazarina-giris-yapti-uygun-fiyat-yuksek-performans--212545",
       "publishedAt": "2026-11-05T15:28:34+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "40 Ton E-Atık Çocukların Geleceğine ve Doğaya Dönüştü Nasıl Dönüştü?",
-      "link": "https://shiftdelete.net/40-ton-e-atik-cocuklarin-gelecegine-ve-dogaya-donustu-nasil-donustu",
-      "publishedAt": "2026-11-05T15:25:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Android'de Switch 2 oyunları emülatörle çalışıyor",
-      "link": "https://shiftdelete.net/android-switch-2-oyunlari-emulator-bananative",
-      "publishedAt": "2026-11-05T15:24:52+00:00"
     },
     {
       "source": "DonanımHaber",
