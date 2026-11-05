@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-05T13:51:35.408560+00:00",
+  "updatedAt": "2026-11-05T14:59:32.969619+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T13:51:35.408560+00:00",
+      "checkedAt": "2026-11-05T14:59:32.969619+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T13:51:35.408560+00:00",
+      "checkedAt": "2026-11-05T14:59:32.969619+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone Duo stokçuların elinde patladı: İkinci el fiyatı da düşüyor!",
+      "link": "https://www.donanimhaber.com/iphone-duo-stokcularin-elinde-patladi-2-el-fiyati-dusuyor--212509",
+      "publishedAt": "2026-11-05T14:17:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "WhatsApp'a yapay zekalı fotoğraf genişletme geliyor",
+      "link": "https://shiftdelete.net/whatsapp-fotograf-genisletme-android-meta-ai",
+      "publishedAt": "2026-11-05T13:54:55+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Huawei Mate 80 Air aralıkta tanıtılabilir",
@@ -72,12 +84,6 @@
       "publishedAt": "2026-11-05T11:39:50+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "ZTE telefon işinin satışı iddiasını yalanladı",
-      "link": "https://shiftdelete.net/zte-telefon-isi-satis-iddiasi-yalanlandi",
-      "publishedAt": "2026-11-05T11:24:40+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Galaxy S27 Pro'da Snapdragon sürprizi: S27 Ultra'dan farklı olacak",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-uc-farkli-islemci-yer-alacak--212485",
@@ -124,12 +130,6 @@
       "title": "Honor, 15.000 mAh bataryalı telefon geliştiriyor: Tek şarjla 1 hafta pil ömrü!",
       "link": "https://www.donanimhaber.com/honor-15-000-mah-bataryali-telefon-gelistiriyor--212438",
       "publishedAt": "2026-11-03T20:50:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Vivo V80 FE tanıtım öncesinde ortaya çıktı: 7.000 mAh batarya ve 50 MP ZEISS kameralar",
-      "link": "https://www.donanimhaber.com/vivo-v80-fe-tanitim-oncesinde-ortaya-cikti-iste-ozellikleri--212422",
-      "publishedAt": "2026-11-03T19:10:00+00:00"
     }
   ]
 }
