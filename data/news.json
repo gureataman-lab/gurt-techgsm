@@ -1,16 +1,46 @@
 {
-  "updatedAt": "2026-11-05T14:59:32.969619+00:00",
+  "updatedAt": "2026-11-05T16:01:56.225096+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T14:59:32.969619+00:00",
+      "checkedAt": "2026-11-05T16:01:56.225096+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T14:59:32.969619+00:00",
+      "checkedAt": "2026-11-05T16:01:56.225096+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Kasım 2026'da çıkması beklenen telefonlar",
+      "link": "https://shiftdelete.net/kasim-2026-telefonlari-motorola-oppo-honor-vivo",
+      "publishedAt": "2026-11-05T15:39:32+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "ZEED, Türkiye pazarına giriş yaptı: Uygun fiyat, yüksek performans",
+      "link": "https://www.donanimhaber.com/zeed-turkiye-pazarina-giris-yapti-uygun-fiyat-yuksek-performans--212545",
+      "publishedAt": "2026-11-05T15:28:34+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "40 Ton E-Atık Çocukların Geleceğine ve Doğaya Dönüştü Nasıl Dönüştü?",
+      "link": "https://shiftdelete.net/40-ton-e-atik-cocuklarin-gelecegine-ve-dogaya-donustu-nasil-donustu",
+      "publishedAt": "2026-11-05T15:25:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Android'de Switch 2 oyunları emülatörle çalışıyor",
+      "link": "https://shiftdelete.net/android-switch-2-oyunlari-emulator-bananative",
+      "publishedAt": "2026-11-05T15:24:52+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Seat Fiyat Listesi Kasım 2026: En Ucuzu Ibiza",
+      "link": "https://shiftdelete.net/seat-fiyat-listesi",
+      "publishedAt": "2026-11-05T15:17:41+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone Duo stokçuların elinde patladı: İkinci el fiyatı da düşüyor!",
@@ -54,34 +84,10 @@
       "publishedAt": "2026-11-05T12:54:34+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Opel Fiyat Listesi Kasım 2026: Tüm Modeller",
-      "link": "https://shiftdelete.net/opel-kasim-2026-fiyat-listesi",
-      "publishedAt": "2026-11-05T12:24:49+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Renault Boreal Fiyatı Kasım 2026: Kampanyalar",
-      "link": "https://shiftdelete.net/renault-boreal-fiyat",
-      "publishedAt": "2026-11-05T12:22:57+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Benzine 6,08 TL indirim bekleniyor",
-      "link": "https://shiftdelete.net/benzine-indirim-6-kasim-2026-akaryakit-fiyatlari",
-      "publishedAt": "2026-11-05T11:45:38+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Akıllı telefonlara yeni zam kapıda: Samsung OLED panel fiyatlarını artırıyor",
       "link": "https://www.donanimhaber.com/samsung-oled-ekran-fiyatlarini-20-dolara-kadar-artirabilir--212495",
       "publishedAt": "2026-11-05T11:43:19+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo karaborsacıları zarar ediyor",
-      "link": "https://shiftdelete.net/iphone-duo-karaborsa-fiyatlari-coktu",
-      "publishedAt": "2026-11-05T11:39:50+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Akıllı telefonlarda uydu devrimi: Baz istasyonu ile uydu arasında kesintisiz geçiş gerçekleştirildi",
       "link": "https://www.donanimhaber.com/akilli-telefonlar-uyduya-kesintisiz-gecis-yapabilecek--212443",
       "publishedAt": "2026-11-04T03:33:49+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor, 15.000 mAh bataryalı telefon geliştiriyor: Tek şarjla 1 hafta pil ömrü!",
-      "link": "https://www.donanimhaber.com/honor-15-000-mah-bataryali-telefon-gelistiriyor--212438",
-      "publishedAt": "2026-11-03T20:50:00+00:00"
     }
   ]
 }
