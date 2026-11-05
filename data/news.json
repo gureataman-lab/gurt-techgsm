@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-05T18:17:19.153197+00:00",
+  "updatedAt": "2026-11-05T19:31:59.435480+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T18:17:19.153197+00:00",
+      "checkedAt": "2026-11-05T19:31:59.435480+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T18:17:19.153197+00:00",
+      "checkedAt": "2026-11-05T19:31:59.435480+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Peugeot Fiyat Listesi Kasım 2026: En Ucuzu E-208",
+      "link": "https://shiftdelete.net/peugeot-fiyat-listesi",
+      "publishedAt": "2026-11-05T18:37:44+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Skoda Karoq Yeni Prestige Türkiye'de satışta",
@@ -82,12 +88,6 @@
       "title": "Android'de Switch 2 oyunları emülatörle çalışıyor",
       "link": "https://shiftdelete.net/android-switch-2-oyunlari-emulator-bananative",
       "publishedAt": "2026-11-05T15:24:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Seat Fiyat Listesi Kasım 2026: En Ucuzu Ibiza",
-      "link": "https://shiftdelete.net/seat-fiyat-listesi",
-      "publishedAt": "2026-11-05T15:17:41+00:00"
     },
     {
       "source": "DonanımHaber",
