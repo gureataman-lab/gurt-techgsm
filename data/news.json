@@ -1,16 +1,64 @@
 {
-  "updatedAt": "2026-11-05T11:10:55.157359+00:00",
+  "updatedAt": "2026-11-05T12:32:04.290091+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T11:10:55.157359+00:00",
+      "checkedAt": "2026-11-05T12:32:04.290091+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T11:10:55.157359+00:00",
+      "checkedAt": "2026-11-05T12:32:04.290091+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Opel Fiyat Listesi Kasım 2026: Tüm Modeller",
+      "link": "https://shiftdelete.net/opel-kasim-2026-fiyat-listesi",
+      "publishedAt": "2026-11-05T12:24:49+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Renault Boreal Fiyatı Kasım 2026: Kampanyalar",
+      "link": "https://shiftdelete.net/renault-boreal-fiyat",
+      "publishedAt": "2026-11-05T12:22:57+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Benzine 6,08 TL indirim bekleniyor",
+      "link": "https://shiftdelete.net/benzine-indirim-6-kasim-2026-akaryakit-fiyatlari",
+      "publishedAt": "2026-11-05T11:45:38+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Akıllı telefonlara yeni zam kapıda: Samsung OLED panel fiyatlarını artırıyor",
+      "link": "https://www.donanimhaber.com/samsung-oled-ekran-fiyatlarini-20-dolara-kadar-artirabilir--212495",
+      "publishedAt": "2026-11-05T11:43:19+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo karaborsacıları zarar ediyor",
+      "link": "https://shiftdelete.net/iphone-duo-karaborsa-fiyatlari-coktu",
+      "publishedAt": "2026-11-05T11:39:50+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "ZTE telefon işinin satışı iddiasını yalanladı",
+      "link": "https://shiftdelete.net/zte-telefon-isi-satis-iddiasi-yalanlandi",
+      "publishedAt": "2026-11-05T11:24:40+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Hyundai Fiyat Listesi Kasım 2026: Tüm Modeller",
+      "link": "https://shiftdelete.net/hyundai-fiyat-listesi",
+      "publishedAt": "2026-11-05T11:17:31+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Honor Magic 9 Pro Max kamera örnekleri geldi",
+      "link": "https://shiftdelete.net/honor-magic-9-pro-max-kamera-ornekleri",
+      "publishedAt": "2026-11-05T11:09:31+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Huawei Osta: O1 ve O1 Pro geliyor iddiası",
@@ -28,54 +76,6 @@
       "title": "Xperia 10 VIII için Android 17 dağıtımı başladı",
       "link": "https://shiftdelete.net/xperia-10-viii-android-17-guncellemesi",
       "publishedAt": "2026-11-05T10:09:49+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "7 inç ekranlı 4 telefon geliyor",
-      "link": "https://shiftdelete.net/7-inc-ekranli-dort-telefon-geliyor",
-      "publishedAt": "2026-11-05T09:54:40+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Enough Phone: 5,3 inç ve çıkarılabilir pil ile geliyor",
-      "link": "https://shiftdelete.net/enough-phone-kickstarter-5-3-inc-degistirilebilir-pil",
-      "publishedAt": "2026-11-05T09:39:30+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Numara Sorgulama: Arayanı Bulmanın 5 Yasal Yolu",
-      "link": "https://shiftdelete.net/ucretsiz-numara-sorgulama",
-      "publishedAt": "2026-11-05T09:16:15+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Xiaomi, Pura X View'a rakip telefon hazırlıyor",
-      "link": "https://shiftdelete.net/xiaomi-pura-x-view-rakibi-genis-telefon",
-      "publishedAt": "2026-11-05T08:54:32+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Huawei Nova 16 serisi 3 milyonu aştı",
-      "link": "https://shiftdelete.net/huawei-nova-16-serisi-3-milyon-satis",
-      "publishedAt": "2026-11-05T08:24:43+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPad Fiyatları Kasım 2026: En Ucuzu 31.999 TL",
-      "link": "https://shiftdelete.net/apple-turkiyedeki-ipad-fiyatlarini-guncelledi-iste-yeni-zamli-liste",
-      "publishedAt": "2026-11-05T08:14:55+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "OnePlus, Android 17 tarihlerini açıkladı",
-      "link": "https://shiftdelete.net/oneplus-android-17-guncelleme-tarihleri-belli-oldu",
-      "publishedAt": "2026-11-05T08:09:32+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Akıllı telefonlara yeni zam kapıda: Samsung OLED panel fiyatlarını artırıyor",
-      "link": "https://www.donanimhaber.com/samsung-oled-ekran-fiyatlarini-20-dolara-kadar-artirabilir--212495",
-      "publishedAt": "2026-11-05T07:29:00+00:00"
     },
     {
       "source": "DonanımHaber",
