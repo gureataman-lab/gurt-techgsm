@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-05T16:01:56.225096+00:00",
+  "updatedAt": "2026-11-05T17:15:34.683074+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T16:01:56.225096+00:00",
+      "checkedAt": "2026-11-05T17:15:34.683074+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T16:01:56.225096+00:00",
+      "checkedAt": "2026-11-05T17:15:34.683074+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Honor WIN 2 Master Lu listesinde zirveye çıktı",
+      "link": "https://shiftdelete.net/honor-win-2-master-lu-listesinde-zirvede",
+      "publishedAt": "2026-11-05T17:10:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Google Play'e oyun hediye etme özelliği geliyor",
+      "link": "https://shiftdelete.net/google-play-hediye-ozelligi-oyun-gonderme",
+      "publishedAt": "2026-11-05T16:55:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "One UI 9'da yeni sorun: İnternet kopuyor, SIM kart algılanmıyor!",
+      "link": "https://www.donanimhaber.com/one-ui-9-da-yeni-sorun-internet-kopuyor-sim-kart-algilanmiyor--212518",
+      "publishedAt": "2026-11-05T16:32:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Chery Fiyat Listesi Kasım 2026: En Ucuzu Tiggo 7",
+      "link": "https://shiftdelete.net/chery-fiyat-listesi",
+      "publishedAt": "2026-11-05T16:20:18+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Kasım 2026'da çıkması beklenen telefonlar",
@@ -66,24 +90,6 @@
       "publishedAt": "2026-11-05T13:20:23+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Spotify sesli kitapları Türkiye'ye getirdi",
-      "link": "https://shiftdelete.net/spotify-sesli-kitaplar-turkiye-de",
-      "publishedAt": "2026-11-05T13:17:49+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Volvo Fiyat Listesi Kasım 2026: Tüm Modeller",
-      "link": "https://shiftdelete.net/volvo-kasim-2026-fiyat-listesi",
-      "publishedAt": "2026-11-05T13:09:55+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honda Fiyat Listesi Kasım 2026: Tüm Modeller",
-      "link": "https://shiftdelete.net/honda-kasim-2026-fiyat-listesi",
-      "publishedAt": "2026-11-05T12:54:34+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Akıllı telefonlara yeni zam kapıda: Samsung OLED panel fiyatlarını artırıyor",
       "link": "https://www.donanimhaber.com/samsung-oled-ekran-fiyatlarini-20-dolara-kadar-artirabilir--212495",
@@ -124,12 +130,6 @@
       "title": "iOS 27.3 beta yayınlandı: Türkçe Siri AI, yeni Apple Sağlık ve fazlası",
       "link": "https://www.donanimhaber.com/ios-27-3-beta-yayinlandi-iste-iphone-lara-gelen-tum-yenilikler--212447",
       "publishedAt": "2026-11-04T07:15:06+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Akıllı telefonlarda uydu devrimi: Baz istasyonu ile uydu arasında kesintisiz geçiş gerçekleştirildi",
-      "link": "https://www.donanimhaber.com/akilli-telefonlar-uyduya-kesintisiz-gecis-yapabilecek--212443",
-      "publishedAt": "2026-11-04T03:33:49+00:00"
     }
   ]
 }
