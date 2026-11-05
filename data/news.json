@@ -1,16 +1,46 @@
 {
-  "updatedAt": "2026-11-05T12:32:04.290091+00:00",
+  "updatedAt": "2026-11-05T13:51:35.408560+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T12:32:04.290091+00:00",
+      "checkedAt": "2026-11-05T13:51:35.408560+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T12:32:04.290091+00:00",
+      "checkedAt": "2026-11-05T13:51:35.408560+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Mate 80 Air aralıkta tanıtılabilir",
+      "link": "https://shiftdelete.net/huawei-mate-80-air-aralik-tanitim",
+      "publishedAt": "2026-11-05T13:24:35+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Motorola Signature 27 tanıtıldı: 7.000 mAh pil",
+      "link": "https://shiftdelete.net/motorola-signature-27-fiyati-ozellikleri",
+      "publishedAt": "2026-11-05T13:20:23+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Spotify sesli kitapları Türkiye'ye getirdi",
+      "link": "https://shiftdelete.net/spotify-sesli-kitaplar-turkiye-de",
+      "publishedAt": "2026-11-05T13:17:49+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Volvo Fiyat Listesi Kasım 2026: Tüm Modeller",
+      "link": "https://shiftdelete.net/volvo-kasim-2026-fiyat-listesi",
+      "publishedAt": "2026-11-05T13:09:55+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Honda Fiyat Listesi Kasım 2026: Tüm Modeller",
+      "link": "https://shiftdelete.net/honda-kasim-2026-fiyat-listesi",
+      "publishedAt": "2026-11-05T12:54:34+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Opel Fiyat Listesi Kasım 2026: Tüm Modeller",
@@ -46,36 +76,6 @@
       "title": "ZTE telefon işinin satışı iddiasını yalanladı",
       "link": "https://shiftdelete.net/zte-telefon-isi-satis-iddiasi-yalanlandi",
       "publishedAt": "2026-11-05T11:24:40+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Hyundai Fiyat Listesi Kasım 2026: Tüm Modeller",
-      "link": "https://shiftdelete.net/hyundai-fiyat-listesi",
-      "publishedAt": "2026-11-05T11:17:31+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor Magic 9 Pro Max kamera örnekleri geldi",
-      "link": "https://shiftdelete.net/honor-magic-9-pro-max-kamera-ornekleri",
-      "publishedAt": "2026-11-05T11:09:31+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Huawei Osta: O1 ve O1 Pro geliyor iddiası",
-      "link": "https://shiftdelete.net/huawei-osta-o1-o1-pro-telefon-iddiasi",
-      "publishedAt": "2026-11-05T10:39:40+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy Z Fold 8 kamerası üç ayda yetersiz kaldı",
-      "link": "https://shiftdelete.net/galaxy-z-fold-8-kamerasi-uc-ayda-yetersiz",
-      "publishedAt": "2026-11-05T10:24:59+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Xperia 10 VIII için Android 17 dağıtımı başladı",
-      "link": "https://shiftdelete.net/xperia-10-viii-android-17-guncellemesi",
-      "publishedAt": "2026-11-05T10:09:49+00:00"
     },
     {
       "source": "DonanımHaber",
