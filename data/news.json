@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-05T10:05:57.136182+00:00",
+  "updatedAt": "2026-11-05T11:10:55.157359+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T10:05:57.136182+00:00",
+      "checkedAt": "2026-11-05T11:10:55.157359+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T10:05:57.136182+00:00",
+      "checkedAt": "2026-11-05T11:10:55.157359+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Osta: O1 ve O1 Pro geliyor iddiası",
+      "link": "https://shiftdelete.net/huawei-osta-o1-o1-pro-telefon-iddiasi",
+      "publishedAt": "2026-11-05T10:39:40+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy Z Fold 8 kamerası üç ayda yetersiz kaldı",
+      "link": "https://shiftdelete.net/galaxy-z-fold-8-kamerasi-uc-ayda-yetersiz",
+      "publishedAt": "2026-11-05T10:24:59+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Xperia 10 VIII için Android 17 dağıtımı başladı",
+      "link": "https://shiftdelete.net/xperia-10-viii-android-17-guncellemesi",
+      "publishedAt": "2026-11-05T10:09:49+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "7 inç ekranlı 4 telefon geliyor",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-11-05T08:09:32+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Telefonlara zam kapıda: Samsung OLED zammı",
-      "link": "https://shiftdelete.net/samsung-oled-panel-zammi-2027-telefon-fiyatlari",
-      "publishedAt": "2026-11-05T07:45:44+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Xiaomi'nin insansı robotları 8 saat çalıştı",
-      "link": "https://shiftdelete.net/xiaomi-insansi-robot-otomobil-fabrikasi-video",
-      "publishedAt": "2026-11-05T07:39:37+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Akıllı telefonlara yeni zam kapıda: Samsung OLED panel fiyatlarını artırıyor",
       "link": "https://www.donanimhaber.com/samsung-oled-ekran-fiyatlarini-20-dolara-kadar-artirabilir--212495",
       "publishedAt": "2026-11-05T07:29:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor Magic 9 Pro Max global sürümü tanıtıldı",
-      "link": "https://shiftdelete.net/honor-magic-9-pro-max-global-surum-ozellikleri",
-      "publishedAt": "2026-11-05T07:24:46+00:00"
     },
     {
       "source": "DonanımHaber",
