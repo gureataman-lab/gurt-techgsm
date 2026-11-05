@@ -1,16 +1,64 @@
 {
-  "updatedAt": "2026-11-05T07:20:02.887371+00:00",
+  "updatedAt": "2026-11-05T08:38:32.691700+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T07:20:02.887371+00:00",
+      "checkedAt": "2026-11-05T08:38:32.691700+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T07:20:02.887371+00:00",
+      "checkedAt": "2026-11-05T08:38:32.691700+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Nova 16 serisi 3 milyonu aştı",
+      "link": "https://shiftdelete.net/huawei-nova-16-serisi-3-milyon-satis",
+      "publishedAt": "2026-11-05T08:24:43+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPad Fiyatları Kasım 2026: En Ucuzu 31.999 TL",
+      "link": "https://shiftdelete.net/apple-turkiyedeki-ipad-fiyatlarini-guncelledi-iste-yeni-zamli-liste",
+      "publishedAt": "2026-11-05T08:14:55+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "OnePlus, Android 17 tarihlerini açıkladı",
+      "link": "https://shiftdelete.net/oneplus-android-17-guncelleme-tarihleri-belli-oldu",
+      "publishedAt": "2026-11-05T08:09:32+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Telefonlara zam kapıda: Samsung OLED zammı",
+      "link": "https://shiftdelete.net/samsung-oled-panel-zammi-2027-telefon-fiyatlari",
+      "publishedAt": "2026-11-05T07:45:44+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Xiaomi'nin insansı robotları 8 saat çalıştı",
+      "link": "https://shiftdelete.net/xiaomi-insansi-robot-otomobil-fabrikasi-video",
+      "publishedAt": "2026-11-05T07:39:37+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Akıllı telefonlara yeni zam kapıda: Samsung OLED panel fiyatlarını artırıyor",
+      "link": "https://www.donanimhaber.com/samsung-oled-ekran-fiyatlarini-20-dolara-kadar-artirabilir--212495",
+      "publishedAt": "2026-11-05T07:29:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Honor Magic 9 Pro Max global sürümü tanıtıldı",
+      "link": "https://shiftdelete.net/honor-magic-9-pro-max-global-surum-ozellikleri",
+      "publishedAt": "2026-11-05T07:24:46+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Numara Taşıma Nasıl Yapılır? 4 Günde Geçiş",
+      "link": "https://shiftdelete.net/numara-tasima-nasil-yapilir",
+      "publishedAt": "2026-11-05T07:19:01+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "HONOR 15.000 mAh pilli telefonu test ediyor",
@@ -30,58 +78,16 @@
       "publishedAt": "2026-11-05T04:05:04+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Almanya'da elektrikli araç payı %37 ile rekor kırdı",
-      "link": "https://shiftdelete.net/almanya-elektrikli-arac-payi-rekor-37",
-      "publishedAt": "2026-11-05T03:39:47+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Quick Share iPhone desteği SDK ile geliyor",
-      "link": "https://shiftdelete.net/quick-share-iphone-destegi-sdk-android",
-      "publishedAt": "2026-11-05T03:20:00+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Galaxy S27 Pro'da Snapdragon sürprizi: S27 Ultra'dan farklı olacak",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-uc-farkli-islemci-yer-alacak--212485",
       "publishedAt": "2026-11-04T20:26:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Galaxy S27 Ultra maketi ortaya çıktı",
-      "link": "https://shiftdelete.net/galaxy-s27-ultra-maketi-tasarim",
-      "publishedAt": "2026-11-04T18:11:50+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Bluetooth HDT ile bağlantı hızı 7,5 Mbps olacak",
-      "link": "https://shiftdelete.net/bluetooth-hdt-bluetooth-hizi-2027",
-      "publishedAt": "2026-11-04T17:57:11+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27 Ultra'nın maketi ortaya çıktı: İşte tasarımı",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-ultra-nin-maketi-ortaya-cikti-iste-tasarimi--212463",
       "publishedAt": "2026-11-04T16:26:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "40 bin TL altı en iyi telefonlar (Kasım 2026)",
-      "link": "https://shiftdelete.net/40-bin-tl-alti-en-iyi-telefonlar-kasim-2026",
-      "publishedAt": "2026-11-04T15:54:10+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Kia EV7 geliyor: Orta boy elektrikli SUV",
-      "link": "https://shiftdelete.net/kia-ev7-orta-boy-elektrikli-suv",
-      "publishedAt": "2026-11-04T15:51:05+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "YouTube'da Abonelikler sekmesi yer değiştirdi",
-      "link": "https://shiftdelete.net/youtube-abonelikler-sekmesi-alt-cubuktan-kaldirildi",
-      "publishedAt": "2026-11-04T15:35:54+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Vivo V80 FE tanıtım öncesinde ortaya çıktı: 7.000 mAh batarya ve 50 MP ZEISS kameralar",
       "link": "https://www.donanimhaber.com/vivo-v80-fe-tanitim-oncesinde-ortaya-cikti-iste-ozellikleri--212422",
       "publishedAt": "2026-11-03T19:10:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, Galaxy S27 serisinde ekran gizliliğini geliştiriyor",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-ekran-gizliligini-gelistiriyor--212411",
-      "publishedAt": "2026-11-03T17:50:00+00:00"
     }
   ]
 }
