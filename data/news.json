@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-06T10:38:23.800897+00:00",
+  "updatedAt": "2026-11-06T11:54:52.879206+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T10:38:23.800897+00:00",
+      "checkedAt": "2026-11-06T11:54:52.879206+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T10:38:23.800897+00:00",
+      "checkedAt": "2026-11-06T11:54:52.879206+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Tesla Türkiye'de ikinci el ve takas programını başlattı",
+      "link": "https://shiftdelete.net/tesla-sertifikali-ikinci-el-takas-turkiye",
+      "publishedAt": "2026-11-06T11:13:17+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Elektronik atıklar böyle dönüştürülüyormuş - Tesis turu!",
+      "link": "https://www.donanimhaber.com/elektronik-atiklar-boyle-donusturuluyormus-tesis-turu--212568",
+      "publishedAt": "2026-11-06T11:06:15+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Gerçek menzil testinde zirve Kia EV2'nin",
+      "link": "https://shiftdelete.net/elektrikli-otomobil-gercek-menzil-testi-ecobest-2026",
+      "publishedAt": "2026-11-06T11:05:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "KM Sorgulama Nasıl Yapılır? e-Devlet",
+      "link": "https://shiftdelete.net/km-sorgulama",
+      "publishedAt": "2026-11-06T10:43:17+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Oppo Find X10 Ultra iptal edilmiş olabilir",
@@ -60,24 +84,6 @@
       "publishedAt": "2026-11-06T06:17:25+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Apple akıllı telefon gelirinin yarısını topladı",
-      "link": "https://shiftdelete.net/apple-akilli-telefon-geliri-ucuncu-ceyrek-rekor",
-      "publishedAt": "2026-11-06T03:40:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "One UI 9 SIM kart ve Wi-Fi sorunu yaygınlaşıyor",
-      "link": "https://shiftdelete.net/one-ui-9-sim-kart-sorunu-wifi-kopuyor",
-      "publishedAt": "2026-11-06T03:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "NVIDIA Cosmos 3 otonom testleri değiştiriyor",
-      "link": "https://shiftdelete.net/nvidia-cosmos-3-nano-otonom",
-      "publishedAt": "2026-11-05T23:17:53+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Huawei'nin yeni markası Osta'nın ilk telefonları ortaya çıktı",
       "link": "https://www.donanimhaber.com/huawei-nin-yeni-markasi-osta-nin-ilk-telefonlari-ortaya-cikti--212507",
@@ -124,12 +130,6 @@
       "title": "Amazon Kasım indirimlerinde kaçırmamanız gereken 6 ürün!",
       "link": "https://www.donanimhaber.com/amazon-kasim-indirimlerinde-kacirmamaniz-gereken-6-urun--212479",
       "publishedAt": "2026-11-04T15:00:05+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "ZTE, Nubia markasını elden çıkarıyor",
-      "link": "https://www.donanimhaber.com/zte-den-kritik-hamle--212445",
-      "publishedAt": "2026-11-04T11:59:00+00:00"
     }
   ]
 }
