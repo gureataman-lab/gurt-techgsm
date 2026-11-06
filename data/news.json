@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-06T09:31:29.369280+00:00",
+  "updatedAt": "2026-11-06T10:38:23.800897+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T09:31:29.369280+00:00",
+      "checkedAt": "2026-11-06T10:38:23.800897+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T09:31:29.369280+00:00",
+      "checkedAt": "2026-11-06T10:38:23.800897+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Oppo Find X10 Ultra iptal edilmiş olabilir",
+      "link": "https://shiftdelete.net/find-x10-ultra-iptal-iddiasi-oppo",
+      "publishedAt": "2026-11-06T10:34:40+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Toyota Celica geri dönüyor: GR Celica WRC'de",
@@ -70,12 +76,6 @@
       "title": "NVIDIA Cosmos 3 otonom testleri değiştiriyor",
       "link": "https://shiftdelete.net/nvidia-cosmos-3-nano-otonom",
       "publishedAt": "2026-11-05T23:17:53+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Motorola Signature 27 DXOMARK'ta ikinci oldu",
-      "link": "https://shiftdelete.net/signature-27-dxomark-puani-ikinci",
-      "publishedAt": "2026-11-05T21:25:00+00:00"
     },
     {
       "source": "DonanımHaber",
