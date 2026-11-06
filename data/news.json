@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-06T13:04:43.480945+00:00",
+  "updatedAt": "2026-11-06T14:21:23.972902+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T13:04:43.480945+00:00",
+      "checkedAt": "2026-11-06T14:21:23.972902+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T13:04:43.480945+00:00",
+      "checkedAt": "2026-11-06T14:21:23.972902+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "HONOR Robot Phone 2 geliyor: 2027'de çıkabilir",
+      "link": "https://shiftdelete.net/honor-robot-phone-2-sizdirildi-2027",
+      "publishedAt": "2026-11-06T14:08:26+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "BMW fiyat listesi Kasım 2026",
@@ -70,12 +76,6 @@
       "title": "iQOO 16s göründü: 10.000 mAh pil gelebilir",
       "link": "https://shiftdelete.net/iqoo-16s-snapdragon-8-gen-6-10000-mah-pil",
       "publishedAt": "2026-11-06T07:58:37+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "ÖTV Muafiyetli Araç Limiti 2027 Fiyat Listesi",
-      "link": "https://shiftdelete.net/2026-guncel-otv-muafiyetli-arac-modelleri-ve-merak-edilen-tum-detaylar",
-      "publishedAt": "2026-11-06T07:43:07+00:00"
     },
     {
       "source": "DonanımHaber",
