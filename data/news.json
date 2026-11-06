@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-06T08:32:59.402860+00:00",
+  "updatedAt": "2026-11-06T09:31:29.369280+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T08:32:59.402860+00:00",
+      "checkedAt": "2026-11-06T09:31:29.369280+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T08:32:59.402860+00:00",
+      "checkedAt": "2026-11-06T09:31:29.369280+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Toyota Celica geri dönüyor: GR Celica WRC'de",
+      "link": "https://shiftdelete.net/toyota-gr-celica-wrc-2027-geri-donuyor",
+      "publishedAt": "2026-11-06T09:26:12+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Benzine 6,08 TL indirim geldi: Yeni fiyatlar",
+      "link": "https://shiftdelete.net/benzin-indirimi-pompaya-yansidi-6-kasim-2026",
+      "publishedAt": "2026-11-06T09:11:12+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iQOO 16s göründü: 10.000 mAh pil gelebilir",
@@ -64,18 +76,6 @@
       "title": "Motorola Signature 27 DXOMARK'ta ikinci oldu",
       "link": "https://shiftdelete.net/signature-27-dxomark-puani-ikinci",
       "publishedAt": "2026-11-05T21:25:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "OPPO 12.000 mAh bataryalı telefon hazırlıyor",
-      "link": "https://shiftdelete.net/oppo-12000-mah-bataryali-telefon-geliyor",
-      "publishedAt": "2026-11-05T20:10:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Huawei Nova 17 Pro'nun özellikleri sızdı",
-      "link": "https://shiftdelete.net/huawei-nova-17-pro-ozellikleri-sizdi",
-      "publishedAt": "2026-11-05T19:55:00+00:00"
     },
     {
       "source": "DonanımHaber",
