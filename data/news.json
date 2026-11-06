@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-06T18:25:25.408585+00:00",
+  "updatedAt": "2026-11-06T19:33:02.038376+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T18:25:25.408585+00:00",
+      "checkedAt": "2026-11-06T19:33:02.038376+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T18:25:25.408585+00:00",
+      "checkedAt": "2026-11-06T19:33:02.038376+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "BMW iX3 gerçek menzil testinde 702 km gitti",
+      "link": "https://shiftdelete.net/bmw-ix3-gercek-menzil-testi-epa-degeri",
+      "publishedAt": "2026-11-06T18:29:53+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Skoda fiyat listesi Kasım 2026",
@@ -70,12 +76,6 @@
       "title": "Vivo kompakt geniş ekranlı telefon hazırlıyor",
       "link": "https://shiftdelete.net/vivo-genis-ekranli-telefon-2027",
       "publishedAt": "2026-11-06T12:20:08+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Tesla Türkiye'de ikinci el ve takas programını başlattı",
-      "link": "https://shiftdelete.net/tesla-sertifikali-ikinci-el-takas-turkiye",
-      "publishedAt": "2026-11-06T11:13:17+00:00"
     },
     {
       "source": "DonanımHaber",
