@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-06T17:27:44.542642+00:00",
+  "updatedAt": "2026-11-06T18:25:25.408585+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T17:27:44.542642+00:00",
+      "checkedAt": "2026-11-06T18:25:25.408585+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T17:27:44.542642+00:00",
+      "checkedAt": "2026-11-06T18:25:25.408585+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Skoda fiyat listesi Kasım 2026",
+      "link": "https://shiftdelete.net/skoda-fiyat-listesi-2021-tum-modeller",
+      "publishedAt": "2026-11-06T18:16:24+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Honor 700 serisi ortaya çıktı: Üç modelde de arka ekran bulunuyor",
@@ -76,12 +82,6 @@
       "title": "Elektronik atıklar böyle dönüştürülüyormuş - Tesis turu!",
       "link": "https://www.donanimhaber.com/elektronik-atiklar-boyle-donusturuluyormus-tesis-turu--212568",
       "publishedAt": "2026-11-06T11:06:15+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Gerçek menzil testinde zirve Kia EV2'nin",
-      "link": "https://shiftdelete.net/elektrikli-otomobil-gercek-menzil-testi-ecobest-2026",
-      "publishedAt": "2026-11-06T11:05:00+00:00"
     },
     {
       "source": "DonanımHaber",
