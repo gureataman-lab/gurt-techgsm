@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-06T11:54:52.879206+00:00",
+  "updatedAt": "2026-11-06T13:04:43.480945+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T11:54:52.879206+00:00",
+      "checkedAt": "2026-11-06T13:04:43.480945+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T11:54:52.879206+00:00",
+      "checkedAt": "2026-11-06T13:04:43.480945+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "BMW fiyat listesi Kasım 2026",
+      "link": "https://shiftdelete.net/bmw-fiyat-listesi-2021-tum-modeller",
+      "publishedAt": "2026-11-06T12:49:48+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Vivo kompakt geniş ekranlı telefon hazırlıyor",
+      "link": "https://shiftdelete.net/vivo-genis-ekranli-telefon-2027",
+      "publishedAt": "2026-11-06T12:20:08+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Tesla Türkiye'de ikinci el ve takas programını başlattı",
@@ -70,18 +82,6 @@
       "title": "Motorola Signature 27 tanıtıldı: 200 MP periskop kamera ve 12.000 nit parlaklık!",
       "link": "https://www.donanimhaber.com/motorola-signature-27-tanitildi-iste-ozellikleri-ve-fiyati--212548",
       "publishedAt": "2026-11-06T07:30:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Apple, iPhone Duo kullanıcılarına anket gönderdi",
-      "link": "https://shiftdelete.net/iphone-duo-anketi-apple-kullanicilara-soruyor",
-      "publishedAt": "2026-11-06T06:47:25+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy S25 One UI 9 güncellemesi geldi",
-      "link": "https://shiftdelete.net/galaxy-s25-one-ui-9-guncellemesi",
-      "publishedAt": "2026-11-06T06:17:25+00:00"
     },
     {
       "source": "DonanımHaber",
