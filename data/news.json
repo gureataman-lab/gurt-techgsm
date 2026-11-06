@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-06T05:59:55.357169+00:00",
+  "updatedAt": "2026-11-06T07:16:04.637487+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T05:59:55.357169+00:00",
+      "checkedAt": "2026-11-06T07:16:04.637487+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T05:59:55.357169+00:00",
+      "checkedAt": "2026-11-06T07:16:04.637487+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple, iPhone Duo kullanıcılarına anket gönderdi",
+      "link": "https://shiftdelete.net/iphone-duo-anketi-apple-kullanicilara-soruyor",
+      "publishedAt": "2026-11-06T06:47:25+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S25 One UI 9 güncellemesi geldi",
+      "link": "https://shiftdelete.net/galaxy-s25-one-ui-9-guncellemesi",
+      "publishedAt": "2026-11-06T06:17:25+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Apple akıllı telefon gelirinin yarısını topladı",
@@ -60,22 +72,10 @@
       "publishedAt": "2026-11-05T17:55:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "One UI 9.5 ile WeChat bulut yedekleme geliyor",
-      "link": "https://shiftdelete.net/one-ui-9-5-wechat-yedekleme-ozelligi",
-      "publishedAt": "2026-11-05T17:40:00+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Huawei'nin yeni markası Osta'nın ilk telefonları ortaya çıktı",
       "link": "https://www.donanimhaber.com/huawei-nin-yeni-markasi-osta-nin-ilk-telefonlari-ortaya-cikti--212507",
       "publishedAt": "2026-11-05T17:38:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "App Store'da iptal ekranında indirim teklifi",
-      "link": "https://shiftdelete.net/app-store-abonelik-iptali-indirim-teklifi",
-      "publishedAt": "2026-11-05T17:25:00+00:00"
     },
     {
       "source": "DonanımHaber",
