@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-05T22:25:05.501024+00:00",
+  "updatedAt": "2026-11-06T00:16:04.620369+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-05T22:25:05.501024+00:00",
+      "checkedAt": "2026-11-06T00:16:04.620369+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-05T22:25:05.501024+00:00",
+      "checkedAt": "2026-11-06T00:16:04.620369+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "NVIDIA Cosmos 3 otonom testleri değiştiriyor",
+      "link": "https://shiftdelete.net/nvidia-cosmos-3-nano-otonom",
+      "publishedAt": "2026-11-05T23:17:53+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Motorola Signature 27 DXOMARK'ta ikinci oldu",
@@ -76,12 +82,6 @@
       "title": "One UI 9'da yeni sorun: İnternet kopuyor, SIM kart algılanmıyor!",
       "link": "https://www.donanimhaber.com/one-ui-9-da-yeni-sorun-internet-kopuyor-sim-kart-algilanmiyor--212518",
       "publishedAt": "2026-11-05T16:32:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Chery Fiyat Listesi Kasım 2026: En Ucuzu Tiggo 7",
-      "link": "https://shiftdelete.net/chery-fiyat-listesi",
-      "publishedAt": "2026-11-05T16:20:18+00:00"
     },
     {
       "source": "DonanımHaber",
