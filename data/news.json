@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-06T02:54:01.656325+00:00",
+  "updatedAt": "2026-11-06T03:56:00.671754+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T02:54:01.656325+00:00",
+      "checkedAt": "2026-11-06T03:56:00.671754+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T02:54:01.656325+00:00",
+      "checkedAt": "2026-11-06T03:56:00.671754+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Apple akıllı telefon gelirinin yarısını topladı",
+      "link": "https://shiftdelete.net/apple-akilli-telefon-geliri-ucuncu-ceyrek-rekor",
+      "publishedAt": "2026-11-06T03:40:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "One UI 9 SIM kart ve Wi-Fi sorunu yaygınlaşıyor",
+      "link": "https://shiftdelete.net/one-ui-9-sim-kart-sorunu-wifi-kopuyor",
+      "publishedAt": "2026-11-06T03:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "NVIDIA Cosmos 3 otonom testleri değiştiriyor",
@@ -64,18 +76,6 @@
       "title": "App Store'da iptal ekranında indirim teklifi",
       "link": "https://shiftdelete.net/app-store-abonelik-iptali-indirim-teklifi",
       "publishedAt": "2026-11-05T17:25:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor WIN 2 Master Lu listesinde zirveye çıktı",
-      "link": "https://shiftdelete.net/honor-win-2-master-lu-listesinde-zirvede",
-      "publishedAt": "2026-11-05T17:10:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Google Play'e oyun hediye etme özelliği geliyor",
-      "link": "https://shiftdelete.net/google-play-hediye-ozelligi-oyun-gonderme",
-      "publishedAt": "2026-11-05T16:55:00+00:00"
     },
     {
       "source": "DonanımHaber",
