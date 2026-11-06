@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-06T19:33:02.038376+00:00",
+  "updatedAt": "2026-11-06T20:25:00.458976+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T19:33:02.038376+00:00",
+      "checkedAt": "2026-11-06T20:25:00.458976+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T19:33:02.038376+00:00",
+      "checkedAt": "2026-11-06T20:25:00.458976+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Yeni iPad mini 8 Kutu Açılımı ve Yeni Özellikleri",
+      "link": "https://shiftdelete.net/yeni-ipad-mini-8-kutu-acilimi-ve-yeni-ozellikleri",
+      "publishedAt": "2026-11-06T19:34:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "BMW iX3 gerçek menzil testinde 702 km gitti",
@@ -70,12 +76,6 @@
       "title": "BMW fiyat listesi Kasım 2026",
       "link": "https://shiftdelete.net/bmw-fiyat-listesi-2021-tum-modeller",
       "publishedAt": "2026-11-06T12:49:48+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Vivo kompakt geniş ekranlı telefon hazırlıyor",
-      "link": "https://shiftdelete.net/vivo-genis-ekranli-telefon-2027",
-      "publishedAt": "2026-11-06T12:20:08+00:00"
     },
     {
       "source": "DonanımHaber",
