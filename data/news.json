@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-06T15:21:40.163717+00:00",
+  "updatedAt": "2026-11-06T16:28:12.933462+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-06T15:21:40.163717+00:00",
+      "checkedAt": "2026-11-06T16:28:12.933462+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-06T15:21:40.163717+00:00",
+      "checkedAt": "2026-11-06T16:28:12.933462+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Honor 700 serisi ortaya çıktı: Üç modelde de arka ekran bulunuyor",
+      "link": "https://www.donanimhaber.com/honor-700-serisi-ortaya-cikti-uc-modelde-de-arka-ekran-bulunuyor--212579",
+      "publishedAt": "2026-11-06T16:09:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Samsung mobil çalışanları ikramiye için eylemde",
+      "link": "https://shiftdelete.net/samsung-mobil-calisanlari-ikramiye-eylem",
+      "publishedAt": "2026-11-06T16:02:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Motorola Signature 27 yedi yıl güncelleme alacak",
+      "link": "https://shiftdelete.net/signature-27-guncelleme-suresi-yedi-yil",
+      "publishedAt": "2026-11-06T15:47:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Honda fiyat listesi Kasım 2026",
+      "link": "https://shiftdelete.net/honda-fiyat-listesi-tum-modeller-2021",
+      "publishedAt": "2026-11-06T15:26:02+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone'da Action Button kalkabilir",
@@ -60,24 +84,6 @@
       "publishedAt": "2026-11-06T11:05:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "KM Sorgulama Nasıl Yapılır? e-Devlet",
-      "link": "https://shiftdelete.net/km-sorgulama",
-      "publishedAt": "2026-11-06T10:43:17+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Oppo Find X10 Ultra iptal edilmiş olabilir",
-      "link": "https://shiftdelete.net/find-x10-ultra-iptal-iddiasi-oppo",
-      "publishedAt": "2026-11-06T10:34:40+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Toyota Celica geri dönüyor: GR Celica WRC'de",
-      "link": "https://shiftdelete.net/toyota-gr-celica-wrc-2027-geri-donuyor",
-      "publishedAt": "2026-11-06T09:26:12+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Motorola Signature 27 tanıtıldı: 200 MP periskop kamera ve 12.000 nit parlaklık!",
       "link": "https://www.donanimhaber.com/motorola-signature-27-tanitildi-iste-ozellikleri-ve-fiyati--212548",
@@ -124,12 +130,6 @@
       "title": "Samsung Galaxy S27 Ultra'nın maketi ortaya çıktı: İşte tasarımı",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-ultra-nin-maketi-ortaya-cikti-iste-tasarimi--212463",
       "publishedAt": "2026-11-04T16:26:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Amazon Kasım indirimlerinde kaçırmamanız gereken 6 ürün!",
-      "link": "https://www.donanimhaber.com/amazon-kasim-indirimlerinde-kacirmamaniz-gereken-6-urun--212479",
-      "publishedAt": "2026-11-04T15:00:05+00:00"
     }
   ]
 }
