@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-07T10:44:55.215624+00:00",
+  "updatedAt": "2026-11-07T11:42:43.218410+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-07T10:44:55.215624+00:00",
+      "checkedAt": "2026-11-07T11:42:43.218410+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-07T10:44:55.215624+00:00",
+      "checkedAt": "2026-11-07T11:42:43.218410+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone Duo için 100 binden fazla uygulama hazır",
+      "link": "https://shiftdelete.net/iphone-duo-uygulama-sayisi-100-bini-asti",
+      "publishedAt": "2026-11-07T11:30:58+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "One UI 10, Samsung'un en büyük arayüz güncellemesi olabilir",
+      "link": "https://www.donanimhaber.com/one-ui-10-samsung-un-en-buyuk-arayuz-guncellemesi-olabilir--212610",
+      "publishedAt": "2026-11-07T11:00:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Xiaomi 18 3C sertifikası aldı, 100 W geliyor",
+      "link": "https://shiftdelete.net/xiaomi-18-3c-sertifikasi-100w-sarj",
+      "publishedAt": "2026-11-07T10:45:58+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Galaxy S27 serisinde en az 12 GB RAM olabilir",
@@ -60,22 +78,10 @@
       "publishedAt": "2026-11-06T18:29:53+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Skoda fiyat listesi Kasım 2026",
-      "link": "https://shiftdelete.net/skoda-fiyat-listesi-2021-tum-modeller",
-      "publishedAt": "2026-11-06T18:16:24+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor 700 serisi ortaya çıktı: Üç modelde de arka ekran bulunuyor",
       "link": "https://www.donanimhaber.com/honor-700-serisi-ortaya-cikti-uc-modelde-de-arka-ekran-bulunuyor--212579",
       "publishedAt": "2026-11-06T16:09:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Samsung mobil çalışanları ikramiye için eylemde",
-      "link": "https://shiftdelete.net/samsung-mobil-calisanlari-ikramiye-eylem",
-      "publishedAt": "2026-11-06T16:02:00+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "Galaxy S27 Pro'da Snapdragon sürprizi: S27 Ultra'dan farklı olacak",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-uc-farkli-islemci-yer-alacak--212485",
       "publishedAt": "2026-11-04T20:26:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy S27 Ultra'nın maketi ortaya çıktı: İşte tasarımı",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-ultra-nin-maketi-ortaya-cikti-iste-tasarimi--212463",
-      "publishedAt": "2026-11-04T16:26:00+00:00"
     }
   ]
 }
