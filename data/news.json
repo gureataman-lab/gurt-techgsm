@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-07T08:01:51.625377+00:00",
+  "updatedAt": "2026-11-07T08:54:11.535730+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-07T08:01:51.625377+00:00",
+      "checkedAt": "2026-11-07T08:54:11.535730+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-07T08:01:51.625377+00:00",
+      "checkedAt": "2026-11-07T08:54:11.535730+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Instagram Dondurma Artık Uygulamadan Yapılıyor",
+      "link": "https://shiftdelete.net/instagram-hesap-dondurma-linki-instagram-dondurma",
+      "publishedAt": "2026-11-07T08:15:28+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Getcontact Nedir, Ücretli mi? Premium 48,99 TL",
@@ -70,12 +76,6 @@
       "title": "iPhone'da Action Button kalkabilir",
       "link": "https://shiftdelete.net/iphone-action-button-kamera-kontrolu-birlesiyor",
       "publishedAt": "2026-11-06T15:02:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "2PLAN Klasik Araç Sergisi 8 Kasım'da açılıyor",
-      "link": "https://shiftdelete.net/2plan-klasik-arac-sergisi-2026-terminal-istanbul",
-      "publishedAt": "2026-11-06T14:32:06+00:00"
     },
     {
       "source": "DonanımHaber",
