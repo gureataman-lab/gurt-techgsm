@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-07T13:52:56.737550+00:00",
+  "updatedAt": "2026-11-07T14:44:12.536714+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-07T13:52:56.737550+00:00",
+      "checkedAt": "2026-11-07T14:44:12.536714+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-07T13:52:56.737550+00:00",
+      "checkedAt": "2026-11-07T14:44:12.536714+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Honda RN0 elektrikli dağ bisikleti tanıtıldı",
+      "link": "https://shiftdelete.net/honda-rn0-elektrikli-dag-bisikleti",
+      "publishedAt": "2026-11-07T14:15:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Akıllı telefon işlemci pazarında Qualcomm ve MediaTek kan kaybediyor",
+      "link": "https://www.donanimhaber.com/akilli-telefon-islemci-pazarinda-qualcomm-ve-mediatek-geriliyor--212599",
+      "publishedAt": "2026-11-07T14:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone 17e Türkiye Fiyatı ve Özellikleri",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-11-07T06:00:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Yeni iPad mini 8 Kutu Açılımı ve Yeni Özellikleri",
-      "link": "https://shiftdelete.net/yeni-ipad-mini-8-kutu-acilimi-ve-yeni-ozellikleri",
-      "publishedAt": "2026-11-06T19:34:00+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor 700 serisi ortaya çıktı: Üç modelde de arka ekran bulunuyor",
       "link": "https://www.donanimhaber.com/honor-700-serisi-ortaya-cikti-uc-modelde-de-arka-ekran-bulunuyor--212579",
@@ -124,12 +130,6 @@
       "title": "iPhone Duo stokçuların elinde patladı: İkinci el fiyatı da düşüyor!",
       "link": "https://www.donanimhaber.com/iphone-duo-stokcularin-elinde-patladi-2-el-fiyati-dusuyor--212509",
       "publishedAt": "2026-11-05T14:17:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Akıllı telefonlara yeni zam kapıda: Samsung OLED panel fiyatlarını artırıyor",
-      "link": "https://www.donanimhaber.com/samsung-oled-ekran-fiyatlarini-20-dolara-kadar-artirabilir--212495",
-      "publishedAt": "2026-11-05T11:43:19+00:00"
     }
   ]
 }
