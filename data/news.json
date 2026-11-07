@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-07T18:46:31.537112+00:00",
+  "updatedAt": "2026-11-07T19:44:22.068259+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-07T18:46:31.537112+00:00",
+      "checkedAt": "2026-11-07T19:44:22.068259+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-07T18:46:31.537112+00:00",
+      "checkedAt": "2026-11-07T19:44:22.068259+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Honor Robot Phone 2 ARRI ortaklığını sürdürecek",
+      "link": "https://shiftdelete.net/robot-phone-2-arri-honor-kamera-yapay-zeka",
+      "publishedAt": "2026-11-07T19:02:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Air 2 için eksikler listesi uzun",
@@ -82,12 +88,6 @@
       "title": "Galaxy S27 serisinde en az 12 GB RAM olabilir",
       "link": "https://shiftdelete.net/galaxy-s27-ram-en-az-12-gb",
       "publishedAt": "2026-11-07T10:30:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Tesla Cybertruck üretimi 2027 ortasında bitiyor",
-      "link": "https://shiftdelete.net/cybertruck-uretimi-2027-ortasinda-bitiyor",
-      "publishedAt": "2026-11-07T10:00:58+00:00"
     },
     {
       "source": "DonanımHaber",
