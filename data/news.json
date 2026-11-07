@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-07T15:41:09.699380+00:00",
+  "updatedAt": "2026-11-07T16:42:47.752021+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-07T15:41:09.699380+00:00",
+      "checkedAt": "2026-11-07T16:42:47.752021+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-07T15:41:09.699380+00:00",
+      "checkedAt": "2026-11-07T16:42:47.752021+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Solar Roof davasında Tesla aleyhine karar",
+      "link": "https://shiftdelete.net/tesla-solar-roof-davasi-dolandiricilik-karari",
+      "publishedAt": "2026-11-07T16:22:27+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Telefon işlemcisi pazarı yüzde 21 küçüldü",
+      "link": "https://shiftdelete.net/telefon-islemcisi-pazari-yuzde-21-kuculdu",
+      "publishedAt": "2026-11-07T16:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Honda RN0 elektrikli dağ bisikleti tanıtıldı",
@@ -76,18 +88,6 @@
       "title": "Instagram Dondurma Artık Uygulamadan Yapılıyor",
       "link": "https://shiftdelete.net/instagram-hesap-dondurma-linki-instagram-dondurma",
       "publishedAt": "2026-11-07T08:15:28+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Getcontact Nedir, Ücretli mi? Premium 48,99 TL",
-      "link": "https://shiftdelete.net/getcontact-nedir-getcontact-nasil-kullanilir",
-      "publishedAt": "2026-11-07T07:22:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Vivo X500 Ultra mart ya da nisanda geliyor",
-      "link": "https://shiftdelete.net/vivo-x500-ultra-mart-nisan-cikis-ozellikler",
-      "publishedAt": "2026-11-07T06:00:00+00:00"
     },
     {
       "source": "DonanımHaber",
