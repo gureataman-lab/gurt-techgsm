@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-07T05:50:05.775281+00:00",
+  "updatedAt": "2026-11-07T06:57:12.103378+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-07T05:50:05.775281+00:00",
+      "checkedAt": "2026-11-07T06:57:12.103378+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-07T05:50:05.775281+00:00",
+      "checkedAt": "2026-11-07T06:57:12.103378+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Vivo X500 Ultra mart ya da nisanda geliyor",
+      "link": "https://shiftdelete.net/vivo-x500-ultra-mart-nisan-cikis-ozellikler",
+      "publishedAt": "2026-11-07T06:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Yeni iPad mini 8 Kutu Açılımı ve Yeni Özellikleri",
@@ -70,12 +76,6 @@
       "title": "HONOR Robot Phone 2 geliyor: 2027'de çıkabilir",
       "link": "https://shiftdelete.net/honor-robot-phone-2-sizdirildi-2027",
       "publishedAt": "2026-11-06T14:08:26+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "BMW fiyat listesi Kasım 2026",
-      "link": "https://shiftdelete.net/bmw-fiyat-listesi-2021-tum-modeller",
-      "publishedAt": "2026-11-06T12:49:48+00:00"
     },
     {
       "source": "DonanımHaber",
