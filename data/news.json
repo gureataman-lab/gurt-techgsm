@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-07T08:54:11.535730+00:00",
+  "updatedAt": "2026-11-07T09:49:10.636008+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-07T08:54:11.535730+00:00",
+      "checkedAt": "2026-11-07T09:49:10.636008+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-07T08:54:11.535730+00:00",
+      "checkedAt": "2026-11-07T09:49:10.636008+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Chery Çin'de 53 bin aracı geri çağırıyor",
+      "link": "https://shiftdelete.net/chery-geri-cagirma-cin-53-bin-arac",
+      "publishedAt": "2026-11-07T09:45:58+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Instagram Dondurma Artık Uygulamadan Yapılıyor",
@@ -70,12 +76,6 @@
       "title": "Honda fiyat listesi Kasım 2026",
       "link": "https://shiftdelete.net/honda-fiyat-listesi-tum-modeller-2021",
       "publishedAt": "2026-11-06T15:26:02+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone'da Action Button kalkabilir",
-      "link": "https://shiftdelete.net/iphone-action-button-kamera-kontrolu-birlesiyor",
-      "publishedAt": "2026-11-06T15:02:00+00:00"
     },
     {
       "source": "DonanımHaber",
