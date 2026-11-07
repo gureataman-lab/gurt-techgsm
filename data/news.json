@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-07T12:51:42.556320+00:00",
+  "updatedAt": "2026-11-07T13:52:56.737550+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-07T12:51:42.556320+00:00",
+      "checkedAt": "2026-11-07T13:52:56.737550+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-07T12:51:42.556320+00:00",
+      "checkedAt": "2026-11-07T13:52:56.737550+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone 17e Türkiye Fiyatı ve Özellikleri",
+      "link": "https://shiftdelete.net/iphone-17e-ozellikleri-belli-oldu",
+      "publishedAt": "2026-11-07T13:20:24+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Motorola Signature 27, DXOMARK kamera sıralamasında ikinci sıraya yerleşti",
+      "link": "https://www.donanimhaber.com/motorola-signature-27-dxomark-kamera-siralamasinda-ikinci-siraya--212587",
+      "publishedAt": "2026-11-07T13:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "iPhone Duo için 100 binden fazla uygulama hazır",
@@ -72,12 +84,6 @@
       "publishedAt": "2026-11-06T19:34:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "BMW iX3 gerçek menzil testinde 702 km gitti",
-      "link": "https://shiftdelete.net/bmw-ix3-gercek-menzil-testi-epa-degeri",
-      "publishedAt": "2026-11-06T18:29:53+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Honor 700 serisi ortaya çıktı: Üç modelde de arka ekran bulunuyor",
       "link": "https://www.donanimhaber.com/honor-700-serisi-ortaya-cikti-uc-modelde-de-arka-ekran-bulunuyor--212579",
@@ -124,12 +130,6 @@
       "title": "Akıllı telefonlara yeni zam kapıda: Samsung OLED panel fiyatlarını artırıyor",
       "link": "https://www.donanimhaber.com/samsung-oled-ekran-fiyatlarini-20-dolara-kadar-artirabilir--212495",
       "publishedAt": "2026-11-05T11:43:19+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Galaxy S27 Pro'da Snapdragon sürprizi: S27 Ultra'dan farklı olacak",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinde-uc-farkli-islemci-yer-alacak--212485",
-      "publishedAt": "2026-11-04T20:26:00+00:00"
     }
   ]
 }
