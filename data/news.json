@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-08T04:30:05.662744+00:00",
+  "updatedAt": "2026-11-08T05:26:42.522259+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T04:30:05.662744+00:00",
+      "checkedAt": "2026-11-08T05:26:42.522259+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T04:30:05.662744+00:00",
+      "checkedAt": "2026-11-08T05:26:42.522259+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Audi'nin Çin modellerinde neden halka yok?",
+      "link": "https://shiftdelete.net/audi-cin-logosu-dort-halka-yerine-audi-yazisi",
+      "publishedAt": "2026-11-08T05:21:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Red Magic 12 Pro söküldü: AquaCore 3.0 şaşırttı",
@@ -76,12 +82,6 @@
       "title": "Motorola Signature 27, DXOMARK kamera sıralamasında ikinci sıraya yerleşti",
       "link": "https://www.donanimhaber.com/motorola-signature-27-dxomark-kamera-siralamasinda-ikinci-siraya--212587",
       "publishedAt": "2026-11-07T13:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Duo için 100 binden fazla uygulama hazır",
-      "link": "https://shiftdelete.net/iphone-duo-uygulama-sayisi-100-bini-asti",
-      "publishedAt": "2026-11-07T11:30:58+00:00"
     },
     {
       "source": "DonanımHaber",
