@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-08T14:43:02.501892+00:00",
+  "updatedAt": "2026-11-08T15:39:59.943338+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T14:43:02.501892+00:00",
+      "checkedAt": "2026-11-08T15:39:59.943338+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T14:43:02.501892+00:00",
+      "checkedAt": "2026-11-08T15:39:59.943338+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Cupra Fiyat Listesi Kasım 2026: 2.755.100 TL'den",
+      "link": "https://shiftdelete.net/cupra-fiyat-listesi",
+      "publishedAt": "2026-11-08T15:15:23+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone 18 X-ray görüntüleri ortaya çıktı: İşte iç tasarım",
@@ -76,12 +82,6 @@
       "title": "Oppo 120W üç portlu şarj aleti göründü",
       "link": "https://shiftdelete.net/oppo-120w-sarj-aleti-uc-port-3c-sertifikasi",
       "publishedAt": "2026-11-08T11:32:24+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Dacia Fiyat Listesi Kasım 2026: 1.328.000 TL'den",
-      "link": "https://shiftdelete.net/dacia-2023-fiyat-listesi-yeni-modeller-ve-fiyatlandirma",
-      "publishedAt": "2026-11-08T11:20:38+00:00"
     },
     {
       "source": "DonanımHaber",
