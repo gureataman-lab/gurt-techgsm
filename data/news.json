@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-08T17:39:17.893750+00:00",
+  "updatedAt": "2026-11-08T18:46:11.547788+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T17:39:17.893750+00:00",
+      "checkedAt": "2026-11-08T18:46:11.547788+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T17:39:17.893750+00:00",
+      "checkedAt": "2026-11-08T18:46:11.547788+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Büyük ekranlı telefonlardan sıkılanlara: Enough Phone tanıtıldı",
+      "link": "https://www.donanimhaber.com/kucuk-telefon-isteyenler-icin-enough-phone-tanitildi--212617",
+      "publishedAt": "2026-11-08T18:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Oppo Find X10 Ultra, RAM krizi nedeniyle iptal edilebilir",
@@ -124,12 +130,6 @@
       "title": "Elektronik atıklar böyle dönüştürülüyormuş - Tesis turu!",
       "link": "https://www.donanimhaber.com/elektronik-atiklar-boyle-donusturuluyormus-tesis-turu--212568",
       "publishedAt": "2026-11-06T11:06:15+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Motorola Signature 27 tanıtıldı: 200 MP periskop kamera ve 12.000 nit parlaklık!",
-      "link": "https://www.donanimhaber.com/motorola-signature-27-tanitildi-iste-ozellikleri-ve-fiyati--212548",
-      "publishedAt": "2026-11-06T07:30:00+00:00"
     }
   ]
 }
