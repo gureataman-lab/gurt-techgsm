@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-08T11:42:46.153110+00:00",
+  "updatedAt": "2026-11-08T12:52:17.142982+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T11:42:46.153110+00:00",
+      "checkedAt": "2026-11-08T12:52:17.142982+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T11:42:46.153110+00:00",
+      "checkedAt": "2026-11-08T12:52:17.142982+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Toyota Fiyat Listesi Kasım 2026: 1.965.000 TL'den",
+      "link": "https://shiftdelete.net/toyota-fiyat-listesi",
+      "publishedAt": "2026-11-08T12:21:56+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Enough Phone: pili değişen 5,3 inç telefon",
+      "link": "https://shiftdelete.net/enough-phone-degistirilebilir-pil-kucuk-telefon",
+      "publishedAt": "2026-11-08T12:17:24+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "ColorOS 17 güncelleme takvimi belli oldu",
+      "link": "https://shiftdelete.net/coloros-17-guncelleme-takvimi-oneplus",
+      "publishedAt": "2026-11-08T12:02:24+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Coolpad Cool X Wide satışa çıktı",
+      "link": "https://shiftdelete.net/coolpad-cool-x-wide-satisa-cikti",
+      "publishedAt": "2026-11-08T11:47:24+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Oppo 120W üç portlu şarj aleti göründü",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-11-08T09:30:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Kia Fiyat Listesi Kasım 2026: 1.460.000 TL'den",
-      "link": "https://shiftdelete.net/kia-fiyat-listesi-2023",
-      "publishedAt": "2026-11-08T09:21:16+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Telefon Tavsiyeleri - Kasım 2026",
       "link": "https://www.donanimhaber.com/telefon-tavsiyeleri--212628",
       "publishedAt": "2026-11-08T09:19:38+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Citroen Fiyat Listesi Kasım 2026: 575.000 TL'den",
-      "link": "https://shiftdelete.net/citroen-fiyat-listesi",
-      "publishedAt": "2026-11-08T08:25:53+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "MG Fiyat Listesi Kasım 2026: 2.385.000 TL'den",
-      "link": "https://shiftdelete.net/mg-fiyat-listesi",
-      "publishedAt": "2026-11-08T07:19:41+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Assassin's Creed için iki yeni oyun iddiası",
-      "link": "https://shiftdelete.net/assassins-creed-antik-roma-kudus-yeni-oyun-iddiasi",
-      "publishedAt": "2026-11-08T06:15:00+00:00"
     },
     {
       "source": "DonanımHaber",
