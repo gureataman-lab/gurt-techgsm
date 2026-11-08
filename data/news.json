@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-08T16:42:23.289939+00:00",
+  "updatedAt": "2026-11-08T17:39:17.893750+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T16:42:23.289939+00:00",
+      "checkedAt": "2026-11-08T17:39:17.893750+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T16:42:23.289939+00:00",
+      "checkedAt": "2026-11-08T17:39:17.893750+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Oppo Find X10 Ultra, RAM krizi nedeniyle iptal edilebilir",
+      "link": "https://www.donanimhaber.com/oppo-find-x10-ultra-ram-krizi-nedeniyle-iptal-edilebilir--212630",
+      "publishedAt": "2026-11-08T17:00:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "iPhone 18 ve 18e'nin X-ray görüntüleri sızdı",
+      "link": "https://shiftdelete.net/iphone-18-x-ray-goruntuleri-ic-tasarim",
+      "publishedAt": "2026-11-08T16:47:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "ID. AURA L5 ile Volkswagen'in büyük dönüşü",
@@ -78,12 +90,6 @@
       "publishedAt": "2026-11-08T12:17:24+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "ColorOS 17 güncelleme takvimi belli oldu",
-      "link": "https://shiftdelete.net/coloros-17-guncelleme-takvimi-oneplus",
-      "publishedAt": "2026-11-08T12:02:24+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Telefon Tavsiyeleri - Kasım 2026",
       "link": "https://www.donanimhaber.com/telefon-tavsiyeleri--212628",
@@ -124,12 +130,6 @@
       "title": "Motorola Signature 27 tanıtıldı: 200 MP periskop kamera ve 12.000 nit parlaklık!",
       "link": "https://www.donanimhaber.com/motorola-signature-27-tanitildi-iste-ozellikleri-ve-fiyati--212548",
       "publishedAt": "2026-11-06T07:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei'nin yeni markası Osta'nın ilk telefonları ortaya çıktı",
-      "link": "https://www.donanimhaber.com/huawei-nin-yeni-markasi-osta-nin-ilk-telefonlari-ortaya-cikti--212507",
-      "publishedAt": "2026-11-05T17:38:00+00:00"
     }
   ]
 }
