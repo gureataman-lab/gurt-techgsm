@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-08T15:39:59.943338+00:00",
+  "updatedAt": "2026-11-08T16:42:23.289939+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T15:39:59.943338+00:00",
+      "checkedAt": "2026-11-08T16:42:23.289939+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T15:39:59.943338+00:00",
+      "checkedAt": "2026-11-08T16:42:23.289939+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "ID. AURA L5 ile Volkswagen'in büyük dönüşü",
+      "link": "https://shiftdelete.net/id-aura-l5-volkswagen-elektrikli-sedan",
+      "publishedAt": "2026-11-08T16:17:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Togg Fiyat Listesi Kasım 2026: 1.884.980 TL'den",
+      "link": "https://shiftdelete.net/togg-fiyat-listesi",
+      "publishedAt": "2026-11-08T16:13:02+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Cupra Fiyat Listesi Kasım 2026: 2.755.100 TL'den",
@@ -70,18 +82,6 @@
       "title": "ColorOS 17 güncelleme takvimi belli oldu",
       "link": "https://shiftdelete.net/coloros-17-guncelleme-takvimi-oneplus",
       "publishedAt": "2026-11-08T12:02:24+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Coolpad Cool X Wide satışa çıktı",
-      "link": "https://shiftdelete.net/coolpad-cool-x-wide-satisa-cikti",
-      "publishedAt": "2026-11-08T11:47:24+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Oppo 120W üç portlu şarj aleti göründü",
-      "link": "https://shiftdelete.net/oppo-120w-sarj-aleti-uc-port-3c-sertifikasi",
-      "publishedAt": "2026-11-08T11:32:24+00:00"
     },
     {
       "source": "DonanımHaber",
