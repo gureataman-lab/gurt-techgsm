@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-08T05:26:42.522259+00:00",
+  "updatedAt": "2026-11-08T06:26:17.058310+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T05:26:42.522259+00:00",
+      "checkedAt": "2026-11-08T06:26:17.058310+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T05:26:42.522259+00:00",
+      "checkedAt": "2026-11-08T06:26:17.058310+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Assassin's Creed için iki yeni oyun iddiası",
+      "link": "https://shiftdelete.net/assassins-creed-antik-roma-kudus-yeni-oyun-iddiasi",
+      "publishedAt": "2026-11-08T06:15:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "One UI 9.5 küçük bir güncelleme olabilir",
+      "link": "https://shiftdelete.net/one-ui-9-5-kucuk-guncelleme-one-ui-10",
+      "publishedAt": "2026-11-08T05:48:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Audi'nin Çin modellerinde neden halka yok?",
@@ -60,22 +72,10 @@
       "publishedAt": "2026-11-07T16:00:00+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Honda RN0 elektrikli dağ bisikleti tanıtıldı",
-      "link": "https://shiftdelete.net/honda-rn0-elektrikli-dag-bisikleti",
-      "publishedAt": "2026-11-07T14:15:00+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Akıllı telefon işlemci pazarında Qualcomm ve MediaTek kan kaybediyor",
       "link": "https://www.donanimhaber.com/akilli-telefon-islemci-pazarinda-qualcomm-ve-mediatek-geriliyor--212599",
       "publishedAt": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone 17e Türkiye Fiyatı ve Özellikleri",
-      "link": "https://shiftdelete.net/iphone-17e-ozellikleri-belli-oldu",
-      "publishedAt": "2026-11-07T13:20:24+00:00"
     },
     {
       "source": "DonanımHaber",
