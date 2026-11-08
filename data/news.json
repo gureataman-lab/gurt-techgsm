@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-08T10:46:18.861248+00:00",
+  "updatedAt": "2026-11-08T11:42:46.153110+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T10:46:18.861248+00:00",
+      "checkedAt": "2026-11-08T11:42:46.153110+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T10:46:18.861248+00:00",
+      "checkedAt": "2026-11-08T11:42:46.153110+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Oppo 120W üç portlu şarj aleti göründü",
+      "link": "https://shiftdelete.net/oppo-120w-sarj-aleti-uc-port-3c-sertifikasi",
+      "publishedAt": "2026-11-08T11:32:24+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Dacia Fiyat Listesi Kasım 2026: 1.328.000 TL'den",
+      "link": "https://shiftdelete.net/dacia-2023-fiyat-listesi-yeni-modeller-ve-fiyatlandirma",
+      "publishedAt": "2026-11-08T11:20:38+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Action Button'sız iPhone 2027'de gelebilir",
+      "link": "https://shiftdelete.net/action-buttonsiz-iphone-2027-gelebilir",
+      "publishedAt": "2026-11-08T11:02:24+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Renault Fiyat Listesi Kasım 2026: Tüm Modeller",
@@ -58,24 +76,6 @@
       "title": "Assassin's Creed için iki yeni oyun iddiası",
       "link": "https://shiftdelete.net/assassins-creed-antik-roma-kudus-yeni-oyun-iddiasi",
       "publishedAt": "2026-11-08T06:15:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "One UI 9.5 küçük bir güncelleme olabilir",
-      "link": "https://shiftdelete.net/one-ui-9-5-kucuk-guncelleme-one-ui-10",
-      "publishedAt": "2026-11-08T05:48:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Audi'nin Çin modellerinde neden halka yok?",
-      "link": "https://shiftdelete.net/audi-cin-logosu-dort-halka-yerine-audi-yazisi",
-      "publishedAt": "2026-11-08T05:21:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Red Magic 12 Pro söküldü: AquaCore 3.0 şaşırttı",
-      "link": "https://shiftdelete.net/red-magic-12-pro-sokum-aquacore-3-0",
-      "publishedAt": "2026-11-08T04:27:00+00:00"
     },
     {
       "source": "DonanımHaber",
