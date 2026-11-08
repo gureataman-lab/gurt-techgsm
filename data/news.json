@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-08T08:54:06.469692+00:00",
+  "updatedAt": "2026-11-08T09:50:01.766981+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T08:54:06.469692+00:00",
+      "checkedAt": "2026-11-08T09:50:01.766981+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T08:54:06.469692+00:00",
+      "checkedAt": "2026-11-08T09:50:01.766981+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Galaxy S27 Pro ve Ultra Snapdragon ile gelebilir",
+      "link": "https://shiftdelete.net/galaxy-s27-ultra-snapdragon-kore",
+      "publishedAt": "2026-11-08T09:45:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Motorine yaklaşık 5,4 TL indirim geldi",
+      "link": "https://shiftdelete.net/motorine-indirim-8-kasim-2026-akaryakit-fiyatlari",
+      "publishedAt": "2026-11-08T09:30:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Kia Fiyat Listesi Kasım 2026: 1.460.000 TL'den",
+      "link": "https://shiftdelete.net/kia-fiyat-listesi-2023",
+      "publishedAt": "2026-11-08T09:21:16+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Telefon Tavsiyeleri - Kasım 2026",
+      "link": "https://www.donanimhaber.com/telefon-tavsiyeleri--212628",
+      "publishedAt": "2026-11-08T09:19:38+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Citroen Fiyat Listesi Kasım 2026: 575.000 TL'den",
@@ -52,24 +76,6 @@
       "title": "Huawei Enjoy 100 serisi 4 günde 215 bin sattı",
       "link": "https://shiftdelete.net/huawei-enjoy-100-serisi-satis-rakamlari",
       "publishedAt": "2026-11-08T04:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Honor Robot Phone 2 ARRI ortaklığını sürdürecek",
-      "link": "https://shiftdelete.net/robot-phone-2-arri-honor-kamera-yapay-zeka",
-      "publishedAt": "2026-11-07T19:02:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "iPhone Air 2 için eksikler listesi uzun",
-      "link": "https://shiftdelete.net/iphone-air-2-eksikleri-apple-neleri-duzeltmeli",
-      "publishedAt": "2026-11-07T18:17:37+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Opel Fiyat Listesi Kasım 2026",
-      "link": "https://shiftdelete.net/opel-fiyat-listesi",
-      "publishedAt": "2026-11-07T17:22:52+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -124,12 +130,6 @@
       "title": "ZEED, Türkiye pazarına giriş yaptı: Uygun fiyat, yüksek performans",
       "link": "https://www.donanimhaber.com/zeed-turkiye-pazarina-giris-yapti-uygun-fiyat-yuksek-performans--212545",
       "publishedAt": "2026-11-05T15:28:34+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone Duo stokçuların elinde patladı: İkinci el fiyatı da düşüyor!",
-      "link": "https://www.donanimhaber.com/iphone-duo-stokcularin-elinde-patladi-2-el-fiyati-dusuyor--212509",
-      "publishedAt": "2026-11-05T14:17:00+00:00"
     }
   ]
 }
