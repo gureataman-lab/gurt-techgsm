@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-08T09:50:01.766981+00:00",
+  "updatedAt": "2026-11-08T10:46:18.861248+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T09:50:01.766981+00:00",
+      "checkedAt": "2026-11-08T10:46:18.861248+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T09:50:01.766981+00:00",
+      "checkedAt": "2026-11-08T10:46:18.861248+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Renault Fiyat Listesi Kasım 2026: Tüm Modeller",
+      "link": "https://shiftdelete.net/renault-fiyat-listesi-tum-modeller",
+      "publishedAt": "2026-11-08T10:12:08+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Galaxy S27 Pro ve Ultra Snapdragon ile gelebilir",
@@ -70,12 +76,6 @@
       "title": "Red Magic 12 Pro söküldü: AquaCore 3.0 şaşırttı",
       "link": "https://shiftdelete.net/red-magic-12-pro-sokum-aquacore-3-0",
       "publishedAt": "2026-11-08T04:27:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Huawei Enjoy 100 serisi 4 günde 215 bin sattı",
-      "link": "https://shiftdelete.net/huawei-enjoy-100-serisi-satis-rakamlari",
-      "publishedAt": "2026-11-08T04:00:00+00:00"
     },
     {
       "source": "DonanımHaber",
