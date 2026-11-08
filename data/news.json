@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-08T06:26:17.058310+00:00",
+  "updatedAt": "2026-11-08T07:40:12.294066+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T06:26:17.058310+00:00",
+      "checkedAt": "2026-11-08T07:40:12.294066+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T06:26:17.058310+00:00",
+      "checkedAt": "2026-11-08T07:40:12.294066+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "MG Fiyat Listesi Kasım 2026: 2.385.000 TL'den",
+      "link": "https://shiftdelete.net/mg-fiyat-listesi",
+      "publishedAt": "2026-11-08T07:19:41+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Assassin's Creed için iki yeni oyun iddiası",
@@ -64,12 +70,6 @@
       "title": "Solar Roof davasında Tesla aleyhine karar",
       "link": "https://shiftdelete.net/tesla-solar-roof-davasi-dolandiricilik-karari",
       "publishedAt": "2026-11-07T16:22:27+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Telefon işlemcisi pazarı yüzde 21 küçüldü",
-      "link": "https://shiftdelete.net/telefon-islemcisi-pazari-yuzde-21-kuculdu",
-      "publishedAt": "2026-11-07T16:00:00+00:00"
     },
     {
       "source": "DonanımHaber",
