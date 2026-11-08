@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-08T13:52:44.701405+00:00",
+  "updatedAt": "2026-11-08T14:43:02.501892+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T13:52:44.701405+00:00",
+      "checkedAt": "2026-11-08T14:43:02.501892+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T13:52:44.701405+00:00",
+      "checkedAt": "2026-11-08T14:43:02.501892+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone 18 X-ray görüntüleri ortaya çıktı: İşte iç tasarım",
+      "link": "https://www.donanimhaber.com/iphone-18-x-ray-goruntuleri-ortaya-cikti-iste-ic-tasarim--212636",
+      "publishedAt": "2026-11-08T14:30:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Ford Fiyat Listesi Kasım 2026: 2.076.000 TL'den",
+      "link": "https://shiftdelete.net/ford-fiyat-listesi-2021-tum-modeller",
+      "publishedAt": "2026-11-08T14:17:41+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Neural Dawn, Android'in ilk yapay zekalı oyunu",
+      "link": "https://shiftdelete.net/neural-dawn-android-yapay-zeka-oyun",
+      "publishedAt": "2026-11-08T14:02:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Honor, gimbal kameralı telefonunu yeniliyor: Robot Phone 2 yolda",
+      "link": "https://www.donanimhaber.com/honor-gimbal-kamerali-telefonunu-yeniliyor-robot-phone-2-yolda--212619",
+      "publishedAt": "2026-11-08T14:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Fiat Fiyat Listesi Kasım 2026: 579.900 TL'den",
@@ -60,18 +84,6 @@
       "publishedAt": "2026-11-08T11:20:38+00:00"
     },
     {
-      "source": "ShiftDelete",
-      "title": "Action Button'sız iPhone 2027'de gelebilir",
-      "link": "https://shiftdelete.net/action-buttonsiz-iphone-2027-gelebilir",
-      "publishedAt": "2026-11-08T11:02:24+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Renault Fiyat Listesi Kasım 2026: Tüm Modeller",
-      "link": "https://shiftdelete.net/renault-fiyat-listesi-tum-modeller",
-      "publishedAt": "2026-11-08T10:12:08+00:00"
-    },
-    {
       "source": "DonanımHaber",
       "title": "Telefon Tavsiyeleri - Kasım 2026",
       "link": "https://www.donanimhaber.com/telefon-tavsiyeleri--212628",
@@ -118,18 +130,6 @@
       "title": "Huawei'nin yeni markası Osta'nın ilk telefonları ortaya çıktı",
       "link": "https://www.donanimhaber.com/huawei-nin-yeni-markasi-osta-nin-ilk-telefonlari-ortaya-cikti--212507",
       "publishedAt": "2026-11-05T17:38:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "One UI 9'da yeni sorun: İnternet kopuyor, SIM kart algılanmıyor!",
-      "link": "https://www.donanimhaber.com/one-ui-9-da-yeni-sorun-internet-kopuyor-sim-kart-algilanmiyor--212518",
-      "publishedAt": "2026-11-05T16:32:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "ZEED, Türkiye pazarına giriş yaptı: Uygun fiyat, yüksek performans",
-      "link": "https://www.donanimhaber.com/zeed-turkiye-pazarina-giris-yapti-uygun-fiyat-yuksek-performans--212545",
-      "publishedAt": "2026-11-05T15:28:34+00:00"
     }
   ]
 }
