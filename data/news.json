@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-08T03:27:56.587359+00:00",
+  "updatedAt": "2026-11-08T04:30:05.662744+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T03:27:56.587359+00:00",
+      "checkedAt": "2026-11-08T04:30:05.662744+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T03:27:56.587359+00:00",
+      "checkedAt": "2026-11-08T04:30:05.662744+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Red Magic 12 Pro söküldü: AquaCore 3.0 şaşırttı",
+      "link": "https://shiftdelete.net/red-magic-12-pro-sokum-aquacore-3-0",
+      "publishedAt": "2026-11-08T04:27:00+00:00"
+    },
+    {
+      "source": "ShiftDelete",
+      "title": "Huawei Enjoy 100 serisi 4 günde 215 bin sattı",
+      "link": "https://shiftdelete.net/huawei-enjoy-100-serisi-satis-rakamlari",
+      "publishedAt": "2026-11-08T04:00:00+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "Honor Robot Phone 2 ARRI ortaklığını sürdürecek",
@@ -76,18 +88,6 @@
       "title": "One UI 10, Samsung'un en büyük arayüz güncellemesi olabilir",
       "link": "https://www.donanimhaber.com/one-ui-10-samsung-un-en-buyuk-arayuz-guncellemesi-olabilir--212610",
       "publishedAt": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Xiaomi 18 3C sertifikası aldı, 100 W geliyor",
-      "link": "https://shiftdelete.net/xiaomi-18-3c-sertifikasi-100w-sarj",
-      "publishedAt": "2026-11-07T10:45:58+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Galaxy S27 serisinde en az 12 GB RAM olabilir",
-      "link": "https://shiftdelete.net/galaxy-s27-ram-en-az-12-gb",
-      "publishedAt": "2026-11-07T10:30:58+00:00"
     },
     {
       "source": "DonanımHaber",
