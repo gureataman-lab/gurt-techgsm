@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-08T07:40:12.294066+00:00",
+  "updatedAt": "2026-11-08T08:54:06.469692+00:00",
   "sources": {
     "ShiftDelete": {
-      "checkedAt": "2026-11-08T07:40:12.294066+00:00",
+      "checkedAt": "2026-11-08T08:54:06.469692+00:00",
       "ok": true
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-08T07:40:12.294066+00:00",
+      "checkedAt": "2026-11-08T08:54:06.469692+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "ShiftDelete",
+      "title": "Citroen Fiyat Listesi Kasım 2026: 575.000 TL'den",
+      "link": "https://shiftdelete.net/citroen-fiyat-listesi",
+      "publishedAt": "2026-11-08T08:25:53+00:00"
+    },
     {
       "source": "ShiftDelete",
       "title": "MG Fiyat Listesi Kasım 2026: 2.385.000 TL'den",
@@ -64,12 +70,6 @@
       "title": "Opel Fiyat Listesi Kasım 2026",
       "link": "https://shiftdelete.net/opel-fiyat-listesi",
       "publishedAt": "2026-11-07T17:22:52+00:00"
-    },
-    {
-      "source": "ShiftDelete",
-      "title": "Solar Roof davasında Tesla aleyhine karar",
-      "link": "https://shiftdelete.net/tesla-solar-roof-davasi-dolandiricilik-karari",
-      "publishedAt": "2026-11-07T16:22:27+00:00"
     },
     {
       "source": "DonanımHaber",
