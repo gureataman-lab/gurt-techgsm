@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-09T13:52:41.250363+00:00",
+  "updatedAt": "2026-11-09T14:58:15.758874+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-09T13:52:41.250363+00:00",
+      "checkedAt": "2026-11-09T14:58:15.758874+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone Duo'daki çatlama sorunu tasarım hatası olmayabilir!",
+      "link": "https://www.donanimhaber.com/iphone-duo-daki-catlama-sorunu-tasarim-hatasi-olmayabilir--212684",
+      "publishedAt": "2026-11-09T14:37:12+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, Galaxy AI Premium planını test ediyor: Aylık 5 dolar!",
@@ -124,12 +130,6 @@
       "title": "Akıllı telefon işlemci pazarında Qualcomm ve MediaTek kan kaybediyor",
       "link": "https://www.donanimhaber.com/akilli-telefon-islemci-pazarinda-qualcomm-ve-mediatek-geriliyor--212599",
       "publishedAt": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Motorola Signature 27, DXOMARK kamera sıralamasında ikinci sıraya yerleşti",
-      "link": "https://www.donanimhaber.com/motorola-signature-27-dxomark-kamera-siralamasinda-ikinci-siraya--212587",
-      "publishedAt": "2026-11-07T13:00:00+00:00"
     }
   ]
 }
