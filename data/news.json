@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-09T19:36:04.869696+00:00",
+  "updatedAt": "2026-11-09T20:30:35.889927+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-09T19:36:04.869696+00:00",
+      "checkedAt": "2026-11-09T20:30:35.889927+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "OLED ekranlar ucuz telefonlara iniyor: HD çözünürlük yeniden gündemde",
+      "link": "https://www.donanimhaber.com/ucuz-telefonlara-hd-cozunurluklu-oled-ekranlar-geliyor--212694",
+      "publishedAt": "2026-11-09T20:30:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Motorola Razr Flex 27 ortaya çıktı: iPhone Duo'ya rakip geliyor",
+      "link": "https://www.donanimhaber.com/motorola-razr-flex-27-ortaya-cikti-iphone-duo-ya-rakip-geliyor--212691",
+      "publishedAt": "2026-11-09T19:45:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone'lar için iOS 27.2.1 güncellemesi yayınlandı",
@@ -84,12 +96,6 @@
       "publishedAt": "2026-11-08T15:15:23+00:00"
     },
     {
-      "source": "DonanımHaber",
-      "title": "iPhone 18 X-ray görüntüleri ortaya çıktı: İşte iç tasarım",
-      "link": "https://www.donanimhaber.com/iphone-18-x-ray-goruntuleri-ortaya-cikti-iste-ic-tasarim--212636",
-      "publishedAt": "2026-11-08T14:30:00+00:00"
-    },
-    {
       "source": "ShiftDelete",
       "title": "Ford Fiyat Listesi Kasım 2026: 2.076.000 TL'den",
       "link": "https://shiftdelete.net/ford-fiyat-listesi-2021-tum-modeller",
@@ -100,12 +106,6 @@
       "title": "Neural Dawn, Android'in ilk yapay zekalı oyunu",
       "link": "https://shiftdelete.net/neural-dawn-android-yapay-zeka-oyun",
       "publishedAt": "2026-11-08T14:02:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor, gimbal kameralı telefonunu yeniliyor: Robot Phone 2 yolda",
-      "link": "https://www.donanimhaber.com/honor-gimbal-kamerali-telefonunu-yeniliyor-robot-phone-2-yolda--212619",
-      "publishedAt": "2026-11-08T14:00:00+00:00"
     },
     {
       "source": "ShiftDelete",
