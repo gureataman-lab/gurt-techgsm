@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-09T07:58:02.715223+00:00",
+  "updatedAt": "2026-11-09T09:12:51.252131+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-09T07:58:02.715223+00:00",
+      "checkedAt": "2026-11-09T09:12:51.252131+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Apple, iOS 28'in geliştirilme sürecini değiştirdi",
+      "link": "https://www.donanimhaber.com/apple-ios-28-in-gelistirilme-surecini-degistirdi--212651",
+      "publishedAt": "2026-11-09T08:41:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, Android 17 tabanlı One UI 9.5 testlerine başlıyor",
@@ -124,12 +130,6 @@
       "title": "One UI 10, Samsung'un en büyük arayüz güncellemesi olabilir",
       "link": "https://www.donanimhaber.com/one-ui-10-samsung-un-en-buyuk-arayuz-guncellemesi-olabilir--212610",
       "publishedAt": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor 700 serisi ortaya çıktı: Üç modelde de arka ekran bulunuyor",
-      "link": "https://www.donanimhaber.com/honor-700-serisi-ortaya-cikti-uc-modelde-de-arka-ekran-bulunuyor--212579",
-      "publishedAt": "2026-11-06T16:09:00+00:00"
     }
   ]
 }
