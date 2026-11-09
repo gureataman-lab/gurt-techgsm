@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-09T14:58:15.758874+00:00",
+  "updatedAt": "2026-11-09T16:04:19.811909+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-09T14:58:15.758874+00:00",
+      "checkedAt": "2026-11-09T16:04:19.811909+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Xiaomi duyurdu: Xiaomi 18 Pro ve Pro Max küresel pazara geliyor",
+      "link": "https://www.donanimhaber.com/xiaomi-duyurdu-xiaomi-18-pro-ve-pro-max-kuresel-pazara-geliyor--212677",
+      "publishedAt": "2026-11-09T15:49:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone Duo'daki çatlama sorunu tasarım hatası olmayabilir!",
@@ -124,12 +130,6 @@
       "title": "Telefon Tavsiyeleri - Kasım 2026",
       "link": "https://www.donanimhaber.com/telefon-tavsiyeleri--212628",
       "publishedAt": "2026-11-08T09:19:38+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Akıllı telefon işlemci pazarında Qualcomm ve MediaTek kan kaybediyor",
-      "link": "https://www.donanimhaber.com/akilli-telefon-islemci-pazarinda-qualcomm-ve-mediatek-geriliyor--212599",
-      "publishedAt": "2026-11-07T14:00:00+00:00"
     }
   ]
 }
