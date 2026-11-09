@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-09T06:08:46.312040+00:00",
+  "updatedAt": "2026-11-09T07:58:02.715223+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-09T06:08:46.312040+00:00",
+      "checkedAt": "2026-11-09T07:58:02.715223+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, Android 17 tabanlı One UI 9.5 testlerine başlıyor",
+      "link": "https://www.donanimhaber.com/samsung-android-17-tabanli-one-ui-9-5-testlerine-basliyor--212646",
+      "publishedAt": "2026-11-09T07:35:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Büyük ekranlı telefonlardan sıkılanlara: Enough Phone tanıtıldı",
@@ -124,12 +130,6 @@
       "title": "Honor 700 serisi ortaya çıktı: Üç modelde de arka ekran bulunuyor",
       "link": "https://www.donanimhaber.com/honor-700-serisi-ortaya-cikti-uc-modelde-de-arka-ekran-bulunuyor--212579",
       "publishedAt": "2026-11-06T16:09:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Elektronik atıklar böyle dönüştürülüyormuş - Tesis turu!",
-      "link": "https://www.donanimhaber.com/elektronik-atiklar-boyle-donusturuluyormus-tesis-turu--212568",
-      "publishedAt": "2026-11-06T11:06:15+00:00"
     }
   ]
 }
