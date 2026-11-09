@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-09T17:13:07.547152+00:00",
+  "updatedAt": "2026-11-09T19:36:04.869696+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-09T17:13:07.547152+00:00",
+      "checkedAt": "2026-11-09T19:36:04.869696+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone'lar için iOS 27.2.1 güncellemesi yayınlandı",
+      "link": "https://www.donanimhaber.com/iphone-lar-icin-ios-27-2-1-guncellemesi-yayinlandi--212695",
+      "publishedAt": "2026-11-09T18:35:31+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Xiaomi duyurdu: Xiaomi 18 Pro ve Pro Max küresel pazara geliyor",
@@ -124,12 +130,6 @@
       "title": "Enough Phone: pili değişen 5,3 inç telefon",
       "link": "https://shiftdelete.net/enough-phone-degistirilebilir-pil-kucuk-telefon",
       "publishedAt": "2026-11-08T12:17:24+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Telefon Tavsiyeleri - Kasım 2026",
-      "link": "https://www.donanimhaber.com/telefon-tavsiyeleri--212628",
-      "publishedAt": "2026-11-08T09:19:38+00:00"
     }
   ]
 }
