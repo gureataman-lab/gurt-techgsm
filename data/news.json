@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-09T11:30:07.543124+00:00",
+  "updatedAt": "2026-11-09T12:33:38.254631+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-09T11:30:07.543124+00:00",
+      "checkedAt": "2026-11-09T12:33:38.254631+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, Galaxy AI Premium planını test ediyor: Aylık 5 dolar!",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-ai-premium-planini-test-ediyor--212659",
+      "publishedAt": "2026-11-09T11:39:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Apple, iOS 28'in geliştirilme sürecini değiştirdi",
@@ -124,12 +130,6 @@
       "title": "Motorola Signature 27, DXOMARK kamera sıralamasında ikinci sıraya yerleşti",
       "link": "https://www.donanimhaber.com/motorola-signature-27-dxomark-kamera-siralamasinda-ikinci-siraya--212587",
       "publishedAt": "2026-11-07T13:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "One UI 10, Samsung'un en büyük arayüz güncellemesi olabilir",
-      "link": "https://www.donanimhaber.com/one-ui-10-samsung-un-en-buyuk-arayuz-guncellemesi-olabilir--212610",
-      "publishedAt": "2026-11-07T11:00:00+00:00"
     }
   ]
 }
