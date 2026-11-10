@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-10T17:50:54.165261+00:00",
+  "updatedAt": "2026-11-10T18:54:13.491804+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-10T17:50:54.165261+00:00",
+      "checkedAt": "2026-11-10T18:54:13.491804+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy S27 serisinin kamera özellikleri sızdırıldı",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinin-kamera-ozellikleri-sizdirildi--212717",
+      "publishedAt": "2026-11-10T18:19:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone Air 2 ve iPhone 18 yan yana görüntülendi: İşte tasarım",
@@ -64,12 +70,6 @@
       "title": "Xiaomi duyurdu: Xiaomi 18 Pro ve Pro Max küresel pazara geliyor",
       "link": "https://www.donanimhaber.com/xiaomi-duyurdu-xiaomi-18-pro-ve-pro-max-kuresel-pazara-geliyor--212677",
       "publishedAt": "2026-11-09T15:49:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone Duo'daki çatlama sorunu tasarım hatası olmayabilir!",
-      "link": "https://www.donanimhaber.com/iphone-duo-daki-catlama-sorunu-tasarim-hatasi-olmayabilir--212684",
-      "publishedAt": "2026-11-09T14:37:12+00:00"
     },
     {
       "source": "ShiftDelete",
