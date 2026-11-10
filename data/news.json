@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-10T18:54:13.491804+00:00",
+  "updatedAt": "2026-11-10T19:56:20.956063+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-10T18:54:13.491804+00:00",
+      "checkedAt": "2026-11-10T19:56:20.956063+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Oppo'nun 12.000 mAh bataryalı telefonu ortaya çıktı",
+      "link": "https://www.donanimhaber.com/oppo-nun-12-000-mah-bataryali-telefonu-ortaya-cikti--212737",
+      "publishedAt": "2026-11-10T19:40:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27 serisinin kamera özellikleri sızdırıldı",
@@ -64,12 +70,6 @@
       "title": "Motorola Razr Flex 27 ortaya çıktı: iPhone Duo'ya rakip geliyor",
       "link": "https://www.donanimhaber.com/motorola-razr-flex-27-ortaya-cikti-iphone-duo-ya-rakip-geliyor--212691",
       "publishedAt": "2026-11-09T19:45:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi duyurdu: Xiaomi 18 Pro ve Pro Max küresel pazara geliyor",
-      "link": "https://www.donanimhaber.com/xiaomi-duyurdu-xiaomi-18-pro-ve-pro-max-kuresel-pazara-geliyor--212677",
-      "publishedAt": "2026-11-09T15:49:00+00:00"
     },
     {
       "source": "ShiftDelete",
