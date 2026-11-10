@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-10T05:56:36.513555+00:00",
+  "updatedAt": "2026-11-10T07:09:53.599312+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-10T05:56:36.513555+00:00",
+      "checkedAt": "2026-11-10T07:09:53.599312+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone'lar için iOS 27.2.1 güncellemesi yayınlandı",
+      "link": "https://www.donanimhaber.com/iphone-lar-icin-ios-27-2-1-guncellemesi-yayinlandi--212695",
+      "publishedAt": "2026-11-10T07:07:35+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "OLED ekranlar ucuz telefonlara iniyor: HD çözünürlük yeniden gündemde",
@@ -22,12 +28,6 @@
       "title": "Motorola Razr Flex 27 ortaya çıktı: iPhone Duo'ya rakip geliyor",
       "link": "https://www.donanimhaber.com/motorola-razr-flex-27-ortaya-cikti-iphone-duo-ya-rakip-geliyor--212691",
       "publishedAt": "2026-11-09T19:45:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone'lar için iOS 27.2.1 güncellemesi yayınlandı",
-      "link": "https://www.donanimhaber.com/iphone-lar-icin-ios-27-2-1-guncellemesi-yayinlandi--212695",
-      "publishedAt": "2026-11-09T18:35:31+00:00"
     },
     {
       "source": "DonanımHaber",
