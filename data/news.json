@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-10T13:45:09.860383+00:00",
+  "updatedAt": "2026-11-10T14:57:46.964138+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-10T13:45:09.860383+00:00",
+      "checkedAt": "2026-11-10T14:57:46.964138+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone Air 2 ve iPhone 18 yan yana görüntülendi: İşte tasarım",
+      "link": "https://www.donanimhaber.com/iphone-air-2-ve-iphone-18-yan-yana-goruntulendi-iste-tasarim--212729",
+      "publishedAt": "2026-11-10T13:53:06+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Çift ekranlı Honor 700 serisi 13 Kasım'da geliyor: Serideki en büyük değişim!",
@@ -64,12 +70,6 @@
       "title": "iPhone Duo'daki çatlama sorunu tasarım hatası olmayabilir!",
       "link": "https://www.donanimhaber.com/iphone-duo-daki-catlama-sorunu-tasarim-hatasi-olmayabilir--212684",
       "publishedAt": "2026-11-09T14:37:12+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, Galaxy AI Premium planını test ediyor: Aylık 5 dolar!",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-ai-premium-planini-test-ediyor--212659",
-      "publishedAt": "2026-11-09T11:39:00+00:00"
     },
     {
       "source": "ShiftDelete",
