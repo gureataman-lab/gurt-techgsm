@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-11T10:46:45.031611+00:00",
+  "updatedAt": "2026-11-11T18:38:16.227304+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-11T10:46:45.031611+00:00",
+      "checkedAt": "2026-11-11T18:38:16.227304+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "HyperOS 4 alamayacak Xiaomi ve Poco modelleri belli oldu",
+      "link": "https://www.donanimhaber.com/hyperos-4-alamayacak-xiaomi-ve-poco-modelleri-belli-oldu--212756",
+      "publishedAt": "2026-11-11T11:37:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Oppo'nun 12.000 mAh bataryalı telefonu ortaya çıktı",
@@ -64,12 +70,6 @@
       "title": "OLED ekranlar ucuz telefonlara iniyor: HD çözünürlük yeniden gündemde",
       "link": "https://www.donanimhaber.com/ucuz-telefonlara-hd-cozunurluklu-oled-ekranlar-geliyor--212694",
       "publishedAt": "2026-11-09T20:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Motorola Razr Flex 27 ortaya çıktı: iPhone Duo'ya rakip geliyor",
-      "link": "https://www.donanimhaber.com/motorola-razr-flex-27-ortaya-cikti-iphone-duo-ya-rakip-geliyor--212691",
-      "publishedAt": "2026-11-09T19:45:00+00:00"
     },
     {
       "source": "ShiftDelete",
