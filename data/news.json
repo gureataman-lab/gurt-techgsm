@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-11T18:38:16.227304+00:00",
+  "updatedAt": "2026-11-12T01:29:39.514930+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-11T18:38:16.227304+00:00",
+      "checkedAt": "2026-11-12T01:29:39.514930+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Redmi 12.000 mAh bataryalı telefon hazırlığında: Sırada 14.000 mAh var",
+      "link": "https://www.donanimhaber.com/redmi-12-000-mah-bataryali-telefon-hazirliginda-14-000-ma-yolda--212752",
+      "publishedAt": "2026-11-11T19:28:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "HyperOS 4 alamayacak Xiaomi ve Poco modelleri belli oldu",
@@ -64,12 +70,6 @@
       "title": "iPhone'lar için iOS 27.2.1 güncellemesi yayınlandı",
       "link": "https://www.donanimhaber.com/iphone-lar-icin-ios-27-2-1-guncellemesi-yayinlandi--212695",
       "publishedAt": "2026-11-10T07:07:35+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "OLED ekranlar ucuz telefonlara iniyor: HD çözünürlük yeniden gündemde",
-      "link": "https://www.donanimhaber.com/ucuz-telefonlara-hd-cozunurluklu-oled-ekranlar-geliyor--212694",
-      "publishedAt": "2026-11-09T20:30:00+00:00"
     },
     {
       "source": "ShiftDelete",
