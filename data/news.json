@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-12T17:31:47.302866+00:00",
+  "updatedAt": "2026-11-12T22:50:57.159813+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-12T17:31:47.302866+00:00",
+      "checkedAt": "2026-11-12T22:50:57.159813+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy S27 serisinin duvar kağıtları sızdırıldı: İşte beklenen renk seçenekleri",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinin-duvar-kagitlari-sizdirildi--212832",
+      "publishedAt": "2026-11-12T20:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Televizyon Tavsiyeleri - Kasım 2026",
@@ -64,12 +70,6 @@
       "title": "Oppo'nun 12.000 mAh bataryalı telefonu ortaya çıktı",
       "link": "https://www.donanimhaber.com/oppo-nun-12-000-mah-bataryali-telefonu-ortaya-cikti--212737",
       "publishedAt": "2026-11-10T19:40:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy S27 serisinin kamera özellikleri sızdırıldı",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinin-kamera-ozellikleri-sizdirildi--212717",
-      "publishedAt": "2026-11-10T18:19:00+00:00"
     },
     {
       "source": "ShiftDelete",
