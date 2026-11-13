@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-13T03:23:09.613054+00:00",
+  "updatedAt": "2026-11-13T11:29:33.269946+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-13T03:23:09.613054+00:00",
+      "checkedAt": "2026-11-13T11:29:33.269946+00:00",
       "ok": true
     }
   },
@@ -15,7 +15,19 @@
       "source": "DonanımHaber",
       "title": "Samsung Galaxy S27 serisinin duvar kağıtları sızdırıldı: İşte beklenen renk seçenekleri",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisinin-duvar-kagitlari-sizdirildi--212832",
-      "publishedAt": "2026-11-12T20:00:00+00:00"
+      "publishedAt": "2026-11-13T11:29:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Xiaomi Türkiye lansmanı 17 Kasım'da: Xiaomi 18 Pro ve fazlası geliyor",
+      "link": "https://www.donanimhaber.com/xiaomi-18-pro-max-turkiye-lansmani-17-kasim-da-iste-detaylar--212867",
+      "publishedAt": "2026-11-13T09:57:09+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Xiaomi 18 Pro'nun bir özelliği daha doğrulandı: Beklenen destek yolda",
+      "link": "https://www.donanimhaber.com/xiaomi-18-pro-nun-bir-ozelligi-dogrulandi-beklenen-destek-yolda--212862",
+      "publishedAt": "2026-11-13T09:34:00+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -58,18 +70,6 @@
       "title": "Redmi 12.000 mAh bataryalı telefon hazırlığında: Sırada 14.000 mAh var",
       "link": "https://www.donanimhaber.com/redmi-12-000-mah-bataryali-telefon-hazirliginda-14-000-ma-yolda--212752",
       "publishedAt": "2026-11-11T19:28:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "HyperOS 4 alamayacak Xiaomi ve Poco modelleri belli oldu",
-      "link": "https://www.donanimhaber.com/hyperos-4-alamayacak-xiaomi-ve-poco-modelleri-belli-oldu--212756",
-      "publishedAt": "2026-11-11T11:37:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Oppo'nun 12.000 mAh bataryalı telefonu ortaya çıktı",
-      "link": "https://www.donanimhaber.com/oppo-nun-12-000-mah-bataryali-telefonu-ortaya-cikti--212737",
-      "publishedAt": "2026-11-10T19:40:00+00:00"
     },
     {
       "source": "ShiftDelete",
