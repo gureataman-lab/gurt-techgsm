@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-14T14:05:23.460573+00:00",
+  "updatedAt": "2026-11-14T19:08:22.252177+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-14T14:05:23.460573+00:00",
+      "checkedAt": "2026-11-14T19:08:22.252177+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei Nova Flip, yeni tasarımıyla dengeleri değiştirebilir",
+      "link": "https://www.donanimhaber.com/huawei-nova-flip-yeni-tasarimiyla-dengeleri-degistirebilir--212920",
+      "publishedAt": "2026-11-14T17:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Honor 700 serisinin tanıtım tarihi açıklandı: İşte özellikleri",
@@ -64,12 +70,6 @@
       "title": "Katlanabilir telefon pazarı küçüldü, Samsung rakipleriyle arayı açtı",
       "link": "https://www.donanimhaber.com/samsung-katlanabilir-telefon-pazarinda-rakipleriyle-arayi-acti--212795",
       "publishedAt": "2026-11-12T08:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple ve Samsung, katlanabilir telefonlarda daha kalın camlar üzerinde çalışıyor",
-      "link": "https://www.donanimhaber.com/apple-ve-samsung-katlanabilir-telefon-ekranlarini-guclendirecek--212796",
-      "publishedAt": "2026-11-12T07:40:00+00:00"
     },
     {
       "source": "ShiftDelete",
