@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-15T10:43:58.182842+00:00",
+  "updatedAt": "2026-11-15T17:40:18.382545+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-15T10:43:58.182842+00:00",
+      "checkedAt": "2026-11-15T17:40:18.382545+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei Mate X8 ilk kez görüntülendi: Tasarım ortaya çıktı",
+      "link": "https://www.donanimhaber.com/huawei-mate-x8-ilk-kez-goruntulendi-tasarim-ortaya-cikti--212936",
+      "publishedAt": "2026-11-15T15:00:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Baseus'tan iPhone 18 Pro'ya özel AVS destekli 60W şarj adaptörü",
+      "link": "https://www.donanimhaber.com/baseus-iphone-18-serisi-icin-60w-lik-sarj-adaptorunu-tanitti--212937",
+      "publishedAt": "2026-11-15T12:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Huawei Nova Flip, yeni tasarımıyla dengeleri değiştirebilir",
@@ -58,18 +70,6 @@
       "title": "Samsung, Apple ile tekrar dalga geçti: iPhone Duo'ya gönderme",
       "link": "https://www.donanimhaber.com/samsung-apple-ile-tekrar-dalga-gecti-iphone-duo-ya-gonderme--212806",
       "publishedAt": "2026-11-12T09:10:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei'nin yeni markası Osta'nın tanıtım tarihi açıklandı: Osta O1 Pro geliyor",
-      "link": "https://www.donanimhaber.com/huawei-nin-yeni-markasi-osta-nin-tanitim-tarihi-aciklandi--212807",
-      "publishedAt": "2026-11-12T08:48:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Katlanabilir telefon pazarı küçüldü, Samsung rakipleriyle arayı açtı",
-      "link": "https://www.donanimhaber.com/samsung-katlanabilir-telefon-pazarinda-rakipleriyle-arayi-acti--212795",
-      "publishedAt": "2026-11-12T08:00:00+00:00"
     },
     {
       "source": "ShiftDelete",
