@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-16T11:01:30.891024+00:00",
+  "updatedAt": "2026-11-16T20:57:36.356689+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-16T11:01:30.891024+00:00",
+      "checkedAt": "2026-11-16T20:57:36.356689+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Oppo Reno 17 serisi tanıtıldı: İşte özellikleri ve fiyatları",
+      "link": "https://www.donanimhaber.com/oppo-reno-17-serisi-tanitildi-iste-ozellikleri-ve-fiyatlari--212986",
+      "publishedAt": "2026-11-16T18:50:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei OSTA O1 Pro'nun tasarımı sızdırıldı: İşte özellikleri",
+      "link": "https://www.donanimhaber.com/huawei-osta-o1-pro-nun-tasarimi-sizdirildi-iste-ozellikleri--212959",
+      "publishedAt": "2026-11-16T11:54:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Apple, Face ID'li iPhone Duo'yu test ediyor",
@@ -58,18 +70,6 @@
       "title": "Xiaomi Türkiye lansmanı 17 Kasım'da: Xiaomi 18 Pro ve fazlası geliyor",
       "link": "https://www.donanimhaber.com/xiaomi-18-pro-max-turkiye-lansmani-17-kasim-da-iste-detaylar--212867",
       "publishedAt": "2026-11-13T09:57:09+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi 18 Pro'nun bir özelliği daha doğrulandı: Beklenen destek yolda",
-      "link": "https://www.donanimhaber.com/xiaomi-18-pro-nun-bir-ozelligi-dogrulandi-beklenen-destek-yolda--212862",
-      "publishedAt": "2026-11-13T09:34:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Televizyon Tavsiyeleri - Kasım 2026",
-      "link": "https://www.donanimhaber.com/televizyon-tavsiyeleri--212831",
-      "publishedAt": "2026-11-12T15:00:07+00:00"
     },
     {
       "source": "ShiftDelete",
