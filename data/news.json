@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-16T02:41:49.515381+00:00",
+  "updatedAt": "2026-11-16T11:01:30.891024+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-16T02:41:49.515381+00:00",
+      "checkedAt": "2026-11-16T11:01:30.891024+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Apple, Face ID'li iPhone Duo'yu test ediyor",
+      "link": "https://www.donanimhaber.com/apple-face-id-li-iphone-duo-yu-test-ediyor--212953",
+      "publishedAt": "2026-11-16T08:59:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Galaxy S27 Ultra ve S27 Pro'nun kamera tasarımı ortaya çıktı",
+      "link": "https://www.donanimhaber.com/galaxy-s27-ultra-ve-s27-pro-nun-kamera-tasarimi-ortaya-cikti--212950",
+      "publishedAt": "2026-11-16T06:39:48+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Huawei Mate X8 ilk kez görüntülendi: Tasarım ortaya çıktı",
@@ -58,18 +70,6 @@
       "title": "Televizyon Tavsiyeleri - Kasım 2026",
       "link": "https://www.donanimhaber.com/televizyon-tavsiyeleri--212831",
       "publishedAt": "2026-11-12T15:00:07+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "En uzun pil ömrüne sahip telefonlar belli oldu: iPhone 18 Pro Max zirvede",
-      "link": "https://www.donanimhaber.com/en-uzun-pil-omrune-sahip-telefonlar-belli-oldu-iste-liste--212813",
-      "publishedAt": "2026-11-12T10:56:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, Apple ile tekrar dalga geçti: iPhone Duo'ya gönderme",
-      "link": "https://www.donanimhaber.com/samsung-apple-ile-tekrar-dalga-gecti-iphone-duo-ya-gonderme--212806",
-      "publishedAt": "2026-11-12T09:10:00+00:00"
     },
     {
       "source": "ShiftDelete",
