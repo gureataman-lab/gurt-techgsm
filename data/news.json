@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-17T13:12:54.712936+00:00",
+  "updatedAt": "2026-11-17T21:53:13.777915+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-17T13:12:54.712936+00:00",
+      "checkedAt": "2026-11-17T21:53:13.777915+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Xiaomi 18 Pro serisinin Türkiye ön satış tarihi açıklandı",
+      "link": "https://www.donanimhaber.com/xiaomi-18-pro-serisinin-turkiye-on-satis-tarihi-aciklandi--213041",
+      "publishedAt": "2026-11-17T17:30:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Honor Türkiye'de akıllı telefon üretimine başladı",
+      "link": "https://www.donanimhaber.com/honor-turkiye-de-akilli-telefon-uretimine-basladi--213033",
+      "publishedAt": "2026-11-17T13:43:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung Galaxy Z Fold 8 \"En İyi İnovasyon Ödülü\" kazandı",
@@ -58,18 +70,6 @@
       "title": "Baseus'tan iPhone 18 Pro'ya özel AVS destekli 60W şarj adaptörü",
       "link": "https://www.donanimhaber.com/baseus-iphone-18-serisi-icin-60w-lik-sarj-adaptorunu-tanitti--212937",
       "publishedAt": "2026-11-15T12:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei Nova Flip, yeni tasarımıyla dengeleri değiştirebilir",
-      "link": "https://www.donanimhaber.com/huawei-nova-flip-yeni-tasarimiyla-dengeleri-degistirebilir--212920",
-      "publishedAt": "2026-11-14T17:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor 700 serisinin tanıtım tarihi açıklandı: İşte özellikleri",
-      "link": "https://www.donanimhaber.com/honor-700-serisinin-tanitim-tarihi-aciklandi-iste-ozellikleri--212896",
-      "publishedAt": "2026-11-14T12:00:00+00:00"
     },
     {
       "source": "ShiftDelete",
