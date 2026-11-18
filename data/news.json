@@ -1,16 +1,40 @@
 {
-  "updatedAt": "2026-11-18T12:57:51.040556+00:00",
+  "updatedAt": "2026-11-18T21:21:59.375435+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-18T12:57:51.040556+00:00",
+      "checkedAt": "2026-11-18T21:21:59.375435+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "One UI 9.5 güncellemesi alacak Samsung telefonlar",
+      "link": "https://www.donanimhaber.com/one-ui-9-5-guncellemesi-alacak-samsung-telefonlar--213050",
+      "publishedAt": "2026-11-18T21:20:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, Galaxy S26 serisi için One UI 9.5 betayı yayınladı: İşte gelen yenilikler",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s26-serisi-icin-one-ui-9-5-betayi-yayinladi--213093",
+      "publishedAt": "2026-11-18T20:37:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "One UI 10'un ilk görseli ortaya çıktı: Samsung, Liquid Glass tasarımına geçebilir!",
+      "link": "https://www.donanimhaber.com/samsung-one-ui-10-ile-liquid-glass-tasarimina-gecis-yapabilir--213095",
+      "publishedAt": "2026-11-18T17:11:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, 2027'de çerçevesiz ekranlı akıllı telefon piyasaya sürebilir",
+      "link": "https://www.donanimhaber.com/samsung-2027-de-cercevesiz-ekranli-telefon-piyasaya-surebilir--213051",
+      "publishedAt": "2026-11-18T13:06:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Xiaomi 18 Pro serisinin Türkiye ön satış tarihi açıklandı",
@@ -46,30 +70,6 @@
       "title": "Huawei OSTA O1 Pro'nun tasarımı sızdırıldı: İşte özellikleri",
       "link": "https://www.donanimhaber.com/huawei-osta-o1-pro-nun-tasarimi-sizdirildi-iste-ozellikleri--212959",
       "publishedAt": "2026-11-16T11:54:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple, Face ID'li iPhone Duo'yu test ediyor",
-      "link": "https://www.donanimhaber.com/apple-face-id-li-iphone-duo-yu-test-ediyor--212953",
-      "publishedAt": "2026-11-16T08:59:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Galaxy S27 Ultra ve S27 Pro'nun kamera tasarımı ortaya çıktı",
-      "link": "https://www.donanimhaber.com/galaxy-s27-ultra-ve-s27-pro-nun-kamera-tasarimi-ortaya-cikti--212950",
-      "publishedAt": "2026-11-16T06:39:48+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei Mate X8 ilk kez görüntülendi: Tasarım ortaya çıktı",
-      "link": "https://www.donanimhaber.com/huawei-mate-x8-ilk-kez-goruntulendi-tasarim-ortaya-cikti--212936",
-      "publishedAt": "2026-11-15T15:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Baseus'tan iPhone 18 Pro'ya özel AVS destekli 60W şarj adaptörü",
-      "link": "https://www.donanimhaber.com/baseus-iphone-18-serisi-icin-60w-lik-sarj-adaptorunu-tanitti--212937",
-      "publishedAt": "2026-11-15T12:00:00+00:00"
     },
     {
       "source": "ShiftDelete",
