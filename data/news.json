@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-19T11:29:40.934481+00:00",
+  "updatedAt": "2026-11-19T19:37:01.035699+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-19T11:29:40.934481+00:00",
+      "checkedAt": "2026-11-19T19:37:01.035699+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei Mate 90 Air tanıtmaya başladı: İşte özellikleri",
+      "link": "https://www.donanimhaber.com/huawei-mate-90-air-tanitmaya-basladi-iste-ozellikleri--213122",
+      "publishedAt": "2026-11-19T19:35:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Apple, iPhone 20 Pro ile titanyum tasarıma geri dönebilir",
@@ -64,12 +70,6 @@
       "title": "iPhone 20 Pro kamera ve tasarım detayları ortaya çıktı",
       "link": "https://www.donanimhaber.com/iphone-20-pro-max-kamera-ve-tasarim-detaylari-ortaya-cikti--212989",
       "publishedAt": "2026-11-17T07:10:24+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Oppo Reno 17 serisi tanıtıldı: İşte özellikleri ve fiyatları",
-      "link": "https://www.donanimhaber.com/oppo-reno-17-serisi-tanitildi-iste-ozellikleri-ve-fiyatlari--212986",
-      "publishedAt": "2026-11-16T18:50:00+00:00"
     },
     {
       "source": "ShiftDelete",
