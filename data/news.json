@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-20T09:08:29.938043+00:00",
+  "updatedAt": "2026-11-20T17:59:06.187062+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-20T09:08:29.938043+00:00",
+      "checkedAt": "2026-11-20T17:59:06.187062+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Ugreen, ekranlı ve AVS destekli 60W şarj cihazını tanıttı",
+      "link": "https://www.donanimhaber.com/ugreen-ekranli-ve-avs-destekli-60w-sarj-cihazini-tanitti--213192",
+      "publishedAt": "2026-11-20T17:44:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Galaxy S27 Pro Geekbench'te test edildi: İşte işlemcisi ve performansı",
+      "link": "https://www.donanimhaber.com/galaxy-s27-pro-geekbench-te-test-edildi-iste-ozellikleri--213182",
+      "publishedAt": "2026-11-20T13:48:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone'un Kamera yazılımından sorumlu yönetici görevden ayrıldı",
+      "link": "https://www.donanimhaber.com/iphone-kamera-yaziliminin-bas-sorumlusu-apple-dan-ayrildi--213165",
+      "publishedAt": "2026-11-20T11:40:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, 7 yıl sonra telefon bölümünün başına yeni bir isim getirdi",
@@ -52,24 +70,6 @@
       "title": "Samsung, Galaxy S26 serisi için One UI 9.5 betayı yayınladı: İşte gelen yenilikler",
       "link": "https://www.donanimhaber.com/samsung-galaxy-s26-serisi-icin-one-ui-9-5-betayi-yayinladi--213093",
       "publishedAt": "2026-11-18T20:37:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "One UI 10'un ilk görseli ortaya çıktı: Samsung, Liquid Glass tasarımına geçebilir!",
-      "link": "https://www.donanimhaber.com/samsung-one-ui-10-ile-liquid-glass-tasarimina-gecis-yapabilir--213095",
-      "publishedAt": "2026-11-18T17:11:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, 2027'de çerçevesiz ekranlı akıllı telefon piyasaya sürebilir",
-      "link": "https://www.donanimhaber.com/samsung-2027-de-cercevesiz-ekranli-telefon-piyasaya-surebilir--213051",
-      "publishedAt": "2026-11-18T13:06:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi 18 Pro serisinin Türkiye ön satış tarihi açıklandı",
-      "link": "https://www.donanimhaber.com/xiaomi-18-pro-serisinin-turkiye-on-satis-tarihi-aciklandi--213041",
-      "publishedAt": "2026-11-17T17:30:00+00:00"
     },
     {
       "source": "ShiftDelete",
