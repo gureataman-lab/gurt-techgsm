@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-20T17:59:06.187062+00:00",
+  "updatedAt": "2026-11-20T23:57:28.759700+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-20T17:59:06.187062+00:00",
+      "checkedAt": "2026-11-20T23:57:28.759700+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei'den geniş ekranlı yeni telefon: OSTA O1 Pro tanıtıldı",
+      "link": "https://www.donanimhaber.com/huawei-osta-o1-pro-tanitildi-iste-ozellikleri-ve-fiyati--213188",
+      "publishedAt": "2026-11-20T18:48:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Ugreen, ekranlı ve AVS destekli 60W şarj cihazını tanıttı",
@@ -64,12 +70,6 @@
       "title": "One UI 9.5 güncellemesi alacak Samsung telefonlar",
       "link": "https://www.donanimhaber.com/one-ui-9-5-guncellemesi-alacak-samsung-telefonlar--213050",
       "publishedAt": "2026-11-18T21:20:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, Galaxy S26 serisi için One UI 9.5 betayı yayınladı: İşte gelen yenilikler",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s26-serisi-icin-one-ui-9-5-betayi-yayinladi--213093",
-      "publishedAt": "2026-11-18T20:37:00+00:00"
     },
     {
       "source": "ShiftDelete",
