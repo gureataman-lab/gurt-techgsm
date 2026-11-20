@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-20T01:26:39.780933+00:00",
+  "updatedAt": "2026-11-20T09:08:29.938043+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-20T01:26:39.780933+00:00",
+      "checkedAt": "2026-11-20T09:08:29.938043+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, 7 yıl sonra telefon bölümünün başına yeni bir isim getirdi",
+      "link": "https://www.donanimhaber.com/samsung-da-7-yil-sonra-mobil-bolumun-basina-yeni-isim-getirildi--213159",
+      "publishedAt": "2026-11-20T07:20:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Motorola'nın yeni katlanabilir telefonu Razr Flex'in görselleri sızdı",
+      "link": "https://www.donanimhaber.com/motorola-nin-yeni-katlanabilir-telefonu-ortaya-cikti--213156",
+      "publishedAt": "2026-11-20T06:15:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "A101 marketler Samsung Galaxy Z Fold 8 ve Roborock S8 Pro satıyor",
@@ -58,18 +70,6 @@
       "title": "Xiaomi 18 Pro serisinin Türkiye ön satış tarihi açıklandı",
       "link": "https://www.donanimhaber.com/xiaomi-18-pro-serisinin-turkiye-on-satis-tarihi-aciklandi--213041",
       "publishedAt": "2026-11-17T17:30:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor Türkiye'de akıllı telefon üretimine başladı",
-      "link": "https://www.donanimhaber.com/honor-turkiye-de-akilli-telefon-uretimine-basladi--213033",
-      "publishedAt": "2026-11-17T13:43:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy Z Fold 8 \"En İyi İnovasyon Ödülü\" kazandı",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-z-fold-8-en-iyi-inovasyon-odulu-kazandi--213004",
-      "publishedAt": "2026-11-17T10:32:00+00:00"
     },
     {
       "source": "ShiftDelete",
