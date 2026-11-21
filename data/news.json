@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-21T15:17:28.729113+00:00",
+  "updatedAt": "2026-11-21T21:06:16.764716+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-21T15:17:28.729113+00:00",
+      "checkedAt": "2026-11-21T21:06:16.764716+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "OpenAI, ilk akıllı telefonunun üretimi için Apple'ın tedarikçisiyle anlaştı",
+      "link": "https://www.donanimhaber.com/openai-akilli-telefon-uretimi-icin-apple-tedarikcisiyle-anlasti--213198",
+      "publishedAt": "2026-11-21T18:00:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Xiaomi 18 Max'in beklenen özellikleri ortaya çıktı",
+      "link": "https://www.donanimhaber.com/xiaomi-18-max-in-beklenen-ozellikleri-ortaya-cikti--213224",
+      "publishedAt": "2026-11-21T16:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Huawei'den geniş ekranlı yeni telefon: OSTA O1 Pro tanıtıldı",
@@ -58,18 +70,6 @@
       "title": "Huawei Mate 90 Air tanıtmaya başladı: İşte özellikleri",
       "link": "https://www.donanimhaber.com/huawei-mate-90-air-tanitmaya-basladi-iste-ozellikleri--213122",
       "publishedAt": "2026-11-19T19:35:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Apple, iPhone 20 Pro ile titanyum tasarıma geri dönebilir",
-      "link": "https://www.donanimhaber.com/apple-iphone-20-pro-titanyum-tasarimla-gelebilir--213113",
-      "publishedAt": "2026-11-19T09:43:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "One UI 9.5 güncellemesi alacak Samsung telefonlar",
-      "link": "https://www.donanimhaber.com/one-ui-9-5-guncellemesi-alacak-samsung-telefonlar--213050",
-      "publishedAt": "2026-11-18T21:20:00+00:00"
     },
     {
       "source": "ShiftDelete",
