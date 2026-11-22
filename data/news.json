@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-22T08:47:12.314909+00:00",
+  "updatedAt": "2026-11-22T17:05:05.790047+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-22T08:47:12.314909+00:00",
+      "checkedAt": "2026-11-22T17:05:05.790047+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone'lardaki Dynamic Island özelliği Samsung telefonlara geliyor",
+      "link": "https://www.donanimhaber.com/iphone-lardaki-dynamic-island-samsung-telefonlara-geliyor--213218",
+      "publishedAt": "2026-11-22T13:00:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "OpenAI, ilk akıllı telefonunun üretimi için Apple'ın tedarikçisiyle anlaştı",
@@ -64,12 +70,6 @@
       "title": "A101 marketler Samsung Galaxy Z Fold 8 ve Roborock S8 Pro satıyor",
       "link": "https://www.donanimhaber.com/19-kasim-a101-ekstra-katalogunda-neler-var--213152",
       "publishedAt": "2026-11-19T20:39:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei Mate 90 Air tanıtmaya başladı: İşte özellikleri",
-      "link": "https://www.donanimhaber.com/huawei-mate-90-air-tanitmaya-basladi-iste-ozellikleri--213122",
-      "publishedAt": "2026-11-19T19:35:00+00:00"
     },
     {
       "source": "ShiftDelete",
