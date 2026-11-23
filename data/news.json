@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-23T03:04:54.879685+00:00",
+  "updatedAt": "2026-11-23T12:24:24.657275+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-23T03:04:54.879685+00:00",
+      "checkedAt": "2026-11-23T12:24:24.657275+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Honor 700 serisi tanıtıldı: Çift ekran, 200MP kamera, 9000 mAh batarya",
+      "link": "https://www.donanimhaber.com/honor-700-serisi-tanitildi-iste-fiyat-ve-ozellikler--213261",
+      "publishedAt": "2026-11-23T11:18:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Galaxy S27 serisinin RAM ve depolama bilgileri ortaya çıktı",
+      "link": "https://www.donanimhaber.com/samsung-s27-serisinin-ram-ve-depolama-bilgileri-ortaya-cikti--213254",
+      "publishedAt": "2026-11-23T09:20:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone'lardaki Dynamic Island özelliği Samsung telefonlara geliyor",
@@ -58,18 +70,6 @@
       "title": "Samsung, 7 yıl sonra telefon bölümünün başına yeni bir isim getirdi",
       "link": "https://www.donanimhaber.com/samsung-da-7-yil-sonra-mobil-bolumun-basina-yeni-isim-getirildi--213159",
       "publishedAt": "2026-11-20T07:20:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Motorola'nın yeni katlanabilir telefonu Razr Flex'in görselleri sızdı",
-      "link": "https://www.donanimhaber.com/motorola-nin-yeni-katlanabilir-telefonu-ortaya-cikti--213156",
-      "publishedAt": "2026-11-20T06:15:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "A101 marketler Samsung Galaxy Z Fold 8 ve Roborock S8 Pro satıyor",
-      "link": "https://www.donanimhaber.com/19-kasim-a101-ekstra-katalogunda-neler-var--213152",
-      "publishedAt": "2026-11-19T20:39:00+00:00"
     },
     {
       "source": "ShiftDelete",
