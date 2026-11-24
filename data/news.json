@@ -1,16 +1,34 @@
 {
-  "updatedAt": "2026-11-24T10:23:56.238873+00:00",
+  "updatedAt": "2026-11-24T20:51:27.395853+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-24T10:23:56.238873+00:00",
+      "checkedAt": "2026-11-24T20:51:27.395853+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei Mate X8 iddialı özelliklerle geliyor",
+      "link": "https://www.donanimhaber.com/huawei-mate-x8-tanitildi-iste-ozellikleri-ve-fiyati--213322",
+      "publishedAt": "2026-11-24T20:32:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Huawei Mate 90 Air tanıtıldı: İncecik gövdede 6500 mAh batarya, üçlü kamera!",
+      "link": "https://www.donanimhaber.com/huawei-mate-90-air-tanitildi-iste-fiyati-ve-ozellikleri--213331",
+      "publishedAt": "2026-11-24T17:42:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy S27 Ultra’da bir kamera özelliği daha kaldırılabilir",
+      "link": "https://www.donanimhaber.com/galaxy-s27-ultra-da-bir-kamera-ozelligi-daha-kaldirilabilir--213338",
+      "publishedAt": "2026-11-24T14:49:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Honor CEO'sundan iddialı sözler: \"Yeni katlanabilir telefonda katlanma izi olmayacak\"",
@@ -52,24 +70,6 @@
       "title": "OpenAI, ilk akıllı telefonunun üretimi için Apple'ın tedarikçisiyle anlaştı",
       "link": "https://www.donanimhaber.com/openai-akilli-telefon-uretimi-icin-apple-tedarikcisiyle-anlasti--213198",
       "publishedAt": "2026-11-21T18:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Xiaomi 18 Max'in beklenen özellikleri ortaya çıktı",
-      "link": "https://www.donanimhaber.com/xiaomi-18-max-in-beklenen-ozellikleri-ortaya-cikti--213224",
-      "publishedAt": "2026-11-21T16:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei'den geniş ekranlı yeni telefon: OSTA O1 Pro tanıtıldı",
-      "link": "https://www.donanimhaber.com/huawei-osta-o1-pro-tanitildi-iste-ozellikleri-ve-fiyati--213188",
-      "publishedAt": "2026-11-20T18:48:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Ugreen, ekranlı ve AVS destekli 60W şarj cihazını tanıttı",
-      "link": "https://www.donanimhaber.com/ugreen-ekranli-ve-avs-destekli-60w-sarj-cihazini-tanitti--213192",
-      "publishedAt": "2026-11-20T17:44:00+00:00"
     },
     {
       "source": "ShiftDelete",
