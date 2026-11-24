@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-24T00:19:26.998324+00:00",
+  "updatedAt": "2026-11-24T10:23:56.238873+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-24T00:19:26.998324+00:00",
+      "checkedAt": "2026-11-24T10:23:56.238873+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Honor CEO'sundan iddialı sözler: \"Yeni katlanabilir telefonda katlanma izi olmayacak\"",
+      "link": "https://www.donanimhaber.com/honor-un-yeni-katlanabilir-telefonunda-katlanma-izi-olmayacak--213300",
+      "publishedAt": "2026-11-24T05:46:04+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iPhone 20 tasarımı harekete geçirdi: Samsung, Xiaomi ve Oppo kavisli ekranlara dönüyor",
@@ -64,12 +70,6 @@
       "title": "Ugreen, ekranlı ve AVS destekli 60W şarj cihazını tanıttı",
       "link": "https://www.donanimhaber.com/ugreen-ekranli-ve-avs-destekli-60w-sarj-cihazini-tanitti--213192",
       "publishedAt": "2026-11-20T17:44:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Galaxy S27 Pro Geekbench'te test edildi: İşte işlemcisi ve performansı",
-      "link": "https://www.donanimhaber.com/galaxy-s27-pro-geekbench-te-test-edildi-iste-ozellikleri--213182",
-      "publishedAt": "2026-11-20T13:48:00+00:00"
     },
     {
       "source": "ShiftDelete",
