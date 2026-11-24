@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-23T12:24:24.657275+00:00",
+  "updatedAt": "2026-11-24T00:19:26.998324+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-23T12:24:24.657275+00:00",
+      "checkedAt": "2026-11-24T00:19:26.998324+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone 20 tasarımı harekete geçirdi: Samsung, Xiaomi ve Oppo kavisli ekranlara dönüyor",
+      "link": "https://www.donanimhaber.com/samsung-xiaomi-ve-oppo-kavisli-ekranlara-geri-donuyor--213294",
+      "publishedAt": "2026-11-23T20:52:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Galaxy A38'den kötü haber: Samsung kamera konusunda geriye gidiyor",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-a38-selefinden-daha-kotu-bir-kamerayla-gelebilir--213290",
+      "publishedAt": "2026-11-23T19:29:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Honor 700 serisi tanıtıldı: Çift ekran, 200MP kamera, 9000 mAh batarya",
@@ -58,18 +70,6 @@
       "title": "Galaxy S27 Pro Geekbench'te test edildi: İşte işlemcisi ve performansı",
       "link": "https://www.donanimhaber.com/galaxy-s27-pro-geekbench-te-test-edildi-iste-ozellikleri--213182",
       "publishedAt": "2026-11-20T13:48:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone'un Kamera yazılımından sorumlu yönetici görevden ayrıldı",
-      "link": "https://www.donanimhaber.com/iphone-kamera-yaziliminin-bas-sorumlusu-apple-dan-ayrildi--213165",
-      "publishedAt": "2026-11-20T11:40:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung, 7 yıl sonra telefon bölümünün başına yeni bir isim getirdi",
-      "link": "https://www.donanimhaber.com/samsung-da-7-yil-sonra-mobil-bolumun-basina-yeni-isim-getirildi--213159",
-      "publishedAt": "2026-11-20T07:20:00+00:00"
     },
     {
       "source": "ShiftDelete",
