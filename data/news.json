@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-25T04:06:58.816396+00:00",
+  "updatedAt": "2026-11-25T14:20:15.158085+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-25T04:06:58.816396+00:00",
+      "checkedAt": "2026-11-25T14:20:15.158085+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung, WhatsApp ve Telegram'daki dolandırıcılık aramalarını da tespit edecek",
+      "link": "https://www.donanimhaber.com/samsung-whatsapp-taki-dolandiricilik-aramalarini-da-tespit-edecek--213345",
+      "publishedAt": "2026-11-25T09:31:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Motorola Edge 70 Neo kameraya odaklanıyor",
+      "link": "https://www.donanimhaber.com/motorola-edge-70-neo-tanitildi-iste-ozellikleri-ve-fiyati--213346",
+      "publishedAt": "2026-11-25T07:22:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Huawei Mate X8 iddialı özelliklerle geliyor",
@@ -58,18 +70,6 @@
       "title": "Galaxy S27 serisinin RAM ve depolama bilgileri ortaya çıktı",
       "link": "https://www.donanimhaber.com/samsung-s27-serisinin-ram-ve-depolama-bilgileri-ortaya-cikti--213254",
       "publishedAt": "2026-11-23T09:20:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone'lardaki Dynamic Island özelliği Samsung telefonlara geliyor",
-      "link": "https://www.donanimhaber.com/iphone-lardaki-dynamic-island-samsung-telefonlara-geliyor--213218",
-      "publishedAt": "2026-11-22T13:00:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "OpenAI, ilk akıllı telefonunun üretimi için Apple'ın tedarikçisiyle anlaştı",
-      "link": "https://www.donanimhaber.com/openai-akilli-telefon-uretimi-icin-apple-tedarikcisiyle-anlasti--213198",
-      "publishedAt": "2026-11-21T18:00:00+00:00"
     },
     {
       "source": "ShiftDelete",
