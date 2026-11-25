@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-11-25T14:20:15.158085+00:00",
+  "updatedAt": "2026-11-25T23:16:38.023269+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-25T14:20:15.158085+00:00",
+      "checkedAt": "2026-11-25T23:16:38.023269+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "2027 akıllı telefon pazarı için daha kötü geçecek: Markalar hedeflerini düşürdü",
+      "link": "https://www.donanimhaber.com/bellek-krizi-nedeniyle-telefon-ureticileri-hedeflerini-dusurdu--213384",
+      "publishedAt": "2026-11-25T17:10:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "30 Bin Lira Bütçeye En İyi Telefon Hangisi? Nothing Phone 3a vs Honor 600 vs Poco X8 Pro",
+      "link": "https://www.donanimhaber.com/30-bin-lira-butceye-en-iyi-telefon-hangisi--212932",
+      "publishedAt": "2026-11-25T15:00:44+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "Samsung, WhatsApp ve Telegram'daki dolandırıcılık aramalarını da tespit edecek",
@@ -58,18 +70,6 @@
       "title": "Galaxy A38'den kötü haber: Samsung kamera konusunda geriye gidiyor",
       "link": "https://www.donanimhaber.com/samsung-galaxy-a38-selefinden-daha-kotu-bir-kamerayla-gelebilir--213290",
       "publishedAt": "2026-11-23T19:29:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor 700 serisi tanıtıldı: Çift ekran, 200MP kamera, 9000 mAh batarya",
-      "link": "https://www.donanimhaber.com/honor-700-serisi-tanitildi-iste-fiyat-ve-ozellikler--213261",
-      "publishedAt": "2026-11-23T11:18:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Galaxy S27 serisinin RAM ve depolama bilgileri ortaya çıktı",
-      "link": "https://www.donanimhaber.com/samsung-s27-serisinin-ram-ve-depolama-bilgileri-ortaya-cikti--213254",
-      "publishedAt": "2026-11-23T09:20:00+00:00"
     },
     {
       "source": "ShiftDelete",
