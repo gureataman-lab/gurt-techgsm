@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-26T05:25:44.211363+00:00",
+  "updatedAt": "2026-11-26T15:44:32.852964+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-26T05:25:44.211363+00:00",
+      "checkedAt": "2026-11-26T15:44:32.852964+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "iOS 28 ile iPhone'ların bildirim sistemi yenileniyor",
+      "link": "https://www.donanimhaber.com/ios-28-ile-iphone-larin-bildirim-sistemi-yenileniyor--213407",
+      "publishedAt": "2026-11-26T09:16:00+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "2027 akıllı telefon pazarı için daha kötü geçecek: Markalar hedeflerini düşürdü",
@@ -64,12 +70,6 @@
       "title": "iPhone 20 tasarımı harekete geçirdi: Samsung, Xiaomi ve Oppo kavisli ekranlara dönüyor",
       "link": "https://www.donanimhaber.com/samsung-xiaomi-ve-oppo-kavisli-ekranlara-geri-donuyor--213294",
       "publishedAt": "2026-11-23T20:52:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Galaxy A38'den kötü haber: Samsung kamera konusunda geriye gidiyor",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-a38-selefinden-daha-kotu-bir-kamerayla-gelebilir--213290",
-      "publishedAt": "2026-11-23T19:29:00+00:00"
     },
     {
       "source": "ShiftDelete",
