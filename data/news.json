@@ -1,16 +1,22 @@
 {
-  "updatedAt": "2026-11-27T00:32:03.440644+00:00",
+  "updatedAt": "2026-11-27T09:01:49.333636+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-27T00:32:03.440644+00:00",
+      "checkedAt": "2026-11-27T09:01:49.333636+00:00",
       "ok": true
     }
   },
   "items": [
+    {
+      "source": "DonanımHaber",
+      "title": "Rekabet Kurumundan Xiaomi ve Infinix telefonlarına yönelik fiyat soruşturması",
+      "link": "https://www.donanimhaber.com/xiaomi-ve-infinix-telefonlarina-yonelik-fiyat-sorusturmasi--213457",
+      "publishedAt": "2026-11-27T07:52:03+00:00"
+    },
     {
       "source": "DonanımHaber",
       "title": "iOS 28 ile iPhone'ların bildirim sistemi yenileniyor",
@@ -64,12 +70,6 @@
       "title": "Honor CEO'sundan iddialı sözler: \"Yeni katlanabilir telefonda katlanma izi olmayacak\"",
       "link": "https://www.donanimhaber.com/honor-un-yeni-katlanabilir-telefonunda-katlanma-izi-olmayacak--213300",
       "publishedAt": "2026-11-24T05:46:04+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "iPhone 20 tasarımı harekete geçirdi: Samsung, Xiaomi ve Oppo kavisli ekranlara dönüyor",
-      "link": "https://www.donanimhaber.com/samsung-xiaomi-ve-oppo-kavisli-ekranlara-geri-donuyor--213294",
-      "publishedAt": "2026-11-23T20:52:00+00:00"
     },
     {
       "source": "ShiftDelete",
