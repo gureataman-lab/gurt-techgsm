@@ -1,21 +1,45 @@
 {
-  "updatedAt": "2026-11-27T09:01:49.333636+00:00",
+  "updatedAt": "2026-11-27T18:53:38.270037+00:00",
   "sources": {
     "ShiftDelete": {
       "checkedAt": "2026-11-08T20:41:06.209268+00:00",
       "ok": false
     },
     "DonanımHaber": {
-      "checkedAt": "2026-11-27T09:01:49.333636+00:00",
+      "checkedAt": "2026-11-27T18:53:38.270037+00:00",
       "ok": true
     }
   },
   "items": [
     {
       "source": "DonanımHaber",
+      "title": "Sharp, yaşlılar için yapay zeka destekli akıllı telefonunu tanıttı",
+      "link": "https://www.donanimhaber.com/sharp-yaslilar-icin-yapay-zeka-destekli-akilli-telefonunu-tanitti--213487",
+      "publishedAt": "2026-11-27T18:45:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung Galaxy A38'in işlemcisi ortaya çıktı: İşte ilk sonuçlar",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-a38-in-islemcisi-ortaya-cikti-iste-ilk-sonuclar--213482",
+      "publishedAt": "2026-11-27T15:53:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "Samsung telefonlara akıllı şarj hatırlatıcı özelliği geliyor",
+      "link": "https://www.donanimhaber.com/samsung-telefonlara-akilli-sarj-hatirlatici-ozelligi-geliyor--213475",
+      "publishedAt": "2026-11-27T14:50:00+00:00"
+    },
+    {
+      "source": "DonanımHaber",
       "title": "Rekabet Kurumundan Xiaomi ve Infinix telefonlarına yönelik fiyat soruşturması",
       "link": "https://www.donanimhaber.com/xiaomi-ve-infinix-telefonlarina-yonelik-fiyat-sorusturmasi--213457",
-      "publishedAt": "2026-11-27T07:52:03+00:00"
+      "publishedAt": "2026-11-27T13:34:13+00:00"
+    },
+    {
+      "source": "DonanımHaber",
+      "title": "iPhone 20 Pro özel seramik versiyonla gelebilir",
+      "link": "https://www.donanimhaber.com/iphone-20-pro-ozel-seramik-versiyonla-gelebilir--213458",
+      "publishedAt": "2026-11-27T11:06:00+00:00"
     },
     {
       "source": "DonanımHaber",
@@ -46,30 +70,6 @@
       "title": "Motorola Edge 70 Neo kameraya odaklanıyor",
       "link": "https://www.donanimhaber.com/motorola-edge-70-neo-tanitildi-iste-ozellikleri-ve-fiyati--213346",
       "publishedAt": "2026-11-25T07:22:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei Mate X8 iddialı özelliklerle geliyor",
-      "link": "https://www.donanimhaber.com/huawei-mate-x8-tanitildi-iste-ozellikleri-ve-fiyati--213322",
-      "publishedAt": "2026-11-24T20:32:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Huawei Mate 90 Air tanıtıldı: İncecik gövdede 6500 mAh batarya, üçlü kamera!",
-      "link": "https://www.donanimhaber.com/huawei-mate-90-air-tanitildi-iste-fiyati-ve-ozellikleri--213331",
-      "publishedAt": "2026-11-24T17:42:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy S27 Ultra’da bir kamera özelliği daha kaldırılabilir",
-      "link": "https://www.donanimhaber.com/galaxy-s27-ultra-da-bir-kamera-ozelligi-daha-kaldirilabilir--213338",
-      "publishedAt": "2026-11-24T14:49:00+00:00"
-    },
-    {
-      "source": "DonanımHaber",
-      "title": "Honor CEO'sundan iddialı sözler: \"Yeni katlanabilir telefonda katlanma izi olmayacak\"",
-      "link": "https://www.donanimhaber.com/honor-un-yeni-katlanabilir-telefonunda-katlanma-izi-olmayacak--213300",
-      "publishedAt": "2026-11-24T05:46:04+00:00"
     },
     {
       "source": "ShiftDelete",
